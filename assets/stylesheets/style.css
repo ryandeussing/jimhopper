@@ -707,7 +707,8 @@ h4 {
   font-family: FranklinGothicURW-Dem;
   color: #689700;
   font-size: 18px;
-  margin-bottom: .5em; }
+  margin-bottom: .5em;
+  text-transform: uppercase; }
 
 .sidebar .sidebar__subheader {
   font-family: FranklinGothicURW-Boo;
@@ -897,6 +898,9 @@ section.copy .main {
     list-style-type: disc;
     margin-left: 2rem;
     margin-bottom: 1rem; }
+    .article ul li a {
+      color: #689700;
+      text-decoration: underline; }
     @media screen and (min-width: 6.25em) {
       .article ul li {
         font-size: 1rem; } }
@@ -914,6 +918,9 @@ section.copy .main {
     list-style-type: decimal;
     margin-left: 2rem;
     margin-bottom: 1rem; }
+    .article ol li a {
+      color: #689700;
+      text-decoration: underline; }
     @media screen and (min-width: 6.25em) {
       .article ol li {
         font-size: 1rem; } }

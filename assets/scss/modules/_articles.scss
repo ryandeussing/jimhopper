@@ -30,6 +30,10 @@
     li {
       list-style-type: disc;
       margin-left: 2rem;
+      a {
+        color: $green-basic;
+        text-decoration: underline;
+      }
       @include media($s){
         font-size: 1rem;
       }
@@ -48,6 +52,10 @@
     li {
       list-style-type: decimal;
       margin-left: 2rem;
+      a {
+        color: $green-basic;
+        text-decoration: underline;
+      }
       @include media($s){
         font-size: 1rem;
       }
