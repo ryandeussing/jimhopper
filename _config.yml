@@ -1,0 +1,28 @@
+version: 3.0.3 #for cloudcannon
+
+title: Jim Hopper, Ph.D.
+description: Clinical psychologist and independent consultant, part-time instructor in Psychology, Harvard Medical School, and nationally recognized expert on psychological trauma.
+url: jimhopper.com
+
+collections:
+  child-abuse:
+    output: true
+    permalink: /child-abuse/:title/
+  info:
+    output: true
+    permalink: /child-abuse/info/:title/
+  men:
+    output: true
+    permalink: /child-abuse/info/for-boys-and-men/:title/
+  consequences-of-abuse:
+    output: true
+    permalink: /child-abuse/consequences-of-abuse/:title/
+  recovered-memories:
+    output: true
+    permalink: /child-abuse/recovered-memories/:title/
+  healing-and-happiness:
+    output: true
+    permalink: /health-and-happiness/:title/
+  mindfulness-and-meditation:
+    output: true
+    permalink: mindfulness-and-meditation/:title/

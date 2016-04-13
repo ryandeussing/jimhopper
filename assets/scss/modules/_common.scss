@@ -1,0 +1,314 @@
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+main.load {
+  visibility: hidden;
+}
+main.loaded {
+  visibility: visible;
+}
+
+
+main p {
+  font-family: Shift;
+  @include media($s){
+    font-size: 18px;
+  }
+  @include media($l){
+    font-size: 21px;
+  }
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;;
+  margin-bottom: 1em;
+}
+h4 {
+  font-size: 18px;
+}
+
+.container {
+  @include outer-container;
+  @include media($s) {
+    @include pad(1rem);
+  }
+  @include media($max-width) {
+    @include pad(0);
+  }
+}
+
+.copy {
+  @include media($s){
+    @include span-columns(12);
+  }
+  @include media($l){
+    @include span-columns(8);
+    padding-right: 1.5rem;
+  }
+  p {
+    @include media($l) {
+      font-size: em(21);
+    }
+  }
+}
+
+.sidebar {
+  @include media($s){
+    @include span-columns(12);
+    @include pad(1rem 0);
+    margin-top: 1rem;
+  }
+  @include media($l){
+    @include span-columns(4);
+  }
+  .sidebar__inner {
+    @include media($s){
+      @include pad(0 1rem);
+    }
+    @include media($l){
+      @include pad(1rem 1.5rem 1.5rem);
+    }
+    background-color: $sidebar-bg;
+    margin-bottom: 2rem;
+  }
+  .sidebar__header {
+    font-family: FranklinGothicURW-Dem;
+    color: $green-basic;
+    font-size: 18px;
+    margin-bottom: .5em;
+  }
+  .sidebar__subheader {
+    font-family: FranklinGothicURW-Boo;
+    margin-bottom: .3em;
+  }
+
+  ul.sidebar__items {
+    margin: 0;
+    li {
+      font-family: FranklinGothicURW-Boo;
+      line-height: 1.5;
+      margin: 0;
+      padding-left: 0;
+      list-style-type: none;
+      @include media($s){
+        font-size: 1rem;
+      }
+      @include media($m){
+        font-size: 1rem;
+      }
+      a {
+        color: $sidebar-links !important;
+        text-decoration: none !important;
+        border-bottom: 1px solid lighten($sidebar-links, 10%);
+      }
+    }
+    li.current a {
+      color: $text !important;
+    }
+    ul.sub {
+      margin-left: 1rem;
+      margin-top: .25rem;
+      margin-bottom: .25rem;
+      li {
+        list-style-type: disc;
+        a {
+          color: $sidebar-links !important;
+        }
+      }
+      li.current a {
+        color: $text !important;
+      }
+    }
+  }
+
+  li.hotline {
+    font-weight: bold !important;;
+  }
+
+  p {
+    font-family: FranklinGothicURW-Boo;
+    line-height: 1.5;
+    margin: 0;
+    @include media($s){
+      font-size: 1rem;
+    }
+    @include media($m){
+      font-size: 1rem;
+    }
+    a {
+      color: $sidebar-links !important;
+      text-decoration: none !important;
+      border-bottom: 1px solid lighten($sidebar-links, 10%);
+    }
+  }
+
+
+}
+
+// other sidebar styles
+
+// .sidebar {
+//   .sidebar__header, .sidebar__subheader {
+//     font-family: FranklinGothicURW-Dem;
+//     margin-bottom: .3em;
+//   }
+//   .sidebar__header {
+//     font-size: 18px;
+//     text-transform: uppercase;
+//     margin-bottom: 1em;
+//   }
+//   p {
+//     font-family: FranklinGothicURW-Boo;
+//     line-height: 1.1;
+//     @include media($s){
+//       font-size: em(14);
+//     }
+//     @include media($m){
+//       font-size: em(16);
+//     }
+//   }
+//   // @include media(xs){
+//   //   padding-top: 2rem;
+//   //   padding-bottom: 2rem;
+//   // }
+//   @include media($s){
+//     padding-top: 2rem;
+//     padding-bottom: 2rem;
+//   }
+//   @include media($l){
+//     padding-top: 4rem;
+//   }
+// }
+
+.hide-s {
+  @include media($s){
+    display: none;
+  }
+  @include media($m){
+    display: block;
+  }
+}
+
+.hide-m {
+  @include media($s){
+    display: block;
+  }
+  @include media($m){
+    display: none;
+  }
+}
+
+.hide-l {
+  @include media($s){
+    display: block;
+  }
+  @include media($m){
+    display: block;
+  }
+  @include media($l){
+    display: none;
+  }
+}
+
+
+button {
+  border-radius: 0px;
+  border: 0px;
+  background-color: #FFF;
+  @include transition(all .1s ease-in-out);
+  padding: 1em 1.5em;
+  &:hover {
+    // @include transition(all .1s ease-in-out);
+    color: #fff;
+    background-color: $green-basic;
+    text-decoration: none;
+  }
+  p {
+    font-family: FranklinGothicURW-Dem;
+    font-size: 1.5rem;
+    line-height: 1;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: $green-basic;
+    margin-bottom: 0px;
+  }
+}
+
+section.hero {
+  @include media($s){
+    margin-bottom: 1rem;
+    .headline {
+      margin-top: 3vh;
+      margin-bottom: 3vh;
+    }
+    h1 {
+      font-family: Shift;
+      font-weight: bold;
+      font-size: 28px;
+      margin-top: 0;
+      margin-bottom: 0;
+      color: $hero-head;
+    }
+    h2 {
+      font-family: Shift;
+      font-weight: bold;
+      font-size: 21px;
+      line-height: 1.4;
+      margin-bottom: 0px;
+      color: $hero-subhead;
+    }
+  }
+  @include media($m){
+    margin-bottom: 3rem;
+    .headline {
+    }
+    h1 {
+      font-size: 60px;
+    }
+    h2 {
+      font-size: 24px;
+      line-height: 1.4;
+      margin-top: 20px;
+    }
+  }
+  @include media($l) {
+    padding-top: 4.5rem;
+    padding-bottom: 4.5rem;
+    h2 {
+      font-size: 28px;
+      margin-bottom: 0px;
+    }
+  }
+  @include media($xl){
+    h2 {
+      font-size: 33px;
+      margin-bottom: 0px;
+    }
+  }
+}
+
+section.copy {
+  .main {
+    font-family: shift;
+    color: $text;
+    @include media($l){
+      padding-top: 4rem;
+      p {
+        font-size: 21px;
+      }
+    }
+  }
+}
+
+
+
+
+
+

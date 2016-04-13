@@ -1,0 +1,80 @@
+.topic {
+  .hero {
+    background-color: $gray-basic;
+  }
+  .hero h1 {
+    @include media($l) {
+      margin-top: 4rem;
+      margin-bottom: 4rem;
+    }
+  }
+}
+
+.article {
+  h2 {
+    margin-top: 1em;
+    &.headline {
+      margin-top: 0px;
+    }
+  }
+  p a {
+    color: $green-basic;
+    text-decoration: underline;
+  }
+  span.help {
+    font-weight: bold;
+  }
+  ul {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    li {
+      list-style-type: disc;
+      margin-left: 2rem;
+      @include media($s){
+        font-size: 1rem;
+      }
+      @include media($m){
+        font-size: 1rem;
+      }
+      @include media($l){
+        font-size: rem(21);
+      }
+      margin-bottom: 1rem;
+    }
+  }
+  ol {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    li {
+      list-style-type: decimal;
+      margin-left: 2rem;
+      @include media($s){
+        font-size: 1rem;
+      }
+      @include media($m){
+        font-size: 1rem;
+      }
+      @include media($l){
+        font-size: rem(21);
+      }
+      margin-bottom: 1rem;
+    }
+  }
+  blockquote {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    border-left: 4px solid $gray-basic;
+    margin-left: 1rem;
+    margin-right: 2rem;
+    padding-left: 1rem;
+    @include media($s){
+      font-size: 1rem;
+    }
+    @include media($m){
+      font-size: 1rem;
+    }
+    @include media($l){
+      font-size: em(21);
+    }
+  }
+}

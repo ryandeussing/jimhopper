@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+  {% include global/head.html %}
+
+  <body class="{% if page.class %}{{ page.class }}{% endif %}">
+
+    {% include global/header.html %}
+
+    <main>
+      <section class="hero">
+        <div class="container">
+          <h1>{{page.topic}}</h1>
+        </div>
+      </section>
+      <section class="article">
+        <div class="container">
+          <div class="editable copy">
+            {{ content }}
+          </div>
+            {% include sidebar.html %}
+          </div>
+      </section>
+    </main>
+
+    {% include global/footer.html %}
+
+
+  <!-- JS -->
+  <!-- inject:js -->
+  <script src="/assets/javascript/index.js"></script>
+  <!-- endinject -->
+
+  </body>
+
+  <!-- script conditionals -->
+  {% if page.class == 'home' %}
+    {% include scripts_home.html %}
+  {% endif %}
+
+  {% if jekyll.environment == "development" %}
+    {% include global/scripts_grid.html %}
+  {% endif %}
+</html>
