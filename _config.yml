@@ -8,21 +8,24 @@ collections:
   child-abuse:
     output: true
     permalink: /child-abuse/:title/
-  info:
-    output: true
-    permalink: /child-abuse/info/:title/
-  men:
-    output: true
-    permalink: /child-abuse/info/for-boys-and-men/:title/
   consequences-of-abuse:
     output: true
     permalink: /child-abuse/consequences-of-abuse/:title/
   recovered-memories:
     output: true
     permalink: /child-abuse/recovered-memories/:title/
+  info:
+    output: true
+    permalink: /child-abuse/info/:title/
+  men:
+    output: true
+    permalink: /child-abuse/info/for-boys-and-men/:title/
   healing-and-happiness:
     output: true
-    permalink: /health-and-happiness/:title/
+    permalink: /healing-and-happiness/:title/
   mindfulness-and-meditation:
     output: true
     permalink: mindfulness-and-meditation/:title/
+  the-brain:
+    output: true
+    permalink: /the-brain/:title/
