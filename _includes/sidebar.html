@@ -52,16 +52,7 @@
         {% endfor %}
       </ul>
   </div>
-  <div class="sidebar__inner">
-    <p class="sidebar__header">HELP &amp; SUPPORT</p>
-    <p class="sidebar__subheader">If you need immediate information you can call one of these 24-hour toll-free hotlines.</p>
-    <ul class="sidebar__items">
-      {% for item in site.data.hotlines %}
-        <li class="hotline">{{item.name}}</li>
-        <li class="number">{{item.number}}</li>
-      {% endfor %}
-    </ul>
-  </div>
+  {% include hotlines.html %}
 </div>
 {% endif %}
 
@@ -106,16 +97,7 @@
         {% endfor %}
     </ul>
   </div>
-  <div class="sidebar__inner">
-    <p class="sidebar__header">HELP &amp; SUPPORT</p>
-    <p class="sidebar__subheader">If you need immediate information you can call one of these 24-hour toll-free hotlines.</p>
-    <ul class="sidebar__items">
-      {% for item in site.data.hotlines %}
-        <li class="hotline">{{item.name}}</li>
-        <li class="number">{{item.number}}</li>
-      {% endfor %}
-    </ul>
-  </div>
+  {% include hotlines.html %}
 </div>
 {% endif %}
 
@@ -137,16 +119,7 @@
       </ul>
   </div>
 
-  <div class="sidebar__inner">
-    <p class="sidebar__header">HELP &amp; SUPPORT</p>
-    <p class="sidebar__subheader">If you need immediate information you can call one of these 24-hour toll-free hotlines.</p>
-    <ul class="sidebar__items">
-      {% for item in site.data.hotlines %}
-        <li class="hotline">{{item.name}}</li>
-        <li class="number">{{item.number}}</li>
-      {% endfor %}
-    </ul>
-  </div>
+  {% include hotlines.html %}
 </div>
 {% endif %}
 
@@ -168,16 +141,7 @@
       </ul>
   </div>
 
-  <div class="sidebar__inner">
-    <p class="sidebar__header">HELP &amp; SUPPORT</p>
-    <p class="sidebar__subheader">If you need immediate information you can call one of these 24-hour toll-free hotlines.</p>
-    <ul class="sidebar__items">
-      {% for item in site.data.hotlines %}
-        <li class="hotline">{{item.name}}</li>
-        <li class="number">{{item.number}}</li>
-      {% endfor %}
-    </ul>
-  </div>
+  {% include hotlines.html %}
 </div>
 {% endif %}
 
@@ -199,47 +163,20 @@
       </ul>
   </div>
 
-  <div class="sidebar__inner">
-    <p class="sidebar__header">HELP &amp; SUPPORT</p>
-    <p class="sidebar__subheader">If you need immediate information you can call one of these 24-hour toll-free hotlines.</p>
-    <ul class="sidebar__items">
-      {% for item in site.data.hotlines %}
-        <li class="hotline">{{item.name}}</li>
-        <li class="number">{{item.number}}</li>
-      {% endfor %}
-    </ul>
-  </div>
+  {% include hotlines.html %}
 </div>
 {% endif %}
 
 {% if page.topic == 'Sexual Assault' %}
 <div class="sidebar">
 
-  <div class="sidebar__inner">
-    <p class="sidebar__header">HELP &amp; SUPPORT</p>
-    <p class="sidebar__subheader">If you need immediate information you can call one of these 24-hour toll-free hotlines.</p>
-    <ul class="sidebar__items">
-      {% for item in site.data.hotlines %}
-        <li class="hotline">{{item.name}}</li>
-        <li class="number">{{item.number}}</li>
-      {% endfor %}
-    </ul>
-  </div>
+  {% include hotlines.html %}
 </div>
 {% endif %}
 
 {% if page.title == 'Homepage' %}
 <div class="sidebar">
 
-  <div class="sidebar__inner">
-    <p class="sidebar__header">HELP &amp; SUPPORT</p>
-    <p class="sidebar__subheader">If you need immediate information you can call one of these 24-hour toll-free hotlines.</p>
-    <ul class="sidebar__items">
-      {% for item in site.data.hotlines %}
-        <li class="hotline">{{item.name}}</li>
-        <li class="number">{{item.number}}</li>
-      {% endfor %}
-    </ul>
-  </div>
+  {% include hotlines.html %}
 </div>
 {% endif %}
