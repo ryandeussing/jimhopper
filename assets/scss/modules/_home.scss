@@ -1,7 +1,12 @@
 .home {
 
   .hero {
-    background-color: #efefef;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)),
+                      url('/assets/images/home-hero.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: 100% 0px;
+    background-color: rgba(255,255,255,0.2);
     border-bottom: 4px solid $yellow-basic;
     @include media($s){
       padding-top: 3rem;
