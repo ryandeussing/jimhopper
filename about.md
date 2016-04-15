@@ -16,4 +16,4 @@ He also trains and consults on how meditation and other contemplative practices 
 
 Dr. Hopper was a founding board member of 1in6, Inc., a national non-profit devoted to helping men who were sexually abused as children, and wrote most of the content on its comprehensive web site.
 
-He conducts workshops and trainings across the United States and in Canada. He also serves as an expert witness in both criminal and civil cases, and has worked on cases in state, federal and military courts across the country.
+He conducts trainings across the United States and internationally. He also serves as an expert witness in both criminal and civil cases, and has worked on cases in state, federal and military courts.
