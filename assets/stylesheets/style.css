@@ -674,6 +674,70 @@ h4 {
     font-size: 1.3125em; } }
 
 @media screen and (min-width: 6.25em) {
+  .suggestions {
+    margin-top: -2rem;
+    float: left;
+    display: block;
+    margin-right: 1.9355953897%;
+    width: 100%; }
+    .suggestions:last-child {
+      margin-right: 0; } }
+
+@media screen and (min-width: 48.0625em) {
+  .suggestions {
+    margin-top: 2rem;
+    float: left;
+    display: block;
+    margin-right: 1.9355953897%;
+    width: 83.0107341017%; }
+    .suggestions:last-child {
+      margin-right: 0; } }
+
+.suggestions .prev, .suggestions .next {
+  min-height: 1px; }
+  @media screen and (min-width: 6.25em) {
+    .suggestions .prev, .suggestions .next {
+      float: left;
+      display: block;
+      margin-right: 1.9355953897%;
+      width: 49.0322023051%; }
+      .suggestions .prev:last-child, .suggestions .next:last-child {
+        margin-right: 0; } }
+  @media screen and (min-width: 48.0625em) {
+    .suggestions .prev, .suggestions .next {
+      float: left;
+      display: block;
+      margin-right: 2.3317410822%;
+      width: 48.8341294589%; }
+      .suggestions .prev:last-child, .suggestions .next:last-child {
+        margin-right: 0; } }
+  .suggestions .prev .prev-inner, .suggestions .prev .next-inner, .suggestions .next .prev-inner, .suggestions .next .next-inner {
+    background-color: #ffd275;
+    padding: 1.5rem 2rem; }
+  .suggestions .prev a .prev__header, .suggestions .prev a .next__header, .suggestions .next a .prev__header, .suggestions .next a .next__header {
+    font-family: FranklinGothicURW-Dem;
+    color: #191919;
+    font-size: 16px;
+    margin-bottom: .5em;
+    text-transform: uppercase; }
+    .suggestions .prev a .prev__header i, .suggestions .prev a .next__header i, .suggestions .next a .prev__header i, .suggestions .next a .next__header i {
+      font-size: 13px; }
+  .suggestions .prev a p.prev__title, .suggestions .prev a p.next__title, .suggestions .next a p.prev__title, .suggestions .next a p.next__title {
+    font-family: Shift;
+    color: #191919;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 0; }
+  .suggestions .prev a:hover p.prev__title, .suggestions .prev a:hover p.next__title, .suggestions .next a:hover p.prev__title, .suggestions .next a:hover p.next__title {
+    color: #689700; }
+
+.suggestions .prev {
+  text-align: left; }
+
+.suggestions .next {
+  text-align: right; }
+
+@media screen and (min-width: 6.25em) {
   .sidebar {
     float: left;
     display: block;
@@ -694,6 +758,7 @@ h4 {
       margin-right: 0; } }
 
 .sidebar .sidebar__inner {
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
   background-color: #f4f4f2;
   margin-bottom: 2rem; }
   @media screen and (min-width: 6.25em) {
@@ -871,13 +936,40 @@ section.copy .main {
   body:before {
     max-width: 62.5em; } }
 
-.topic .hero, .home .topic__full .hero, .home .topic__half .hero {
-  background-color: #d2d2cb; }
+body.topic .hero, .home body.topic__full .hero, .home body.topic__half .hero {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-bottom: 4px solid #ffd275; }
+  @media screen and (min-width: 6.25em) {
+    body.topic .hero, .home body.topic__full .hero, .home body.topic__half .hero {
+      padding-top: 3rem;
+      padding-bottom: 3rem; } }
+  @media screen and (min-width: 48.0625em) {
+    body.topic .hero, .home body.topic__full .hero, .home body.topic__half .hero {
+      padding-top: 6rem;
+      padding-bottom: 6rem; } }
 
 @media screen and (min-width: 48.0625em) {
-  .topic .hero h1, .home .topic__full .hero h1, .home .topic__half .hero h1 {
+  body.topic .hero h1, .home body.topic__full .hero h1, .home body.topic__half .hero h1 {
     margin-top: 4rem;
     margin-bottom: 4rem; } }
+
+body.topic.child-abuse .hero, .home body.child-abuse.topic__full .hero, .home body.child-abuse.topic__half .hero {
+  background-image: url("/assets/images/header-abuse.jpg"); }
+
+body.topic.healing-and-happiness .hero, .home body.healing-and-happiness.topic__full .hero, .home body.healing-and-happiness.topic__half .hero {
+  background-image: url("/assets/images/header-happiness.jpg"); }
+
+body.topic.mindfulness-and-meditation .hero, .home body.mindfulness-and-meditation.topic__full .hero, .home body.mindfulness-and-meditation.topic__half .hero {
+  background-image: url("/assets/images/header-meditation.jpg"); }
+
+body.topic.the-brain .hero, .home body.the-brain.topic__full .hero, .home body.the-brain.topic__half .hero {
+  background-image: url("/assets/images/header-brain.jpg"); }
+
+body.topic.sexual-assault .hero, .home body.sexual-assault.topic__full .hero, .home body.sexual-assault.topic__half .hero {
+  background-image: url("/assets/images/header-sexual-assault.jpg"); }
 
 .article h2 {
   margin-top: 1em; }
@@ -885,7 +977,7 @@ section.copy .main {
     margin-top: 0px; }
 
 .article p a {
-  color: #689700;
+  color: #82806e;
   text-decoration: underline; }
 
 .article span.help {
@@ -899,7 +991,7 @@ section.copy .main {
     margin-left: 2rem;
     margin-bottom: 1rem; }
     .article ul li a {
-      color: #689700;
+      color: #82806e;
       text-decoration: underline; }
     @media screen and (min-width: 6.25em) {
       .article ul li {
@@ -919,7 +1011,7 @@ section.copy .main {
     margin-left: 2rem;
     margin-bottom: 1rem; }
     .article ol li a {
-      color: #689700;
+      color: #82806e;
       text-decoration: underline; }
     @media screen and (min-width: 6.25em) {
       .article ol li {
@@ -948,6 +1040,24 @@ section.copy .main {
     .article blockquote {
       font-size: 1.3125em; } }
 
+.article .assault-link {
+  background-color: #f4f4f2;
+  padding: 1.5rem;
+  margin-bottom: 3rem;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2); }
+  .article .assault-link a p.assault-link__title {
+    font-family: Shift;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 1;
+    margin-bottom: 0;
+    color: #191919; }
+  .article .assault-link p.assault-link__source {
+    font-family: FranklinGothicURW-Dem;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #689700; }
+
 footer {
   background-color: #d2d2cb;
   margin-top: 4rem; }
@@ -969,7 +1079,7 @@ footer {
   @media screen and (min-width: 41.6875em) {
     footer .footer h3 {
       font-size: 23px; } }
-  footer .footer a h3 {
+  footer .footer h3 a {
     color: #3b3d36;
     text-decoration: none; }
   @media screen and (min-width: 6.25em) {
@@ -1491,7 +1601,6 @@ body:before {
   display: none; }
 
 body.grid:before {
-  display: block;
-  font-family: 'FranklinGothicURW-Boo'; }
+  display: block; }
 
 /*# sourceMappingURL=style.css.map */

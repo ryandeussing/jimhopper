@@ -1,6 +1,18 @@
-.topic {
+body.topic {
   .hero {
-    background-color: $gray-basic;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(255,255,255,0.2);
+    border-bottom: 4px solid $yellow-basic;
+    @include media($s){
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+    }
+    @include media($l) {
+      padding-top: 6rem;
+      padding-bottom: 6rem;
+    }
   }
   .hero h1 {
     @include media($l) {
@@ -8,7 +20,23 @@
       margin-bottom: 4rem;
     }
   }
+  &.child-abuse .hero {
+    background-image: url('/assets/images/header-abuse.jpg');
+  }
+  &.healing-and-happiness .hero {
+    background-image: url('/assets/images/header-happiness.jpg');
+  }
+  &.mindfulness-and-meditation .hero {
+    background-image: url('/assets/images/header-meditation.jpg');
+  }
+  &.the-brain .hero {
+    background-image: url('/assets/images/header-brain.jpg');
+  }
+  &.sexual-assault .hero {
+    background-image: url('/assets/images/header-sexual-assault.jpg');
+  }
 }
+
 
 .article {
   h2 {
@@ -18,7 +46,7 @@
     }
   }
   p a {
-    color: $green-basic;
+    color: $link-basic;
     text-decoration: underline;
   }
   span.help {
@@ -31,7 +59,7 @@
       list-style-type: disc;
       margin-left: 2rem;
       a {
-        color: $green-basic;
+        color: $link-basic;
         text-decoration: underline;
       }
       @include media($s){
@@ -53,7 +81,7 @@
       list-style-type: decimal;
       margin-left: 2rem;
       a {
-        color: $green-basic;
+        color: $link-basic;
         text-decoration: underline;
       }
       @include media($s){
@@ -85,4 +113,25 @@
       font-size: em(21);
     }
   }
+  .assault-link {
+    background-color: $sidebar-bg;
+    @include pad(1.5rem);
+    margin-bottom: 3rem;
+    box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+    a p.assault-link__title {
+      font-family: Shift;
+      font-weight: bold;
+      font-size: 21px;
+      line-height: 1;
+      margin-bottom: 0;
+      color: $text;
+    }
+    p.assault-link__source {
+      font-family: FranklinGothicURW-Dem;
+      font-size: 16px;
+      text-transform: uppercase;
+      color: $green-basic;
+    }
+  }
 }
+

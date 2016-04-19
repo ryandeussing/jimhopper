@@ -1,3 +1,26 @@
+{% capture the_collection %}{{page.collection}}{% endcapture %}
+
+{% if page.collection %}
+  {% assign specifiedCollection = site[the_collection] | sort: 'order' %}
+{% endif %}
+
+{% for item in specifiedCollection %}
+  {% if item.title == page.title %}
+    {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+      {% assign prevTitle = prev.title %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign next = specifiedCollection[forloop.index] %}
+      {% assign nexturl = next.url %}
+      {% assign nextTitle = next.title %}
+    {% endunless %}
+  {% endif %}
+  {% assign prev = item %}
+{% endfor %}
+
+
+
 <!DOCTYPE html>
 <html>
 
@@ -8,11 +31,13 @@
     {% include global/header.html %}
 
     <main>
+
       <section class="hero">
         <div class="container">
           <h1>{{page.topic}}</h1>
         </div>
       </section>
+
       <section class="article">
         <div class="container">
           <div class="copy">
@@ -21,7 +46,42 @@
           {% include sidebar.html %}
         </div>
       </section>
+
+      <section class="suggested">
+        <div class="container">
+          <div class="suggestions">
+
+              <div class="prev">
+              {% if prevurl %}
+              <div class="prev-inner">
+                <a href="{{prevurl}}">
+                  <p class="prev__header"> <i class="fa fa-chevron-left" aria-hidden="true"></i>
+Previous</p>
+                  <p class="prev__title">{{ prevTitle }}</p>
+                </a>
+              </div>
+              {% endif %}
+              </div>
+
+              <div class="next">
+              {% if nexturl %}
+              <div class="next-inner">
+                <a href="{{nexturl}}">
+                  <p class="next__header">Next <i class="fa fa-chevron-right" aria-hidden="true"></i></p>
+                  <p class="next__title">{{ nextTitle }}</p>
+                </a>
+              </div>
+              {% endif %}
+              </div>
+
+          </div>
+
+        </div>
+      </section>
+
     </main>
+
+
 
     {% include global/footer.html %}
 

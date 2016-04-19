@@ -59,6 +59,57 @@ h4 {
   }
 }
 
+.suggestions {
+  @include media($s){
+    margin-top: -2rem;
+    @include span-columns(12);
+  }
+  @include media($l){
+    margin-top: 2rem;
+    @include span-columns(10);
+  }
+  .prev, .next {
+    @include media($s){
+      @include span-columns(6 of 12);
+    }
+    @include media($l){
+      @include span-columns(5 of 10);
+    }
+    min-height: 1px;
+    .prev-inner, .next-inner {
+      background-color: $yellow-basic;
+      @include pad(1.5rem 2rem);
+    }
+    // background-color: $yellow-basic;
+    a .prev__header, a .next__header {
+      font-family: FranklinGothicURW-Dem;
+      color: $text;
+      font-size: 16px;
+      margin-bottom: .5em;
+      text-transform: uppercase;
+      i {
+        font-size: 13px;
+      }
+    }
+    a p.prev__title, a p.next__title, {
+      font-family: Shift;
+      color: $text;
+      font-weight: bold;
+      font-size: 25px;
+      margin-bottom: 0;
+    }
+    a:hover p.prev__title, a:hover p.next__title{
+      color: $green-basic;
+    }
+  }
+  .prev {
+    text-align: left;
+  }
+  .next {
+    text-align: right;
+  }
+}
+
 .sidebar {
   @include media($s){
     @include span-columns(12);
@@ -69,6 +120,7 @@ h4 {
     @include span-columns(4);
   }
   .sidebar__inner {
+    box-shadow: 2px 2px 2px rgba(0,0,0,.2);
     @include media($s){
       @include pad(0 1rem);
     }
