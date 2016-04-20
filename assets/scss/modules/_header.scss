@@ -7,7 +7,7 @@ header.navigation {
   $navigation-padding: 1em;
   $navigation-background: #3b3d36;
   $navigation-color: white;
-  $navigation-color-hover: white;
+  $navigation-color-hover: $yellow-dark;
   $navigation-height: 60px;
   $navigation-nav-button-background: $action-color;
   $navigation-nav-button-background-hover: lighten($navigation-background, 10%);
@@ -140,9 +140,8 @@ header.navigation {
         padding-left: 2rem;
         border-left: 4px solid $brown-basic;
         &:focus,&:hover {
-          border-left: 4px solid $yellow-basic;
+          border-left: 4px solid $yellow-dark;
           background-color: $brown-light;
-          color: $yellow-basic;
         }
       }
 
@@ -288,7 +287,7 @@ header.navigation {
           border-left: 4px solid $brown-basic;
           white-space: nowrap;
           &:hover {
-            border-left: 4px solid $yellow-basic;
+            border-left: 4px solid $yellow-dark;
           }
         }
       }

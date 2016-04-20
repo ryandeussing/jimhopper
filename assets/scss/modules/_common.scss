@@ -120,7 +120,7 @@ h4 {
     @include span-columns(4);
   }
   .sidebar__inner {
-    box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+    // box-shadow: 2px 2px 2px rgba(0,0,0,.2);
     @include media($s){
       @include pad(0 1rem);
     }
@@ -133,7 +133,7 @@ h4 {
   .sidebar__header {
     font-family: FranklinGothicURW-Dem;
     color: $green-basic;
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: .5em;
     text-transform: uppercase;
   }
@@ -295,12 +295,15 @@ button {
 }
 
 section.hero {
+  .container {
+    height: 100%;
+  }
   @include media($s){
     margin-bottom: 1rem;
-    .headline {
-      margin-top: 3vh;
-      margin-bottom: 3vh;
-    }
+    // .headline {
+    //   margin-top: 3vh;
+    //   margin-bottom: 3vh;
+    // }
     h1 {
       font-family: Shift;
       font-weight: bold;
@@ -332,8 +335,8 @@ section.hero {
     }
   }
   @include media($l) {
-    padding-top: 4.5rem;
-    padding-bottom: 4.5rem;
+    // padding-top: 4.5rem;
+    // padding-bottom: 4.5rem;
     h2 {
       font-size: 28px;
       margin-bottom: 0px;

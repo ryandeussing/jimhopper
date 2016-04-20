@@ -1,23 +1,36 @@
 body.topic {
   .hero {
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    @include media($s) {
+      background-size: auto 100%;
+    }
+    @include media($m) {
+      background-size: cover;
+    }
+    background-position: top center;
     background-color: rgba(255,255,255,0.2);
     border-bottom: 4px solid $yellow-basic;
     @include media($s){
-      padding-top: 3rem;
-      padding-bottom: 3rem;
+      height: 250px;
     }
-    @include media($l) {
-      padding-top: 6rem;
-      padding-bottom: 6rem;
+    @include media($m){
+      height: 470px;
     }
+    // @include media($l) {
+    //   padding-top: 6rem;
+    //   padding-bottom: 6rem;
+    // }
+    // @include media($xl) {
+    //   padding-top: 6rem;
+    //   padding-bottom: 6rem;
+    // }
   }
   .hero h1 {
-    @include media($l) {
-      margin-top: 4rem;
-      margin-bottom: 4rem;
+    @include vertical-align();
+  }
+  .hero .container {
+    @include media($max-width) {
+      @include pad(1rem);
     }
   }
   &.child-abuse .hero {
@@ -113,7 +126,7 @@ body.topic {
       font-size: em(21);
     }
   }
-  .assault-link { 
+  .assault-link {
     background-color: $sidebar-bg;
     @include pad(1.5rem);
     margin-bottom: 3rem;
