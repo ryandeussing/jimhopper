@@ -32,9 +32,20 @@
 
     <main>
 
+
+
+      <section class="sub-nav">
+        <div class="container">
+          <p class="sub-nav__header"><i class="fa fa-caret-right" aria-hidden="true"></i></i>Currently Reading:</p> <p class="sub-nav__copy">Topics&nbsp;&nbsp;>&nbsp;&nbsp;<a href="/{{ page.collection }}/overview">{{ page.topic }}</a>&nbsp;&nbsp;>&nbsp;&nbsp;{% if page.subtopic %}<a href="/{{page.topic | slugify }}/{{ page.subtopic | slugify  }}">{{ page.subtopic }}</a>&nbsp;&nbsp;>&nbsp;&nbsp;{% endif %}<a href="{{ page.permalink }}">{{page.title}}</a></p>
+        </div>
+      </section>
+
       <section class="hero">
         <div class="container">
-          <h1>{{page.topic}}</h1>
+          <div class="inner-wrapper">
+            <p class="header">{{page.topic}}</p>
+            <h1>{{page.title}}</h1>
+          </div>
         </div>
       </section>
 
@@ -42,10 +53,19 @@
         <div class="container">
           <div class="copy">
             {{ content }}
+            <div class="share">
+              <a href="mailto:?subject={{page.topic}} | {{page.title}}"><i class="fa fa-envelope" aria-hidden="true"></i> email</a>
+              <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"><i class="fa fa-facebook" aria-hidden="true"></i> share</a>
+              {% capture url %}http://{{site.url}}{{page.url}}{% endcapture %}
+              {% capture title %}{{page.topic}} > {{page.title}}{% endcapture %}
+              <a target="_blank" href="https://twitter.com/share?url={{url}}&text={{title}}"><i class="fa fa-twitter" aria-hidden="true"></i> tweet</a>
+
+            </div>
           </div>
           {% include sidebar.html %}
         </div>
       </section>
+
 
       <section class="suggested">
         <div class="container">
