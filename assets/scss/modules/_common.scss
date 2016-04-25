@@ -281,43 +281,43 @@ h4 {
 
 .hide-s {
   @include media($s){
-    display: none !important;
+    display: none;
   }
   @include media($m){
-    display: block !important;
+    display: block;
   }
 }
 
 .show-s {
   @include media($s){
-    display: block !important;
+    display: block;
   }
   @include media($m){
-    display: none !important;
+    display: none;
   }
 }
 
 .hide-m {
   @include media($s){
-    display: block !important;;
+    display: block;;
   }
   @include media($m){
-    display: none !important;
+    display: none;
   }
 }
 
 .show-m {
   @include media($s){
-    display: none !important;
+    display: none;
   }
   @include media($m){
-    display: block !important;
+    display: block;
   }
 }
 
 .hide-l {
   @include media($s){
-    display: block !important;
+    display: block;
   }
   @include media($m){
     display: block !important;

@@ -9,20 +9,6 @@
 
     <main>
 
-      {% if page.topic %}
-      <section class="sub-nav">
-        <div class="container">
-          <p class="sub-nav__header"><i class="fa fa-caret-right" aria-hidden="true"></i></i>Currently Reading:</p> <p class="sub-nav__copy">Topics&nbsp;&nbsp;>&nbsp;&nbsp;<a href="/{{ page.collection }}/overview">{{ page.topic }}</a>&nbsp;&nbsp;>&nbsp;&nbsp;{% if page.subtopic %}<a href="/{{page.topic | slugify }}/{{ page.subtopic | slugify  }}">{{ page.subtopic }}</a>&nbsp;&nbsp;>&nbsp;&nbsp;{% endif %}<a href="{{ page.permalink }}">{{page.customtitle}}</a></p>
-        </div>
-      </section>
-      {% else %}
-      <section class="sub-nav">
-        <div class="container">
-          <p class="sub-nav__header"><i class="fa fa-caret-right" aria-hidden="true"></i></i>Currently Reading:</p> <p class="sub-nav__copy"><a href="{{ page.permalink }}">{{page.customtitle}}</a></p>
-        </div>
-      </section>
-      {% endif %}
-
       <section class="hero page">
         <div class="container">
           <div class="inner-wrapper">
@@ -50,9 +36,7 @@
 
             </div>
           </div>
-          <div class="hide-s hide-m show-l">
-            {% include custom_sidebar.html %}
-          </div>
+
         </div>
       </section>
 
@@ -89,11 +73,7 @@ Previous</p>
         </div>
       </section>
 
-      <section class="mobile-sidebar show-s show-m hide-l">
-        <div class="container">
-            {% include custom_sidebar.html %}
-        </div>
-      </section>
+
 
     </main>
 

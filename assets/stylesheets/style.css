@@ -860,39 +860,39 @@ h4 {
 
 @media screen and (min-width: 6.25em) {
   .hide-s {
-    display: none !important; } }
+    display: none; } }
 
 @media screen and (min-width: 41.6875em) {
   .hide-s {
-    display: block !important; } }
+    display: block; } }
 
 @media screen and (min-width: 6.25em) {
   .show-s {
-    display: block !important; } }
+    display: block; } }
 
 @media screen and (min-width: 41.6875em) {
   .show-s {
-    display: none !important; } }
+    display: none; } }
 
 @media screen and (min-width: 6.25em) {
   .hide-m {
-    display: block !important; } }
+    display: block; } }
 
 @media screen and (min-width: 41.6875em) {
   .hide-m {
-    display: none !important; } }
+    display: none; } }
 
 @media screen and (min-width: 6.25em) {
   .show-m {
-    display: none !important; } }
+    display: none; } }
 
 @media screen and (min-width: 41.6875em) {
   .show-m {
-    display: block !important; } }
+    display: block; } }
 
 @media screen and (min-width: 6.25em) {
   .hide-l {
-    display: block !important; } }
+    display: block; } }
 
 @media screen and (min-width: 41.6875em) {
   .hide-l {
