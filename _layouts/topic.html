@@ -1,0 +1,157 @@
+{% capture the_collection %}{{page.collection}}{% endcapture %}
+
+{% if page.collection %}
+  {% assign specifiedCollection = site[the_collection] | sort: 'order' %}
+{% endif %}
+
+{% for item in specifiedCollection %}
+  {% if item.title == page.title %}
+    {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+      {% assign prevTitle = prev.title %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign next = specifiedCollection[forloop.index] %}
+      {% assign nexturl = next.url %}
+      {% assign nextTitle = next.title %}
+    {% endunless %}
+  {% endif %}
+  {% assign prev = item %}
+{% endfor %}
+
+
+<!DOCTYPE html>
+<html>
+
+  {% include global/head.html %}
+
+  <body class="{% if page.class %}{{ page.class }}{% endif %}">
+
+    {% include global/header.html %}
+
+    <main>
+
+
+      {% if page.topic %}
+      <section class="sub-nav">
+        <div class="container">
+          <p class="sub-nav__header"><i class="fa fa-caret-right" aria-hidden="true"></i></i>Currently Reading:</p> <p class="sub-nav__copy">Topics&nbsp;&nbsp;>&nbsp;&nbsp;<a href="/{{ page.collection }}/overview">{{ page.topic }}</a>&nbsp;&nbsp;>&nbsp;&nbsp;{% if page.subtopic %}<a href="/{{page.topic | slugify }}/{{ page.subtopic | slugify  }}">{{ page.subtopic }}</a>&nbsp;&nbsp;>&nbsp;&nbsp;{% endif %}<a href="{{ page.permalink }}">{{page.customtitle}}</a></p>
+        </div>
+      </section>
+      {% else %}
+      <section class="sub-nav">
+        <div class="container">
+          <p class="sub-nav__header"><i class="fa fa-caret-right" aria-hidden="true"></i></i>Currently Reading:</p> <p class="sub-nav__copy"><a href="{{ page.permalink }}">{{page.title}}</a></p>
+        </div>
+      </section>
+      {% endif %}
+
+      <section class="hero">
+        <div class="container">
+          <div class="inner-wrapper">
+            <p class="header">{% if page.subtopic %}{{page.subtopic}}{% else %}{{page.topic}}{% endif %}</p>
+            <h1>{{page.customtitle}}</h1>
+          </div>
+        </div>
+      </section>
+
+      <section class="article">
+        <div class="container">
+          <div class="copy">
+            {{ content }}
+            <div class="share">
+              <!-- <a href="mailto:?subject={{page.topic}} | {{page.title}}"><i class="fa fa-envelope" aria-hidden="true"></i> email</a> -->
+              <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"><i class="fa fa-facebook" aria-hidden="true"></i> share</a>
+              {% capture url %}http://{{site.url}}{{page.url}}{% endcapture %}
+              {% capture title %}{{page.topic}} > {{page.title}}{% endcapture %}
+              <a target="_blank" href="https://twitter.com/share?url={{url}}&text={{title}}"><i class="fa fa-twitter" aria-hidden="true"></i> tweet</a>
+
+            </div>
+          </div>
+          <div class="hide-s hide-m show-l">
+            {% include sidebar.html %}
+          </div>
+
+        </div>
+      </section>
+
+
+      <section class="suggested">
+        <div class="container">
+          <div class="suggestions">
+              {% if page.prevurl %}
+              <div class="prev">
+                <div class="prev-inner prevnext">
+                  <a href="{{ page.prevurl }}">
+                    <p class="prev__header"> <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                    Previous</p>
+                    <p class="prev__title">{{ page.prevtitle }}</p>
+                  </a>
+                </div>
+              </div>
+              {% elsif prevurl %}
+              <div class="prev">
+
+              <div class="prev-inner prevnext">
+                <a href="{{prevurl}}">
+                  <p class="prev__header"> <i class="fa fa-chevron-left" aria-hidden="true"></i>
+Previous</p>
+                  <p class="prev__title">{{ prevTitle }}</p>
+                </a>
+              </div>
+
+              </div>
+              {% endif %}
+
+              {% if page.nexturl %}
+              <div class="next">
+                <div class="next-inner prevnext">
+                  <a href="{{ page.nexturl }}">
+                    <p class="next__header">Next <i class="fa fa-chevron-right" aria-hidden="true"></i></p>
+                    <p class="next__title">{{ page.nexttitle }}</p>
+                  </a>
+                </div>
+              </div>
+              {% elsif nexturl %}
+              <div class="next">
+                <div class="next-inner prevnext">
+                  <a href="{{nexturl}}">
+                    <p class="next__header">Next <i class="fa fa-chevron-right" aria-hidden="true"></i></p>
+                    <p class="next__title">{{ nextTitle }}</p>
+                  </a>
+                </div>
+              </div>
+              {% endif %}
+
+          </div>
+
+        </div>
+      </section>
+
+      <section class="mobile-sidebar show-s show-m hide-l">
+        <div class="container">
+            {% include sidebar.html %}
+        </div>
+      </section>
+
+    </main>
+
+
+
+    {% include global/footer.html %}
+
+
+  <!-- JS -->
+  <!-- inject:js -->
+  <script src="/assets/javascript/index.js"></script>
+  <!-- endinject -->
+
+  </body>
+
+  <!-- script conditionals -->
+  {% include scripts_topic.html %}
+
+  {% if jekyll.environment == "development" %}
+    {% include global/scripts_grid.html %}
+  {% endif %}
+</html>

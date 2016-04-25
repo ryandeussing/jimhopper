@@ -1,0 +1,128 @@
+---
+title: About Jim Hopper
+customtitle: About Jim Hopper
+class: about topic
+permalink: /about/
+imagepath: /assets/images/jim.jpg
+---
+
+<!DOCTYPE html>
+<html>
+
+  {% include global/head.html %}
+
+  <body class="{% if page.class %}{{ page.class }}{% endif %}">
+
+    {% include global/header.html %}
+
+    <main>
+
+      <section class="hero page">
+        <div class="container">
+          <div class="inner-wrapper">
+            <h1>{{page.title}}</h1>
+          </div>
+        </div>
+      </section>
+
+      {% if page.imagepath %}
+        <div class="container">
+          <img class="jim" src="{{ page.imagepath }}" alt="">
+        </div>
+      {% endif %}
+
+      <section class="article">
+        <div class="container">
+          <div class="copy">
+
+            <h2>Jim Hopper is a nationally recognized consultant, trainer and lecturer.</h2>
+
+            <p>His research and work as a consultant have helped therapists, police officers, prosecutors, judges, senior military commanders and higher education administrators to better understand and respond to victims of child abuse and sexual assault.</p>
+
+            <p>Dr. Hopper is sought for his expertise on the neurobiology of trauma and sexual assault, and on the unique experiences and needs of males who have experienced sexual abuse or sexual assault.</p>
+
+            <p>He also trains and consults on how meditation and other contemplative practices can transform the brain to bring healing and genuine happiness, and is co-editor of [Mindfulness-Oriented Interventions for Trauma: Integrating Contemplative Practices](http://www.amazon.com/Mindfulness-Oriented-Interventions-Trauma-Integrating-Contemplative/dp/1462518583/) (Guilford Press, 2015).</p>
+
+            <p>Dr. Hopper was a founding board member of 1in6, Inc., a national non-profit devoted to helping men who were sexually abused as children, and wrote most of the content on its comprehensive web site.</p>
+
+            <p>He conducts trainings across the United States and internationally. He also serves as an expert witness in both criminal and civil cases, and has worked on cases in state, federal and military courts.</p>
+
+
+            <div class="share">
+              <!-- <a href="mailto:?subject={{page.topic}} | {{page.title}}"><i class="fa fa-envelope" aria-hidden="true"></i> email</a> -->
+              <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"><i class="fa fa-facebook" aria-hidden="true"></i> share</a>
+              {% capture url %}http://{{site.url}}{{page.url}}{% endcapture %}
+              {% capture title %}{{page.topic}} > {{page.title}}{% endcapture %}
+              <a target="_blank" href="https://twitter.com/share?url={{url}}&text={{title}}"><i class="fa fa-twitter" aria-hidden="true"></i> tweet</a>
+
+            </div>
+          </div>
+
+          <div class="custom_sidebar">
+            <div class="sidebar__inner editable">
+              <p class="sidebar__header">About Header</p>
+              <p>this is content inside a sidebar</p>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+
+      <section class="suggested">
+        <div class="container">
+          <div class="suggestions">
+
+              <div class="prev">
+              {% if prevurl %}
+              <div class="prev-inner">
+                <a href="{{prevurl}}">
+                  <p class="prev__header"> <i class="fa fa-chevron-left" aria-hidden="true"></i>
+Previous</p>
+                  <p class="prev__title">{{ prevTitle }}</p>
+                </a>
+              </div>
+              {% endif %}
+              </div>
+
+              <div class="next">
+              {% if nexturl %}
+              <div class="next-inner">
+                <a href="{{nexturl}}">
+                  <p class="next__header">Next <i class="fa fa-chevron-right" aria-hidden="true"></i></p>
+                  <p class="next__title">{{ nextTitle }}</p>
+                </a>
+              </div>
+              {% endif %}
+              </div>
+
+          </div>
+
+        </div>
+      </section>
+
+
+
+    </main>
+
+
+
+    {% include global/footer.html %}
+
+
+  <!-- JS -->
+  <!-- inject:js -->
+  <script src="/assets/javascript/index.js"></script>
+  <!-- endinject -->
+
+  </body>
+
+  <!-- script conditionals -->
+  {% if page.class == 'home' %}
+    {% include scripts_home.html %}
+  {% endif %}
+
+  {% if jekyll.environment == "development" %}
+    {% include global/scripts_grid.html %}
+  {% endif %}
+</html>
