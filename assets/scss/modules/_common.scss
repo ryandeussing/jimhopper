@@ -284,7 +284,7 @@ h4 {
     display: none !important;
   }
   @include media($m){
-    display: block !important;;
+    display: block !important;
   }
 }
 
@@ -293,7 +293,7 @@ h4 {
     display: block !important;
   }
   @include media($m){
-    display: none !important;;
+    display: none !important;
   }
 }
 
@@ -311,16 +311,16 @@ h4 {
     display: none !important;
   }
   @include media($m){
-    display: block !important;;
+    display: block !important;
   }
 }
 
 .hide-l {
   @include media($s){
-    display: block !important;;
+    display: block !important;
   }
   @include media($m){
-    display: block !important;;
+    display: block !important;
   }
   @include media($l){
     display: none !important;
@@ -336,7 +336,7 @@ h4 {
     display: none !important;
   }
   @include media($l){
-    display: block !important;;
+    display: block !important;
   }
 }
 
