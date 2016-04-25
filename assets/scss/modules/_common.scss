@@ -244,40 +244,80 @@ h4 {
 
 }
 
-// other sidebar styles
+.custom_sidebar {
+  @include media($s){
+    @include span-columns(12);
+    @include pad(1rem 0);
+    margin-top: 1rem;
+  }
+  @include media($l){
+    @include span-columns(4);
+  }
+  .sidebar__inner {
+    // box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+    @include media($s){
+      @include pad(1rem);
+    }
+    @include media($l){
+      @include pad(1rem 1.5rem 1.5rem);
+    }
+    background-color: $sidebar-bg;
+    margin-bottom: 2rem;
+  }
+  .sidebar__header {
+    font-family: FranklinGothicURW-Dem;
+    color: $green-basic;
+    font-size: 16px;
+    margin-bottom: .5em;
+    text-transform: uppercase;
+  }
 
-// .sidebar {
-//   .sidebar__header, .sidebar__subheader {
-//     font-family: FranklinGothicURW-Dem;
-//     margin-bottom: .3em;
-//   }
-//   .sidebar__header {
-//     font-size: 18px;
-//     text-transform: uppercase;
-//     margin-bottom: 1em;
-//   }
-//   p {
-//     font-family: FranklinGothicURW-Boo;
-//     line-height: 1.1;
-//     @include media($s){
-//       font-size: em(14);
-//     }
-//     @include media($m){
-//       font-size: em(16);
-//     }
-//   }
-//   // @include media(xs){
-//   //   padding-top: 2rem;
-//   //   padding-bottom: 2rem;
-//   // }
-//   @include media($s){
-//     padding-top: 2rem;
-//     padding-bottom: 2rem;
-//   }
-//   @include media($l){
-//     padding-top: 4rem;
-//   }
-// }
+  ul, ol {
+    margin: 0;
+    li {
+      font-family: FranklinGothicURW-Boo;
+      line-height: 1.5;
+      margin: 0;
+      padding-left: 0;
+      list-style-type: none;
+      @include media($s){
+        font-size: 1rem;
+      }
+      @include media($m){
+        font-size: 1rem;
+      }
+      a {
+        color: $sidebar-links !important;
+        text-decoration: none !important;
+        border-bottom: 1px solid lighten($sidebar-links, 10%);
+      }
+    }
+  }
+
+  p {
+    font-family: FranklinGothicURW-Boo;
+    line-height: 1.5;
+    margin: 0;
+    @include media($s){
+      font-size: 1rem;
+    }
+    @include media($m){
+      font-size: 1rem;
+    }
+    a {
+      color: $sidebar-links !important;
+      text-decoration: none !important;
+      border-bottom: 1px solid lighten($sidebar-links, 10%);
+    }
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+
+}
 
 .hide-s {
   @include media($s){

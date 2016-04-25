@@ -859,6 +859,81 @@ h4 {
     border-bottom: 1px solid #9b9a89; }
 
 @media screen and (min-width: 6.25em) {
+  .custom_sidebar {
+    float: left;
+    display: block;
+    margin-right: 1.9355953897%;
+    width: 100%;
+    padding: 1rem 0;
+    margin-top: 1rem; }
+    .custom_sidebar:last-child {
+      margin-right: 0; } }
+
+@media screen and (min-width: 48.0625em) {
+  .custom_sidebar {
+    float: left;
+    display: block;
+    margin-right: 1.9355953897%;
+    width: 32.0429364069%; }
+    .custom_sidebar:last-child {
+      margin-right: 0; } }
+
+.custom_sidebar .sidebar__inner {
+  background-color: #f4f4f2;
+  margin-bottom: 2rem; }
+  @media screen and (min-width: 6.25em) {
+    .custom_sidebar .sidebar__inner {
+      padding: 1rem; } }
+  @media screen and (min-width: 48.0625em) {
+    .custom_sidebar .sidebar__inner {
+      padding: 1rem 1.5rem 1.5rem; } }
+
+.custom_sidebar .sidebar__header {
+  font-family: FranklinGothicURW-Dem;
+  color: #689700;
+  font-size: 16px;
+  margin-bottom: .5em;
+  text-transform: uppercase; }
+
+.custom_sidebar ul, .custom_sidebar ol {
+  margin: 0; }
+  .custom_sidebar ul li, .custom_sidebar ol li {
+    font-family: FranklinGothicURW-Boo;
+    line-height: 1.5;
+    margin: 0;
+    padding-left: 0;
+    list-style-type: none; }
+    @media screen and (min-width: 6.25em) {
+      .custom_sidebar ul li, .custom_sidebar ol li {
+        font-size: 1rem; } }
+    @media screen and (min-width: 41.6875em) {
+      .custom_sidebar ul li, .custom_sidebar ol li {
+        font-size: 1rem; } }
+    .custom_sidebar ul li a, .custom_sidebar ol li a {
+      color: #82816f !important;
+      text-decoration: none !important;
+      border-bottom: 1px solid #9b9a89; }
+
+.custom_sidebar p {
+  font-family: FranklinGothicURW-Boo;
+  line-height: 1.5;
+  margin: 0; }
+  @media screen and (min-width: 6.25em) {
+    .custom_sidebar p {
+      font-size: 1rem; } }
+  @media screen and (min-width: 41.6875em) {
+    .custom_sidebar p {
+      font-size: 1rem; } }
+  .custom_sidebar p a {
+    color: #82816f !important;
+    text-decoration: none !important;
+    border-bottom: 1px solid #9b9a89; }
+
+.custom_sidebar img {
+  width: 100%;
+  height: auto; }
+
+@media screen and (min-width: 6.25em) {
   .hide-s {
     display: none; } }
 
