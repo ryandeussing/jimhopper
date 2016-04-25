@@ -18,7 +18,7 @@
 
   enquire.register("screen and (max-width: 666px)", {
     match : function() {
-      $('.topic__half').removeAttr("style");
+      $('.prevnext').removeAttr("style");
       var main = $('main');
       setTimeout(function(){
         $(main).fadeIn().removeClass('load').addClass('loaded');
@@ -32,7 +32,7 @@
       // ON LOAD
       var windowWidth = $(window).width();
       // Get an array of all element heights
-      var elementHeights = $('.topic__half').map(function() {
+      var elementHeights = $('.prevnext').map(function() {
         return $(this).outerHeight();
       }).get();
       console.log(elementHeights);
@@ -40,12 +40,12 @@
       // `apply` is equivalent to passing each height as an argumentain
       var maxHeight = Math.max.apply(null, elementHeights);
       // Set each height to the max height
-      $('.topic__half').height(maxHeight);
+      $('.prevnext').height(maxHeight);
 
-      var main = $('main');
-      setTimeout(function(){
-        $(main).fadeIn().removeClass('load').addClass('loaded');
-      }, 250);
+      // var main = $('main');
+      // setTimeout(function(){
+      //   $(main).fadeIn().removeClass('load').addClass('loaded');
+      // }, 250);
 
       // ON RESIZE (debounce for sanity)
       window.onresize = debounce(function(){
@@ -55,14 +55,14 @@
             // setTimeout(function(){
             // delay so we can fade-in
               // get an array of all element heights
-              $('.topic__half').removeAttr("style");
-              var elementHeights = $('.topic__half').map(function() {
+              $('.prevnext').removeAttr("style");
+              var elementHeights = $('.prevnext').map(function() {
                 return $(this).outerHeight();
               }).get();
               // get maxHeight
               var maxHeight = Math.max.apply(null, elementHeights);
               // set each height to the max height
-              $('.topic__half').height(maxHeight);
+              $('.prevnext').height(maxHeight);
               // $(main).fadeIn().removeClass('load').addClass('loaded');
               // }, 250);
             }
@@ -71,7 +71,7 @@
       }, 250);
     },
     unmatch : function() {
-      $('.topic__half').removeAttr("style");
+      $('.prevnext').removeAttr("style");
     }
   });
 });

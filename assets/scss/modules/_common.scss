@@ -51,10 +51,11 @@ h4 {
   @include media($l){
     @include span-columns(8);
     padding-right: 1.5rem;
+    @include omega();
   }
   p {
     @include media($l) {
-      font-size: em(21);
+      font-size: em(18);
     }
   }
   .share {
@@ -85,7 +86,7 @@ h4 {
 
 .suggestions {
   @include media($s){
-    margin-top: -2rem;
+    // margin-top: -2rem;
     @include span-columns(12);
   }
   @include media($l){
@@ -94,7 +95,8 @@ h4 {
   }
   .prev, .next {
     @include media($s){
-      @include span-columns(6 of 12);
+      @include span-columns(12 of 12);
+      margin-bottom: 1rem;
     }
     @include media($l){
       @include span-columns(5 of 10);
@@ -119,7 +121,12 @@ h4 {
       font-family: Shift;
       color: $text;
       font-weight: bold;
-      font-size: 25px;
+      @include media($s){
+        font-size: 18px;
+      }
+      @include media($l){
+        font-size: 25px;
+      }
       margin-bottom: 0;
     }
     a:hover p.prev__title, a:hover p.next__title{
@@ -131,6 +138,13 @@ h4 {
   }
   .next {
     text-align: right;
+  }
+}
+
+.mobile-sidebar {
+  .container {
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
@@ -146,7 +160,7 @@ h4 {
   .sidebar__inner {
     // box-shadow: 2px 2px 2px rgba(0,0,0,.2);
     @include media($s){
-      @include pad(0 1rem);
+      @include pad(1rem);
     }
     @include media($l){
       @include pad(1rem 1.5rem 1.5rem);
@@ -200,7 +214,8 @@ h4 {
         }
       }
       li.current a {
-        color: $text !important;
+        color: $green-basic !important;
+        border-bottom: 1px solid $green-basic;
       }
     }
   }
@@ -266,31 +281,62 @@ h4 {
 
 .hide-s {
   @include media($s){
-    display: none;
+    display: none !important;
   }
   @include media($m){
-    display: block;
+    display: block !important;;
+  }
+}
+
+.show-s {
+  @include media($s){
+    display: block !important;
+  }
+  @include media($m){
+    display: none !important;;
   }
 }
 
 .hide-m {
   @include media($s){
-    display: block;
+    display: block !important;;
   }
   @include media($m){
-    display: none;
+    display: none !important;
+  }
+}
+
+.show-m {
+  @include media($s){
+    display: none !important;
+  }
+  @include media($m){
+    display: block !important;;
   }
 }
 
 .hide-l {
   @include media($s){
-    display: block;
+    display: block !important;;
   }
   @include media($m){
-    display: block;
+    display: block !important;;
   }
   @include media($l){
-    display: none;
+    display: none !important;
+  }
+}
+
+
+.show-l {
+  @include media($s){
+    display: none !important;
+  }
+  @include media($m){
+    display: none !important;
+  }
+  @include media($l){
+    display: block !important;;
   }
 }
 
@@ -374,6 +420,71 @@ section.hero {
   }
 }
 
+
+section.hero {
+  .container {
+    height: 100%;
+  }
+  @include media($s){
+    margin-bottom: 1rem;
+    // .headline {
+    //   margin-top: 3vh;
+    //   margin-bottom: 3vh;
+    // }
+    h1 {
+      font-family: Shift;
+      font-weight: bold;
+      font-size: 28px;
+      margin-top: 0;
+      margin-bottom: 0;
+      color: $hero-head;
+    }
+    h2 {
+      font-family: Shift;
+      font-weight: bold;
+      font-size: 21px;
+      line-height: 1.4;
+      margin-bottom: 0px;
+      color: $hero-subhead;
+    }
+  }
+  @include media($m){
+    margin-bottom: 3rem;
+    .headline {
+    }
+    h1 {
+      font-size: 60px;
+    }
+    h2 {
+      font-size: 24px;
+      line-height: 1.4;
+      margin-top: 20px;
+    }
+  }
+  @include media($l) {
+    // padding-top: 4.5rem;
+    // padding-bottom: 4.5rem;
+    h1 {
+      margin-top: .15em;
+    }
+    h2 {
+      font-size: 28px;
+      margin-bottom: 0px;
+    }
+  }
+  @include media($xl){
+    h1 {
+      margin-top: .15em;
+    }
+    h2 {
+      font-size: 33px;
+      margin-bottom: 0px;
+    }
+  }
+}
+
+
+
 section.copy {
   .main {
     font-family: shift;
@@ -384,6 +495,54 @@ section.copy {
         font-size: 21px;
       }
     }
+  }
+}
+
+.publications .item {
+  @include pad(2rem 1.5rem);
+  background-color: $sidebar-bg;
+  margin-bottom: 1.5rem;
+  p.authors {
+    font-size: 18px;
+    color: $link-basic;
+    margin-bottom: 0;
+  }
+  p.title {
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0;
+  }
+  p.details {
+    font-family: FranklinGothicURW-Dem;
+    color: $green-basic;
+    font-size: 16px;
+    margin-bottom: .5em;
+    text-transform: uppercase;
+  }
+}
+
+.services {
+  .service a {
+    font-family: FranklinGothicURW-Dem;
+    // color: #fff;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: .5em;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: .75rem 2rem;
+    margin-top: .75rem;
+    margin-bottom: 2rem;
+    background-color: $sidebar-bg;
+  }
+  hr {
+    border-top-color: lighten($text, 65%);
+  }
+}
+
+.about {
+  img.jim {
+    border-bottom: 4px solid $yellow-basic;
   }
 }
 

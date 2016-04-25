@@ -1,14 +1,15 @@
 ---
 title: About Jim Hopper
-layout: topic
-class: about
+customtitle: About Jim Hopper
+layout: page
+class: about topic
 permalink: /about/
+imagepath: /assets/images/jim.jpg
 ---
 
+## Jim Hopper is a nationally recognized consultant, trainer and lecturer.
 
-## About Jim Hopper
-
-Jim Hopper is a nationally recognized consultant, trainer and lecturer. His research and work as a consultant have helped therapists, police officers, prosecutors, judges, senior military commanders and higher education administrators to better understand and respond to victims of child abuse and sexual assault.
+His research and work as a consultant have helped therapists, police officers, prosecutors, judges, senior military commanders and higher education administrators to better understand and respond to victims of child abuse and sexual assault.
 
 Dr. Hopper is sought for his expertise on the neurobiology of trauma and sexual assault, and on the unique experiences and needs of males who have experienced sexual abuse or sexual assault.
 

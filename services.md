@@ -1,10 +1,9 @@
 ---
-layout: topic
-class: publications
+layout: page
+class: services topic
+title: Professional Services
 permalink: /services/
 ---
-
-## Professional Services
 
 
 ## Forensic Consultation
@@ -12,8 +11,9 @@ I provide forensic services on cases involving child abuse trauma, sexual assaul
 
 I am very good at communicating expert knowledge and opinions in written and spoken language that is lucid and compelling to lawyers, judges and jury members. References are available upon request.
 
-Please email inquiries to <a href="mailto:drhopper@jimhopper.com">drhopper@jimhopper.com</a> and include "forensic" in the subject line.
+<p class="service"><a href="mailto:drhopper@jimhopper.com?subject=Forensic Services">Contact for Service</a></p>
 
+<hr>
 
 ## Talks and Trainings
 As a highly engaging and interactive presenter, I communicate very effectively with therapists and other professionals who serve or encounter traumatized people in their work, including police officers, victim advocates, attorneys, university administrators and commanding officers in the military.
@@ -29,7 +29,9 @@ I give talks and training on a variety of topics, mostly related to sexual assau
 </ul>
 All talks and training incorporate an engaging mix lectures, video and other media, and when time permits, discussion and activities that promote experiential learning.
 
-Please email inquiries to <a href="mailto:drhopper@jimhopper.com">drhopper@jimhopper.com</a> and include "training" in the subject line.
+<p class="service"><a href="mailto:drhopper@jimhopper.com?subject=Training Services">Contact for Service</a></p>
+
+<hr>
 
 
 ## Clinical Consultations
@@ -49,8 +51,9 @@ My clinical consultation clients include people from early to later stages of re
 </ul>
 I draw on many theories and methods of treatment, including the 'stage model' of trauma treatment, mindfulness-based and other contemplative approaches, cognitive-behavioral interventions, and the Internal Family Systems Model (IFS). All of my theoretical understandings and treatment approaches are informed by wide-ranging knowledge of treatment and scientific advances, including my own research.
 
-Please email inquiries to <a href="mailto:drhopper@jimhopper.com">drhopper@jimhopper.com</a> and put "Consult" in the subject line.
+<p class="service"><a href="mailto:drhopper@jimhopper.com?subject=Consulting Services">Contact for Service</a></p>
 
+<hr>
 
 ## Webinars
 For those who can't attend an in-person training, or don't want to wait, I can offer individual or small-group webinar training. Participants are clinicians, meditation and yoga teachers, or other professionals.
@@ -61,4 +64,6 @@ Trainings are typically delivered in four to six 2-hour blocks, spaced over seve
 
 Available webinars depend on participant interest and my schedule. See <a href="http://jimhopper.com/services/#workshops">workshops</a> (above) for the kinds of topics available.
 
-Please email inquiries to <a href="mailto:drhopper@jimhopper.com">drhopper@jimhopper.com</a> and include "webinar" in the subject line.
+<p class="service"><a href="mailto:drhopper@jimhopper.com?subject=Webinar Services">Contact for Service</a></p>
+
+<hr>

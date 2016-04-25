@@ -1,14 +1,120 @@
----
-layout: default
----
-<article class="post">
+<!DOCTYPE html>
+<html>
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+  {% include global/head.html %}
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+  <body class="{% if page.class %}{{ page.class }}{% endif %}">
 
-</article>
+    {% include global/header.html %}
+
+    <main>
+
+      {% if page.topic %}
+      <section class="sub-nav">
+        <div class="container">
+          <p class="sub-nav__header"><i class="fa fa-caret-right" aria-hidden="true"></i></i>Currently Reading:</p> <p class="sub-nav__copy">Topics&nbsp;&nbsp;>&nbsp;&nbsp;<a href="/{{ page.collection }}/overview">{{ page.topic }}</a>&nbsp;&nbsp;>&nbsp;&nbsp;{% if page.subtopic %}<a href="/{{page.topic | slugify }}/{{ page.subtopic | slugify  }}">{{ page.subtopic }}</a>&nbsp;&nbsp;>&nbsp;&nbsp;{% endif %}<a href="{{ page.permalink }}">{{page.customtitle}}</a></p>
+        </div>
+      </section>
+      {% else %}
+      <section class="sub-nav">
+        <div class="container">
+          <p class="sub-nav__header"><i class="fa fa-caret-right" aria-hidden="true"></i></i>Currently Reading:</p> <p class="sub-nav__copy"><a href="{{ page.permalink }}">{{page.customtitle}}</a></p>
+        </div>
+      </section>
+      {% endif %}
+
+      <section class="hero page">
+        <div class="container">
+          <div class="inner-wrapper">
+            <h1>{{page.title}}</h1>
+          </div>
+        </div>
+      </section>
+
+      {% if page.imagepath %}
+        <div class="container">
+          <img class="jim" src="{{ page.imagepath }}" alt="">
+        </div>
+      {% endif %}
+
+      <section class="article">
+        <div class="container">
+          <div class="copy">
+            {{ content }}
+            <div class="share">
+              <!-- <a href="mailto:?subject={{page.topic}} | {{page.title}}"><i class="fa fa-envelope" aria-hidden="true"></i> email</a> -->
+              <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"><i class="fa fa-facebook" aria-hidden="true"></i> share</a>
+              {% capture url %}http://{{site.url}}{{page.url}}{% endcapture %}
+              {% capture title %}{{page.topic}} > {{page.title}}{% endcapture %}
+              <a target="_blank" href="https://twitter.com/share?url={{url}}&text={{title}}"><i class="fa fa-twitter" aria-hidden="true"></i> tweet</a>
+
+            </div>
+          </div>
+          <div class="hide-s hide-m show-l">
+            {% include custom_sidebar.html %}
+          </div>
+        </div>
+      </section>
+
+
+      <section class="suggested">
+        <div class="container">
+          <div class="suggestions">
+
+              <div class="prev">
+              {% if prevurl %}
+              <div class="prev-inner">
+                <a href="{{prevurl}}">
+                  <p class="prev__header"> <i class="fa fa-chevron-left" aria-hidden="true"></i>
+Previous</p>
+                  <p class="prev__title">{{ prevTitle }}</p>
+                </a>
+              </div>
+              {% endif %}
+              </div>
+
+              <div class="next">
+              {% if nexturl %}
+              <div class="next-inner">
+                <a href="{{nexturl}}">
+                  <p class="next__header">Next <i class="fa fa-chevron-right" aria-hidden="true"></i></p>
+                  <p class="next__title">{{ nextTitle }}</p>
+                </a>
+              </div>
+              {% endif %}
+              </div>
+
+          </div>
+
+        </div>
+      </section>
+
+      <section class="mobile-sidebar show-s show-m hide-l">
+        <div class="container">
+            {% include custom_sidebar.html %}
+        </div>
+      </section>
+
+    </main>
+
+
+
+    {% include global/footer.html %}
+
+
+  <!-- JS -->
+  <!-- inject:js -->
+  <script src="/assets/javascript/index.js"></script>
+  <!-- endinject -->
+
+  </body>
+
+  <!-- script conditionals -->
+  {% if page.class == 'home' %}
+    {% include scripts_home.html %}
+  {% endif %}
+
+  {% if jekyll.environment == "development" %}
+    {% include global/scripts_grid.html %}
+  {% endif %}
+</html>
