@@ -28,7 +28,7 @@ imagepath: /assets/images/jim.jpg
 
       {% if page.imagepath %}
         <div class="container">
-          <img class="jim" src="{{ page.imagepath }}" alt="">
+          <img class="jim" src="{{ page.imagepath }}" alt="" />
         </div>
       {% endif %}
 
@@ -50,7 +50,7 @@ imagepath: /assets/images/jim.jpg
 
 
             <div class="share">
-              <!-- <a href="mailto:?subject={{page.topic}} | {{page.title}}"><i class="fa fa-envelope" aria-hidden="true"></i> email</a> -->
+              <!-- <a href="mailto:?subject={{page.topic}} | {{page.title}}"><i class="fa fa-envelope" aria-hidden="true"></i> email -->
               <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"><i class="fa fa-facebook" aria-hidden="true"></i> share</a>
               {% capture url %}http://{{site.url}}{{page.url}}{% endcapture %}
               {% capture title %}{{page.topic}} > {{page.title}}{% endcapture %}
@@ -60,10 +60,7 @@ imagepath: /assets/images/jim.jpg
           </div>
 
           <div class="sidebar">
-            <div class="sidebar__inner editable">
-              <p class="sidebar__header">About Header</p>
-              <p>this is content inside a sidebar</p>
-            </div>
+            <div class="sidebar__inner editable"><p class="sidebar__header">About Header</p><p>this is content inside a sidebar</p><ul><li>awesome</li><li>sauce</li></ul><p>you might like<a href="www.google.com"> this</a></p><p>&nbsp;</p><p><img alt="" src="/uploads/25manziel-hp2-largehorizontal375.jpg" width="375" height="250" /></p><p>that's all.</p></div>
           </div>
 
         </div>
