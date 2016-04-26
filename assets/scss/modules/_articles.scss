@@ -154,13 +154,13 @@ body.topic {
         text-decoration: underline;
       }
       @include media($s){
-        font-size: 1rem;
+        font-size: rem(18);
       }
       @include media($m){
-        font-size: 1rem;
+        font-size: rem(18);
       }
       @include media($l){
-        font-size: rem(21);
+        font-size: rem(18);
       }
       margin-bottom: 1rem;
     }
@@ -176,13 +176,13 @@ body.topic {
         text-decoration: underline;
       }
       @include media($s){
-        font-size: 1rem;
+        font-size: rem(18);
       }
       @include media($m){
-        font-size: 1rem;
+        font-size: rem(18);
       }
       @include media($l){
-        font-size: rem(21);
+        font-size: rem(18);
       }
       margin-bottom: 1rem;
     }
