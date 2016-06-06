@@ -1,9 +1,13 @@
 ---
 title: About Jim Hopper
-customtitle: About Jim Hopper
+custom_title:
 class: about topic
 permalink: /about/
 imagepath: /assets/images/jim.jpg
+sidebar_one: false
+sidebar_two: true
+sidebar_three: false
+sidebar_four: false
 ---
 
 <!DOCTYPE html>
@@ -20,50 +24,50 @@ imagepath: /assets/images/jim.jpg
       <section class="hero page">
         <div class="container">
           <div class="inner-wrapper">
-            <h1>{{page.title}}</h1>
+          {% if page.custom_title | size > 0 %}<h1>{{page.custom_title}}</h1>{% else %}<h1>{{page.title}}</h1>{% endif %}
           </div>
         </div>
       </section>
 
       {% if page.imagepath %}
         <div class="container">
-          <img class="jim" src="{{ page.imagepath }}" alt="">
+          <img class="jim" src="{{ page.imagepath }}" alt="" />
         </div>
       {% endif %}
 
       <section class="article">
         <div class="container">
-          <div class="copy">
+          <div class="copy editable"><h2>Nationally recognized consultant, trainer and lecturer.</h2><p>My research and work as a consultant have helped therapists, police officers, prosecutors, judges, senior military commanders and higher education administrators to better understand and respond to victims of child abuse and sexual assault.</p><p>I am sought for my expertise on the neurobiology of trauma and sexual assault, and on the unique experiences and needs of males who have experienced sexual abuse or sexual assault.</p><p>I also train and consult on how meditation and other contemplative practices can transform the brain to bring healing and genuine happiness, and am co-editor of <a href="http://www.amazon.com/Mindfulness-Oriented-Interventions-Trauma-Integrating-Contemplative/dp/1462518583/ref=nosim/?tag=jimhoppercom-20/">Mindfulness-Oriented Interventions for Trauma: Integrating Contemplative Practices</a>&nbsp;(Guilford Press, 2015).</p><p>I was a founding board member of 1in6, Inc., a national non-profit devoted to helping men who were sexually abused as children, and wrote most of the content on 1in6's comprehensive web site.</p><p>I conduct trainings across the United States and internationally. I also serve as an expert witness in both criminal and civil cases, and have worked on cases in state, federal and military courts.</p><p>Finally, I am a Teaching Associate in Psychology in the Department of Psychiatry of Harvard Medical School, and a consultant to the Outpatient Addictions Service of the Cambridge Health Alliance.</p><div class="share"><!-- <a href="mailto:?subject= | About Jim Hopper"><i class="fa fa-envelope" aria-hidden="true"></i> email --><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=www.jimhopper.com/about/"><i class="fa fa-facebook" aria-hidden="true"></i> share</a> <a target="_blank" href="https://twitter.com/share?url=http://www.jimhopper.com/about/&amp;text= &gt; About Jim Hopper"><i class="fa fa-twitter" aria-hidden="true"></i> tweet</a></div></div>
 
-            <h2>Jim Hopper is a nationally recognized consultant, trainer and lecturer.</h2>
-
-            <p>His research and work as a consultant have helped therapists, police officers, prosecutors, judges, senior military commanders and higher education administrators to better understand and respond to victims of child abuse and sexual assault.</p>
-
-            <p>Dr. Hopper is sought for his expertise on the neurobiology of trauma and sexual assault, and on the unique experiences and needs of males who have experienced sexual abuse or sexual assault.</p>
-
-            <p>He also trains and consults on how meditation and other contemplative practices can transform the brain to bring healing and genuine happiness, and is co-editor of [Mindfulness-Oriented Interventions for Trauma: Integrating Contemplative Practices](http://www.amazon.com/Mindfulness-Oriented-Interventions-Trauma-Integrating-Contemplative/dp/1462518583/) (Guilford Press, 2015).</p>
-
-            <p>Dr. Hopper was a founding board member of 1in6, Inc., a national non-profit devoted to helping men who were sexually abused as children, and wrote most of the content on its comprehensive web site.</p>
-
-            <p>He conducts trainings across the United States and internationally. He also serves as an expert witness in both criminal and civil cases, and has worked on cases in state, federal and military courts.</p>
-
-
-            <div class="share">
-              <!-- <a href="mailto:?subject={{page.topic}} | {{page.title}}"><i class="fa fa-envelope" aria-hidden="true"></i> email</a> -->
-              <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"><i class="fa fa-facebook" aria-hidden="true"></i> share</a>
-              {% capture url %}http://{{site.url}}{{page.url}}{% endcapture %}
-              {% capture title %}{{page.topic}} > {{page.title}}{% endcapture %}
-              <a target="_blank" href="https://twitter.com/share?url={{url}}&text={{title}}"><i class="fa fa-twitter" aria-hidden="true"></i> tweet</a>
-
+          {% if page.sidebar_one %}
+            <div class="custom_sidebar first">
+              <div class="sidebar__inner editable"><p class="sidebar__header present-before-paste">LINK TO SERVICES and OP Eds HERE?</p><p class="present-before-paste">this is content inside a sidebar</p></div>
             </div>
-          </div>
+          {% endif %}
 
-          <div class="custom_sidebar">
-            <div class="sidebar__inner editable">
-              <p class="sidebar__header">About Header</p>
-              <p>this is content inside a sidebar test</p>
+          {% if page.sidebar_two %}
+            <div class="custom_sidebar">
+              <div class="sidebar__inner editable"><p class="sidebar__header present-before-paste">curriculum vitae</p><p class="present-before-paste">Updated every three months, including most recent trainings.</p><p class="present-before-paste"><a href="https://www.dropbox.com/s/tjag64oyrf6u076/DrJimHopperCV.pdf?dl=0">Download</a></p></div>
             </div>
-          </div>
+          {% endif %}
+
+          {% if page.sidebar_three %}
+            <div class="custom_sidebar">
+              <div class="sidebar__inner editable">
+                <p class="sidebar__header">Sidebar</p>
+                <p>this is content inside a sidebar </p>
+              </div>
+            </div>
+          {% endif %}
+
+          {% if page.sidebar_four %}
+            <div class="custom_sidebar">
+              <div class="sidebar__inner editable">
+                <p class="sidebar__header">Sidebar</p>
+                <p>this is content inside a sidebar </p>
+              </div>
+            </div>
+          {% endif %}
 
         </div>
       </section>

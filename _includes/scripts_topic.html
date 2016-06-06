@@ -31,16 +31,15 @@
     match : function() {
       // ON LOAD
       var windowWidth = $(window).width();
-      // Get an array of all element heights
-      var elementHeights = $('.prevnext').map(function() {
-        return $(this).outerHeight();
-      }).get();
-      console.log(elementHeights);
-      // Math.max takes a variable number of arguments
-      // `apply` is equivalent to passing each height as an argumentain
-      var maxHeight = Math.max.apply(null, elementHeights);
-      // Set each height to the max height
-      $('.prevnext').height(maxHeight);
+      setTimeout(function(){
+        // Get an array of all element heights
+        var elementHeights = $('.prevnext').map(function() {
+          return $(this).height();
+        }).get();
+        // Math.max takes a variable number of arguments, apply` is equivalent to passing each height as an argumentain
+        var maxHeight = Math.max.apply(null, elementHeights);
+        $('.prevnext').height(maxHeight); // Set each height to the max height
+      }, 250);
 
       // var main = $('main');
       // setTimeout(function(){
@@ -57,7 +56,7 @@
               // get an array of all element heights
               $('.prevnext').removeAttr("style");
               var elementHeights = $('.prevnext').map(function() {
-                return $(this).outerHeight();
+                return $(this).height();
               }).get();
               // get maxHeight
               var maxHeight = Math.max.apply(null, elementHeights);
@@ -71,7 +70,7 @@
       }, 250);
     },
     unmatch : function() {
-      $('.prevnext').removeAttr("style");
+      // $('.prevnext').removeAttr("style");
     }
   });
 });

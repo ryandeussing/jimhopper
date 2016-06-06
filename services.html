@@ -1,0 +1,189 @@
+---
+class: services topic
+title: Professional Services
+custom_title:
+sidebar_one: true
+sidebar_two: true
+sidebar_three: false
+sidebar_four: false
+permalink: /services/
+services:
+  - title: Forensic Consultation
+    description: >
+      I provide forensic services on cases involving child abuse trauma, sexual assault, PTSD, mitigation, recovered memories and other issues. Services include assessment of clients, report/declaration writing, and trial testimony. With over 10 years of experience, capital cases are a specialty.
+
+
+      I am very good at communicating expert knowledge and opinions in written and spoken language that is lucid and compelling to lawyers, judges and jury members. References are available upon request.
+
+  - title: Talks and Trainings
+    description: >
+      As a highly engaging and interactive presenter, I communicate very effectively with therapists and other professionals who serve or encounter traumatized people in their work, including police officers, victim advocates, attorneys, university administrators and commanding officers in the military.
+
+
+      The feedback I get includes words and phrases like "captivating," "highly effective," "enlightening," "extremely helpful" and "transformative." References are available upon request.
+
+
+      I give talks and training on a variety of topics, mostly related to sexual assault and child abuse trauma, including:
+
+        - The neurobiology of trauma and sexual assault. That is, how brain responses to sexual assault shape victims' <a href="http://www.washingtonpost.com/news/grade-point/wp/2015/06/23/why-many-rape-victims-dont-fight-or-yell/">experiences, behaviors</a> and <a href="http://time.com/3625414/rape-trauma-brain-memory/">memories</a>, and the implications for eliciting accurate memories and testimony. Too see how I present on this, here's a <a href="https://www.youtube.com/watch?v=dwTQ_U3p5Wc">video of a 2-hour training</a>
+        - The unique experiences and challenges of traumatized men, especially men with histories of childhood sexual abuse or adult sexual assault, and the implications for outreach and providing treatment.<
+        - Brain processes involved in mindfulness and meditation, and how they can benefit both therapists and their clients.
+        All talks and training incorporate an engaging mix lectures, video and other media, and when time permits, discussion and activities that promote experiential learning.
+  - title: Clinical Consultations
+    description: >
+      I work with male and female adults (18 or older), and specialize in childhood abuse, sexual assault and other traumas.
+
+
+      Currently I provide time-limited telephone or Skype consultation. That is, I offer knowledge, insights, and interventions that either (a) help people to find good local treatment or (b) briefly complement their ongoing therapy (in cooperation with their therapist). These services do not require living anywhere in particular or meeting with me in person (international Skype calls are an option).
+      My clinical consultation clients include people from early to later stages of recovery, who are seeking help with a variety of issues, including:
+
+        - Understanding their unique needs and treatment options
+        - Emotion awareness and regulation skills
+        - Addiction
+        - Relationship difficulties
+        - Traumatic memories
+        - Safely engaging in meditation, yoga and other contemplative practices
+
+      I draw on many theories and methods of treatment, including the "stage model" of trauma treatment, mindfulness-based and other contemplative approaches, cognitive-behavioral interventions, and the Internal Family Systems Model (IFS). All of my theoretical understandings and treatment approaches are informed by wide-ranging knowledge of treatment and scientific advances, including my own research.
+---
+
+<!DOCTYPE html>
+<html>
+
+  {% include global/head.html %}
+
+  <body class="{% if page.class %}{{ page.class }}{% endif %}">
+
+    {% include global/header.html %}
+
+    <main>
+
+      <section class="hero page">
+        <div class="container">
+          <div class="inner-wrapper">
+            {% if page.custom_title | size > 0 %}<h1>{{page.custom_title}}</h1>{% else %}<h1>{{page.title}}</h1>{% endif %}
+          </div>
+        </div>
+      </section>
+
+      {% if page.imagepath %}
+        <div class="container">
+          <img class="jim" src="{{ page.imagepath }}" alt="" />
+        </div>
+      {% endif %}
+
+      <section class="article">
+        <div class="container">
+          <div class="copy editable">
+
+          {% for service in page.services %}
+            <h2>{{service.title}}</h2>
+            {{ service.description | markdownify }}
+            <p class="service"><a href="mailto:drhopper@jimhopper.com">Contact for Service</a></p>
+            {% unless forloop.last == true %}
+              <hr />
+            {% endunless %}
+          {% endfor %}
+
+
+
+
+            <div class="share">
+              <!-- <a href="mailto:?subject={{page.topic}} | {{page.title}}"><i class="fa fa-envelope" aria-hidden="true"></i> email -->
+              <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"><i class="fa fa-facebook" aria-hidden="true"></i> share</a>
+              {% capture url %}http://{{site.url}}{{page.url}}{% endcapture %}
+              {% capture title %}{{page.topic}} > {{page.title}}{% endcapture %}
+              <a target="_blank" href="https://twitter.com/share?url={{url}}&text={{title}}"><i class="fa fa-twitter" aria-hidden="true"></i> tweet</a>
+
+            </div>
+          </div>
+
+          {% if page.sidebar_one %}
+            <div class="custom_sidebar first">
+              <div class="sidebar__inner"><p class="sidebar__header">Kripalu here?</p><p>Or could link to a Google Calendar showing my presentations.</p></div>
+            </div>
+          {% endif %}
+
+          {% if page.sidebar_two %}
+            <div class="custom_sidebar">
+              <div class="sidebar__inner"><p class="sidebar__header">Put Link to CV Here?</p><p>this is content inside a sidebar</p></div>
+            </div>
+          {% endif %}
+
+          {% if page.sidebar_three %}
+            <div class="custom_sidebar">
+              <div class="sidebar__inner">
+                <p class="sidebar__header">Sidebar</p>
+                <p>this is content inside a sidebar </p>
+              </div>
+            </div>
+          {% endif %}
+
+          {% if page.sidebar_four %}
+            <div class="custom_sidebar">
+              <div class="sidebar__inner">
+                <p class="sidebar__header">Sidebar</p>
+                <p>this is content inside a sidebar </p>
+              </div>
+            </div>
+          {% endif %}
+
+        </div>
+      </section>
+
+
+      <section class="suggested">
+        <div class="container">
+          <div class="suggestions">
+
+              <div class="prev">
+              {% if prevurl %}
+              <div class="prev-inner">
+                <a href="{{prevurl}}">
+                  <p class="prev__header"> <i class="fa fa-chevron-left" aria-hidden="true"></i>
+Previous</p>
+                  <p class="prev__title">{{ prevTitle }}</p>
+                </a>
+              </div>
+              {% endif %}
+              </div>
+
+              <div class="next">
+              {% if nexturl %}
+              <div class="next-inner">
+                <a href="{{nexturl}}">
+                  <p class="next__header">Next <i class="fa fa-chevron-right" aria-hidden="true"></i></p>
+                  <p class="next__title">{{ nextTitle }}</p>
+                </a>
+              </div>
+              {% endif %}
+              </div>
+
+          </div>
+
+        </div>
+      </section>
+
+
+
+    </main>
+
+
+
+    {% include global/footer.html %}
+
+
+  <!-- JS -->
+  <!-- inject:js -->
+  <script src="/assets/javascript/index.js"></script>
+  <!-- endinject -->
+
+  </body>
+
+  <!-- script conditionals -->
+    {% include scripts_publications.html %}
+
+  {% if jekyll.environment == "development" %}
+    {% include global/scripts_grid.html %}
+  {% endif %}
+</html>

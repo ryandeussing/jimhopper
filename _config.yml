@@ -1,8 +1,11 @@
-version: 3.0.3 #for cloudcannon
+# for cloud cannon
+version: 3.0.3
 
+# Title, decription, tagline and URL for your site
+# Can be used in your theme by calling 'site.title' and so on
 title: Jim Hopper, Ph.D.
 description: Clinical psychologist and independent consultant, part-time instructor in Psychology, Harvard Medical School, and nationally recognized expert on psychological trauma.
-url: jimhopper.com
+url: www.jimhopper.com
 
 collections:
   child-abuse:
@@ -14,12 +17,9 @@ collections:
   recovered-memories:
     output: true
     permalink: /child-abuse/recovered-memories/:title/
-  info:
+  sexual-abuse-of-boys:
     output: true
-    permalink: /child-abuse/info/:title/
-  men:
-    output: true
-    permalink: /child-abuse/info/for-boys-and-men/:title/
+    permalink: /child-abuse/sexual-abuse-of-boys/:title/
   healing-and-happiness:
     output: true
     permalink: /healing-and-happiness/:title/
@@ -29,3 +29,73 @@ collections:
   the-brain:
     output: true
     permalink: /the-brain/:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: child-abuse
+    values:
+      topic: child-abuse
+      topic_name: Child Abuse
+      layout: topic
+      class: topic child-abuse
+  -
+    scope:
+      path: ""
+      type: the-brain
+    values:
+      topic: the-brain
+      topic_name: The Brain
+      layout: topic
+      class: topic the-brain
+  -
+    scope:
+      path: ""
+      type: mindfulness-and-meditation
+    values:
+      topic: mindfulness-and-meditation
+      topic_name: Mindfulness & Meditation
+      layout: topic
+      class: topic mindfulness-and-meditation
+  -
+    scope:
+      path: ""
+      type: sexual-abuse-of-boys
+    values:
+      topic: child-abuse
+      topic_name: Child Abuse
+      subtopic: Sexual Abuse of Boys
+      layout: topic
+      class: topic child-abuse
+  -
+    scope:
+      path: ""
+      type: recovered-memories
+    values:
+      topic: child-abuse
+      topic_name: Child Abuse
+      subtopic: Recovered Memories
+      layout: topic
+      class: topic child-abuse
+  -
+    scope:
+      path: ""
+      type: healing-and-happiness
+    values:
+      topic: healing-and-happiness
+      topic_name: Healing & Happiness
+      layout: topic
+      class: topic healing-and-happiness
+  -
+    scope:
+      path: ""
+      type: consequences-of-abuse
+    values:
+      topic: child-abuse
+      topic_name: Child Abuse
+      subtopic: Consequences of Abuse
+      layout: topic
+      class: topic child-abuse
+
+

@@ -1,9 +1,9 @@
 ---
 title: Kripalu
 layout: page
-customtitle: Kripalu
+custom_title:
 class: topic services
-permalink: /kripalu/
+permalink: /services/kripalu/
 ---
 
 <h2>May 15 - 20, 2016<br>

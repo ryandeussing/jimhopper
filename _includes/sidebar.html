@@ -1,31 +1,19 @@
-{% if page.topic == 'Child Abuse' %}
+{% if site[page.topic]  %}
+
 <div class="sidebar">
   <div class="sidebar__inner">
-    <!-- <p class="sidebar__header">{{page.topic | upcase}}</p> -->
     <p class="sidebar__header">in this topic</p>
       <ul class="sidebar__items">
-        {% assign sorted = site.child-abuse | sort: 'order' %}
+        {% assign sorted = site[page.topic] | sort: 'order' %}
         {% for doc in sorted %}
         {% assign current = nil %}
           {% if page.url contains doc.url %}
               {% assign current = 'current' %}
           {% endif %}
         <li class="{{current}}"><a href="{{doc.url}}">{{doc.title}}</a>
-          {% if doc.submenu == 'consequences' and page.submenu == 'consequences' %}
+          {% if page.url contains doc.subcollection %}
             <ul class="sidebar__items sub">
-              {% assign sortedInfo = site.consequences-of-abuse | sort: 'order' %}
-              {% for doc in sortedInfo %}
-              {% assign current = nil %}
-                {% if page.url contains doc.url %}
-                    {% assign current = 'current' %}
-                {% endif %}
-                <li class="{{current}}"><a href="{{doc.url}}">{{doc.title}}</a></li>
-              {% endfor %}
-            </ul>
-          {% endif %}
-          {% if doc.submenu == 'recovered' and page.submenu == 'recovered' %}
-            <ul class="sidebar__items sub">
-              {% assign sortedInfo = site.recovered-memories | sort: 'order' %}
+              {% assign sortedInfo = site[doc.subcollection] | sort: 'order' %}
               {% for doc in sortedInfo %}
               {% assign current = nil %}
                 {% if page.url contains doc.url %}
@@ -39,139 +27,24 @@
         {% endfor %}
       </ul>
   </div>
-  <div class="sidebar__inner">
-    <p class="sidebar__header">{{site.info[0].topic | upcase}}</p>
-      <ul class="sidebar__items">
-        {% assign sorted = site.info | sort: 'order' %}
-        {% for doc in sorted %}
-        {% assign current = nil %}
-          {% if page.url contains doc.url %}
-              {% assign current = 'current' %}
-          {% endif %}
-        <li class="{{current}}"><a href="{{doc.url}}">{{doc.title}}</a></li>
-        {% endfor %}
-      </ul>
-  </div>
-  {% include hotlines.html %}
 </div>
 {% endif %}
 
-{% if page.topic == 'Info' %}
-<div class="sidebar">
-  <div class="sidebar__inner">
-    <p class="sidebar__header">{{site.child-abuse[0].topic | upcase}}</p>
-    <ul class="sidebar__items">
-      {% assign sorted = site.child-abuse | sort: 'order' %}
-      {% for doc in sorted %}
-      {% assign current = nil %}
-        {% if page.url contains doc.url %}
-            {% assign current = 'current' %}
-        {% endif %}
-      <li class="{{current}}"><a href="{{doc.url}}">{{doc.title}}</a></li>
-      {% endfor %}
-    </ul>
+{% if page.custom_sidebar %}
+
+<div class="custom_sidebar">
+  <div class="sidebar__inner editable">
+    <p class="sidebar__header">Kripalu Workshop</p>
+      <p>May 15 - 20, 2016</p>
+      <p>Sunday night - Friday morning</p>
+      <p>Jim Hopper, Ph.D. & David Schouela, RYT-500</p>
+      <p><a href="/services/kripalu">More info</a></p>
   </div>
-  <div class="sidebar__inner">
-    <p class="sidebar__header">{{page.topic | upcase}}</p>
-    <ul class="sidebar__items">
-      {% assign sorted = site.info | sort: 'order' %}
-        {% for doc in sorted %}
-        {% assign current = nil %}
-          {% if page.url contains doc.url %}
-              {% assign current = 'current' %}
-          {% endif %}
-        <li class="{{current}}"><a href="{{doc.url}}">{{doc.title}}</a>
-          {% if doc.submenu == 'men' and page.submenu == 'men' %}
-            <ul class="sidebar__items sub">
-              {% assign sortedInfo = site.men | sort: 'order' %}
-              {% for doc in sortedInfo %}
-              {% assign current = nil %}
-                {% if page.url contains doc.url %}
-                    {% assign current = 'current' %}
-                {% endif %}
-                <li class="{{current}}"><a href="{{doc.url}}">{{doc.title}}</a></li>
-              {% endfor %}
-            </ul>
-          {% endif %}
-        </li>
-        {% endfor %}
-    </ul>
-  </div>
-  {% include hotlines.html %}
 </div>
 {% endif %}
 
-{% if page.topic == 'Healing &amp; Happiness' %}
-<div class="sidebar">
-  <div class="sidebar__inner">
-    <!-- <p class="sidebar__header">{{page.topic | upcase}}</p> -->
-    <p class="sidebar__header">In this topic</p>
-      <ul class="sidebar__items">
-        {% assign sorted = site.healing-and-happiness | sort: 'order' %}
-        {% for doc in sorted %}
-        {% assign current = nil %}
-          {% if page.url contains doc.url %}
-              {% assign current = 'current' %}
-          {% endif %}
-        <li class="{{current}}"><a href="{{doc.url}}">{{doc.title}}</a>
-        </li>
-        {% endfor %}
-      </ul>
-  </div>
+{% if page.hotlines_sidebar == true %}
   {% include hotlines.html %}
-</div>
 {% endif %}
 
-{% if page.topic == 'Mindfulness &amp; Meditation' %}
-<div class="sidebar">
-  <div class="sidebar__inner">
-    <!-- <p class="sidebar__header">{{page.topic | upcase}}</p> -->
-    <p class="sidebar__header">In this topic</p>
-      <ul class="sidebar__items">
-        {% assign sorted = site.mindfulness-and-meditation | sort: 'order' %}
-        {% for doc in sorted %}
-        {% assign current = nil %}
-          {% if page.url contains doc.url %}
-              {% assign current = 'current' %}
-          {% endif %}
-        <li class="{{current}}"><a href="{{doc.url}}">{{doc.title}}</a>
-        </li>
-        {% endfor %}
-      </ul>
-  </div>
-  {% include hotlines.html %}
-</div>
-{% endif %}
 
-{% if page.topic == 'The Brain' %}
-<div class="sidebar">
-  <div class="sidebar__inner">
-    <!-- <p class="sidebar__header">{{page.topic | upcase}}</p> -->
-    <p class="sidebar__header">In this topic</p>
-      <ul class="sidebar__items">
-        {% assign sorted = site.the-brain | sort: 'order' %}
-        {% for doc in sorted %}
-        {% assign current = nil %}
-          {% if page.url contains doc.url %}
-              {% assign current = 'current' %}
-          {% endif %}
-        <li class="{{current}}"><a href="{{doc.url}}">{{doc.title}}</a>
-        </li>
-        {% endfor %}
-      </ul>
-  </div>
-  {% include hotlines.html %}
-</div>
-{% endif %}
-
-{% if page.topic == 'Sexual Assault' %}
-<div class="sidebar">
-  {% include hotlines.html %}
-</div>
-{% endif %}
-
-{% if page.title == 'Homepage' %}
-<div class="sidebar">
-  {% include hotlines.html %}
-</div>
-{% endif %}
