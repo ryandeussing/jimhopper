@@ -39,7 +39,7 @@ Explore Buddhist practices, including concentration, mindfulness, loving-kindnes
 
 See also our Kripalu website bio pages: [Jim Hopper](https://www.kripalu.org/presenter/V0004678/jim_hopper), [David Schouela](https://kripalu.org/presenter/V0009499/david_schouela)
 
-**More info:**
+### More info:
 
 We invite you to join us for this innovative and highly experiential workshop at a leading retreat center for yoga and health.
 
@@ -47,9 +47,9 @@ Our presentations will be accompanied by plenty of time for questions and discus
 
 During free time you can enjoy being at Kripalu – a beautiful place with many wonderfully peaceful, healing and rejuvenating offerings, including hiking, hot tubs, and excellent food. See Kripalu's [Guest Information](http://www.kripalu.org/about/301/), including [Accommodations](http://www.kripalu.org/about/10/), [Arrival Information](http://www.kripalu.org/about/287/), [Dining](http://www.kripalu.org/about/298/), and [Healing Arts](http://www.kripalu.org/healing_arts/13/) (i.e., options for one-on-one care and support).
 
-Last but not least, if you are a mental health professional, you will recieve 23.5 hours of continuing education credits.
+Last but not least, if you are a mental health professional, you will receive 23.5 hours of continuing education credits.
 
-**Learning Objectives**
+### Learning Objectives
 
 Upon completing this course, participants will be able to:
 
@@ -72,9 +72,7 @@ Upon completing this course, participants will be able to:
 * Apply mindfulness, lovingkindness and compassion methods to increase acceptance, peace and happiness, and to decrease judgmental thinking and the strength of conditioned craving, aversion, and emotional responses including fear, shame, and guilt.
 
 
-[&lt;hr align="CENTER" size="4"&gt;](){: .cc-active}
-
-Recommended Websites
+## Recommended Websites
 
 [Center for Mindfulness in Medicine, Healthcare, and Society](http://www.umassmed.edu/cfm/index.aspx) in Wooster, Massachusetts - Founded by Jon Kabat-Zinn and colleagues, this organization developed Mindfulness-Based Stress Reduction (MBSR) and has trained people to run MBSR programs around the world. The web site has information about the their annual conference, finding colleagues who have adapted the MBSR approach to specific client groups, etc.
 
@@ -100,9 +98,7 @@ Pat Ogden's [Sensorimotor Psychotherapy Institute](http://www.sensorimotorpsycho
 
 [Mindfulness and Kindness - Inner Sources of Freedom and Happiness](http://www.jimhopper.com/mindfulness) - My webpage written especially for those living with the effects of trauma.
 
-[&lt;hr align="CENTER" size="3"&gt;](){: .cc-active}
-
-Recommended Books
+## Recommended Books
 
 Mindfulness in Plain English, by Bhante Henepola Gunaratana, 2002 – [Free on the web](http://www.vipassana.com/meditation/mindfulness_in_plain_english.php), or [Amazon.com](http://www.amazon.com/dp/0861713214/ref=nosim/?tag=jimhoppercom-20/)
 
@@ -150,4 +146,4 @@ Mindfulness in Plain English, by Bhante Henepola Gunaratana, 2002 – [Free on t
 
 [Buddhism with an Attitude](http://www.amazon.com/dp/1559392002/ref=nosim/?tag=jimhoppercom-20/), by Alan Wallace, 2003.
 
-Please feel free to email us with suggestions for other resources that have been helpful to you (remove 9s [inserted to prevent spam] and put 'Kripalu' in subject line: jim@jim99hopper.com or journey99well2010@gmail.com).
+Please feel free to email us with suggestions for other resources that have been helpful to you (put 'Kripalu' in subject line, jim@jimhopper.com).
