@@ -11,7 +11,7 @@ permalink: /services/kripalu/
 
 ## Jim Hopper, Ph.D. & David Schouela, RYT-500
 
-## **Hello and thanks for your interest in our annual Kripalu 5-day workshop/retreat in the late spring.**
+Hello and thanks for your interest in our annual Kripalu 5-day workshop/retreat in May.
 
 We are delighted and honored to have this opportunity to share how we're applying neuroscience, Buddhist psychology, meditation and yoga to transforming our lives and the lives of our clients.
 
@@ -53,10 +53,6 @@ Last but not least, if you are a mental health professional, you will recieve 23
 
 Upon completing this course, participants will be able to:
 
-&nbsp;
-
-&nbsp;
-
 * Describe key Buddhist psychological principals of craving, aversion, and ignorance.
 * Explain parallels between Buddhist principles of craving, aversion and ignorance and neuroscience research on these psychological and behavioral processes.
 * Describe the fundamental roles of craving, aversion, and ignorance in perception, cognition, emotion and behavior.
@@ -79,8 +75,6 @@ Upon completing this course, participants will be able to:
 [&lt;hr align="CENTER" size="4"&gt;](){: .cc-active}
 
 Recommended Websites
-
-&nbsp;
 
 [Center for Mindfulness in Medicine, Healthcare, and Society](http://www.umassmed.edu/cfm/index.aspx) in Wooster, Massachusetts - Founded by Jon Kabat-Zinn and colleagues, this organization developed Mindfulness-Based Stress Reduction (MBSR) and has trained people to run MBSR programs around the world. The web site has information about the their annual conference, finding colleagues who have adapted the MBSR approach to specific client groups, etc.
 
@@ -109,8 +103,6 @@ Pat Ogden's [Sensorimotor Psychotherapy Institute](http://www.sensorimotorpsycho
 [&lt;hr align="CENTER" size="3"&gt;](){: .cc-active}
 
 Recommended Books
-
-&nbsp;
 
 Mindfulness in Plain English, by Bhante Henepola Gunaratana, 2002 – [Free on the web](http://www.vipassana.com/meditation/mindfulness_in_plain_english.php), or [Amazon.com](http://www.amazon.com/dp/0861713214/ref=nosim/?tag=jimhoppercom-20/)
 
@@ -157,7 +149,5 @@ Mindfulness in Plain English, by Bhante Henepola Gunaratana, 2002 – [Free on t
 [The Attention Revolution](http://www.amazon.com/dp/0861712765/ref=nosim/?tag=jimhoppercom-20/), by Alan Wallace, 2006.
 
 [Buddhism with an Attitude](http://www.amazon.com/dp/1559392002/ref=nosim/?tag=jimhoppercom-20/), by Alan Wallace, 2003.
-
-&nbsp;
 
 Please feel free to email us with suggestions for other resources that have been helpful to you (remove 9s [inserted to prevent spam] and put 'Kripalu' in subject line: jim@jim99hopper.com or journey99well2010@gmail.com).
