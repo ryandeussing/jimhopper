@@ -1,7 +1,7 @@
 ---
 title: Kripalu
 layout: page
-custom_title:
+custom_title: Annual Kripalu Program
 class: topic services
 permalink: /services/kripalu/
 ---
