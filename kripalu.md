@@ -7,11 +7,10 @@ permalink: /services/kripalu/
 ---
 
 
-## May 15 - 20, 2016
-<br>Sunday night - Friday morning
+## Sunday night - Friday morning
 <br>Jim Hopper, Ph.D. & David Schouela, RYT-500
 
-**Hello and thanks for your interest in our annual Kripalu 5-day workshop/retreat in the late spring.**
+### **Hello and thanks for your interest in our annual Kripalu 5-day workshop/retreat in the late spring.**
 
 We are delighted and honored to have this opportunity to share how we're applying neuroscience, Buddhist psychology, meditation and yoga to transforming our lives and the lives of our clients.
 
@@ -76,7 +75,7 @@ Upon completing this course, participants will be able to:
 * Apply mindfulness, lovingkindness and compassion methods to increase acceptance, peace and happiness, and to decrease judgmental thinking and the strength of conditioned craving, aversion, and emotional responses including fear, shame, and guilt.
 
 
-[&lt;hr align="CENTER" size="4"&gt;]()
+[&lt;hr align="CENTER" size="4"&gt;](){: .cc-active}
 
 Recommended Websites
 
@@ -106,7 +105,7 @@ Pat Ogden's [Sensorimotor Psychotherapy Institute](http://www.sensorimotorpsycho
 
 [Mindfulness and Kindness - Inner Sources of Freedom and Happiness](http://www.jimhopper.com/mindfulness) - My webpage written especially for those living with the effects of trauma.
 
-[&lt;hr align="CENTER" size="3"&gt;]()
+[&lt;hr align="CENTER" size="3"&gt;](){: .cc-active}
 
 Recommended Books
 
