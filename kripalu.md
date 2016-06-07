@@ -8,9 +8,10 @@ permalink: /services/kripalu/
 
 
 ## Sunday night - Friday morning
-<br>Jim Hopper, Ph.D. & David Schouela, RYT-500
 
-**Hello and thanks for your interest in our annual Kripalu 5-day workshop/retreat in the late spring.**
+## Jim Hopper, Ph.D. & David Schouela, RYT-500
+
+## **Hello and thanks for your interest in our annual Kripalu 5-day workshop/retreat in the late spring.**
 
 We are delighted and honored to have this opportunity to share how we're applying neuroscience, Buddhist psychology, meditation and yoga to transforming our lives and the lives of our clients.
 
