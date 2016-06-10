@@ -153,7 +153,7 @@ Edward Deci and Richard Ryan are psychologists who have done the most to prove t
 
 Of course, we don’t need scientists to tell us that freedom is important. It’s recognized around the world as a central human right. But science can show things we might not expect about the importance of freedom in our personal and work lives. It can show the all-too-common ways that controlling rewards and punishments undermine the freedom of children and adults, and the consequences for their well-being.
 
-Numerous studies by Deci, Ryan, and other researchers have proven the benefits of having one’s freedom supported and promoted, as well as the costs of being manipulated or dominated with rewards or punishments and the costs of falling into the traps of rebellion and compliance.
+Numerous studies by Deci, Ryan, and other researchers have proven the benefits of having one’s freedom supported and promoted, as well as the costs of being manipulated or dominated with rewards or punishments, and the costs of falling into the traps of rebellion and compliance.
 
 Although they haven’t focused on how child abuse and exploitation undermine the development of healthy freedom, their work definitely sheds light on this issue.
 
