@@ -19,7 +19,7 @@ on this page
 * [Introduction to Traumatic Memories](#introduction-to-traumatic-memories)
 * [Normal Questions and Doubts](#normal-questions-and-dounts)
 * [Memory Is Not Like a DVD](#memory-is-not-like-a-dvd)
-* [There Is No One Thing That is “Memory”](#there-is-no-one-thing-that-is-memory)
+* [There Is No One Thing That is 'Memory'](#there-is-no-one-thing-that-is-memory)
 * [Fragmentary Memories May Be It](#fragmentary-memories-may-be-it)
 * [Final Introductory Thoughts](#final-introductory-thoughts)
 {: .onpage}
