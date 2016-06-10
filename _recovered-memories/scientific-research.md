@@ -114,9 +114,9 @@ This page documents scientific progress by those who study child abuse memories,
 
 Great progress has occurred in how such empirical evidence is described and explained in ways that do not confuse and mislead people, particularly in shifting from "repression" to more descriptive constructs like dissociation and explanatory constructs from cognitive science and the neuroscience of memory.
 
-## Special Issue, Journal of Psychiatry and Law
+## Special Issue, *The&nbsp;**Journal of Psychiatry and Law*
 
-The Summer 1996 volume of The Journal of Psychiatry and Law has six articles, including Scheflin and Brown's then-comprehensive review of scientific studies of recovered memories of sexual abuse, and Dalenberg's study of the accuracy of sexual abuse memories recovered in psychotherapy (she actually conducted interviews with both victims and perpetrators, some of whom confessed).
+The Summer 1996 volume of *The Journal of Psychiatry and Law* has six articles, including Scheflin and Brown's then-comprehensive review of scientific studies of recovered memories of sexual abuse, and Dalenberg's study of the accuracy of sexual abuse memories recovered in psychotherapy (she actually conducted interviews with both victims and perpetrators, some of whom confessed).
 
 **Editor’s Introduction, by Dan Brown and Alan W. Scheflin**
 
