@@ -22,22 +22,23 @@ Research findings on the long-term effects of child sexual abuse in males have b
 
 First, I want to recommend a paper by David Lisak, Ph.D. This paper contains many powerful quotations from interviews with men who were sexually abused as boys. Lisak groups the quotations into themes, and discusses them with remarkable insight and compassion. The reference and article themes are:
 
-Lisak, D. (1994). [The psychological impact of sexual abuse: Content analysis of interviews with male survivors](http://www.jimhopper.com/pdfs/Lisak1994.pdf). _Journal of Traumatic Stress, 7,_ 525-548.
+Lisak, D. (1994). [The psychological impact of sexual abuse: Content analysis of interviews with male survivors](http://www.jimhopper.com/pdfs/Lisak1994.pdf). *Journal of Traumatic Stress, 7,* 525-548.
 
-*   Anger
-*   Fear
-*   Homosexuality Issues
-*   Helplessness
-*   Isolation and Alienation
-*   Legitimacy
-*   Loss
-*   Masculinity Issues
-*   Negative Childhood Peer Relations
-*   Negative Schemas about People
-*   Negative Schemas about the Self
-*   Problems with Sexuality
-*   Self Blame/Guilt
-*   Shame/Humiliation
+* Anger
+* Fear
+* Homosexuality Issues
+* Helplessness
+* Isolation and Alienation
+* Legitimacy
+* Loss
+* Masculinity Issues
+* Negative Childhood Peer Relations
+* Negative Schemas about People
+* Negative Schemas about the Self
+* Problems with Sexuality
+* Self Blame/Guilt
+* Shame/Humiliation
+
 
 One man emailed me to share this experience: "reading [Lisak's article] was the first time I realized that other people have the same issues I have. I sat and cried when I read that article. Not the usual reaction to scholarly research, but I'm sure Prof. Lisak wouldn't mind." (Quoted with permission.)
 
@@ -45,51 +46,56 @@ One man emailed me to share this experience: "reading [Lisak's article] was the 
 
 Using standardized measures of symptoms, many researchers have found that men who were sexually abused in childhood, whether or not they seek out mental health services, may suffer from:
 
-*   Anxiety
-*   Depression
-*   Dissociation
-*   Hostility and anger
-*   Impaired relationships
-*   Low self-esteem
-*   Sexual dysfunction
-*   Sleep disturbance
-*   Suicidal ideas and behavior
+* Anxiety
+* Depression
+* Dissociation
+* Hostility and anger
+* Impaired relationships
+* Low self-esteem
+* Sexual dysfunction
+* Sleep disturbance
+* Suicidal ideas and behavior
+
 
 By the mid 1990s many researchers had found different combinations of the above symptoms, for example:
 
-*   Bagley, Wood, & Young, 1994
-*   Briere, Evans, Runtz, & Wall, 1988
-*   Collings, 1995
-*   Fromuth & Burkhart, 1989
-*   Hunter, 1991
-*   Olson, 1990
-*   Peters & Range, 1995
+* Bagley, Wood, & Young, 1994
+* Briere, Evans, Runtz, & Wall, 1988
+* Collings, 1995
+* Fromuth & Burkhart, 1989
+* Hunter, 1991
+* Olson, 1990
+* Peters & Range, 1995
 
-Note: See References (below) for full citations of the papers cited above and every other paper cited on this page, as well as many books.
+
+Note: See References on the [Additional Resources](/child-abuse/sexual-abuse-of-boys/additional-resources/) page of this section for full citations of the papers cited above and every other paper cited on this page, as well as many books.
 
 ## Reports from Therapists
 
 Similarly, therapists working with men who were sexually abused in childhood have conducted clinical case studies and reported consistent findings on long-term problems, including:
 
-*   Guilt and self-blame (e.g., Lew, 1988; Myers, 1989; Hunter, 1990)
-*   Low self-esteem and negative self-image (e.g., Lew, 1988; Myers, 1989)
-*   Problems with intimacy (e.g., Bruckner & Johnson, 1987; Dimock, 1988; Lew, 1988; Krug, 1989)
-*   Sexual problems, compulsions, or dysfunctions (Bruckner & Johnson, 1987; Johnson & Shrier, 1987; Dimock, 1988; Lew, 1988; Myers, 1989; Hunter, 1990)
-*   Substance abuse and depression (e.g., Krug, 1989)
-*   Symptoms of Post-Traumatic Stress Disorder (e.g., Myers, 1989)
+* Guilt and self-blame (e.g., Lew, 1988; Myers, 1989; Hunter, 1990)
+* Low self-esteem and negative self-image (e.g., Lew, 1988; Myers, 1989)
+* Problems with intimacy (e.g., Bruckner & Johnson, 1987; Dimock, 1988; Lew, 1988; Krug, 1989)
+* Sexual problems, compulsions, or dysfunctions (Bruckner & Johnson, 1987; Johnson & Shrier, 1987; Dimock, 1988; Lew, 1988; Myers, 1989; Hunter, 1990)
+* Substance abuse and depression (e.g., Krug, 1989)
+* Symptoms of Post-Traumatic Stress Disorder (e.g., Myers, 1989)
+
 
 Some of the long-term effects of sexual abuse are related to the development of gender identity. Again, years ago number of clinicians' case studies indicated that male survivors of childhood sexual abuse may experience:
 
-*   Attempts to "prove" their masculinity by having multiple female sexual partners, sexually victimizing others, and/or engaging in dangerous or violent behaviors (e.g., Bruckner & Johnson, 1987; Lew 1988)
-*   Confusion over their gender and sexual identities (e.g., Nasjleti, 1980; Bruckner & Johnson, 1987; Johnson & Shrier, 1987; Dimock, 1988; Lew, 1988; Myers, 1989; Gilgun & Reiser, 1990)
-*   Sense of being inadequate as men (e.g., Dimock, 1988; Lew, 1988; Myers, 1989; Pierce & Pierce, 1985)
-*   Sense of lost power, control, and confidence in their manhood (e.g., Myers, 1989)
+* Attempts to "prove" their masculinity by having multiple female sexual partners, sexually victimizing others, and/or engaging in dangerous or violent behaviors (e.g., Bruckner & Johnson, 1987; Lew 1988)
+* Confusion over their gender and sexual identities (e.g., Nasjleti, 1980; Bruckner & Johnson, 1987; Johnson & Shrier, 1987; Dimock, 1988; Lew, 1988; Myers, 1989; Gilgun & Reiser, 1990)
+* Sense of being inadequate as men (e.g., Dimock, 1988; Lew, 1988; Myers, 1989; Pierce & Pierce, 1985)
+* Sense of lost power, control, and confidence in their manhood (e.g., Myers, 1989)
+
 
 Finally, some clinicians have noted that sexually abused males often experience confusion and distress about their sexuality:
 
-*   Confusion about their own sexual orientation (e.g., Nasjleti, 1980; Dimock, 1988; Lew, 1988; Myers, 1989; Gilgun & Reiser, 1990)
-*   Fear that the sexual abuse has caused or will cause them to become homosexual (e.g., Nasjleti, 1980; Finkelhor, 1984; Dimock, 1988; Gilgun & Reiser, 1990; Lew, 1988; Myers, 1989)
-*   Homophobia, an irrational fear or intolerance of homosexuality (e.g., Gilgun & Reiser, 1990; Lew, 1988; Myers, 1989)
+* Confusion about their own sexual orientation (e.g., Nasjleti, 1980; Dimock, 1988; Lew, 1988; Myers, 1989; Gilgun & Reiser, 1990)
+* Fear that the sexual abuse has caused or will cause them to become homosexual (e.g., Nasjleti, 1980; Finkelhor, 1984; Dimock, 1988; Gilgun & Reiser, 1990; Lew, 1988; Myers, 1989)
+* Homophobia, an irrational fear or intolerance of homosexuality (e.g., Gilgun & Reiser, 1990; Lew, 1988; Myers, 1989)
+
 
 Again, males who've experienced unwanted or abusive sexual experiences as boys don't necessarily experience the problems and symptoms listed above, and even when they do it doesn't necessarily mean those experiences are their sole or primary cause. But these are common outcomes, and it can be very helpful to know, if you're struggling with such things, you're not alone.
 
@@ -97,26 +103,27 @@ Again, males who've experienced unwanted or abusive sexual experiences as boys d
 
 In addition to David Lisak's article on interviews with men (see above), there are three other classic articles on the sexual abuse of boys that I highly recommend.
 
-Holmes, G.R., Offen, L., Waller, G. (1997). **See no evil, hear no evil, speak no evil: Why do relatively few male victims of childhood sexual abuse receive help for abuse-related issues in adulthood?** _Clinical Psychology Review, 17,_ 69-88.
+Holmes, G.R., Offen, L., Waller, G. (1997). **See no evil, hear no evil, speak no evil: Why do relatively few male victims of childhood sexual abuse receive help for abuse-related issues in adulthood?** *Clinical Psychology Review, 17,* 69-88.
 
-*   The Extent of the Problem
-*   Why do professionals identify relatively few men with histories of childhood sexual abuse?
-    *   Does childhood abuse have little effect on men?
-    *   Are men who have been childhood victims seen by services other than the "helping professions"?
-    *   Do adult males tend not to disclose their experiences of childhood sexual abuse?
-        *   Men do not define their childhood experiences as abusive, and do not think that their abuse experiences have had a negative impact.
-        *   The consequences of disclosure are perceived as worse than the consequences of non-disclosure.
-        *   There is a paucity of services for adult male victims of childhood sexual abuse.
-    *   Do clinicians fail to suspect or enquire about histories of sexual abuse in adult male clients?
-        *   Clinicians' hypothesising about childhood abuse.
-        *   Clinicians' enquiries about childhood abuse.
-        *   Clinicians' belief in male clients' disclosures of childhood sexual abuse.
-        *   Clinicians' responses to disclosure of childhood sexual abuse.
-*   Conclusions
-    *   The social construction of the "problem" of male victims of childhood sexual abuse
-    *   Clinical implications
+* The Extent of the Problem
+* Why do professionals identify relatively few men with histories of childhood sexual abuse?
+  * Does childhood abuse have little effect on men?
+  * Are men who have been childhood victims seen by services other than the "helping professions"?
+  * Do adult males tend not to disclose their experiences of childhood sexual abuse?
+    * Men do not define their childhood experiences as abusive, and do not think that their abuse experiences have had a negative impact.
+    * The consequences of disclosure are perceived as worse than the consequences of non-disclosure.
+    * There is a paucity of services for adult male victims of childhood sexual abuse.
+  * Do clinicians fail to suspect or enquire about histories of sexual abuse in adult male clients?
+    * Clinicians' hypothesising about childhood abuse.
+    * Clinicians' enquiries about childhood abuse.
+    * Clinicians' belief in male clients' disclosures of childhood sexual abuse.
+    * Clinicians' responses to disclosure of childhood sexual abuse.
+* Conclusions
+  * The social construction of the "problem" of male victims of childhood sexual abuse
+  * Clinical implications
 
-Holmes, W. C. & Slap, G. B. (1998). **Sexual abuse of boys: Definition, prevalence, correlates, sequelae, and management.** _JAMA,_ Dec 2, 280(21), 1855-1162.
+
+Holmes, W. C. & Slap, G. B. (1998). **Sexual abuse of boys: Definition, prevalence, correlates, sequelae, and management.** *JAMA,* Dec 2, 280(21), 1855-1162.
 
 Objective: To clarify the definition of sexual abuse of boys, update estimates of its prevalence, and explore critically its reported correlates, sequelae, and management.
 
@@ -130,13 +137,13 @@ Data Synthesis: We identified 166 studies representing 149 sexual abuse samples.
 
 Conclusions: Sexual abuse of boys appears to be common, underreported, underrecognized, and undertreated. Future study requires clearer definitions of abuse, improved sampling, more rigorous data collection, more sophisticated data analyses, and better assessment of management and treatment strategies. Regardless, health care professionals should be more aware of and sensitive to the possibility of sexual abuse in their male patients.
 
-Dube, S. R., et al. (2005). **Long-term consequences of childhood sexual abuse by gender of victim**. _American Journal of Preventive Medicine, 28,_ 430-438.
+Dube, S. R., et al. (2005). **Long-term consequences of childhood sexual abuse by gender of victim**. *American Journal of Preventive Medicine, 28,* 430-438.
 
 Background: Childhood sexual abuse (CSA) is a worldwide problem. Although most studies on the long-term consequences of CSA have focused on women, sexual abuse of both boys and girls is common. Thus, a comparison of the long-term effects of CSA by gender of the victim will provide perspective on the need for future research, prevention activities, and treatment of survivors.
 
 Methods: A retrospective cohort study was conducted from 1995 to 1997 among 17,337 adult HMO members in San Diego, California. Participants completed a survey about abuse or household dysfunction during childhood, and multiple other health-related issues. Multivariate logistic regression was used to examine the relationships between severity of CSA (intercourse vs no intercourse) and long-term health and social problems (substance use and abuse, mental illness, and current problems with marriage and family) by gender of victim. Models controlled for exposure to other forms of adverse childhood experiences that co-occur with CSA. Among men, the relationship between the gender of the CSA perpetrator to the outcomes was also examined.
 
-Results: Contact CSA was reported by 16% of males and 25% of females. Men reported female perpetration of CSA nearly 40% of the time, and women reported female perpetration of CSA 6% of the time. CSA significantly increased the risk of the outcomes. The magnitude of the increase was similar for men and women. For example, compared to reporting no sexual abuse, a history of suicide attempt was more than twice as likely among both men and women who experienced CSA (p < 0.05). Compared with those who did not report CSA, men and women exposed to CSA were at a 40% increased risk of marrying an alcoholic, and a 40% to 50% increased risk of reporting current problems with their marriage (p < 0.05).
+Results: Contact CSA was reported by 16% of males and 25% of females. Men reported female perpetration of CSA nearly 40% of the time, and women reported female perpetration of CSA 6% of the time. CSA significantly increased the risk of the outcomes. The magnitude of the increase was similar for men and women. For example, compared to reporting no sexual abuse, a history of suicide attempt was more than twice as likely among both men and women who experienced CSA (p &lt; 0.05). Compared with those who did not report CSA, men and women exposed to CSA were at a 40% increased risk of marrying an alcoholic, and a 40% to 50% increased risk of reporting current problems with their marriage (p &lt; 0.05).
 
 Conclusions: In this cohort of adult HMO members, experiencing CSA was common among both men and women. The long-term impact of CSA on multiple health and social problems was similar for both men and women. These findings strongly indicate that boys and girls are vulnerable to this form of childhood maltreatment; the similarity in the likelihood for multiple behavioral, mental, and social outcomes among men and women suggests the need to identify and treat all adults affected by CSA.
 
@@ -192,13 +199,13 @@ Finkelhor, D. (1984).&nbsp;*Child sexual abuse: New theory and research.*&nbsp;N
 
 Finkelhor, D., Hotaling, G., Lewis, I. A., Smith, C. (1990). Sexual abuse in a national survey of adult men and women: Prevalence, characteristics, and risk factors.&nbsp;*Child Abuse & Neglect, 14,*&nbsp;19-28.
 
-Freeman-Longo, R. E. (1986). The impact of sexual victimization on males.&nbsp;*Child Abuse *&* Neglect, 10,*&nbsp;411-414.
+Freeman-Longo, R. E. (1986). The impact of sexual victimization on males.&nbsp;*Child Abuse \*&* Neglect, 10,\* 411-414.
 
 Friedrich, W. N., Berliner, L., Urquiza, A. J., & Beilke, R. L. (1988). Brief diagnostic group treatment of sexually abused boys.&nbsp;*Journal of Interpersonal Violence, 3,*&nbsp;331-343.
 
 Fritz, G. S., Stoll, K., & Wagner, N. A. (1981). A comparison of males and females who were sexually abused as children.&nbsp;*Journal of Sex and Marital Therapy, 7,*&nbsp;4-59.
 
-Fromuth, M. E. & Burkhart, B. R. (1989). Long-term psychological correlates of childhood sexual abuse in two samples of college men.&nbsp;*Child Abuse *&* Neglect, 13,*&nbsp;533-542.
+Fromuth, M. E. & Burkhart, B. R. (1989). Long-term psychological correlates of childhood sexual abuse in two samples of college men.&nbsp;*Child Abuse \*&* Neglect, 13,\* 533-542.
 
 Fromuth, M. E. & Burkhart, B. R. (1987). Childhood sexual victimization among college men: Definitional and methodological issues.&nbsp;*Victims and Violence, 2,*&nbsp;241-253.
 
@@ -236,13 +243,13 @@ Kendall-Tackett, K. A. & Simon, A. F. (1992). A comparison of the abuse experien
 
 King, N. (1995).&nbsp;*Speaking our truth: Voices of courage and healing for male survivors of childhood sexual abuse.*&nbsp;San Francisco: Harpercollins.
 
-Kinzl, J. F., Mangweth, B., Traweger, C., Biebl, W. (1996). Sexual dysfunction in males: Significance of adverse childhood experiences.&nbsp;*Child Abuse *&* Neglect, 20,*&nbsp;759-766.
+Kinzl, J. F., Mangweth, B., Traweger, C., Biebl, W. (1996). Sexual dysfunction in males: Significance of adverse childhood experiences.&nbsp;*Child Abuse \*&* Neglect, 20,\* 759-766.
 
-Krug, R. S. (1989). Adult male reports of childhood sexual abuse by mothers: Case descriptions, motivations and long-term consequences.&nbsp;*Child Abuse *&* Neglect, 13,*&nbsp;111-119.
+Krug, R. S. (1989). Adult male reports of childhood sexual abuse by mothers: Case descriptions, motivations and long-term consequences.&nbsp;*Child Abuse \*&* Neglect, 13,\* 111-119.
 
 Kuhn, J. (2000).&nbsp;*In cabin six: An anthology of poetry by male survivors of sexual abuse.*&nbsp;Atascadero, CA: Impact Publishing
 
-Lawson, C. (1993). Mother-son sexual abuse: Rare or underreported? A critique of the research.&nbsp;*Child Abuse *&* Neglect, 17,*&nbsp;261-269.
+Lawson, C. (1993). Mother-son sexual abuse: Rare or underreported? A critique of the research.&nbsp;*Child Abuse \*&* Neglect, 17,\* 261-269.
 
 Levesque, R. J. R. (1994). Sex differences in the experience of child sexual victimization.&nbsp;*Journal of Family Violence, 9,*&nbsp;357-369.
 
@@ -268,9 +275,9 @@ Nasjleti, M. (1980). *Suffering in silence: The male incest victim.*&nbsp;Child 
 
 Olson, P. E. (1990). The sexual abuse of boys: A study of the long-term psychological effects. In M. Hunter (Ed.),&nbsp;*The sexually abused male: Vol. 1. Prevalence, impact and treatment*&nbsp;(pp.137-152). Lexington, MA: Lexington Books.
 
-Peters, D. K. & Range, L. M. (1995). Childhood sexual abuse and current suicidality in college women and men.&nbsp;*Child Abuse *&* Neglect, 19,*&nbsp;335-341.
+Peters, D. K. & Range, L. M. (1995). Childhood sexual abuse and current suicidality in college women and men.&nbsp;*Child Abuse \*&* Neglect, 19,\* 335-341.
 
-Pierce, R. & Pierce, L. H. (1985). The sexually abused child: A comparison of male and female victims. Special Issue: C. Henry Kempe memorial research issue.&nbsp;*Child Abuse *&* Neglect, 9,*&nbsp;191-199.
+Pierce, R. & Pierce, L. H. (1985). The sexually abused child: A comparison of male and female victims. Special Issue: C. Henry Kempe memorial research issue.&nbsp;*Child Abuse \*&* Neglect, 9,\* 191-199.
 
 Risin, L. I. & Koss, M. P. (1987). The sexual abuse of boys: Prevalence and descriptive characteristics of childhood victimizations.&nbsp;*Journal of Interpersonal Violence, 2,*&nbsp;309-323.
 
@@ -280,7 +287,7 @@ Schacht, A. J., Kerlinsky, D., & Carlson, C. (1990). Group therapy with sexually
 
 Siegel, J. M., Sorenson, S. B., Golding, J. M., Burman, M. A, & Stein, J. A. (1987). The prevalence of childhood sexual assault: The Los Angeles epidemiology catchment area project.&nbsp;*American Journal of Epidemiology, 126,*&nbsp;1141-1153.
 
-Summit, R. C. (1983). The child sexual abuse accommodation syndrome.&nbsp;*Child Abuse *&* Neglect, 7,*&nbsp;133-146.
+Summit, R. C. (1983). The child sexual abuse accommodation syndrome.&nbsp;*Child Abuse \*&* Neglect, 7,\* 133-146.
 
 Urquiza, A. & Capra, M. (1990). The impact of sexual abuse: Initial and long-term effects. In M. Hunter (Ed.)&nbsp;*The sexually abused male: Prevalence, impact, and treatment. Vol. 1.*&nbsp;Lexington, MA: Lexington Books.
 
