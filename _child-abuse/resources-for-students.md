@@ -8,7 +8,7 @@ description:
 nexturl:
 nexttitle:
 prevurl:
-prevtitle:
+prevtitle: 
 ---
 
 
