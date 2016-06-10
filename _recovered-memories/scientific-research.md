@@ -510,11 +510,11 @@ Dr. Freyd and Dr. Chris Brewin organized the [1998 Meeting on Trauma and Cogniti
 
 Psychologist John Briere, of the University of Southern California (USC) Medical School, is a highly respected researcher and clinician in the field of traumatic stress studies. He has written numerous articles and several books on the lasting effects of child sexual abuse and the treatment of adults sexually abused in childhood. These include the papers below, which report research studies on amnesia for and delayed recall of memories of child sexual abuse.
 
-**[Briere,](){: .cc-active} J., & Conte, J. (1993). Self-reported amnesia for abuse in adults molested as children. *Journal of Traumatic Stress, 6,* 21-31.**
+**Briere, J., & Conte, J. (1993). Self-reported amnesia for abuse in adults molested as children. *Journal of Traumatic Stress, 6,* 21-31.**
 
 Abstract: "A sample of 450 adult clinical subjects reporting sexual abuse histories were studied regarding their repression of sexual abuse incidents. A total of 267 subjects (59.3%) identified some period in their lives, before age 18, when they had no memory of their abuse. Variables most predictive of abuse-related amnesia were greater current psychological symptoms, molestation at an early age, extended abuse, and variables reflecting especially violent abuse (e.g., victimization by multiple perpetrators, having been physically injured as a result of the abuse, victim fears of death if she or he disclosed the abuse to others). In contrast, abuse characteristics more likely to produce psychological conflict (e.g., enjoyment of the abuse, acceptance of bribes, feelings of guilt or shame) were not associated with abuse-related amnesia. The results of this study are interpreted as supporting Freud's initial 'seduction hypothesis,' as well as more recent theories of post-traumatic stress disorder."
 
-**[Elliott,](){: .cc-active} D. M., & Briere, J. (1995). Posttraumatic stress associated with delayed recall of sexual abuse: A general population study. *Journal of Traumatic Stress, 8,* 629-647.**
+**Elliott, D. M., & Briere, J. (1995). Posttraumatic stress associated with delayed recall of sexual abuse: A general population study. *Journal of Traumatic Stress, 8,* 629-647.**
 
 Abstract: "This study examined delayed recall of childhood sexual abuse in a stratified random sample of the general population (N = 505). Of participants who reported a history of sexual abuse, 42% described some period of time when they had less memory of the abuse than they did at the time of data collection. No demographic differences were found between subjects with continuous recall and those who reported delayed recall. However, delayed recall was associated with the use of threats at the time of the abuse. Subjects who had recently recalled aspects of their abuse reported particularly high levels of posttraumatic symptomatology and self difficulties (as measured by the IES, SCL, and TSI) at the time of data collection compared to other subjects."
 
@@ -532,11 +532,10 @@ Ross Cheit is a political scientist at Brown University who conducts important r
 
 Here's an outline of the Archive's Corroborated Cases of Recovered Memory:
 
-53 Cases from Legal Proceedings
+* 53 Cases from Legal Proceedings
+* 25 Clinical Cases and other Academic/Scientific Case Studies
+* 33 Other Corroborated Cases of Recovered Memory
 
-25 Clinical Cases and other Academic/Scientific Case Studies
-
-33 Other Corroborated Cases of Recovered Memory
 
 ## Elizabeth Loftus
 
