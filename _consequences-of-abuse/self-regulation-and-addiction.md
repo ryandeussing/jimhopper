@@ -1,5 +1,5 @@
 ---
-title: Self-regulation &amp; Addictions
+title: 'Self-regulation &amp; Addictions'
 custom_title:
 order: 4
 subcollection:
@@ -12,16 +12,17 @@ prevtitle:
 ---
 
 
-<ul class="onpage"><p class="onpage__header">on this page</p>
-  <li><a href="#losing-control">Losing Control</a></li>
-  <li><a href="#common-problems">Common Problems</a></li>
-  <li><a href="#why">Why?</a></li>
-  <li><a href="#connected-to-relationships">Connected to Relationships</a></li>
-  <li><a href="#deal-with-this-early-with-as-much-hope-help-and-patience-as-possible">Deal With This Early, With As Much Hope, Help, and Patience As Possible</a></li>
-</ul>
+on this page
+{: .onpage__header}
 
-It's about managing emotions, impulses, wants and needs.
-These aren't always easy, but are keys to things getting better.
+* [Losing Control](#losing-control)
+* [Common Problems](#common-problems)
+* [Why?](#why)
+* [Connected to Relationships](#connected-to-relationships)
+* [Deal With This Early, With As Much Hope, Help, and Patience As Possible](#deal-with-this-early-with-as-much-hope-help-and-patience-as-possible)
+{: .onpage}
+
+It's about managing emotions, impulses, wants and needs. These aren't always easy, but are keys to things getting better.
 
 ## Losing Control
 
@@ -77,9 +78,9 @@ Instead they may have, through the example of their own behavior, taught you to 
 
 Self-regulation problems can have a big impact on one’s current relationships, especially with important people in one’s life.
 
-## Deal With This Early, With As Much Hope, Help, and Patience As Possible</a>
+## Deal With This Early, With As Much Hope, Help, and Patience As Possible
 
-These problems with self-regulation and addictions are usually a big focus in the ‘first stage of recovery,’ as described by Judith Herman’s Stages of Recovery [link] [](http://1in6.org/recovery-and-therapy/stages-of-recovery/)model.
+These problems with self-regulation and addictions are usually a big focus in the ‘first stage of recovery,’ as described by Judith Herman’s Stages of Recovery model.
 
 It really is best to start dealing with these problems as soon as possible because (as you know better than anyone else) they can cause so many problems and lots of suffering for you and other people in your life.
 
