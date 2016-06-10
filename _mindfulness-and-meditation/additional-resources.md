@@ -68,8 +68,6 @@ Finally, first I recommend books for everyone, then books specifically written f
 
 [Start Where You Are: A Guide to Compassionate Living](http://www.amazon.com/dp/1570628394/ref=nosim/?tag=jimhoppercom-20/), by Pema Chodron
 
-[Everyday Blessings: The Inner Work of Mindful Parenting](http://www.amazon.com/dp/0786883146/ref=nosim/?tag=jimhoppercom-20/), by Myla Kabat-Zinn and Jon Kabat-Zinn
-
 [Buddhism for Mothers: A Calm Approach to Caring for Yourself and Your Children](http://www.amazon.com/dp/1741140102/ref=nosim/?tag=jimhoppercom-20/), by Sarah Napthali
 
 [Mindful Parenting: Meditations, Verses, and Visualizations for a More Joyful Life](http://www.amazon.com/dp/0977345505/ref=nosim/?tag=jimhoppercom-20/), by Scott Rogers
