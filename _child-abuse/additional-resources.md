@@ -12,7 +12,7 @@ prevtitle:
 ---
 
 
-This section consists primarily of links to websites, but I also suggest three hotlines, a referral service that can help you find a therapist in your area, some books and an article on the international prevalence of child sexual abuse. (For resources specifically for parents and caregivers of abused children, see [Info for Parents & Caregivers](/child-abuse/info-for-parents-and-caregivers/).)
+This section consists primarily of links to websites, but I also suggest three hotlines, a referral service that can help you find a therapist in your area, some books and an article on the international prevalence of child sexual abuse. (For resources specifically for parents and caregivers of abused children, see [Resources for Parents & Caregivers](/child-abuse/info-for-parents-and-caregivers/).)
 
 If you are looking for a therapist or counselor in the United States, even if only for a couple of consultations, the Sidran Foundation has an extensive list of therapists and clinics around the country that specialize in treating people with histories of severe child abuse. See [Help Desk](https://www.sidran.org/help-desk/).
 
@@ -109,4 +109,3 @@ If reading material on these issues may disturb or upset you, remember to take c
 [The Trauma Center](http://www.traumacenter.org/)&nbsp;The Trauma Center, founded by Bessel van der Kolk, an leading expert in the field of traumatic stress studies, is a clinic affiliated with the Boston University School of Medicine. The site includes [publications and products](http://www.traumacenter.org/products/products_landing.php) from Dr. van der Kolk and his colleagues at the The Trauma Center.
 
 [Tips for Abuse Survivors and Their Dentists](http://www.dentalfearcentral.org/abuse_survivors.html)&nbsp;As indicated by its name, this page at [Dental Fear Central](http://www.dentalfearcentral.org/index.html) was written for abuse survivors and their dentists, and has some helpful advice on dealing with many of the issues and difficulties that can arise.
-
