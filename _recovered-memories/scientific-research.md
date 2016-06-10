@@ -114,7 +114,7 @@ This page documents scientific progress by those who study child abuse memories,
 
 Great progress has occurred in how such empirical evidence is described and explained in ways that do not confuse and mislead people, particularly in shifting from "repression" to more descriptive constructs like dissociation and explanatory constructs from cognitive science and the neuroscience of memory.
 
-## Special Issue, *The&nbsp;**Journal of Psychiatry and Law*
+## Special Issue, *The \*\*Journal of Psychiatry and Law*
 
 The Summer 1996 volume of *The Journal of Psychiatry and Law* has six articles, including Scheflin and Brown's then-comprehensive review of scientific studies of recovered memories of sexual abuse, and Dalenberg's study of the accuracy of sexual abuse memories recovered in psychotherapy (she actually conducted interviews with both victims and perpetrators, some of whom confessed).
 
@@ -420,7 +420,7 @@ Excerpt: "[Janet wrote that when] people become too upset to tell their story, t
 
 ## Judith Lewis Herman
 
-These four papers by Harvard psychiatrist Judith Herman and her colleagues Mary Harvey and Emily Schatzow address fundamental issues in the memory controversy. Judith Herman is the author of [*Trauma and Recovery*](https://www.amazon.com/dp/0465061710?ie=UTF8&amp;ref_=nosim&amp;tag=jimhoppercom-20%2F), which is widely viewed as the best book ever written on psychological trauma and recovery (it includes an excellent chapter entitled "Remembrance and Mourning").
+These four papers by Harvard psychiatrist Judith Herman and her colleagues Mary Harvey and Emily Schatzow address fundamental issues in the memory controversy. Judith Herman is the author of [*Trauma and Recovery*](https://www.amazon.com/dp/0465061710/ref=nosim/?tag=jimhoppercom-20/), which is widely viewed as the best book ever written on psychological trauma and recovery (it includes an excellent chapter entitled "Remembrance and Mourning").
 
 The first paper below was published in 1987, before the False Memory Syndrome Foundation had come into existence. Herman and Schatzow present evidence that patients may recover *verifiable* memories of childhood sexual abuse in the course of group treatment. In the second paper, Harvey and Herman show how the knowledge of clinicians should inform scientific research on traumatic memory. In the third paper, Herman articulates the "dialectic of psychological trauma" which characterizes both individuals' struggles with their traumatic memories and social controversies like that over recovered memories. She illuminates the ways that victims, perpetrators and bystanders respond to crimes ranging from organized political violence to the private crimes of sexual and domestic violence – and the moral obligations of mental health professionals who find themselves embroiled in such situations. I have provided an extended excerpt in which Herman addresses the utility of the construct of dissociation for understanding paradoxical qualities of traumatic memories. In the fourth paper and most recent paper, Herman and Harvey review 77 intake evaluations conducted in their own outpatient program, and report that trauma-specific reminders and recent life crises, not previous psychotherapy, are the typical precipitants of delayed recall.
 
@@ -504,17 +504,17 @@ Dr. Freyd's [web site](http://dynamic.uoregon.edu/jjf/) has a wealth of helpful 
 
 Some of Dr. Freyd's most important work addresses how media coverage of the recovered memory debate in general, and certain research studies in particular, confuses and misleads many people: [Commentary: Response to 17 February 2003 Media Reports on Loftus' Bugs Bunny Study](http://dynamic.uoregon.edu/jjf/bugs.html) - [Misleading and confusing media portrayals of memory research](http://dynamic.uoregon.edu/jjf/aaas04/FreydAAAS.pdf)
 
-Dr. Freyd and Dr. Chris Brewin organized the [1998 Meeting on Trauma and Cognitive Science](http://dynamic.uoregon.edu/traumaconf.html). At the site there is an order form for a set of 10 tapes of presentations by leading researchers. The conference was offered by the University of Oregon's Institute of Cognitive and Decision Sciences, Department of Psychology, and Center for the Study of Women in Society. Its aim was "to share knowledge and theory relvant to understanding the way in which trauma interacts with information processing," including "a particular focus on how traumatic information is encoded, stored, and later retrieved from memory." The conference had a research focus, but also addressed the significant ethical, clinical, and societal implications of the researchers' work. Speakers represented a broad spectrum of research approaches and points of view. [*Trauma and Cognitive Science*]() is a book based on the conference.
+Dr. Freyd and Dr. Chris Brewin organized the [1998 Meeting on Trauma and Cognitive Science](http://dynamic.uoregon.edu/traumaconf.html). At the site there is an order form for a set of 10 tapes of presentations by leading researchers. The conference was offered by the University of Oregon's Institute of Cognitive and Decision Sciences, Department of Psychology, and Center for the Study of Women in Society. Its aim was "to share knowledge and theory relvant to understanding the way in which trauma interacts with information processing," including "a particular focus on how traumatic information is encoded, stored, and later retrieved from memory." The conference had a research focus, but also addressed the significant ethical, clinical, and societal implications of the researchers' work. Speakers represented a broad spectrum of research approaches and points of view. [*Trauma and Cognitive Science*](){: .cc-active} is a book based on the conference.
 
 ## John Briere
 
 Psychologist John Briere, of the University of Southern California (USC) Medical School, is a highly respected researcher and clinician in the field of traumatic stress studies. He has written numerous articles and several books on the lasting effects of child sexual abuse and the treatment of adults sexually abused in childhood. These include the papers below, which report research studies on amnesia for and delayed recall of memories of child sexual abuse.
 
-**[Briere,]() J., & Conte, J. (1993). Self-reported amnesia for abuse in adults molested as children. *Journal of Traumatic Stress, 6,* 21-31.**
+**[Briere,](){: .cc-active} J., & Conte, J. (1993). Self-reported amnesia for abuse in adults molested as children. *Journal of Traumatic Stress, 6,* 21-31.**
 
 Abstract: "A sample of 450 adult clinical subjects reporting sexual abuse histories were studied regarding their repression of sexual abuse incidents. A total of 267 subjects (59.3%) identified some period in their lives, before age 18, when they had no memory of their abuse. Variables most predictive of abuse-related amnesia were greater current psychological symptoms, molestation at an early age, extended abuse, and variables reflecting especially violent abuse (e.g., victimization by multiple perpetrators, having been physically injured as a result of the abuse, victim fears of death if she or he disclosed the abuse to others). In contrast, abuse characteristics more likely to produce psychological conflict (e.g., enjoyment of the abuse, acceptance of bribes, feelings of guilt or shame) were not associated with abuse-related amnesia. The results of this study are interpreted as supporting Freud's initial 'seduction hypothesis,' as well as more recent theories of post-traumatic stress disorder."
 
-**[Elliott,]() D. M., & Briere, J. (1995). Posttraumatic stress associated with delayed recall of sexual abuse: A general population study. *Journal of Traumatic Stress, 8,* 629-647.**
+**[Elliott,](){: .cc-active} D. M., & Briere, J. (1995). Posttraumatic stress associated with delayed recall of sexual abuse: A general population study. *Journal of Traumatic Stress, 8,* 629-647.**
 
 Abstract: "This study examined delayed recall of childhood sexual abuse in a stratified random sample of the general population (N = 505). Of participants who reported a history of sexual abuse, 42% described some period of time when they had less memory of the abuse than they did at the time of data collection. No demographic differences were found between subjects with continuous recall and those who reported delayed recall. However, delayed recall was associated with the use of threats at the time of the abuse. Subjects who had recently recalled aspects of their abuse reported particularly high levels of posttraumatic symptomatology and self difficulties (as measured by the IES, SCL, and TSI) at the time of data collection compared to other subjects."
 
@@ -547,10 +547,9 @@ You may have heard of Dr. Loftus, and seen her quoted approvingly and uncritical
 Unfortunately, many reporters and journalists have failed to critically evaluate her claims. Nor have they addressed three crucial facts about her work:
 
 1. Loftus herself conducted and published a study in which nearly *one in five* women who reported childhood sexual abuse also reported completely forgetting the abuse for some period of time and recovering the memory of it later.
-
 2. Loftus misrepresented the facts of a legal case in a scholarly paper and, after finally apologizing to the victim of her misrepresentations, continued to promote the article with falsehoods. (See [Consider the Evidence for Elizabeth Loftus' Scholarship and Accuracy](http://www.rememberingdangerously.com/), by Jennifer Hoult, whose case Loftus misrepresented.)
-
 3. Loftus was aware that those who study traumatic memory had by the early 1990s, based on a great deal of research and clinical experience, used the construct of dissociation to account for the majority of recovered memories. However, she continued to focus on and attack "repression" and "repressed memories," which has the effect of confusing and misleading many people.
+
 
 **Here is the study almost never mentioned by Dr. Loftus or the media:**
 
