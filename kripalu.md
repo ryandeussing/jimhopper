@@ -9,11 +9,9 @@ permalink: /services/kripalu/
 
 ## Buddhism & Yoga: Harnessing Key Brain Circuitries for Healing & Happiness
 
-## Sunday night - Friday morning
-
 ## Jim Hopper, Ph.D. & David Schouela, RYT-500
 
-Hello and thanks for your interest in our annual Kripalu 5-day workshop/retreat in May.
+Hello and thanks for your interest in our annual Kripalu 5-day workshop/retreat in May (Sunday night through Friday morning).
 
 We are delighted and honored to have this opportunity to share how we're applying neuroscience, Buddhist psychology, meditation and yoga to transforming our lives and the lives of our clients.
 
