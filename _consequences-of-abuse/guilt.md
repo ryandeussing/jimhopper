@@ -11,8 +11,8 @@ prevurl:
 prevtitle:
 ---
 
-
-<ul class="onpage"><p class="onpage__header">on this page</p>
+<p class="onpage__header">on this page</p>
+<ul class="onpage">
   <li><a href="#what-its-about">What It’s About</a></li>
   <li><a href="#about-what-happened-and-how-you-responded">About What Happened and How You Responded</a></li>
   <li><a href="#unfair-extreme-and-harmful-guilt">Unfair, Extreme, and Harmful Guilt</a></li>
