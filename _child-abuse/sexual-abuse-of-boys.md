@@ -22,7 +22,6 @@ As found on the menu (at right or bottom), this section has pages on [statistics
 
 > There are people who understand and can help.
 
-Other pages under [Unwanted or Abusive Childhood Experiences](/child-abuse/) and elsewhere on my site also provide information and resources that can be helpful to men dealing with this issue and those who care about them.
+Other pages under [Unwanted or Abusive Childhood Experiences](/child-abuse/overview/) and elsewhere on my site also provide information and resources that can be helpful to men dealing with this issue and those who care about them.
 
 Finally, for many more resources, including free and anonymous online peer support groups, visit [1in6.org](http://www.1in6.org/).
-
