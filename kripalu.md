@@ -118,7 +118,7 @@ Pat Ogden's [Sensorimotor Psychotherapy Institute](http://www.sensorimotorpsycho
 [The Dhamma Brothers](http://www.dhammabrothers.com/), [Doing Time, Doing Vipassana](http://www.dhamma.org/en/dtdv.htm) and [Changing From Inside](http://www.prison.dhamma.org/cfi.htm) - Films on prisoners doing intensive vipassana or 'Insight' meditation retreats (in the Goenka vipassana tradition, which is more structured and more focused on body scan meditation than retreats at the Insight Meditation Society).
 {: .present-before-paste}
 
-[Mindfulness & Meditation](/mindfulness-and-meditation/) - Section of my website, written with special consideration for those living with the effects of trauma.
+[Mindfulness & Meditation](../mindfulness-and-meditation/) - Section of my website, written with special consideration for those living with the effects of trauma.
 {: .present-before-paste}
 
 ## Recommended Books
