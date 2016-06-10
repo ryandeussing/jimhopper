@@ -108,10 +108,9 @@ In short, we use psychological constructs to describe and explain people's inabi
 
 As noted above, no matter which constructs we use, we should never confuse constructs with empirical evidence. And no matter which constructs we prefer, this does not change the empirical evidence we already have (though our constructs can influence our interpretations of the evidence). Finally, better constructs lead to better research questions and methods, better empirical evidence, better interpretations of evidence and still-better constructs. . . That's the self-perpetuating process of scientific progress, of course.
 
-This page documents scientific progress by those who study child abuse memories, progress that was already established by the mid-1990s:
+This page documents scientific progress by those who study child abuse memories, progress that was already established by the mid-1990s.
 
-* A substantial body of empirical evidence of amnesia and delayed recall for abuse has existed for many years.
-
+> A substantial body of empirical evidence of amnesia and delayed recall for abuse has existed for many years.
 
 Great progress has occurred in how such empirical evidence is described and explained in ways that do not confuse and mislead people, particularly in shifting from "repression" to more descriptive constructs like dissociation and explanatory constructs from cognitive science and the neuroscience of memory.
 
