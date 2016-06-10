@@ -112,7 +112,7 @@ Mindfulness in Plain English, by Bhante Henepola Gunaratana, 2002 – [Free on t
 
 [The Compassionate Mind: A New Approach to Life's Challenges](http://www.amazon.com/dp/1572248408/ref=nosim/?tag=jimhoppercom-20/), by Paul Gilbert, 2009.
 
-&lt;a href="http://www.amazon.com/dp/1462518583/ref=nosim/?tag=jimhoppercom-20/" target="_blank"" &gt;Mindfulness-Oriented Interventions for Trauma: Integrating Contemplative Practices, by Victoria Follette, John Briere, Deborah Rozelle, James Hopper & David Rome, 2015.
+[Mindfulness-Oriented Interventions for Trauma: Integrating Contemplative Practices](http://www.amazon.com/dp/1462518583/ref=nosim/?tag=jimhoppercom-20/), by Victoria Follette, John Briere, Deborah Rozelle, James Hopper & David Rome, 2015.
 
 [Overcoming Trauma through Yoga: Reclaiming Your Body](http://www.amazon.com/dp/1556439695/ref=nosim/?tag=jimhoppercom-20/), by David Emerson, 2015.
 
