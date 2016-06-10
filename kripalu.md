@@ -7,7 +7,7 @@ permalink: /services/kripalu/
 ---
 
 
-## Buddhism and Yoga: Harnessing Key Brain Circuitries for Healing and Happiness
+## Buddhism & Yoga: Harnessing Key Brain Circuitries for Healing & Happiness
 
 ## Sunday night - Friday morning
 
