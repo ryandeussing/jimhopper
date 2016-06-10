@@ -11,8 +11,8 @@ prevurl:
 prevtitle:
 ---
 
-
-<ul class="onpage"><p class="onpage__header">on this page</p>
+<p class="onpage__header">on this page</p>
+<ul class="onpage">
   <li><a href="#whats-learned-from-unwanted-and-abusive-experiences">What’s Learned from Unwanted and Abusive Experiences</a></li>
   <li><a href="#roles-people-play">Roles People Play</a></li>
   <li><a href="#other-common-roles-and-repetitions">Other Common Roles and Repetitions</a></li>
