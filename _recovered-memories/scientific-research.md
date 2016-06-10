@@ -222,7 +222,7 @@ Abstract: "This study examined delayed recall of childhood sexual abuse in a str
 
 Abstract: "This study provides evidence that some adults who claim to have recovered memories of sexual abuse recall actual events that occurred in childhood. One hundred twenty-nine women with documented histories of sexual victimization in childhood were interviewed and asked about abuse history. Seventeen years following the initial report of the abuse, 80 of the women recalled the victimization. One in 10 women (16% of those who recalled the abuse) reported that at some time in the past they had forgotten about the abuse. Those with a prior period of forgetting – the women with 'recovered memories' – were younger at the time of abuse and were less likely to have received support from their mothers than the women who reported that they had always remembered their victimization. The women who had recovered memories and those who had always remembered had the same number of discrepancies when their accounts of the abuse were compared to the reports from the early 1970's."
 
-Read an excerpt from this paper.
+Read an excerpt from this paper in the section below.
 
 ## Linda Williams
 
