@@ -16,9 +16,6 @@ on this page
 {: .onpage__header}
 
 * [Principles of Counseling and Therapy](#principles-of-counseling-and-therapy)
-* [Competence](#competence)
-* [Empowerment](#empowerment)
-* [Connection](#connection)
 * [The Therapeutic Frame](#the-therapeutic-frame)
 * [Finding and Evaluating Therapists](#finding-and-evaluating-therapists)
 {: .onpage}
@@ -35,11 +32,11 @@ I cannot list them all or spell them out in great detail. But I can introduce so
 
 Reflecting on these principles can be particularly helpful at the beginning of therapy, while establishing trust, as well as later on when challenging things come up in the process.
 
-## Competence
+### Competence
 
 Not all professional therapists are competent to provide treatment to people who have had unwanted or abusive experiences as children or adults, or with particular problems related to such experiences. Competence requires, but is not guaranteed by (1) extensive experience and training in work with people suffering from negative effects of such experience, or (2) ongoing supervision with a more senior and qualified therapist. (See [Finding and Evaluating Therapists](http://1in6.org/man-educating-myself/finding-help/finding-and-evaluating-therapists/) for resources on interviewing therapists to gather information about their likely level of competence.)
 
-## Empowerment
+### Empowerment
 
 A core experience of unwanted or abusive experiences is disempowerment: one’s needs, choices and wishes (including not to be used) are ignored and trampled upon. Because such experiences involve betrayal of trust by a more powerful person, it is essential that the therapy not repeat this pattern by disempowering the client.
 
@@ -53,7 +50,7 @@ Two other principles related to the therapist working to empower the client are 
 * Disinterestedness. This means that the therapist does not use the client to meet his or her needs. This principle not only covers more extreme examples, like sexual exploitation of the client, but more subtle things like the therapist using the client to gratify needs to be admired, respected, etc. This also refers to the therapist not using the client to promote a personal agenda, for example, about how someone who has been abused ‘should’ relate to family members or the perpetrator. Of course, as Judith Herman points out, this is ‘an ideal to be striven for, never perfectly attained’ – since therapists are, after all, human beings with their own needs and motives for doing therapy, with personal biases and limitations, etc.
 
 
-## Connection
+### Connection
 
 Disconnection is another core component of experience of unwanted or abusive experiences. Thus a therapist must be capable of connecting with her or his client, that is, capable of being present as a fellow human being with genuine relatedness and empathy.
 
