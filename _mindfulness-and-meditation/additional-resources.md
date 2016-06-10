@@ -32,7 +32,7 @@ Finally, first I recommend books for everyone, then books specifically written f
 
 *Mindfulness in Plain English,* by Bhante Henepola Gunaratana – [Free on the web](http://www.vipassana.com/meditation/mindfulness_in_plain_english.php) or [Amazon.com](http://www.amazon.com/dp/0861713214/ref=nosim/?tag=jimhoppercom-20/)
 
-[Mindfulness: A Practical Guide to Awakening](https://www.amazon.com/Mindfulness-Practical-Awakening-Joseph-Goldstein/dp/1622036050/), by Joseph Goldstein
+[Mindfulness: A Practical Guide to Awakening](https://www.amazon.com/Mindfulness-Practical-Awakening-Joseph-Goldstein/dp/1622036050/ref=nosim/?tag=jimhoppercom-20/), by Joseph Goldstein
 
 [The Miracle of Mindfulness](http://www.amazon.com/dp/0807012394/ref=nosim/?tag=jimhoppercom-20/), by Thich Nhat Hanh
 
