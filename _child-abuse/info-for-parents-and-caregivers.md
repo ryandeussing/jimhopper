@@ -1,5 +1,5 @@
 ---
-title: Resources for Parents &amp; Caregivers
+title: 'Resources for Parents &amp; Caregivers'
 custom_title:
 order: 10
 subcollection:
@@ -12,12 +12,14 @@ prevtitle:
 ---
 
 
-<ul class="onpage"><p class="onpage__header">on this page</p>
-  <li><a href="#book-and-video-recommendations">Book and Video Recommendations</a></li>
-  <li><a href="#appropriate-vs-concerning-sexual-behavior-in-children">Appropriate vs. Concerning Sexual Behavior in Children</a></li>
-  <li><a href="#books-on-preventing-child-sexual-abuse">Books on Preventing Child Sexual Abuse</a></li>
-  <li><a href="#child-with-sexual-behavior-problems">Child with Sexual Behavior Problems</a></li>
-</ul>
+on this page
+{: .onpage__header}
+
+* [Book and Video Recommendations](#book-and-video-recommendations)
+* [Appropriate vs. Concerning Sexual Behavior in Children](#appropriate-vs-concerning-sexual-behavior-in-children)
+* [Books on Preventing Child Sexual Abuse](#books-on-preventing-child-sexual-abuse)
+* [Child with Sexual Behavior Problems](#child-with-sexual-behavior-problems)
+{: .onpage}
 
 If your child has been abused or may have been abused, I'm so sorry that you're going through this and hope you get all of the information and support that you and your child need.
 
@@ -31,20 +33,21 @@ Although I am a parent myself, working professionally with children and parents 
 
 First, here are two relatively brief and free resources on the web:
 
-*   [Children and Trauma](http://www.jimhopper.com/pdfs/ChildrenAndTrauma.pdf), a handout by Drs. Margaret Blaustein and Kristine Kinniburgh, authors of [Treating Traumatic Stress in Children and Adolescents](http://www.amazon.com/dp/1606236253/ref=nosim/?tag=jimhoppercom-20)
-*   [Helping Traumatized Children: A Brief Overview for Caregivers](https://childtrauma.org/wp-content/uploads/2014/01/Helping_Traumatized_Children_Caregivers_Perry1.pdf), by Dr. Bruce Perry, Director of the [ChildTrauma Academy](http://www.childtrauma.org/)
+* [Children and Trauma](http://www.jimhopper.com/pdfs/ChildrenAndTrauma.pdf), a handout by Drs. Margaret Blaustein and Kristine Kinniburgh, authors of [Treating Traumatic Stress in Children and Adolescents](http://www.amazon.com/dp/1606236253/ref=nosim/?tag=jimhoppercom-20)
+* [Helping Traumatized Children: A Brief Overview for Caregivers](https://childtrauma.org/wp-content/uploads/2014/01/Helping_Traumatized_Children_Caregivers_Perry1.pdf), by Dr. Bruce Perry, Director of the [ChildTrauma Academy](http://www.childtrauma.org/)
+
 
 [](http://www.childtrauma.org/)
 
 ## Book and Video Recommendations
 
-[Your Body Belongs to You](http://www.amazon.com/dp/0807594733/ref=nosim/?tag=jimhoppercom-20), by Cornelia Maude Spelman and Teri Weidner (Illustrator). Albert Whitman & Co, 2000\. (This book is for parents and teachers of young children, and more focused on prevention.)
+[Your Body Belongs to You](http://www.amazon.com/dp/0807594733/ref=nosim/?tag=jimhoppercom-20), by Cornelia Maude Spelman and Teri Weidner (Illustrator). Albert Whitman & Co, 2000. (This book is for parents and teachers of young children, and more focused on prevention.)
 
 [Children and Trauma: A Guide for Parents and Professionals](http://www.amazon.com/dp/0787910716/ref=nosim/?tag=jimhoppercom-20), by Cynthia Monahan. Jossey-Bass, 1993.
 
 [How long does it hurt? A guide to recovering from incest and sexual abuse for teenagers, their friends, and their families (Revised edition)](http://www.amazon.com/dp/0787975699/ref=nosim/?tag=jimhoppercom-20), by Cynthia Mather, Kristina Debye, and Judy Wood (Illustrator). Jossey-Bass, 2004.
 
-[Treating Traumatic Stress in Children and Adolescents: How to Foster Resilience through Attachment, Self-Regulation, and Competency](http://www.amazon.com/dp/1606236253/ref=nosim/?tag=jimhoppercom-20), by Margaret Blaustein & Kristine Kinniburgh. Guilford, 2010\. Written for therapists, but can help parents to understand the developmental impacts of trauma, and to understand that all behaviors, however troubling, are functional attempts to adapt to trauma. Its flexible treatment framework supports parents' efforts to bring safety and resilience into their children's lives.
+[Treating Traumatic Stress in Children and Adolescents: How to Foster Resilience through Attachment, Self-Regulation, and Competency](http://www.amazon.com/dp/1606236253/ref=nosim/?tag=jimhoppercom-20), by Margaret Blaustein & Kristine Kinniburgh. Guilford, 2010. Written for therapists, but can help parents to understand the developmental impacts of trauma, and to understand that all behaviors, however troubling, are functional attempts to adapt to trauma. Its flexible treatment framework supports parents' efforts to bring safety and resilience into their children's lives.
 
 [Handbook for Treatment of Attachment-Trauma Problems in Children](http://www.amazon.com/dp/0029160057/ref=nosim/?tag=jimhoppercom-20), by Beverly James. The Free Press, 1994.
 
@@ -52,8 +55,7 @@ First, here are two relatively brief and free resources on the web:
 
 [RealLife Heroes: A Life Storybook for Children](http://www.amazon.com/dp/0789021641/ref=nosim/?tag=jimhoppercom-20), by Richard Kagan. Haworth, 2004.
 
-[The Traumatized Child](http://www.cavalcadeproductions.com/traumatized-children.html)
-This video series, created by Cavalcade Productions, features Dr. Margaret Blaustein, with whom I have worked and respect very highly, and three of her colleagues. All have years of experience as therapists with abused children and their caregivers, and as trainers of therapists doing this work. There are three videos in the series, which can be purchased or rented individually or as a set: Understanding the Traumatized Child, Parenting the Traumatized Child, and Teaching the Traumatized Child.
+[The Traumatized Child](http://www.cavalcadeproductions.com/traumatized-children.html) This video series, created by Cavalcade Productions, features Dr. Margaret Blaustein, with whom I have worked and respect very highly, and three of her colleagues. All have years of experience as therapists with abused children and their caregivers, and as trainers of therapists doing this work. There are three videos in the series, which can be purchased or rented individually or as a set: Understanding the Traumatized Child, Parenting the Traumatized Child, and Teaching the Traumatized Child.
 
 ## Appropriate vs. Concerning Sexual Behavior in Children
 
@@ -67,14 +69,15 @@ See also, [Do Children Sexually Abuse Other Children](http://www.stopitnow.org/g
 
 Here are books that parents can read and discuss with their 4 to 8 year old children:
 
-*   [My Body Belongs to Me](http://www.amazon.com/dp/0982121601/ref=nosim/?tag=jimhoppercom-20)
-*   [My Body Is Private](http://www.amazon.com/dp/0807553190/ref=nosim/?tag=jimhoppercom-20)
-*   [Your Body Belongs to You](http://www.amazon.com/dp/0807594733/ref=nosim/?tag=jimhoppercom-20)
-*   [Those are MY Private Parts](http://www.thosearemyprivateparts.com/)
-*   [The Right Touch](http://www.amazon.com/dp/0807594733/ref=nosim/?tag=jimhoppercom-20)
+* [My Body Belongs to Me](http://www.amazon.com/dp/0982121601/ref=nosim/?tag=jimhoppercom-20)
+* [My Body Is Private](http://www.amazon.com/dp/0807553190/ref=nosim/?tag=jimhoppercom-20)
+* [Your Body Belongs to You](http://www.amazon.com/dp/0807594733/ref=nosim/?tag=jimhoppercom-20)
+* [Those are MY Private Parts](http://www.thosearemyprivateparts.com/)
+* [The Right Touch](http://www.amazon.com/dp/0807594733/ref=nosim/?tag=jimhoppercom-20)
+
 
 ## Child with Sexual Behavior Problems
 
-If you are the parent or caregiver of a child or teen with sexual behavior problems, from 1998 through 2007 [Stop It Now](http://www.stopitnow.org/) published an excellent newsletter, [PARENTtalk](http://www.stopitnow.org/help-guidance/resources/stop-it-now-publications/parenttalk-archives), written by and for parents of children and teens with sexual behavior problems. During its years of publication, the newsletter offered parents the opportunity "to break the isolation surrounding this issue and offer support to each other through personal stories." It remains a valuable resource, and all issues are free in the [online archive](http://www.stopitnow.org/help-guidance/resources/stop-it-now-publications/parenttalk-archives).
+If you are the parent or caregiver of a child or teen with sexual behavior problems, the [Circles of Safety](http://www.stopitnow.org/circles-of-safety) program by&nbsp;[Stop It Now](http://www.stopitnow.org/)&nbsp;is a great resource.
 
-[The Safer Society Foundation](http://www.safersociety.org/) has resources for parents of children with sexual behavior problems, including a [selection of books](http://www.safersociety.org/cgi-bin/commerce.cgi?search=action&category=0040&sortorder=descending) in their online store, and the [Association for the Treatment of Sex Abusers (ATSA)](http://www.atsa.com/) has an online fact sheet on [Children with Sexual Behavior Problems](http://www.atsa.com/children-sexual-behavior-problems).
+[The Safer Society Foundation](http://www.safersociety.org/) has resources for parents of children with sexual behavior problems, including a [selection of books](http://www.safersociety.org/cgi-bin/commerce.cgi?search=action&amp;category=0040&amp;sortorder=descending) in their online store, and the [Association for the Treatment of Sex Abusers (ATSA)](http://www.atsa.com/) has an online fact sheet on [Children with Sexual Behavior Problems](http://www.atsa.com/children-sexual-behavior-problems).
