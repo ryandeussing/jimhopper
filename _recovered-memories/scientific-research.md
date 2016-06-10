@@ -31,6 +31,8 @@ on this page
 * [Elizabeth Loftus](#elizabeth-loftus)
 {: .onpage}
 
+## Introduction
+
 ***Not recalling childhood sexual abuse, despite encountering potential reminders, is a condition.***
 
 ***The existence of this condition is beyond dispute.***
