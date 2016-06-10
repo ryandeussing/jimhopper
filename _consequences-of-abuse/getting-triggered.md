@@ -11,8 +11,8 @@ prevurl:
 prevtitle:
 ---
 
-
-<ul class="onpage"><p class="onpage__header">on this page</p>
+<p class="onpage__header">on this page</p>
+<ul class="onpage">
   <li><a href="#suddenly-in-defense-or-survival-mode">Suddenly In Defense or Survival Mode</a></li>
   <li><a href="#the-nature-of-triggers">The Nature of Triggers</a></li>
   <li><a href="#triggers-power-and-effects">Triggers’ Power and Effects</a></li>
