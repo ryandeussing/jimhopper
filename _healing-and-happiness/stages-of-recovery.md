@@ -12,14 +12,15 @@ prevtitle:
 ---
 
 
+on this page
+{: .onpage__header}
 
-<ul class="onpage"><p class="onpage__header">on this page</p>
-  <li><a href="#imperfect-world-good-models">Imperfect Word, Good Models</a></li>
-  <li><a href="#hermans-stages-of-recovery">Herman’s Stages of Recovery</a></li>
-  <li><a href="#hunters-stages-of-recovery">Hunter’s Stages of Recovery</a></li>
-</ul>
+* [Imperfect Word, Good Models](#imperfect-world-good-models)
+* [Herman’s Stages of Recovery](#hermans-stages-of-recovery)
+* [Hunter’s Stages of Recovery](#hunters-stages-of-recovery)
+{: .onpage}
 
-**Road maps of how people overcome the effects of traumatic experiences.**
+***Road maps of how people overcome the effects of traumatic experiences.***
 
 ## Imperfect Word, Good Models
 
@@ -50,6 +51,7 @@ In her classic book *[Trauma and Recovery](http://www.amazon.com/dp/0465087302/r
 * Self-harming behaviors (cutting, burning, etc.)
 * Dissociation (spacing out, blanking out, losing time, etc.)
 
+
 ### Stage 1
 
 The first stage of dealing with and overcoming such problems, and of any helpful therapy or counseling, is about:
@@ -75,6 +77,7 @@ Depending on the person, the first stage of treatment may also involve:
 * Addressing problems with alcohol or drugs, depression, eating behaviors, physical health, panic attacks, and/or dissociation (e.g., spacing out, losing time).
 * Taking medication to reduce anxiety and/or depressive symptoms, for example serotonergic reuptake inhibitors (SSRIs) like sertraline (Zoloft) or paroxetine (Paxil).
 * Participating in Dialectical Behavior Therapy (DBT), a treatment for people having serious problems with tolerating and regulating emotions, interpersonal effectiveness, and/or self-harming behaviors.
+
 
 ### Common to All Stages
 
