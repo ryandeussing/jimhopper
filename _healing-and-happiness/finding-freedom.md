@@ -121,7 +121,7 @@ Being emotionally beaten down can lead to compliant thinking and behavior that c
 
 Or maybe a childhood of compliance gave way to teenage years of extreme and self-destructive rebellion that still has a grip on you today.
 
-## Too Busy, Over-scheduledm Not Free, Not Happy, Unable to Heal
+## Too Busy, Over-scheduled = Not Free, Not Happy, Unable to Heal
 
 A common factor that undermines many people’s freedom is being too busy, simply having too little unscheduled or unpressured time. Whether or not you have been abused or exploited as a child, if you have a job or other significant responsibilities you are likely to have this problem.
 
