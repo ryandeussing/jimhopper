@@ -12,17 +12,17 @@ prevtitle:
 ---
 
 
+on this page
+{: .onpage__header}
 
-
-<ul class="onpage"><p class="onpage__header">on this page</p>
-  <li><a href="#overview-and-introduction">Overview and Introduction</a></li>
-  <li><a href="#introduction-to-traumatic-memories">Introduction to Traumatic Memories</a></li>
-  <li><a href="#normal-questions-and-dounts">Normal Questions and Doubts</a></li>
-  <li><a href="#memory-is-not-like-a-dvd">Memory Is Not Like a DVD</a></li>
-  <li><a href="#there-is-no-one-thing-that-is-memory">There Is No One Thing That is “Memory”</a></li>
-  <li><a href="#fragmentary-memories-may-be-it">Fragmentary Memories May Be It</a></li>
-  <li><a href="#final-introductory-thoughts">Final Introductory Thoughts</a></li>
-</ul>
+* [Overview and Introduction](#overview-and-introduction)
+* [Introduction to Traumatic Memories](#introduction-to-traumatic-memories)
+* [Normal Questions and Doubts](#normal-questions-and-dounts)
+* [Memory Is Not Like a DVD](#memory-is-not-like-a-dvd)
+* [There Is No One Thing That is “Memory”](#there-is-no-one-thing-that-is-memory)
+* [Fragmentary Memories May Be It](#fragmentary-memories-may-be-it)
+* [Final Introductory Thoughts](#final-introductory-thoughts)
+{: .onpage}
 
 As a clinical psychologist with expertise in psychological trauma, including due to child abuse and sexual assault, I have studied traumatic memories, including recovered memories of sexual abuse, for over 20 years.
 
@@ -55,7 +55,7 @@ Finally, I encourage you to seek out and read some of the scholarly works cited 
 
 Traumatic memories, including of childhood sexual abuse, can be confusing. They can cause lots of doubts. They can trip you up. But they can be sorted out too – certainly enough to heal and have the life you want.
 
-## Normal Questions and Doubts
+### Normal Questions and Doubts
 
 You may be wondering:
 
@@ -63,11 +63,12 @@ You may be wondering:
 * What if I’m not sure what happened?
 * How do I deal with the memories I do have?
 
+
 Such questions and doubts about one’s memories can get in the way of understanding what happened, how it’s affected you, and how to achieve the life you want.
 
 To help clear things up, here’s some basic information about human memory and memories of stressful or traumatic experiences.
 
-## Memory Is Not Like a DVD
+### Memory Is Not Like a DVD
 
 Our brains do not simply record and 'play back' events exactly as they happened in the past. Instead, almost every instance of recall involves some processes of *reconstruction* by the brain, which means it involves some distortion too.
 
@@ -81,7 +82,7 @@ The fact that human memory is not like a DVD *does* mean that memories may not b
 
 Of course, the picture is more complex: Someone may block out or 'edit out' disturbing emotions and sensations. Children may focus their attention on a spot on the ceiling, or imagine themselves in a completely different place altogether. In those cases, the 'central details' of the experience, for that person at that time, are things that would typically be peripheral details or not even part of the memory at all – and the main details of the *sexual* acts may be minimally or not at all registered or encoded into memory. (See also the second half of my YouTube talk, [Neurobiology of Trauma & Sexual Assault](https://www.youtube.com/watch?v=dwTQ_U3p5Wc), where I focus on memory encoding, including of central vs. peripheral details.)
 
-## There Is No One Thing That is “Memory”
+### There Is No One Thing That is 'Memory'
 
 Researchers distinguish a variety of different types of memory. When it comes to memories of unwanted or abusive childhood sexual experiences, three types are key: episodic, implicit, and procedural.
 
@@ -126,4 +127,3 @@ Human memory is not simple and straightforward. It’s complex and complicated.
 There are many ways that memories of unwanted or abusive sexual experiences can be fragmentary, can be unrecognized as memories, and can be causes of confusion, doubt, and problems in current relationships.
 
 There are experienced therapists who can help with sorting out these issues.
-
