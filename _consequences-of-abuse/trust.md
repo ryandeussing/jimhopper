@@ -11,8 +11,8 @@ prevurl:
 prevtitle:
 ---
 
-
-<ul class="onpage"><p class="onpage__header">on this page</p>
+<p class="onpage__header">on this page</p>
+<ul class="onpage">
   <li><a href="#children-dependent-trusting-and-vulnerable">Children: Dependent, Trusting, and Vulnerable</a></li>
   <li><a href="#betrayal-of-trust-and-its-consequences">Betrayal of Trust and Its Consequences</a></li>
   <li><a href="#difficulties-trusting-oneself">Difficulties Trusting Oneself</a></li>
