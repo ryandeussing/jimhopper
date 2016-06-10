@@ -23,7 +23,7 @@ on this page
 * [Finding and Evaluating Therapists](#finding-and-evaluating-therapists)
 {: .onpage}
 
-*Good to if you're seeking professional help – and at any stage of counseling or therapy*
+*Good to know if you're seeking professional help – and at any stage of counseling or therapy*
 
 This page has two major sections, on Principles of Counseling / Therapy, and Finding and Evaluating Therapists.
 
