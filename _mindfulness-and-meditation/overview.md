@@ -1,6 +1,6 @@
 ---
 title: Overview
-custom_title:
+custom_title: 'Mindfulness & Meditation'
 order: 1
 subcollection:
 description:
