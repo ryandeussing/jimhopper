@@ -149,7 +149,7 @@ You deserve such relationships in your life. Keep going until you find and benef
 
 ## Further Reading: Science on Freedom and Well-Being
 
-Drs. Ed Deci and Richard Ryan are psychologists who have done the most to prove that freedom is a basic human need.
+Edward Deci and Richard Ryan are psychologists who have done the most to prove that freedom is a basic human need.
 
 Of course, we don’t need scientists to tell us that freedom is important. It’s recognized around the world as a central human right. But science can show things we might not expect about the importance of freedom in our personal and work lives. It can show the all-too-common ways that controlling rewards and punishments undermine the freedom of children and adults, and the consequences for their well-being.
 
