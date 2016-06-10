@@ -182,7 +182,7 @@ Abstract: "In the last decade there has been a proliferation of civil lawsuits b
 
 Abstract: "False memory syndrome (FMS) is described as a serious form of psychopathology characterized by strongly believed pseudomemories of childhood sexual abuse. A literature review revealed four clusters of symptoms underlying the syndrome regarding victims' belief in their memories of abuse and their identity as survivors, their current interpersonal relationships, their trauma symptoms across the lifespan, and the characteristics of their therapy experiences. The validity of these clusters was examined using data from a community sample of 113 women who identified themselves as survivors of girlhood sexual abuse. Examining the discriminant validity of these criteria revealed that participants who had recovered memories of their abuse (n = 51), and who could therefore potentially have FMS, generally did not differ from participants with continuous memories (n = 49) on indicators of these criteria. Correlational analyses also indicated that these criteria typically failed to converge. Further, despite frequent claims that FMS is occurring in epidemic proportions, only 3.9%-13.6% of the women with a recovered memory satisfied the diagnostic criteria, and women with continuous memories were equally unlikely to meet these criteria. The implications of these findings for FMS theory and the delayed-memory debate more generally are discussed."
 
-## Special Issue, Journal of Traumatic Stress
+## Special Issue, *Journal of Traumatic Stress*
 
 This October 1995 special issue is an important and rich resource. I provide an excerpt of Editor Bonnie Green's introduction, and abstracts and excerpts of relevant papers.
 
@@ -192,11 +192,11 @@ This October 1995 special issue is an important and rich resource. I provide an 
 
 Excerpt: "The present issue of *JTS* is dedicated to the topic of research on traumatic memory. While a few of the articles fall slightly outside of this overall designation, all articles were seen to be pertinent to clinicians and scholars who study and treat individuals with a history of traumatic exposure. The issue is sparked, to some extent, by the controversy raging within and between mental health professionals and academics about whether individuals can 'forget' traumatic events in their pasts, and whether they can 'remember' events that never took place. While the issue is not focused on this controversy per se, it was undertaken to inform clinicians and researchers about a variety of topics related to traumatic memory, 'recovered' or otherwise" (p.501).
 
-**van der Kolk, B., & Fisler, R.** [Dissociation and the fragmentary nature of traumatic memories: Overview and exploratory study.](http://www.trauma-pages.com/articles.php#vanderk)
+**van der Kolk, B., & Fisler, R.** [Dissociation and the fragmentary nature of traumatic memories: Overview and exploratory study.](http://www.trauma-pages.com/a/vanderk2.php)
 
 Abstract: "Since trauma arises from an inescapable stressful event that overwhelms people's coping mechanisms, it is uncertain to what degree the results of laboratory studies of ordinary events are relevant to the understanding of traumatic memories. This paper reviews the literature on differences between recollections of stressful and of traumatic events. It then reviews the evidence implicating dissociation as the central pathogenic mechanism that gives rise to posttraumatic stress disorder (PTSD). A systematic exploratory study of 46 subjects with PTSD indicated that traumatic memories were retrieved, at least initially, in the form of dissociated mental imprints of sensory and affective elements of the traumatic experience: as visual, olfactory, affective, auditory, and kinesthetic experiences. Over time, subjects reported the gradual emergence of a personal narrative that can be properly referred to as 'explicit memory.' The implications of these findings for understanding the nature of traumatic memories are discussed."
 
-Read [excerpts from this paper](https://jimhopper.gathercontent.com/item/1304660#bvdke).
+Read [excerpts from this paper](#bessel-van-der-kolk).
 
 **Bremner, J. D., Krystal, J. H., & Charney, D. S. Functional neuroanatomical correlates of the effects of stress on memory.**
 
