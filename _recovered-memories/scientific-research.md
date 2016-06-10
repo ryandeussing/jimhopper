@@ -31,13 +31,13 @@ on this page
 * [Elizabeth Loftus](#elizabeth-loftus)
 {: .onpage}
 
-*Not recalling childhood sexual abuse, despite encountering potential reminders, is a condition.*
+***Not recalling childhood sexual abuse, despite encountering potential reminders, is a condition.***
 
-*The existence of this condition is beyond dispute.*
+***The existence of this condition is beyond dispute.***
 
-*Repression is merely one explanation – often a confusing and misleading one – for what causes the condition of not recalling childhood abuse experiences.*
+***Repression is merely one explanation – often a confusing and misleading one – for what causes the condition of not recalling childhood abuse experiences.***
 
-*At least 10% of people sexually abused in childhood will have periods of failing to recall their abuse, followed by experiences of delayed recall.*
+***At least 10% of people sexually abused in childhood will have periods of failing to recall their abuse, followed by experiences of delayed recall.***
 
 (Conservative estimate based on scientific research.)
 
