@@ -12,19 +12,20 @@ prevtitle:
 ---
 
 
-<ul class="onpage"><p class="onpage__header">on this page</p>
-  <li><a href="#freely-choosing-not-controlled-in-any-way">Freely Choosing, Not Controlled, In Any Way</a></li>
-  <li><a href="#when-freedom-is-supported">When Freedom Is Supported </a></li>
-  <li><a href="#when-freedom-is-undermined-or-missing">When Freedom is Undermined or Missing </a></li>
-  <li><a href="#rebellion-vs-compliance">Rebellion vs. Compliance </a></li>
-  <li><a href="#abuse-manipulation-and-freedom">Abuse, Manipulation, and Freedom</a></li>
-  <li><a href="#too-busy-over-scheduled-not-free-not-happy-unable-to-heal">Too Busy, Over-scheduled, Not Free, Not Happy, Unable to Heal </a></li>
-  <li><a href="#healing-relationships-support-your-freedom">Healing Relationships Support Your Freedom</a></li>
-  <li><a href="#further-reading-science-on-freedom-and-well-being">Further Reading: Science on Freedom and Well-Being</a></li>
-</ul>
+on this page
+{: .onpage__header}
+
+* [Freely Choosing, Not Controlled, In Any Way](#freely-choosing-not-controlled-in-any-way)
+* [When Freedom Is Supported](#when-freedom-is-supported)
+* [When Freedom is Undermined or Missing](#when-freedom-is-undermined-or-missing)
+* [Rebellion vs. Compliance](#rebellion-vs-compliance)
+* [Abuse, Manipulation, and Freedom](#abuse-manipulation-and-freedom)
+* [Too Busy, Over-scheduled, Not Free, Not Happy, Unable to Heal](#too-busy-over-scheduled-not-free-not-happy-unable-to-heal)
+* [Healing Relationships Support Your Freedom](#healing-relationships-support-your-freedom)
+* [Further Reading: Science on Freedom and Well-Being](#further-reading-science-on-freedom-and-well-being)
+{: .onpage}
 
 It's trampled by child abuse and many other things in children’s and adults’ lives. Here's what it really means to be free, and how it brings happiness and well-being.
-
 
 ## Freely Choosing, Not Controlled, In Any Way
 
@@ -88,7 +89,7 @@ Also, we’ve all seen people rebel by conforming. That is, they think they’re
 
 Consider the teenager who refuses to do homework or even go to school because he’s so angry that adults are telling him he has to (anger that’s rooted in the feeling that his freedom is being trampled). Consider the young person who smokes cigarettes, at least at first, not because he or she likes how it tastes or feels, but because friends are doing it and it’s a way of saying “F you” to adults.
 
-> When you’re free you feel real, not fake.
+> When you’re free, you feel real, not fake.
 
 In short, when people are motivated by rebellion, they’re not as free as they think they are.
 
