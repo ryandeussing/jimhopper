@@ -106,9 +106,6 @@ Upon completing this course, participants will be able to:
 [The Institute for Meditation and Psychotherapy](http://www.meditationandpsychotherapy.org/) in Newton, Massachusetts - A great organization with many offerings for therapists.
 {: .present-before-paste}
 
-[Mindfulness Research Guide](http://www.mindfulexperience.org/) - Site by USC graduate student David Black has an extensive and up-to-date list of research publications, information about assessment instruments, links to the sites of treatment and research centers, and a monthly newsletter on current mindfulness research.
-{: .present-before-paste}
-
 [The Center for Mindful Eating](http://www.tcme.org/) - This is a "forum" for "professionals who wish to help their clients develop healthier relationships with food and eating, and to bring eating into balance with other important aspects of life."
 {: .present-before-paste}
 
@@ -118,21 +115,15 @@ Pat Ogden's [Sensorimotor Psychotherapy Institute](http://www.sensorimotorpsycho
 [Mindfulness Together](http://www.mindfulnesstogether.net/) - A social network founded by [Susan Kaiser Greenland](http://www.susankaisergreenland.com/), creator of *InnerKids* and author of [The Mindful Child](http://www.amazon.com/dp/1416583009/ref=nosim/?tag=jimhoppercom-20/), the community is "dedicated to nurturing the inner lives of kids and those who love them."
 {: .present-before-paste}
 
-[Seeking Safety](http://www.seekingsafety.org/) is a great group intervention for people struggling with addictions and trauma. Lisa Najavits' book [Seeking Safety](http://www.amazon.com/dp/1572306394/ref=nosim/?tag=jimhoppercom-20/) is a fantastic (and flexible) treatment manual and resource, and training is available.
+[The Dhamma Brothers](http://www.dhammabrothers.com/), [Doing Time, Doing Vipassana](http://www.dhamma.org/en/dtdv.htm) and [Changing From Inside](http://www.prison.dhamma.org/cfi.htm) - Films on prisoners doing intensive vipassana or 'Insight' meditation retreats (in the Goenka vipassana tradition, which is more structured and more focused on body scan meditation than retreats at the Insight Meditation Society).
 {: .present-before-paste}
 
-[Dhamma Brothers](http://www.dhammabrothers.com/), [Doing Time, Doing Vipassana](http://www.dhamma.org/en/dtdv.htm) and [Changing From Inside](http://www.prison.dhamma.org/cfi.htm) - Films on prisoners doing intensive vipassana or 'Insight' meditation retreats (in the Goenka vipassana tradition, which is more structured and more focused on body scan meditation than retreats at the Insight Meditation Society).
-{: .present-before-paste}
-
-[Mindfulness and Kindness - Inner Sources of Freedom and Happiness](http://www.jimhopper.com/mindfulness) - My webpage written especially for those living with the effects of trauma.
+[Mindfulness & Meditation](/mindfulness-and-meditation/) - Section of my website, written with special consideration for those living with the effects of trauma.
 {: .present-before-paste}
 
 ## Recommended Books
 
 *Mindfulness in Plain English*, by Bhante Henepola Gunaratana, 2002 – [Free on the web](http://www.vipassana.com/meditation/mindfulness_in_plain_english.php), or [Amazon.com](http://www.amazon.com/dp/0861713214/ref=nosim/?tag=jimhoppercom-20/)
-{: .present-before-paste}
-
-&nbsp;
 {: .present-before-paste}
 
 [Mindfulness: A Practical Guide to Awakening](https://www.amazon.com/Mindfulness-Practical-Awakening-Joseph-Goldstein/dp/1622036050/), by Joseph Goldstein, 2013.
