@@ -12,8 +12,8 @@ prevtitle: "Consequences of Abuse"
 ---
 
 
-
-<ul class="onpage"><p class="onpage__header">on this page</p>
+<p class="onpage__header">on this page</p>
+<ul class="onpage">
   <li><a href="#caution-its-not-all-about-the-sexual-experiences">Caution: It’s Not All About the Sexual Experiences</a></li>
   <li><a href="#under-estimating-and-over-estimating">Under-Estimating and Over-Estimating</a></li>
   <li><a href="#other-potentially-harmful-childhood-experiences">Other Potentially Harmful Childhood Experiences</a></li>
