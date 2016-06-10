@@ -55,7 +55,7 @@ To accomplish these two goals, this section does not need to be comprehensive, n
 
 Reading this brief introduction will make it much easier to benefit from the rest of the information on this page.
 
-## Empirical Evidence
+### Empirical Evidence
 
 Physical evidence of assaults, corroboration from witnesses, and confessions by perpetrators are empirical evidence. When it comes to research on recovered child abuse memories, there IS empirical evidence of this kind, though a lot less than of the next type…
 
@@ -63,7 +63,7 @@ The things people say about their abuse memories, including how they respond to 
 
 Both of these forms of evidence are extremely important, and people on all sides of the recovered memories “debate” acknowledge that what people say about their memories is one kind of empirical evidence, and one worth researching (whether or not a person has physical proof or corroboration from others).
 
-## Theoretical Constructs
+### Theoretical Constructs
 
 Scientists try to understand and explain empirical evidence by using theoretical constructs, that is, ideas devised to integrate systematically a group of related observations or phenomena in a useful way.
 
@@ -73,7 +73,7 @@ Therefore, when we are dealing with complex phenomena which we do not fully unde
 
 Just as important, before drawing firm conclusions about an issue over which there has been disagreement and debate – like recovered memories – we should be familiar with the various constructs used to describe and explain the empirical evidence – including constructs used by those who have studied it the most. Otherwise we leave ourselves highly vulnerable to being confused and misled.
 
-## Child Abuse Memories: Empirical Evidence, Psychological Constructs and Scientific Progress
+### Child Abuse Memories: Empirical Evidence, Psychological Constructs and Scientific Progress
 
 *It is not rare for people to say they don't remember an abuse experience that actually happened.*
 
