@@ -484,7 +484,7 @@ Excerpt: "We begin by briefly summarizing the proposed social situation in which
 
 Here are excerpts from the *New York Times Book Review*:
 
-"*Betrayal Trauma* is a thoughtful, judicious and thorough scholarly analysis of a subject that has hitherto generated more heat than light. . .
+"*Betrayal Trauma* is a thoughtful, judicious and thorough scholarly analysis of a subject that has hitherto generated more heat than light...
 
 "Although the mechanisms involved [in memory loss and retrieval] are far from fully understood, Ms. Freyd marshals the psychological, neurological and cognitive-science literature with impressive skill to suggest several plausible possibilities. Her work serves as a salutary reminder that if treated as serious science rather than media hoopla the recovered-memory debate could provide a significant window on mind-brain relationships; anyone interested in the latter will find much stimulating material here. . .
 
