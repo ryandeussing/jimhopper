@@ -42,7 +42,7 @@ A 1996 study of male university students in the Boston area reported that 18% of
 
 A 1990 national study of U.S. adults reported that 16% of men were sexually abused before the age of 18 (Finkelhor et al., 1990).
 
-### Why These Statistics Are Probably *Under* estimates
+### Why These Statistics Are Probably *Under-*estimates
 
 Males who have such experiences are less likely to disclose them than are females, even on anonymous and confidential surveys (Holmes, Offen & Waller, 1997).
 
@@ -89,7 +89,10 @@ The following review is grouped into three sections, according to the sample stu
 
 As noted above, please keep in mind: All of the rates below are likely to be underestimates of the actual prevalence of the sexual abuse of boys in our society. Why? There is evidence that a substantial minority of adults who were sexually abused as children do not remember those abusive experiences, and that the younger the child was at the time of the abuse, and the closer the relationship to the abuser, the less likely he or she is to remember. See the section on Linda Williams' research on my page, Recovered Memories of Sexual Abuse: Scientific Research & Scholarly Resources.
 
-1. <u>Studies of male college students</u> have found prevalence rates from 4.8% to 28%. At the lower extreme of 4.8% is a study by Fritz, Stoll and Wagner (1981) in which 412 students responded to a self-report questionnaire that required them to label their experiences as 'abusive' - a method guaranteed to cause under-reporting (see discussion in section above). Risin and Koss (1987) obtained a rate of 7.3% in a national sample of 2,972 male college students. They used eight self-report behavioral descriptions about sexual behaviors before age 14. As pure behavioral descriptions, none of the items included the word 'abuse.' Finkelhor (1979) used a similar list of behavioral self-report items in a study of 266 college students and found an 8.3% prevalence rate; he included non-contact experiences and used specific age criteria (if under 14 there had to be a 5 year age difference with the perpetrator, if 14-15, a 10 year difference).
+1. <u>Studies of male college students</u>
+
+   have found prevalence rates from 4.8% to 28%. At the lower extreme of 4.8% is a study by Fritz, Stoll and Wagner (1981) in which 412 students responded to a self-report questionnaire that required them to label their experiences as 'abusive' - a method guaranteed to cause under-reporting (see discussion in section above). Risin and Koss (1987) obtained a rate of 7.3% in a national sample of 2,972 male college students. They used eight self-report behavioral descriptions about sexual behaviors before age 14. As pure behavioral descriptions, none of the items included the word 'abuse.' Finkelhor (1979) used a similar list of behavioral self-report items in a study of 266 college students and found an 8.3% prevalence rate; he included non-contact experiences and used specific age criteria (if under 14 there had to be a 5 year age difference with the perpetrator, if 14-15, a 10 year difference).
+
 
 Higher prevalence rates of 20% and 24% came from Fromuth and Burkhart's (1987) study of students in two separate schools. They compared the effect of different definitions of sexual abuse on prevalence rates. However, their questionnaire utilized a gate question. The highest rates of 20% and 24% came from the most inclusive definition: the same as Finkelhor's 1979 study (including non-contact and age differential criteria), but with the addition that sexual contact between peers involving force or threat was categorized as abuse.
 
@@ -113,7 +116,10 @@ Lisak and his colleagues argue that the criteria they employed to assess sexual 
 
 A prevalence rate similar to the Lisak et al. studies was found in another study of college males. Collings (1995) used an anonymous questionnaire and defined sexual abuse as 'unwanted' sexual experiences taking place before the age of 18. The term 'unwanted' is likely to bias rates downward, as noted above, but the inclusion of subjects aged 16 and 17 is likely to increase the found prevalence rate. Not surprisingly, Collings found that 29% of the 284 male respondents had been sexually abused, with 20% reporting non-contact abuse and 6% reporting abuse experiences involving physical contact.
 
-2. <u>Studies with community samples</u> have ranged in their prevalence rates from 2.8% to 16%. Again, methodology has been crucial. Kercher and McShane (1984) mailed a single self-report question including the word 'abuse' to a random sample of Texas drivers. They found a prevalence rate of 3%. Given the wording of their single question, this rate is not surprising.
+1. <u>Studies with community samples</u>
+
+   have ranged in their prevalence rates from 2.8% to 16%. Again, methodology has been crucial. Kercher and McShane (1984) mailed a single self-report question including the word 'abuse' to a random sample of Texas drivers. They found a prevalence rate of 3%. Given the wording of their single question, this rate is not surprising.
+
 
 Two random-sample telephone interview studies by Murphy (1987, 1989, cited in Urquiza & Keating, 1990) also demonstrate the profound effects of single questions including the word 'abuse' rather than instruments with multiple behavioral descriptions. In one of the studies (1987) the former method was employed, and it produced a rate of 2.8% with a sample of 357; in the other study (1989) the latter method yielded a prevalence rate of 11% with a sample of 777.
 
@@ -123,7 +129,8 @@ The highest community-sample prevalence rate of 16% was found in a random teleph
 
 In contrast to studies with women, published studies using face-to-face interviews with men have yielded very low prevalence rates, perhaps due to subjects' adherence to stereotypes about males not being victims (Urquiza & Keating, 1990). Finkelhor's (1984) face-to-face interview with Boston-area fathers yielded a rate of 6%. Siegel and colleagues (1987), using gate-question interviews with 1,480 Los Angeles-area men, found a prevalence rate of 3.8%. Baker and Duncan (1985) used a single question that described various sexual acts and found the highest face-to-face prevalence rate of 8% in their random sample of 970 men in Great Britain.
 
-3. Studies with clinical samples have obtained prevalence rates from 3% to 23%. The lowest rate was reported from a study that used psychological records of 954 male and female patients of a large regional medical center (Belkin, Greene, Rodrique, & Boggs, 1994). In a chart review of emergency room records of a Buffalo, New York hospital, Ellerstein and Canavan (1980) found an 11% prevalence rate. DeJong and colleagues (DeJong, Emmett, & Hervada, 1982) reviewed several clinical studies and found rates from 11% to 17%, and in their own hospital population found a rate of just under 14% (1982). Metcalfe and his associates (1990) found a prevalence of 23% in their survey of 100 male psychiatric inpatients.
+1. Studies with clinical samples have obtained prevalence rates from 3% to 23%. The lowest rate was reported from a study that used psychological records of 954 male and female patients of a large regional medical center (Belkin, Greene, Rodrique, & Boggs, 1994). In a chart review of emergency room records of a Buffalo, New York hospital, Ellerstein and Canavan (1980) found an 11% prevalence rate. DeJong and colleagues (DeJong, Emmett, & Hervada, 1982) reviewed several clinical studies and found rates from 11% to 17%, and in their own hospital population found a rate of just under 14% (1982). Metcalfe and his associates (1990) found a prevalence of 23% in their survey of 100 male psychiatric inpatients.
+
 
 However, it is important to note here that assessment for sexual abuse histories in hospitals has traditionally been extremely poor, and remains so in many settings. Thus these rates, based on reviews of records, are likely to be vast underestimates. For example, Briere and Zaidi (1989) reviewed intake reports on women presenting to an urban psychiatric emergency room. They randomly reviewed 50 charts before and 50 after the intake staff were instructed to question clients about previous sexual victimization. The first 50 charts had recorded rates of 6%, and the second set, 70%.
 
