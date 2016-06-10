@@ -12,16 +12,18 @@ prevtitle: 'Healing & Happiness'
 ---
 
 
-<ul class="onpage"><p class="onpage__header">on this page</p>
-  <li><a href="#principles-of-counseling-and-therapy">Principles of Counseling and Therapy</a></li>
-  <li><a href="#competence">Competence</a></li>
-  <li><a href="#empowerment">Empowerment</a></li>
-  <li><a href="#connection">Connection</a></li>
-  <li><a href="#the-therapeutic-frame">The Therapeutic Frame</a></li>
-  <li><a href="#finding-and-evaluating-therapists">Finding and Evaluating Therapists</a></li>
-</ul>
+on this page
+{: .onpage__header}
 
-*Good to know if you're seeking professional help – and at any stage of counseling or therapy*
+* [Principles of Counseling and Therapy](#principles-of-counseling-and-therapy)
+* [Competence](#competence)
+* [Empowerment](#empowerment)
+* [Connection](#connection)
+* [The Therapeutic Frame](#the-therapeutic-frame)
+* [Finding and Evaluating Therapists](#finding-and-evaluating-therapists)
+{: .onpage}
+
+*Good to if you're seeking professional help – and at any stage of counseling or therapy*
 
 This page has two major sections, on Principles of Counseling / Therapy, and Finding and Evaluating Therapists.
 
@@ -49,6 +51,7 @@ Two other principles related to the therapist working to empower the client are 
 
 * Neutrality. This means that the therapist does not take sides in clients’ inner conflicts (e.g., Should I leave or should stay? Do I trust her or not?), but helps clients identify and work through their mixed feelings and come to their own decisions and solutions. Often people expect therapists to give them advice or tell them what to do (which is consistent with the ‘medical model’ of therapy). But when therapists do so, it can take power away from clients, and prevent new learning and growth. Furthermore, if the client reacts negatively to being ‘told what to do’ – not an unusual response for someone who’s been dominated and manipulated by others in their life – this approach can even increase their attachment to unhealthy choices and behaviors.
 * Disinterestedness. This means that the therapist does not use the client to meet his or her needs. This principle not only covers more extreme examples, like sexual exploitation of the client, but more subtle things like the therapist using the client to gratify needs to be admired, respected, etc. This also refers to the therapist not using the client to promote a personal agenda, for example, about how someone who has been abused ‘should’ relate to family members or the perpetrator. Of course, as Judith Herman points out, this is ‘an ideal to be striven for, never perfectly attained’ – since therapists are, after all, human beings with their own needs and motives for doing therapy, with personal biases and limitations, etc.
+
 
 ## Connection
 
