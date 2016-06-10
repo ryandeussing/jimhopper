@@ -20,7 +20,7 @@ on this page
 * [When Freedom is Undermined or Missing](#when-freedom-is-undermined-or-missing)
 * [Rebellion vs. Compliance](#rebellion-vs-compliance)
 * [Abuse, Manipulation, and Freedom](#abuse-manipulation-and-freedom)
-* [Too Busy, Over-scheduled, Not Free, Not Happy, Unable to Heal](#too-busy-over-scheduled-not-free-not-happy-unable-to-heal)
+* [Too Busy, Over-scheduled = Not Free, Not Happy, Unable to Heal](#too-busy-over-scheduled-not-free-not-happy-unable-to-heal)
 * [Healing Relationships Support Your Freedom](#healing-relationships-support-your-freedom)
 * [Further Reading: Science on Freedom and Well-Being](#further-reading-science-on-freedom-and-well-being)
 {: .onpage}
