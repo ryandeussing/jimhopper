@@ -16,7 +16,7 @@ This section consists primarily of links to websites, but I also suggest three h
 
 If you are looking for a therapist or counselor in the United States, even if only for a couple of consultations, the Sidran Foundation has an extensive list of therapists and clinics around the country that specialize in treating people with histories of severe child abuse. See [Help Desk](https://www.sidran.org/help-desk/).
 
-If you need <u>immediate</u> information about and/or connection to resources in your own community, here are four 24-hour toll-free hotlines that you can call, three in the US and one in the UK:
+If you need *immediate* information about and/or connection to resources in your own community, here are four 24-hour toll-free hotlines that you can call, three in the US and one in the UK:
 
 **Childhelp USA's National Child Abuse Hotline** 1-800-422-4453
 
