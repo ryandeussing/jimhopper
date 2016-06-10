@@ -12,17 +12,19 @@ prevtitle:
 ---
 
 
-<ul class="onpage"><p class="onpage__header">on this page</p>
-  <li><a href="#words-of-caution">Words of Caution</a></li>
-  <li><a href="#finding-a-way-out">Finding a Way Out</a></li>
-  <li><a href="#the-perfect-english-gentleman">The Perfect English Gentleman</a></li>
-  <li><a href="#steves-story">Steve's Story<</a></li>
-  <li><a href="#dennis-story">Dennis' Story</a></li>
-  <li><a href="#freds-story">Fred's Story</a></li>
-  <li><a href="#i-can-laugh-and-sing-again">I Can Laugh and Sing Again!</a></li>
-  <li><a href="#jim-ws-story">Jim W.'s Story</a></li>
-  <li><a href="#bob-ls-story">Bob L.'s Story</a></li>
-</ul>
+on this page
+{: .onpage__header}
+
+* [Words of Caution](#words-of-caution)
+* [Finding a Way Out](#finding-a-way-out)
+* [The Perfect English Gentleman](#the-perfect-english-gentleman)
+* [Steve's Story](#steves-story)
+* [Dennis' Story](#dennis-story)
+* [Fred's Story](#freds-story)
+* [I Can Laugh and Sing Again!](#i-can-laugh-and-sing-again)
+* [Jim W.'s Story](#jim-ws-story)
+* [Bob L.'s Story](#bob-ls-story)
+{: .onpage}
 
 On this page you can read brief stories written by men who were sexually abused.
 
@@ -30,9 +32,10 @@ The authors of these stories share with you how they came out of isolation and s
 
 The stories describe their experiences of:
 
-1.  _Finding_ people, therapists, groups, and organizations that help them recover from sexual abuse.
-2.  _How_ these healing relationships help them recover and transform their lives.
-3.  If applicable, how struggles with their _masculinity_ have been related to the healing process.
+1. *Finding* people, therapists, groups, and organizations that help them recover from sexual abuse.
+2. *How* these healing relationships help them recover and transform their lives.
+3. If applicable, how struggles with their *masculinity* have been related to the healing process.
+
 
 For men considering seeking help or beginning to do such work, these stories can be sources of guidance and hope.
 
@@ -50,13 +53,13 @@ Remember, you can always come back later.
 
 ## Finding a Way Out
 
-I was mentally and physically abused all along--from birth until I escaped at age 16 – by so-called "loving" parents who lacked self-control. And from ages 7 to 10 I was sexually abused by a teenage boy on an almost weekly basis, only it was not forced. I went along with it, which just makes it worse and harder for me to forgive. I cannot talk about that much, as that person was truly sick and had group sex with me, my brother, his brother (my age), and his sister (even younger) and others all at the same time. We all competed for his "affections." His method of shutting us up was shame.
+I was mentally and physically abused all along–from birth until I escaped at age 16 – by so-called "loving" parents who lacked self-control. And from ages 7 to 10 I was sexually abused by a teenage boy on an almost weekly basis, only it was not forced. I went along with it, which just makes it worse and harder for me to forgive. I cannot talk about that much, as that person was truly sick and had group sex with me, my brother, his brother (my age), and his sister (even younger) and others all at the same time. We all competed for his "affections." His method of shutting us up was shame.
 
 By the age of 13, I guess the effects were in place: I had become quite different from my peers, had an established bisexual nature (I still wonder if the abuse caused this), had consciously sworn off friendships, hated everyone, trusted no one, and hated and scorned all love with a sincere passion. At this time I consciously vowed to myself that I would build a "wall" between me and my feelings and me and the world. For a while I did very well at isolating myself from the world and my past.
 
 At the age of 24 I hit a crisis point that was brought on by my social withdraw, extreme shyness, and strong inhibitions against any form of expressing affection (any form of physical touching still carries sexual connotations). While I realized I had been abused, I did not deal with it; I dealt with the loneliness. At this time I was "adopted" into a family with 3 children. There I learned to love again. Then I got lucky, met a woman with 3 kids and married her. That was 11 years ago.
 
-Now I find that I am back in crisis. This time it is my life. I had never fully comprehended the effects of the abuse as I do now. Heightening this crisis is my discovery that one of the children in my adopted family confessed that, while I lived there, his uncle was abusing him – and I, unable to recognize this, had done nothing. Top that off with knowing that my oldest stepdaughter was abused at the age of 15 by her 57 year old godfather and had a child by him, and that my stepson was having intercourse when he was 5 with his 12 year old female cousin--and it all just falls in around my ears, emotionally speaking.
+Now I find that I am back in crisis. This time it is my life. I had never fully comprehended the effects of the abuse as I do now. Heightening this crisis is my discovery that one of the children in my adopted family confessed that, while I lived there, his uncle was abusing him – and I, unable to recognize this, had done nothing. Top that off with knowing that my oldest stepdaughter was abused at the age of 15 by her 57 year old godfather and had a child by him, and that my stepson was having intercourse when he was 5 with his 12 year old female cousin–and it all just falls in around my ears, emotionally speaking.
 
 In the fall of '96 I went online for the first time and was instinctively drawn to the AOL Psych Forum Abuse Survivors message board. There I learned that being suicidal on a daily basis, being depressed on a daily basis, and being numb inside all the time was NOT normal – for I had always thought such things were normal. In the chat rooms I learned that online is not a substitute for true therapy, and had it not been for a friend I met there who convinced me to seek therapy, I probably would be dead by now. So if it wasn't for the Net, and resources like this, I might never have known, never have figured out WHY I feel this way – and most importantly – might never have sought professional help.
 
@@ -80,7 +83,7 @@ And then it came back. I could see that I was quite effeminate in my speech and 
 
 But then I understood WHY I was doing the research I was doing, and I have just begun to see my anger. I still dislike sex, and shrink if approached. I dissociate if a woman makes a pass, and avoid the possibility of intercourse by saying outrageous statements that are the worst "turn-offs".
 
-By the way, the perpetrator was a 60 year old single man, who gained the confidence of my family. He used to take me out and about London with him between the ages of 3 to 7\. I spent a lot of time at his house, opposite my own. He made me perform oral sex on him, masturbate him, and he sodomised me. He made our family believe he was the perfect English gentleman, as he liked to row boats, enjoyed chess, and used to be a civilian policeman during the Second World War. How could this man be a danger to me? But he was, and the effects of his hatred are an integral part of my adult life now.
+By the way, the perpetrator was a 60 year old single man, who gained the confidence of my family. He used to take me out and about London with him between the ages of 3 to 7. I spent a lot of time at his house, opposite my own. He made me perform oral sex on him, masturbate him, and he sodomised me. He made our family believe he was the perfect English gentleman, as he liked to row boats, enjoyed chess, and used to be a civilian policeman during the Second World War. How could this man be a danger to me? But he was, and the effects of his hatred are an integral part of my adult life now.
 
 With the help I am receiving, I will find my peace. I will enjoy a relationship, and will no longer be afraid of sex, or touching.
 
@@ -108,7 +111,7 @@ I was sexually abused by my father from the age of 9 or 10 for about 4 years. He
 
 In addition to the sexual abuse, my father was abusive verbally, emotionally and physically toward my mother, who was Japanese. He would ridicule her English and put her down. When she finally had enough and fought back he would tell her that she didn't understand "American humor." This didn't fool any of us children, though.
 
-I buried all my feelings, became quiet in order to appear "normal" (although inside I felt different and defective). I became a walking zombie without feelings. Starting in high school I got a job to stay away from home as much as possible – actually worked 35-40 hours a week and carried a full load at school. I started studying Japanese in college and used this as a legitimate way to escape from home--travel to Japan to take advantage of what I was learning in school. So, the abuse actually fueled my interest in international business, which is what I do now. I have become sort of a Japan expert and enjoy what I do. My career is somewhat symbolic of my family life – being the glue between the U.S. and Japan, holding both sides together. Perhaps my name should have been Elmer.
+I buried all my feelings, became quiet in order to appear "normal" (although inside I felt different and defective). I became a walking zombie without feelings. Starting in high school I got a job to stay away from home as much as possible – actually worked 35-40 hours a week and carried a full load at school. I started studying Japanese in college and used this as a legitimate way to escape from home–travel to Japan to take advantage of what I was learning in school. So, the abuse actually fueled my interest in international business, which is what I do now. I have become sort of a Japan expert and enjoy what I do. My career is somewhat symbolic of my family life – being the glue between the U.S. and Japan, holding both sides together. Perhaps my name should have been Elmer.
 
 When my oldest child turned 8, I found it increasingly difficult to keep the memories and feelings of guilt and shame away – like trying to hold a ball under water. I decided to go to counselling to understand what had happened to me so that I would never do the same thing to my own children. After the first session (I waited until the last 5 minutes to bring it up, which was the FIRST time in my life to ever talk about it), I actually felt as if I was floating when I left the office.
 
@@ -126,7 +129,7 @@ Dennis May, 1996 Texas, USA
 
 ## Fred's Story
 
-I was abused by my father. Not all my memories are clear, but I think it started about age 5 or 6\. He would take me in the tub with him when he bathed, playing sexually suggestive games in the water with me. I don't remember much, but I do remember becoming sexually excited by all this and having very warm sexual feelings and attraction to him. I don't remember having sexual feelings before having them for my father. One time he realized that I was becoming "too curious" about his body, and the baths abruptly ended without explanation.
+I was abused by my father. Not all my memories are clear, but I think it started about age 5 or 6. He would take me in the tub with him when he bathed, playing sexually suggestive games in the water with me. I don't remember much, but I do remember becoming sexually excited by all this and having very warm sexual feelings and attraction to him. I don't remember having sexual feelings before having them for my father. One time he realized that I was becoming "too curious" about his body, and the baths abruptly ended without explanation.
 
 And then the verbal abuse and emotional terrorism began. My father was so afraid his only son would turn out homosexual, and so ignorant of what to do about it (and ignorant of the fact that there was nothing he could do about it), that he began to treat me as if I disgusted him. I did disgust him. I knew I did. Eventually I changed from being a happy and shame-free little boy into a man who is disgusted with himself. And very guilty and ashamed for having once had sexual feelings for his daddy.
 
@@ -144,7 +147,7 @@ Fred March, 2000 Phoenix, Arizona
 
 ## I Can Laugh and Sing Again!
 
-I was molested by my older brother, cousins and their friends from the time I was 10 until I turned 12\. A group of them would tackle me on my way home from school and drag me off in the bushes. There, they would strip off my pants and masturbate me. The first time it happened, I went home and told my mother that I had been hurt by four older boys. Her response was that I had to be tougher and learn to stand up for myself. It didn't seem to matter that my brother, the one I was always told would look after me, was one of those boys. (I couldn't tell her about the sexual abuse.)
+I was molested by my older brother, cousins and their friends from the time I was 10 until I turned 12. A group of them would tackle me on my way home from school and drag me off in the bushes. There, they would strip off my pants and masturbate me. The first time it happened, I went home and told my mother that I had been hurt by four older boys. Her response was that I had to be tougher and learn to stand up for myself. It didn't seem to matter that my brother, the one I was always told would look after me, was one of those boys. (I couldn't tell her about the sexual abuse.)
 
 After the third time it happened, I started masturbating for the boys, because I didn't like being hurt! I became what looked like a willing participant! I began acting out by being very effeminate. I took up crocheting and knitting with a passion. I adapted a "swishy" walk. And then the verbal abuse started in earnest! I was always told to act more like a man. I was also told I needed to be more like my brother. . . he was a real MAN. Imagine my confusion when I learned I was supposed to become the one who abused me!
 
@@ -198,4 +201,6 @@ Sincerely,
 
 Bob L., Florida
 
-<u>Please note</u>: I will maintain this page as long as people can benefit from it. However, I am not able to accept all submissions.
+<u>Please note</u>
+
+: I will maintain this page as long as people can benefit from it. However, I am not able to accept all submissions.
