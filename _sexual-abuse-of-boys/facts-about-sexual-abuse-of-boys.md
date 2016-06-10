@@ -23,7 +23,6 @@ on this page
 * [Girls and women can sexually abuse boys.](#Girls-and-women-can-sexually-abuse-boys)
 * [Most boys who are sexually abused will not go on to sexually abuse others.](#most-boys-who-are-sexually-abused-will-not-go-on-to-sexually-abuse-others)
 * [Not understanding these facts is understandable, but harmful, and needs to be overcome.](#not-understanding-these-facts-is-understandable-but-harmful-and-needs-to-be-overcome)
-* [this is a test](#not-understanding-these-facts-is-understandable-but-harmful-and-needs-to-be-overcome)
 {: .onpage}
 
 Here I present some key facts about unwanted and abusive sexual experiences of boys – and about men who had such experiences when they were boys.
