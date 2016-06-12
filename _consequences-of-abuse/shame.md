@@ -78,7 +78,7 @@ What do I mean? It will take some explaining, but I encourage you to read on and
 
 Sometime during the second year of life, children become capable of imagining how others think of them. They become ‘self-conscious.’ They also start feeling shame.
 
-When a someone child cares about and depends upon for care expresses disappointment in them, rather than acceptance and enjoyment of their presence, they experience shame. Suddenly, there is a disconnection in the relationship, and the child feels (at a minimum) less secure and less supported.
+When someone a child cares about and depends upon for care expresses disappointment in them, rather than acceptance and enjoyment of their presence, they experience shame. Suddenly, there is a disconnection in the relationship, and the child feels (at a minimum) less secure and less supported.
 
 When the important person expressing disappointment is a parent or other important caregiver, the child wants to end the situation of disapproval and avoid having it happen again. In healthy relationships, this is just what the child tries to do, over and over again. In this way, he or she learns to maintain the overall approval and love of parents and other caregivers, despite his or her unavoidable mistakes and ‘bad behavior.’
 
