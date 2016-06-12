@@ -98,7 +98,7 @@ At some point, even the most basic needs for love and attention – so often met
 
 The two faces of shaming are rejection and contempt. Repeated shaming rejections in childhood can create a person who fears and avoids close relationships. Repeated shaming contempt can saddle a person with lots of anger and hostility for years.
 
-Repeated rejection and contempt, whether alone or combined, tend to create children and adults who fear and avoid asserting their needs in healthy ways. And so, men adults were severely shamed as children have a big internal obstacle to seeking help – or even feeling *entitled* to seek help, including help with getting over their shame.
+Repeated rejection and contempt, whether alone or combined, tend to create children and adults who fear and avoid asserting their needs in healthy ways. And so, adults who were severely shamed as children have a big internal obstacle to seeking help – or even feeling *entitled* to seek help, including help with getting over their shame.
 
 ## Shame Can Be Overcome
 
