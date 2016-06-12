@@ -24,4 +24,4 @@ That is, girls and women continually get messages from all kinds of people, and 
 
 More than 20 years ago my colleague Leslie Lebowitz conducted research and wrote a very powerful article on how these traditional views of females can shape women's (and girls') experiences of sexual assault (and abuse) and the aftermath. I encourage you to read this enlightening article:
 
-Lebowitz, L. & Roth, S. (1994). [I felt like a slut: The cultural context and women's response to being raped.](http://www.jimhoppper.com/pdfs/LebowitzRoth1994.pdf) *Journal of Traumatic Stress, 7,* 363-390.
+Lebowitz, L. & Roth, S. (1994). [I felt like a slut: The cultural context and women's response to being raped.](/pdf/LebowitzRoth1994.pdf) *Journal of Traumatic Stress, 7,* 363-390.
