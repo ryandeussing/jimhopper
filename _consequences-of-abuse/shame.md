@@ -108,4 +108,4 @@ It is possible to overcome shame, even the most extreme shame. I can’t emphasi
 * It is possible to find the help you need to overcome the shame you feel about harmful childhood experiences, even to overcome a deep layer of shame created by shaming early relationships.
 
 
-Many other men and women have done it. Many other men have found themselves amazed, and rightly proud, of how they’ve overcome their shame and turned their lives around.
+Many other men and women have done it. Many other men and women have found themselves amazed, and rightly proud, of how they’ve overcome their shame and turned their lives around.
