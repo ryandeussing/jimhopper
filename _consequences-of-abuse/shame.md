@@ -90,7 +90,7 @@ What does this extreme shaming look like?
 * Like a little girl who, whenever she’s made a mistake or done something wrong, hears from her parents things like ‘you’re so *stupid*,’ ‘you’ll never amount to anything,’ ‘you’re such a terrible, ungrateful child,’ or those ultimates, 'I wish you were *never born*' or ‘I wish you were *dead*.’
 
 
-When such experiences are repeated over and over again, *any* girls or boy will be torn between the need for connection and love and the fear of shaming rejection, criticism and ridicule. *Any* boy or girls will come to see himself or herself as a bad and unlovable person.
+When such experiences are repeated over and over again, *any* girl or boy will be torn between the need for connection and love and the fear of shaming rejection, criticism and ridicule. *Any* boy or girls will come to see himself or herself as a bad and unlovable person.
 
 For a child treated this way at home, shame is not about how to manage relationships with people whose approval he needs. Instead, shame is about how he or she is a bad and unlovable person who deserves rejection and contempt, even hatred.
 
