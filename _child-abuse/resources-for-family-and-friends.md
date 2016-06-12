@@ -117,7 +117,7 @@ But again, there are more effective ways to understand and communicate with the 
 
 As the developers of motivational interviewing, William Miller and Stephen Rollnick, have written:
 
-## Constructive behavior change seems to arise when the person connects it with something of intrinsic value, something important, something cherished. Intrinsic motivation for change arises in an accepting, empowering atmosphere that makes it safe for the person to explore the possibly painful present in relation to what is wanted and valued. People often get stuck, not because they fail to appreciate the down side of their situation, but because they feel at least two ways about it. The way out of that forest has to do with exploring and following what the person is experiencing and what, from his or her perspective, truly matters.
+> Constructive behavior change seems to arise when the person connects it with something of intrinsic value, something important, something cherished. Intrinsic motivation for change arises in an accepting, empowering atmosphere that makes it safe for the person to explore the possibly painful present in relation to what is wanted and valued. People often get stuck, not because they fail to appreciate the down side of their situation, but because they feel at least two ways about it. The way out of that forest has to do with exploring and following what the person is experiencing and what, from his or her perspective, truly matters.
 
 In the addictions field, the therapists and researchers who have been most helpful at putting this understanding and approach into practice with their loved ones are the developers of CRAFT (Community Reinforcement and Family Training).
 
