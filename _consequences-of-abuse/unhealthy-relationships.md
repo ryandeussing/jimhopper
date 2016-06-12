@@ -11,13 +11,15 @@ prevurl:
 prevtitle:
 ---
 
-<p class="onpage__header">on this page</p>
-<ul class="onpage">
-  <li><a href="#whats-learned-from-unwanted-and-abusive-experiences">What’s Learned from Unwanted and Abusive Experiences</a></li>
-  <li><a href="#roles-people-play">Roles People Play</a></li>
-  <li><a href="#other-common-roles-and-repetitions">Other Common Roles and Repetitions</a></li>
-  <li><a href="#change-is-possible-therapy-can-really-help">Change Is Possible, Therapy Can Really Help</a></li>
-</ul>
+
+on this page
+{: .onpage__header}
+
+* [What’s Learned from Unwanted and Abusive Experiences](#whats-learned-from-unwanted-and-abusive-experiences)
+* [Roles People Play](#roles-people-play)
+* [Other Common Roles and Repetitions](#other-common-roles-and-repetitions)
+* [Change Is Possible, Therapy Can Really Help](#change-is-possible-therapy-can-really-help)
+{: .onpage}
 
 As children we learn ways of relating – from parents, siblings, anyone who's important in our lives.
 
@@ -73,7 +75,7 @@ Some try to control others with guilt or shame.
 
 Some hide their emotional needs from others, then feel ignored and abandoned. Others make extreme emotional demands, or alternative between being needy and distant.
 
-Also, many unhealthy relationship patterns are rooted in a lack of trust – that anyone can really care, anyone can really understand them, be honest, etc. This lack of trust is usually rooted in childhood relationships with parents or other important adults who were untrustworthy.
+Also, many unhealthy relationship patterns are rooted in a [lack of trust](/child-abuse/consequences-of-abuse/trust/) – that anyone can really care, anyone can really understand them, be honest, etc. This lack of trust is usually rooted in childhood relationships with parents or other important adults who were untrustworthy.
 
 It could be with a second wife or husband, a tenth girlfriend or boyfriend, or a twentieth boss. When we're really honest with ourselves, we see that we've mostly been having the same basic relationship conflicts over the years.
 
@@ -85,16 +87,17 @@ Fortunately, it really is possible to understand and overcome such deeply ingrai
 
 Any safe and healthy relationship will give you opportunities to overcome the ways you repeat unhealthy relationship patterns.
 
-> It _is_ possible to understand and overcome such patterns.
+> It *is* possible to understand and overcome such patterns.
 
-But for many people, it’s going to require some extra help, not just from a patient and loving partner, but from someone who’s _job_ includes providing such help, that is, a therapist or counselor.
+But for many people, it’s going to require some extra help, not just from a patient and loving partner, but from someone who’s *job* includes providing such help, that is, a therapist or counselor.
 
 In fact, one of the most healing things about a good therapy relationship is the following process:
 
-1.  Developing a safe and trusting relationship, which allows you, with the therapist’s help, to…
-2.  Observe yourself repeating old unhealthy relationship patterns, with people in your life and with the therapist, which gives you the chance to…
-3.  Explore the related memories, feelings, and beliefs about yourself, others and relationships, which finally enables you to…
-4.  Discover and practice (and keep practicing) new and much healthier ways of relating, especially when your ‘buttons get pushed.’
+1. Developing a safe and trusting relationship, which allows you, with the therapist’s help, to…
+2. Observe yourself repeating old unhealthy relationship patterns, with people in your life and with the therapist, which gives you the chance to…
+3. Explore the related memories, feelings, and beliefs about yourself, others and relationships, which finally enables you to…
+4. Discover and practice (and keep practicing) new and much healthier ways of relating, especially when your ‘buttons get pushed.’
+
 
 This is one of the main purposes of a therapy relationship, especially when the therapist includes ‘interpersonal’ or ‘psychodynamic’ approaches, or the [Internal Family Systems Model](http://www.selfleadership.org/).
 
