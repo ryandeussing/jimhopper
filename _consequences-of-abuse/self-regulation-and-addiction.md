@@ -80,7 +80,7 @@ Self-regulation problems can have a big impact on one’s current relationships,
 
 ## Deal With This Early, With As Much Hope, Help, and Patience As Possible
 
-These problems with self-regulation and addictions are usually a big focus in the ‘first stage of recovery,’ as described by Judith Herman’s Stages of Recovery model.
+These problems with self-regulation and addictions are usually a big focus in the ‘first stage of recovery,’ as described by Judith Herman’s [Stages of Recovery](/healing-and-happiness/stages-of-recovery/) model.
 
 It really is best to start dealing with these problems as soon as possible because (as you know better than anyone else) they can cause so many problems and lots of suffering for you and other people in your life.
 
