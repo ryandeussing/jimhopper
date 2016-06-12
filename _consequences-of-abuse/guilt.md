@@ -34,7 +34,7 @@ It can include beating up on yourself, for recent actions or things you did a lo
 
 Like shame, guilt is tough to bear. Feeling guilty can make it hard to overcome the negative effects of bad childhood experiences.
 
-> Why feel guilty about things you didn’t understand or couldn’t control?
+> Why might you feel guilty about things you didn’t understand or couldn’t control?
 
 None of us are perfect. We’ve all done things that conflict with our values. We’ve all let down or harmed others, including people we respect and love.
 
@@ -59,7 +59,7 @@ Especially when it comes to harmful childhood sexual experiences, but also for e
 
 Much of the guilt experienced by people who’ve had such experiences is basically unfair to themselves: It is not based on an accurate or objective view of what happened. It does not reflect the fact that there was little they could actually have done – as vulnerable children or confused teenagers – to prevent what happened or to respond differently.
 
-> Why feel guilty about lots of things, every day?
+> Why might you feel guilty about lots of things, every day?
 
 Much of the guilt is extreme and harmful. It contributes to problems like low self-confidence and low self-respect, to depression and constantly feeling judged by others – all of which can cause serious difficulties in relationships, school and work.
 
