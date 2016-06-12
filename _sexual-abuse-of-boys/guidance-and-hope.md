@@ -26,13 +26,13 @@ on this page
 * [Bob L.'s Story](#bob-ls-story)
 {: .onpage}
 
-On this page you can read brief stories written by men who were sexually abused.
+On this page you can read brief stories written by men who had unwanted or abusive sexual experiences in childhood.
 
 The authors of these stories share with you how they came out of isolation and silence to find help and healing.
 
 The stories describe their experiences of:
 
-1. *Finding* people, therapists, groups, and organizations that help them recover from sexual abuse.
+1. *Finding* people, therapists, groups, and organizations that help them recover and heal.
 2. *How* these healing relationships help them recover and transform their lives.
 3. If applicable, how struggles with their *masculinity* have been related to the healing process.
 
@@ -201,6 +201,8 @@ Sincerely,
 
 Bob L., Florida
 
-<u>Please note</u>: I will maintain this page as long as people can benefit from it. However, I am not able to accept all submissions.
+<u>Please note</u>
+
+: I will maintain this page as long as people can benefit from it. However, I am not able to accept all submissions.
 
 See also 1in6's page&nbsp;[Other Guys Like Me](https://1in6.org/men/other-guys-like-me/) and [The Bristlecone Project](http://bristleconeproject.org/).
