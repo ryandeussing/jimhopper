@@ -58,7 +58,7 @@ First of all, harmful unwanted or abusive childhood experiences usually cause in
 
 This is especially true of emotions like fear, shame and guilt – which can be overwhelming and make it hard to manage other emotions and challenges in life.
 
-Then, the ways we try to avoid or cope with our emotions, and the stresses of our lives, often end up causing new and bigger problems. (See Cycles of Suffering, Healing & Happiness [link].)
+Then, the ways we try to avoid or cope with our emotions, and the stresses of our lives, often end up causing new and bigger problems. (See [Cycles of Suffering, Healing & Happiness](/the-brain/cycles/).)
 
 Angry and aggressive behavior, getting drunk or high, compulsively using porn or having sex – these are often attempts to avoid and escape feelings of helplessness, fears of rejection, and unfulfilled wishes to be loved. They all involve problems with self-regulation.
 
