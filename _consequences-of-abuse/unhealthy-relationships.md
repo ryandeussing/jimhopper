@@ -41,7 +41,7 @@ Often people who were harmed by others' unwanted or abusive sexual, physical and
 
 ## Roles People Play
 
-**Victim and Perpetrator**
+### Victim and Perpetrator
 
 Unhealthy relationship patterns often revolve around roles of ‘victim’ and ‘perpetrator.’
 
@@ -57,7 +57,7 @@ But there are plenty of less extreme examples. Whenever we feel like someone ‘
 
 The point here is not to condemn ourselves (or anyone else), just to recognize how common these roles are, even in those small little battles of everyday life.
 
-**Bystander**
+### Bystander
 
 Replaying the ‘bystander’ role can be very destructive too. For example, you may look the other way as someone you know exploits or abuses another person (or group of people, for example customers or employees at the 'bottom' organization). You may do nothing to protect a child from abuse or neglect that you know is happening.
 
