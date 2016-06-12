@@ -11,13 +11,15 @@ prevurl:
 prevtitle:
 ---
 
-<p class="onpage__header">on this page</p>
-<ul class="onpage">
-  <li><a href="#suddenly-in-defense-or-survival-mode">Suddenly In Defense or Survival Mode</a></li>
-  <li><a href="#the-nature-of-triggers">The Nature of Triggers</a></li>
-  <li><a href="#triggers-power-and-effects">Triggers’ Power and Effects</a></li>
-  <li><a href="#awareness-and-learning-freedom-and-control">Awareness and Learning, Freedom and Control</a></li>
-</ul>
+
+on this page
+{: .onpage__header}
+
+* [Suddenly In Defense or Survival Mode](#suddenly-in-defense-or-survival-mode)
+* [The Nature of Triggers](#the-nature-of-triggers)
+* [Triggers’ Power and Effects](#triggers-power-and-effects)
+* [Awareness and Learning, Freedom and Control](#awareness-and-learning-freedom-and-control)
+{: .onpage}
 
 Something in the present releases – automatically, in your brain – memories or reactions from past painful experiences. These responses can be understood, and overcome.
 
@@ -31,9 +33,10 @@ And what usually happens next, right after the trigger: You react with old ‘de
 
 Some simple examples of triggers and the ‘conditioned responses’ they unleash:
 
-*   Someone criticizes something you’ve said or done, and you instantly get defensive and angry, then verbally go on the attack.
-*   Someone criticizes something you’ve said or done, and you instantly feel crushed and defeated, then go silent and try to ‘disappear.’
-*   Walking into your childhood home, your body suddenly tenses up and your eyes scan for threats.
+* Someone criticizes something you’ve said or done, and you instantly get defensive and angry, then verbally go on the attack.
+* Someone criticizes something you’ve said or done, and you instantly feel crushed and defeated, then go silent and try to ‘disappear.’
+* Walking into your childhood home, your body suddenly tenses up and your eyes scan for threats.
+
 
 ## The Nature of Triggers
 
@@ -49,7 +52,7 @@ What are triggers for a particular person depends on his unique experiences of b
 
 The trigger is always real. By definition, a trigger is something that reminds you of something bad or hurtful from your past. It ‘triggers’ an association or memory in your brain.
 
-But sometimes you are _imagining_ that what’s happening now is actually like what happened back then, when in reality it’s hardly similar at all, or it just reminds you because you’re feeling vulnerable in a way you did when that bad thing happened in the past.
+But sometimes you are *imagining* that what’s happening now is actually like what happened back then, when in reality it’s hardly similar at all, or it just reminds you because you’re feeling vulnerable in a way you did when that bad thing happened in the past.
 
 > Triggers can be obvious or subtle, in our awareness or not.
 
@@ -59,7 +62,7 @@ Also, though we may not realize that we just got triggered, or why, it can be ob
 
 Triggers that involve other people’s behavior are often connected to ways that we repeat unhealthy relationship patterns learned in childhood. Things that other people do – especially people close to us and especially in situations of conflict – remind us of hurtful things done to us in the past. Then we respond as if we’re defending ourselves against those old vulnerabilities, hurts, or traumas.
 
-But our responses usually just trigger vulnerable feelings in the other person, as well as their own old self-defense patterns, and we _both_ end up repeating the unhealthy relationship patterns we that fear and don’t want in our lives.
+But our responses usually just trigger vulnerable feelings in the other person, as well as their own old self-defense patterns, and we *both* end up repeating the unhealthy relationship patterns we that fear and don’t want in our lives.
 
 As noted above, other common triggers include ‘anniversaries,’ that is, dates or holidays that remind you, at some level, of traumatic experiences, of how your family wasn’t and isn’t so happy and loving, etc.
 
@@ -79,7 +82,7 @@ Reactions to triggers can be very dramatic and rapid, like lashing out at someon
 
 But responses to triggers can also creep up on you, playing out over hours and days, and get worse over time.
 
-You may find yourself depressed and retreating from any contact with friends, or drinking a lot more every night, or smoking way more cigarettes than usual. You may find yourself getting lost in TV, videogames, or pornography. You may get caught up in trying to force others to change their behavior so they never trigger you again. Days later you may wonder, ‘Woah, how did I get back into _this_?’
+You may find yourself depressed and retreating from any contact with friends, or drinking a lot more every night, or smoking way more cigarettes than usual. You may find yourself getting lost in TV, videogames, or pornography. You may get caught up in trying to force others to change their behavior so they never trigger you again. Days later you may wonder, ‘Woah, how did I get back into *this*?’
 
 ## Awareness and Learning, Freedom and Control
 
@@ -89,8 +92,8 @@ Basically, if you’re reacting to someone or something much more intensely than
 
 Instead, you’re feeling and acting, however consciously or unconsciously, as if you’re ‘back there’ in that old painful or traumatic experience, on autopilot and enslaved by old conditioning.
 
-Fortunately, it’s entirely possible to increase your awareness of your own unique triggers, and of what happens in your mind and body when particular things trigger you. With that foundation of awareness and understanding in place, you can learn how to respond _not_ as you always did in the past, but instead in new and much more healthy ways.
+Fortunately, it’s entirely possible to increase your awareness of your own unique triggers, and of what happens in your mind and body when particular things trigger you. With that foundation of awareness and understanding in place, you can learn how to respond *not* as you always did in the past, but instead in new and much more healthy ways.
 
 In this way, you can free yourself from deeply ingrained conditioning, actually rewiring your brain to respond in new and much healthier ways to the inevitable triggers we all encounter in our lives and relationships.
 
-For many people, understanding and reconditioning their responses to triggers will require, or be greatly speeded up, by help from a therapist or counselor. There are also self-help resources available. For example, you may consider learning how to cultivate greater mindfulness [link], which will increase your awareness of triggers and your automatic responses to them, and will give you the mental space and time you need to choose new, healthier and more constructive responses.
+For many people, understanding and reconditioning their responses to triggers will require, or be greatly speeded up, by help from a therapist or counselor. There are also self-help resources available. For example, you may consider learning how to cultivate greater [mindfulness](/mindfulness-and-meditation/cultivating-mindfulness/), which will increase your awareness of triggers and your automatic responses to them, and will give you the mental space and time you need to choose new, healthier and more constructive responses.
