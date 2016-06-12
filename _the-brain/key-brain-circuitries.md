@@ -6,8 +6,8 @@ subcollection:
 description:
 nexturl:
 nexttitle:
-prevurl:
-prevtitle:
+prevurl: /the-brain/overview/
+prevtitle: The Brain
 ---
 
 
