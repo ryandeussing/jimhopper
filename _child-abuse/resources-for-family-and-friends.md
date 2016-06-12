@@ -1,5 +1,5 @@
 ---
-title: Resources For Family &amp; Friends
+title: 'Resources For Family &amp; Friends'
 custom_title:
 order: 11
 subcollection:
@@ -12,14 +12,16 @@ prevtitle:
 ---
 
 
-<ul class="onpage"><p class="onpage__header">on this page</p>
-  <li><a href="#where-do-i-start">Where Do I Start?</a></li>
-  <li><a href="#your-needs-matter-too">Your Needs Matter Too</a></li>
-  <li><a href="#consider-focusing-on-yourself-first">Consider Focusing on Yourself First</a></li>
-  <li><a href="#why-pushing-him-or-her-wont-work">Why Pushing Him or Her Won’t Work</a></li>
-  <li><a href="#a-more-effective-approach-to-helping">A More Effective Approach to Helping</a></li>
-  <li><a href="#additional-resources-related-to-childhood-sexual-abuse">Additional Resources Related to Childhood Sexual Abuse</a></li>
-</ul>
+on this page
+{: .onpage__header}
+
+* [Where Do I Start?](#where-do-i-start)
+* [Your Needs Matter Too](#your-needs-matter-too)
+* [Consider Focusing on Yourself First](#consider-focusing-on-yourself-first)
+* [Why Pushing Him or Her Won’t Work](#why-pushing-him-or-her-wont-work)
+* [A More Effective Approach to Helping](#a-more-effective-approach-to-helping)
+* [Additional Resources Related to Childhood Sexual Abuse](#additional-resources-related-to-childhood-sexual-abuse)
+{: .onpage}
 
 This section is for spouses and partners, boyfriends and girlfriends, and other family and friends of adults who are (or may be) struggling with the effects of harmful unwanted or abusive childhood experiences.
 
@@ -47,21 +49,21 @@ As you focus on taking care of yourself, you may need to let your loved one know
 
 ## Your Needs Matter Too
 
-I'm providing resources for sorting out what makes sense _to you_, as well as the man or woman you care about, and for sorting out the options for dealing with _your_ unique experiences and moving closer to the life (and relationship) you want.
+I'm providing resources for sorting out what makes sense *to you*, as well as the man or woman you care about, and for sorting out the options for dealing with *your* unique experiences and moving closer to the life (and relationship) you want.
 
 For some of you, your loved one's problems – and their effects on you – may have reached a point where something major has to change.
 
 > You too have needs, things to sort out.
 
-Because every person needs to sort these things out on his or her own terms, in their own time, pushing them to go at the pace _you_ want is not going to be helpful.
+Because every person needs to sort these things out on his or her own terms, in their own time, pushing them to go at the pace *you* want is not going to be helpful.
 
 ## Consider Focusing on Yourself First
 
-Before I focus on helping the person you care about, I want to direct your attention to helping yourself. The closer your relationship to the man in question, and the greater the impact of his problems on you, the more important it is to start with _your_ experiences and needs.
+Before I focus on helping the person you care about, I want to direct your attention to helping yourself. The closer your relationship to the man in question, and the greater the impact of his problems on you, the more important it is to start with *your* experiences and needs.
 
 > The more he affects you, the more helpful to focus on yourself.
 
-Especially if you are trying to help someone find professional help, or to “convince” them that they need therapy, I have a recommendation. Before suggesting anything to the other person, consider meeting _yourself_ with a therapist who is very experienced at helping people like the person you’re concerned about. Even just one or two sessions can be extremely helpful. Why?
+Especially if you are trying to help someone find professional help, or to “convince” them that they need therapy, I have a recommendation. Before suggesting anything to the other person, consider meeting *yourself* with a therapist who is very experienced at helping people like the person you’re concerned about. Even just one or two sessions can be extremely helpful. Why?
 
 Talking in person to a qualified professional can help you sort through your feelings, fears, frustrations, and strong impulses to take action (in what, for some of you, may feel like an increasingly unbearable situation).
 
@@ -75,7 +77,7 @@ Ultimately, it’s up to the person you care about. But how you discuss these is
 
 Trying to be supportive and helpful to someone who is suffering from the effects of child abuse can be very difficult and challenging. Just knowing what they went through can bring up feelings of sadness, helplessness, frustration, and anger. If he clearly could benefit from some professional help but rejects that as an option, or she says she’ll get help but never follows through, it can become very frustrating.
 
-> How to help a someone who’s _in conflict_ about getting help?
+> How to help a someone who’s *in conflict* about getting help?
 
 And it can be scary, if the well-being of your relationship or family seem to depend on what he or she chooses.
 
@@ -93,13 +95,13 @@ In trying to help someone you care about who is struggling with such mixed feeli
 
 > Pushing him to ‘admit’ he needs help won’t work (for long).
 
-Here’s the trap: Trying to 'show' or 'convince' or otherwise _push_ the other person into 'admitting' they need help, that they 'must' go into therapy, etc.
+Here’s the trap: Trying to 'show' or 'convince' or otherwise *push* the other person into 'admitting' they need help, that they 'must' go into therapy, etc.
 
 Unfortunately, this doesn’t work. In general, when people have mixed feelings about something and someone else does all the talking (and pushing) for one side, it puts the other person in the unbalanced position of “holding the other side” and thinking and talking about the reasons he or she doesn’t want or need to change.
 
 Also, when the person who fears change will have some serious drawbacks is someone who was used or abused as a child, being pushed to change can trigger fears of being manipulated and disempowered like he or she was back then. Of course, you may be genuinely trying your best, and pushing out of caring and love (not just growing fear and desperation). But the fact is – as you’ve probably already begun to realize, even if you still don’t quite know what else to do – this approach is not likely to work. The fact is, it tends to polarize things further, and to increase the other person's resistance to change, including seeking help.
 
-##  A More Effective Approach to Helping
+## A More Effective Approach to Helping
 
 The reasons that such communication styles do not work are very well explained by the therapists and researchers who developed 'motivational interviewing,' a way of communicating that can be extremely effective, and those who developed 'CRAFT' (see below).
 
@@ -115,7 +117,7 @@ But again, there are more effective ways to understand and communicate with the 
 
 As the developers of motivational interviewing, William Miller and Stephen Rollnick, have written:
 
-> Constructive behavior change seems to arise when the person connects it with something of intrinsic value, something important, something cherished. Intrinsic motivation for change arises in an accepting, empowering atmosphere that makes it safe for the person to explore the possibly painful present in relation to what is wanted and valued. People often get stuck, not because they fail to appreciate the down side of their situation, but because they feel at least two ways about it. The way out of that forest has to do with exploring and following what the person is experiencing and what, from his or her perspective, truly matters.
+# Constructive behavior change seems to arise when the person connects it with something of intrinsic value, something important, something cherished. Intrinsic motivation for change arises in an accepting, empowering atmosphere that makes it safe for the person to explore the possibly painful present in relation to what is wanted and valued. People often get stuck, not because they fail to appreciate the down side of their situation, but because they feel at least two ways about it. The way out of that forest has to do with exploring and following what the person is experiencing and what, from his or her perspective, truly matters.
 
 In the addictions field, the therapists and researchers who have been most helpful at putting this understanding and approach into practice with their loved ones are the developers of CRAFT (Community Reinforcement and Family Training).
 
@@ -123,16 +125,17 @@ CRAFT is an approach that avoids the equally unhelpful opposites approaches of d
 
 Instead, the research-proven CRAFT approach teaches family members and friends effective behavioral and motivational strategies and skills for interacting with their loved one.
 
-Again, while CRAFT was originally developed to help family members and their loved one's struggling with addiction – certainly common in those abused and otherwise harmed as children – it applies to helping family members and friends be more effective at helping a loved one with _any_ emotional or behavioral problems (that they have mixed feelings about getting help with).
+Again, while CRAFT was originally developed to help family members and their loved one's struggling with addiction – certainly common in those abused and otherwise harmed as children – it applies to helping family members and friends be more effective at helping a loved one with *any* emotional or behavioral problems (that they have mixed feelings about getting help with).
 
 [Beyond Addiction: How Science and Kindness Help People Change](http://www.amazon.com/Beyond-Addiction-Science-Kindness-People/dp/1476709475/ref=nosim/?tag=jimhoppercom-20), by Kosanke, Wilkins & Foote (2014), is a fantastic book that explains all of this and provides lots of practical strategies, skills and practice exercises. I cannot recommend this book highly enough.
 
 See also the [Center for Motivation and Change](http://motivationandchange.com/) and their free online [20 Minute Guide](http://the20minuteguide.com/partners/introduction-partners-guide/), which will help you with such tools as:
 
-*   How to react when the person you care about has been using substances (or engaging in other harmful behaviors) and when he or she has _not_ been using
-*   Getting more of what you want to see from the person you care about, and less of what you don’t
-*   How to talk to the person you care about so that you are more likely to be heard
-*   How to take care of yourself along the way
+* How to react when the person you care about has been using substances (or engaging in other harmful behaviors) and when he or she has *not* been using
+* Getting more of what you want to see from the person you care about, and less of what you don’t
+* How to talk to the person you care about so that you are more likely to be heard
+* How to take care of yourself along the way
+
 
 ## Additional Resources Related to Childhood Sexual Abuse
 
