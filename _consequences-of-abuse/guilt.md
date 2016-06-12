@@ -11,20 +11,22 @@ prevurl:
 prevtitle:
 ---
 
-<p class="onpage__header">on this page</p>
-<ul class="onpage">
-  <li><a href="#what-its-about">What It’s About</a></li>
-  <li><a href="#about-what-happened-and-how-you-responded">About What Happened and How You Responded</a></li>
-  <li><a href="#unfair-extreme-and-harmful-guilt">Unfair, Extreme, and Harmful Guilt</a></li>
-  <li><a href="#sources-of-extreme-guilt">Sources of Extreme Guilt</a></li>
-  <li><a href="#guilt-can-be-overcome">Guilt Can Be Overcome</a></li>
-</ul>
+
+on this page
+{: .onpage__header}
+
+* [What It’s About](#what-its-about)
+* [About What Happened and How You Responded](#about-what-happened-and-how-you-responded)
+* [Unfair, Extreme, and Harmful Guilt](#unfair-extreme-and-harmful-guilt)
+* [Sources of Extreme Guilt](#sources-of-extreme-guilt)
+* [Guilt Can Be Overcome](#guilt-can-be-overcome)
+{: .onpage}
 
 Like shame, it's almost always a problem for those who've had harmful unwanted or abusive childhood experiences. If you're struggling with guilt, you're not alone.
 
 ## What It’s About
 
-Guilt is thoughts and feelings about _things you’ve done._
+Guilt is thoughts and feelings about *things you’ve done.*
 
 It involves feeling regret, and usually feeling critical or judgmental toward yourself, for having done something wrong or bad – something that conflicts with your values and with your view of being a good person.
 
@@ -46,11 +48,12 @@ For people who had harmful unwanted or abusive childhood experiences, there can 
 
 Especially when it comes to harmful childhood sexual experiences, but also for experiences of physical or emotional harm or abuse, it’s common to feel guilty about:
 
-*   Not saying ‘no’ or physically resisting.
-*   ‘Letting’ another person take advantage of one's vulnerability, including ignorance and curiosity of sex.
-*   Becoming sexually aroused or experiencing sexual pleasure, even when they didn’t want or like what was happening.
-*   Having engaged in sexual activity with other children, even if due to manipulation or force by others.
-*   Not protecting a brother, sister, friend, or other child from someone doing the same harmful sexual, physical and/or emotional things to them.
+* Not saying ‘no’ or physically resisting.
+* ‘Letting’ another person take advantage of one's vulnerability, including ignorance and curiosity of sex.
+* Becoming sexually aroused or experiencing sexual pleasure, even when they didn’t want or like what was happening.
+* Having engaged in sexual activity with other children, even if due to manipulation or force by others.
+* Not protecting a brother, sister, friend, or other child from someone doing the same harmful sexual, physical and/or emotional things to them.
+
 
 ## Unfair, Extreme, and Harmful Guilt
 
@@ -64,13 +67,15 @@ If this sounds like you, you are not alone. These are normal human responses to 
 
 Of course, no matter how normal it is, it’s a lot to deal with. I understand.
 
-I certainly don’t want you to feel guilty about feeling too much guilt! But I'm also not saying that you might not be right to feel _some_ guilt about _some_ things you’ve done or not done (again, some guilt is healthy).
+I certainly don’t want you to feel guilty about feeling too much guilt! But I'm also not saying that you might not be right to feel *some* guilt about *some* things you’ve done or not done (again, some guilt is healthy).
 
 I'm just pointing out something you probably already know, or are starting to suspect: sometimes you feel guilty about things that, as a child or teenager, you were unable to understand or control under the circumstances, and that you know were not really your fault or responsibility.
 
 If this sounds like you, maybe you already see much of your guilt as ‘irrational.’ But as you may also have discovered by now, knowing it’s irrational in some way does not mean it just goes away. Or that it stops making you feel really bad.
 
-Furthermore, such extreme and ‘irrational’ guilt may not be limited to how you feel about those harmful unwanted or abusive childhood experiences. You may be feeling overly guilty about _all kinds of things_ in your life. Every day you may be coming up with more reasons to feel really guilty. Again, if this sounds like you, you are definitely not alone.
+> You can learn to stop beating up on yourself.
+
+Furthermore, such extreme and ‘irrational’ guilt may not be limited to how you feel about those harmful unwanted or abusive childhood experiences. You may be feeling overly guilty about *all kinds of things* in your life. Every day you may be coming up with more reasons to feel really guilty. Again, if this sounds like you, you are definitely not alone.
 
 ## Sources of Extreme Guilt
 
@@ -78,11 +83,10 @@ There can be many reasons why such extreme and irrational guilt keeps coming up 
 
 We won’t try to explain them all here, but will mention three common ones:
 
-*   Maybe parents, teachers, religious or other authorities repeatedly made you feel guilty for things that weren’t your fault.
-*   Maybe when you did do things worth feeling some guilt about, you were made to feel _extremely_ guilty, and led to believe that making amends was impossible.
-*   Maybe you came to believe (without necessarily realizing it) that blaming yourself was better than believing that you had little or no control over what happened, and came to see ‘it’s my fault’ or ‘I have no control’ as the only two possibilities.
+* Maybe parents, teachers, religious or other authorities repeatedly made you feel guilty for things that weren’t your fault.
+* Maybe when you did do things worth feeling some guilt about, you were made to feel *extremely* guilty, and led to believe that making amends was impossible.
+* Maybe you came to believe (without necessarily realizing it) that blaming yourself was better than believing that you had little or no control over what happened, and came to see ‘it’s my fault’ or ‘I have no control’ as the only two possibilities.
 
-> You can learn to stop beating up on yourself.
 
 ## Guilt Can Be Overcome
 
