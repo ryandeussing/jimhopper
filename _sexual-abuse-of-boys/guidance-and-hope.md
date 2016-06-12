@@ -203,4 +203,4 @@ Bob L., Florida
 
 <u>Please note:</u>&nbsp;I will maintain this page as long as people can benefit from it. However, I am not able to accept all submissions.
 
-See also 1in6's page&nbsp;[Other Guys Like Me](https://1in6.org/men/other-guys-like-me/) and [The Bristlecone Project](http://bristleconeproject.org/).
+See also 1in6's [Other Guys Like Me](https://1in6.org/men/other-guys-like-me/) and [The Bristlecone Project](http://bristleconeproject.org/).
