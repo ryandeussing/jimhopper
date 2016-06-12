@@ -29,8 +29,6 @@ on this page
 * [Elizabeth Loftus](#elizabeth-loftus)
 {: .onpage}
 
-## Introduction
-
 ***Not recalling childhood sexual abuse, despite encountering potential reminders, is a condition.***
 
 ***The existence of this condition is beyond dispute.***
@@ -40,6 +38,8 @@ on this page
 ***At least 10% of people sexually abused in childhood will have periods of failing to recall their abuse, followed by experiences of delayed recall.***
 
 (Conservative estimate based on scientific research.)
+
+## Introduction
 
 In 1995 I began offering web resources on recovered memories of sexual abuse, primarily to direct people to quality scientific and scholarly work on traumatic and recovered memories, especially:
 
@@ -484,7 +484,7 @@ Excerpt: "We begin by briefly summarizing the proposed social situation in which
 
 Here are excerpts from the *New York Times Book Review*:
 
-"*Betrayal Trauma* is a thoughtful, judicious and thorough scholarly analysis of a subject that has hitherto generated more heat than light...
+"*Betrayal Trauma* is a thoughtful, judicious and thorough scholarly analysis of a subject that has hitherto generated more heat than light…
 
 "Although the mechanisms involved [in memory loss and retrieval] are far from fully understood, Ms. Freyd marshals the psychological, neurological and cognitive-science literature with impressive skill to suggest several plausible possibilities. Her work serves as a salutary reminder that if treated as serious science rather than media hoopla the recovered-memory debate could provide a significant window on mind-brain relationships; anyone interested in the latter will find much stimulating material here. . .
 
