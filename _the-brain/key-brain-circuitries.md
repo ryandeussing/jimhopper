@@ -11,15 +11,17 @@ prevtitle:
 ---
 
 
-<ul class="onpage"><p class="onpage__header">on this page</p>
-  <li><a href="#fear-circuitry">Fear Circuitry</a></li>
-  <li><a href="#seeking-circuitry">Seeking Circuitry</a></li>
-  <li><a href="#satisfaction-circuitry">Satisfaction Circuitry</a></li>
-  <li><a href="#embodiment-circuitry">Embodiment Circuitry</a></li>
-  <li><a href="#default-mode-circuitry">Default Mode Circuitry</a></li>
-  <li><a href="#executive-circuitry">Executive Circuitry</a></li>
-  <li><a href="#keys-to-understanding-our-suffering-healing-and-happiness">Keys to Understanding Our Suffering, Healing and Happiness</a></li>
-</ul>
+on this page
+{: .onpage__header}
+
+* [Fear Circuitry](#fear-circuitry)
+* [Seeking Circuitry](#seeking-circuitry)
+* [Satisfaction Circuitry](#satisfaction-circuitry)
+* [Embodiment Circuitry](#embodiment-circuitry)
+* [Default Mode Circuitry](#default-mode-circuitry)
+* [Executive Circuitry](#executive-circuitry)
+* [Keys to Understanding Our Suffering, Healing and Happiness](#keys-to-understanding-our-suffering-healing-and-happiness)
+{: .onpage}
 
 Keys to understanding your brain, your experience and your life
 
@@ -35,7 +37,7 @@ For those who want the scientific research backing up my teachings on these circ
 
 Those who know something about the brain, and perhaps are familiar with the popular and important work of Daniel Siegel, on interpersonal neurobiology and its applications, will see that I don't organize things according to the "triune" model of brain stem, "limbic system" and prefrontal cortex. There are other differences in my approach as well.
 
-My _key circuitries_ approach, while compatible with and complementary to those of Siegel and others, sheds unique light on brain-based experiences and processes that are fundamental to our suffering and happiness.
+My *key circuitries* approach, while compatible with and complementary to those of Siegel and others, sheds unique light on brain-based experiences and processes that are fundamental to our suffering and happiness.
 
 I hope that many people, including you, will find what I'm sharing to be enlightening and useful.
 
@@ -47,14 +49,13 @@ The fear circuitry triggers and implements extreme fear responses, but also less
 
 More extreme fear responses implemented by the fear circuitry include freezing, a racing heart, rapid breathing, fight or flight behaviors, or even paralysis and passing out. (I regularly teach investigators, prosecutors, judges and military commanders about how the fear circuitry largely determines how people respond to being sexually assaulted and how they encode, store and recall the experience. See [Why Many Rape Victims Don't Fight or Yell](http://www.washingtonpost.com/news/grade-point/wp/2015/06/23/why-many-rape-victims-dont-fight-or-yell/) and [my YouTube channel](https://www.youtube.com/c/jimhopper44/) for videos of me presenting on this.)
 
-But the fear circuitry isn’t only for what scares or terrifies us. It is triggered by _anything_ we find unpleasant and want to avoid. Indeed, the most common method for studying the fear circuitry in animals uses relatively mild but aversive foot shocks, not terrifying or traumatic experiences, to evoke and study fear responses and their brain bases. Thus we can also understand this as the _fear/aversion circuitry_.
+But the fear circuitry isn’t only for what scares or terrifies us. It is triggered by *anything* we find unpleasant and want to avoid. Indeed, the most common method for studying the fear circuitry in animals uses relatively mild but aversive foot shocks, not terrifying or traumatic experiences, to evoke and study fear responses and their brain bases. Thus we can also understand this as the *fear/aversion circuitry*.
 
 ![](/uploads/versions/fear_circuitry-jpg---x----400-330x---.jpg)
 
 In fact, the fear circuitry is constantly on, at least idling to some extent, like a smoke detector always looking for signs of fire. Automatically and outside of our awareness, the fear circuitry constantly monitors the environment for signs of actual or potential threat, however large or small. This includes things that are linked in memory with bad past experiences (e.g., a harsh tone of voice, narrowed eyes), or simply things that are unfamiliar or unexpected.
 
-
-Importantly, experiences that trigger the fear circuitry invariably recruit the brain’s _seeking circuitry_ (described next). Our brains are constantly and automatically – within milliseconds – “tagging” some experiences and things as unpleasant and unwanted, thus as experiences and things that are to be _avoided and_ _escaped_.
+Importantly, experiences that trigger the fear circuitry invariably recruit the brain’s *seeking circuitry* (described next). Our brains are constantly and automatically – within milliseconds – “tagging” some experiences and things as unpleasant and unwanted, thus as experiences and things that are to be *avoided and* *escaped*.
 
 When feared and unwanted emotions like sadness, loneliness or shame get triggered – however much we notice them or not – our brains automatically seek escape from them, sometimes into addictive experiences. And for some people who have been hurt in important relationships, especially as children, even “positive” experiences with other people, like being offered genuine affection, caring or love, can be unwanted and trigger fear and attempts to escape.
 
@@ -66,7 +67,7 @@ The seeking circuitry is part of the brain’s “reward circuitry.” Like the 
 
 Neuroscientists have given different names to this circuitry, based on their different views of overall brain functioning and of this circuitry’s roles in behavior and emotion. The name “seeking” was coined by Jaak Panksepp, an influential neuroscientist who has focused on (among other things) how human and animal brains are innately driven, by this circuitry, to engage with the world.
 
-Researchers have found that the seeking circuitry is what enables us to want and seek _anything_. It could be a drink of water or your next meal. It could be a new dress or shirt, a new pair of shoes or watch, or the latest technology toy. It could be an affectionate comment from a girlfriend, boyfriend, spouse or partner, praise from a co-worker or supervisor, or accomplishing a life goal. Or the next pain pill, drink of alcohol, hit of crack or porn video.
+Researchers have found that the seeking circuitry is what enables us to want and seek *anything*. It could be a drink of water or your next meal. It could be a new dress or shirt, a new pair of shoes or watch, or the latest technology toy. It could be an affectionate comment from a girlfriend, boyfriend, spouse or partner, praise from a co-worker or supervisor, or accomplishing a life goal. Or the next pain pill, drink of alcohol, hit of crack or porn video.
 
 As noted above, the seeking circuitry is what drives our attempts to escape from unwanted experiences that have activated the circuitry of fear and aversion. The unwanted experiences we seek to escape can be small, such as an annoying sound or an itch on your back; bigger things, like a sharp pain in your injured knee or the feelings triggered by someone yelling at you; or really big things, like how it feels to be in a miserable marriage, when someone you love is dying of cancer, being abused or unjustly jailed, or seeing a friend killed in war or on the street.
 
@@ -78,12 +79,11 @@ When we strive to fulfill our highest moral, religious and spiritual values and 
 
 For people struggling with a great deal of suffering, their seeking circuitry can get overly focused on – even enslaved to – quick fixes. These fixes can be intoxicated states brought on by alcohol or drugs. They can be intoxicating sexual experiences, or power trips, or sexual power trips.
 
-Most importantly, a quick fix is _any experience that is sought for immediate escape from suffering_. As we can see in ourselves, in our family members, in our friends and co-workers, and in the daily parade of unhealthy and downright destructive "it seemed like a good idea at the time" behaviors we see on TV and the net, there's no limit to what people will do to escape briefly from physical, emotional and spiritual
-suffering.
+Most importantly, a quick fix is *any experience that is sought for immediate escape from suffering*. As we can see in ourselves, in our family members, in our friends and co-workers, and in the daily parade of unhealthy and downright destructive "it seemed like a good idea at the time" behaviors we see on TV and the net, there's no limit to what people will do to escape briefly from physical, emotional and spiritual suffering.
 
 Such quick fixes include minor unhealthy behaviors like eating or drinking to much, more problematic ones like lashing out at someone in anger to escape feelings of shame or powerlessness, and extreme self-harming behaviors like cutting or burning one's body to reduce inner turmoil. Quick fixes also include habitual “defense mechanisms” like ruminating, mindlessly distracting ourselves with things on a screen or otherwise spacing out. Such habitual behaviors harm us less obviously, by disconnecting us from the potential fullness of our current experience (which can prevent us from responding to unwanted experiences in healthy ways).
 
-The many ways we may ignore or deny what’s actually happening around and within us all can be understood as _brief escapes or quick fixes that involve the seeking circuitry._ Such escapes tend to be not only brief, but also addictive, and unfulfilling in any lasting way – and many cause more problems than they solve.
+The many ways we may ignore or deny what’s actually happening around and within us all can be understood as *brief escapes or quick fixes that involve the seeking circuitry.* Such escapes tend to be not only brief, but also addictive, and unfulfilling in any lasting way – and many cause more problems than they solve.
 
 The seeking circuitry is also involved in the pleasures of expecting and seeking what we want, and the excitement of both. For many people, this is the main or only kind of pleasure or happiness they know. But this “anticipatory pleasure” of expecting and seeking is only one kind of pleasure, and not a particularly fulfilling one; it’s different from the pleasure of satisfaction that comes from getting what we’ve sought. As we all know, there’s a difference between the pleasure of anticipating eating a bowl of ice cream and the pleasure of actually eating it. The same is true of any addictive substance or behavior. (Some substances, however, including cocaine and methamphetamine, can be addictive precisely because they increase the pleasure of seeking itself.)
 
@@ -101,7 +101,7 @@ Indeed, the central role of seeking in human experience and behavior, and the im
 
 Just as important as the seeking circuitry is the “satisfaction circuitry.” That's the name I've given to the other key component of the brain's "reward circuitry."
 
-Extensive research has established that chemicals in the brain called opioids (and their receptors on brain cells) are centrally involved in feelings of satisfaction and contentment, as well as feelings of connection with others. As Panksepp and Biven have written, opioids acting on opioid receptors (specifically _mu_ opoiod receptors) not only take away feelings of pain but “send messages of pleasant satisfaction in the brain” ([2012](http://www.amazon.com/Archaeology-Mind-Neuroevolutionary-Interpersonal-Neurobiology/dp/0393705315/), p.25).
+Extensive research has established that chemicals in the brain called opioids (and their receptors on brain cells) are centrally involved in feelings of satisfaction and contentment, as well as feelings of connection with others. As Panksepp and Biven have written, opioids acting on opioid receptors (specifically *mu* opoiod receptors) not only take away feelings of pain but “send messages of pleasant satisfaction in the brain” ([2012](http://www.amazon.com/Archaeology-Mind-Neuroevolutionary-Interpersonal-Neurobiology/dp/0393705315/), p.25).
 
 This opioid circuitry of satisfaction can give us the deeply fulfilling pleasures of feeling happy and loved. Any time we feel contented, this circuitry is involved. Such experiences, of course, are minimal or missing in the lives of people who are suffering greatly, including those struggling with major trauma, or major anxiety, depression and/or addiction. As noted above, sometimes the only feelings of pleasure that severely suffering people have are those of seeking, anticipating and experiencing substance-induced highs or other quick-fix escapes.
 
@@ -113,7 +113,7 @@ Like the brain’s own opiates, those from outside the body – whether injected
 
 ## Embodiment Circuitry
 
-Another extensively studied and well-established brain circuitry is what I call the embodiment circuitry. The more common term used in neuroscience is "interoceptive" circuitry ([interoception](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.00763/abstract), broadly defined, refers to the sense of signals originating within the body.) _Embodiment_ is a less technical term and clearly indicates that this circuitry allows us to know what it feels like to be "in our bodies."
+Another extensively studied and well-established brain circuitry is what I call the embodiment circuitry. The more common term used in neuroscience is "interoceptive" circuitry ([interoception](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.00763/abstract), broadly defined, refers to the sense of signals originating within the body.) *Embodiment* is a less technical term and clearly indicates that this circuitry allows us to know what it feels like to be "in our bodies."
 
 A key part of the embodiment circuitry is the insular cortex or insula, a cortical region that brings together all information coming from the body (e.g., sensations of movement, touch, tension, pressure, warmth, etc.).
 
@@ -127,7 +127,7 @@ Awareness of the embodiment circuitry is important and helpful, because how we e
 
 The importance of the embodiment circuitry cannot be overestimated. Much of human suffering includes and is driven by unpleasant and unwanted body sensations. All addictions involve attempts, at least in part, to escape from unpleasant and unwanted bodily sensations and to embrace pleasant and wanted bodily sensations.
 
-And all the truly good things in life include bodily sensations too (however aware of them we are). By "good things in life" I'm not referring to luxury goods or the "pleasures of the senses" (nor am I judging such things). I am referring to universally recognized goods that always promote well-being, including kindness, compassion, love and peace. As discussed in Cycles of Suffering, Healing & Happiness [need link], pleasant body sensations, especially of satisfying and loving experiences, can be powerful antidotes to fear and craving for escape.
+And all the truly good things in life include bodily sensations too (however aware of them we are). By "good things in life" I'm not referring to luxury goods or the "pleasures of the senses" (nor am I judging such things). I am referring to universally recognized goods that always promote well-being, including kindness, compassion, love and peace. As discussed in [Cycles of Suffering, Healing & Happiness](/the-brain/cycles/), pleasant body sensations, especially of satisfying and loving experiences, can be powerful antidotes to fear and craving for escape.
 
 ## Default Mode Circuitry
 
@@ -179,4 +179,4 @@ Knowing these brain circuitries, and learning from direct (especially contemplat
 
 Although sages of the past could not teach their wisdom in terms of the brain, working with these key circuitries – to transform and redeem suffering, and to seek and embody true goods and genuine happiness – has always been at the heart of humanity's great philosophical, religious, spiritual and contemplative traditions.
 
-Those are topics that I address, in a small but hopefully useful way, on my [Cycles of Suffering, Healing & Happiness](/the-brain/cycles-of-suffering/) page.
+Those are topics that I address, in a small but hopefully useful way, on my [Cycles of Suffering, Healing & Happiness](/the-brain/cycles/) page.
