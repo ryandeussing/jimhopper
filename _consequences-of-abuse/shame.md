@@ -12,13 +12,13 @@ prevtitle:
 ---
 
 
-_It's almost always a problem for people who've had harmful unwanted or abusive childhood experiences._
+*It's almost always a problem for people who've had harmful unwanted or abusive childhood experiences.*
 
-_So if you too are struggling with shame, you're not alone._
+*So if you too are struggling with shame, you're not alone.*
 
 ## What It’s About
 
-Shame is thoughts and feelings about _who you are._
+Shame is thoughts and feelings about *who you are.*
 
 It involves feeling unworthy of respect or positive consideration by others, feeling like you deserve to be judged and criticized, and feeling embarrassed in front of others.
 
@@ -44,10 +44,11 @@ Boys and men have both similar and different reasons than girls and women do for
 
 For boys and men, having had unwanted or abusive experiences that totally conflicts with how males are supposed to be:
 
-*   Males are not supposed to be dominated, let alone victims, especially sexually.
-*   Males are not supposed to have sexual contact with other males (if this was the case for you).
-*   Males are not supposed to experience vulnerable emotions, especially fear and sadness.
-*   And males especially aren’t supposed to feel ashamed. (This one can create a vicious cycle of ‘shame over feeling ashamed’ that can seem impossible to escape.)
+* Males are not supposed to be dominated, let alone victims, especially sexually.
+* Males are not supposed to have sexual contact with other males (if this was the case for you).
+* Males are not supposed to experience vulnerable emotions, especially fear and sadness.
+* And males especially aren’t supposed to feel ashamed. (This one can create a vicious cycle of ‘shame over feeling ashamed’ that can seem impossible to escape.)
+
 
 For many males, the shameful sense of not being a ‘real man’ because of what happened is a huge burden in their lives. It affects what and how they think and feel about themselves. It leaves them fearing how others would see them if they knew what happened. (Sometimes they can’t shake the belief that others must know – even when they couldn’t – and see them as ‘not a real man.’)
 
@@ -59,7 +60,7 @@ For girls and women, in contrast, being sexually used or abused is not the oppos
 
 On television shows, in movies and advertising of all kinds – let alone the pornography that is becoming increasingly mainstream in our society and around the world – not only women but girls, even young girls, are presented as objects that exist for the sexual pleasure of men. Girls and women get this message in many other ways too, including leering looks, unwanted sexual comments and other forms of sexual harassment.
 
-Girls and women quickly learn that it's hard to avoid being categorized as a "good" girl or a "slut." There are other stereotypes, of course, including "tease" and "bitch," and stereotypes of women who are homosexual. Again, all these stereotypes have something in common: a girls or woman is defined by her sexuality, more specifically by how boys and men experience her sexuality – as something good or bad, as something that renders her worthy of respect and care or, instead, of exploitation and abuse, including someone who "deserves" to be "taught a lesson" for sexually frustrating men, for acting like she's better than them, or for showing that she's "unworthy" of respect (because she's a "slut" or "whore").
+Girls and women quickly learn that it's hard to avoid being categorized as a "good" girl or a "slut." There are other stereotypes, of course, including "tease" and "bitch," and stereotypes of women who are homosexual. Again, all these stereotypes have something in common: a girl or woman is defined by her sexuality, more specifically by how boys and men experience her sexuality – as something good or bad, as something that renders her worthy of respect and care or, instead, of exploitation and abuse, including someone who "deserves" to be "taught a lesson" for sexually frustrating men, for acting like she's better than them, or for showing that she's "unworthy" of respect (because she's a "slut" or "whore").
 
 Tragically, then, for a girl or woman to be molested, raped or otherwise sexually assaulted is to experience a more extreme version of something they're constantly told they're "supposed" to be: passive objects for men's sexual use and domination, sexual objects whose feelings and needs are ignored and irrelevant. In addition, being sexually assaulted has forcibly caused them into a category of "damaged good" or "spoiled womanhood," at least with regard to their value as "respectable" sexual objects for boys and men.
 
@@ -85,10 +86,11 @@ Yet when parents and caregivers don’t merely disapprove of specific things a c
 
 What does this extreme shaming look like?
 
-*   Like a little boy who, whenever he approaches his father or mother full of pride, about to tell of something he’s done, is met with a cold ‘leave me alone,’ a hand waving him away, a blank look, or no response at all.
-*   Like a little girl who, whenever she’s made a mistake or done something wrong, hears from her parents things like ‘you’re so _stupid_,’ ‘you’ll never amount to anything,’ ‘you’re such a terrible, ungrateful child,’ or those ultimates, 'I wish you were _never born_' or ‘I wish you were _dead_.’
+* Like a little boy who, whenever he approaches his father or mother full of pride, about to tell of something he’s done, is met with a cold ‘leave me alone,’ a hand waving him away, a blank look, or no response at all.
+* Like a little girl who, whenever she’s made a mistake or done something wrong, hears from her parents things like ‘you’re so *stupid*,’ ‘you’ll never amount to anything,’ ‘you’re such a terrible, ungrateful child,’ or those ultimates, 'I wish you were *never born*' or ‘I wish you were *dead*.’
 
-When such experiences are repeated over and over again, _any_ girls or boy will be torn between the need for connection and love and the fear of shaming rejection, criticism and ridicule. _Any_ boy or girls will come to see himself or herself as a bad and unlovable person.
+
+When such experiences are repeated over and over again, *any* girls or boy will be torn between the need for connection and love and the fear of shaming rejection, criticism and ridicule. *Any* boy or girls will come to see himself or herself as a bad and unlovable person.
 
 For a child treated this way at home, shame is not about how to manage relationships with people whose approval he needs. Instead, shame is about how he or she is a bad and unlovable person who deserves rejection and contempt, even hatred.
 
@@ -96,13 +98,14 @@ At some point, even the most basic needs for love and attention – so often met
 
 The two faces of shaming are rejection and contempt. Repeated shaming rejections in childhood can create a person who fears and avoids close relationships. Repeated shaming contempt can saddle a person with lots of anger and hostility for years.
 
-Repeated rejection and contempt, whether alone or combined, tend to create children and adults who fear and avoid asserting their needs in healthy ways. And so, men adults were severely shamed as children have a big internal obstacle to seeking help – or even feeling _entitled_ to seek help, including help with getting over their shame.
+Repeated rejection and contempt, whether alone or combined, tend to create children and adults who fear and avoid asserting their needs in healthy ways. And so, men adults were severely shamed as children have a big internal obstacle to seeking help – or even feeling *entitled* to seek help, including help with getting over their shame.
 
 ## Shame Can Be Overcome
 
 It is possible to overcome shame, even the most extreme shame. I can’t emphasize that enough.
 
-*   It is possible to reach out for genuine connection from people capable of providing it.
-*   It is possible to find the help you need to overcome the shame you feel about harmful childhood experiences, even to overcome a deep layer of shame created by shaming early relationships.
+* It is possible to reach out for genuine connection from people capable of providing it.
+* It is possible to find the help you need to overcome the shame you feel about harmful childhood experiences, even to overcome a deep layer of shame created by shaming early relationships.
+
 
 Many other men and women have done it. Many other men have found themselves amazed, and rightly proud, of how they’ve overcome their shame and turned their lives around.
