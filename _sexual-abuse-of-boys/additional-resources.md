@@ -146,23 +146,23 @@ Lew, M., & Hoffman, R. (2000). *[Leaping upon the mountains: Men proclaiming vic
 
 Lisak, D. (1994). [The psychological impact of sexual abuse: Content analysis of interviews with male survivors.](/pdf/Lisak_Interviews.pdf) *Journal of Traumatic Stress, 7,* 525-548.
 
-Lisak, D., Hopper, J., & Song, P. (1996). Factors in the cycle of violence: Gender rigidity and emotional constriction. Journal of Traumatic Stress, 9, 721-743.
+Lisak, D., Hopper, J., & Song, P. (1996). [Factors in the cycle of violence: Gender rigidity and emotional constriction](/pdf/Lisak_Hopper_Song_(1996)_Factors_in_cycle_of_violence.pdf). *Journal of Traumatic Stress, 9,* 721-743.
 
-Lisak, D. & Luster, L. (1994). Educational, occupational, and relationship histories of men who were sexually and/or physically abused as children. Journal of Traumatic Stress, 7, 507-523.
+Lisak, D. & Luster, L. (1994). Educational, occupational, and relationship histories of men who were sexually and/or physically abused as children. *Journal of Traumatic Stress, 7,* 507-523.
 
-Mendel, M. P. (1990). The male survivor: The impact of sexual abuse. London: Sage.
+Mendel, M. P. (1990). *The male survivor: The impact of sexual abuse.* London: Sage.
 
-Metcalfe, M., Oppenheimer, R., Dignon, A., & Palmer, R.L. (1990). Childhood sexual experiences reported by male psychiatric patients. Psychological Medicine, 20, 925-929.
+Metcalfe, M., Oppenheimer, R., Dignon, A., & Palmer, R.L. (1990). Childhood sexual experiences reported by male psychiatric patients. *Psychological Medicine, 20,* 925-929.
 
-Mezey, G. C., & King, M. B. (Eds.) (1992). Male victims of sexual assault. New York: Oxford University Press.
+Mezey, G. C., & King, M. B. (Eds.) (1992). *Male victims of sexual assault.* New York: Oxford University Press.
 
-Myers, M. F. (1989). Men sexually assaulted as adults and sexually abused as boys. 13th Annual Canadian Sex Research Forum Conference (1986, Vancouver, Canada). Archives of Sexual Behavior, 18, 203-215.
+Myers, M. F. (1989). Men sexually assaulted as adults and sexually abused as boys. 13th Annual Canadian Sex Research Forum Conference (1986, Vancouver, Canada). *Archives of Sexual Behavior, 18,* 203-215.
 
-Nasjleti, M. (1980). Suffering in silence: The male incest victim. Child Welfare, 59, 269-275.
+Nasjleti, M. (1980). Suffering in silence: The male incest victim. *Child Welfare, 59,* 269-275.
 
-Olson, P. E. (1990). The sexual abuse of boys: A study of the long-term psychological effects. In M. Hunter (Ed.), The sexually abused male: Vol. 1. Prevalence, impact and treatment (pp.137-152). Lexington, MA: Lexington Books.
+Olson, P. E. (1990). The sexual abuse of boys: A study of the long-term psychological effects. In M. Hunter (Ed.), *The sexually abused male: Vol. 1. Prevalence, impact and treatment* (pp.137-152). Lexington, MA: Lexington Books.
 
-Peters, D. K. & Range, L. M. (1995). Childhood sexual abuse and current suicidality in college women and men. Child Abuse \*& Neglect, 19,\* 335-341.
+Peters, D. K. & Range, L. M. (1995). Childhood sexual abuse and current suicidality in college women and men. *Child Abuse & Neglect, 19,*&nbsp;335-341.
 
 Pierce, R. & Pierce, L. H. (1985). The sexually abused child: A comparison of male and female victims. Special Issue: C. Henry Kempe memorial research issue. Child Abuse \*& Neglect, 9,\* 191-199.
 
