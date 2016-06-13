@@ -34,7 +34,7 @@ prevtitle: Statistics on Sexual Abuse of Boys
 
 ## References to Cited Research
 
-The references below are for articles, chapters and books cited elsewhere in this section on Sexual Abuse of Boys.
+The references below are for articles, chapters and books cited elsewhere in this section on Sexual Abuse of Boys. This is *not* a comprehensive and up-to-date reference list, but rather a list from when I first created this page many years ago.
 
 Bagley, C. (1991). The prevalence and mental health sequels of child sexual abuse in a community survey of women aged 18 to 27. *Canadian Journal of Community Mental Health, 10,* 103-116.
 
