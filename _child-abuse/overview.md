@@ -22,11 +22,9 @@ Whoever you are, wherever you're coming from and whatever you need, I hope you f
 
 Before you dig in, it might be helpful to reflect briefly on language and words – both mine and yours…
 
-> paragraph text&nbsp;
+> # header example
 
-> # header 1
-
-> ## header 2
+> # header example 2
 
 &nbsp;
 
