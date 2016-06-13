@@ -137,7 +137,7 @@ Mindfulness can help you see and make connections that weren't there before. By 
 * Mindfulness helps people to notice these associations and triggerings as they occur, or at least before a chain of them results in overwhelming emotions or impulsive actions. That is, mindfulness can help you see and make connections between perceptions, thoughts, memories, emotions and impulses – connections that have always been there, but operating outside of your relatively limited awareness – in a way that prevents your mind and body from going out of control without you knowing why. In short, while you have no say over the initial conditioned responses that you have, once you're aware of them and not judging them, you can have a lot of influence over what happens next.
 
 
-In short, mindfulness can give rise to profound insight into the workings of our minds, especially processes and [cycles of suffering, healing and happiness](/mindfulness-and-meditation/cycles).
+In short, mindfulness can give rise to profound insight into the workings of our minds, especially processes and [cycles of suffering, healing and happiness](/the-brain/cycles).
 
 ## How Can I Cultivate Mindfulness?
 
