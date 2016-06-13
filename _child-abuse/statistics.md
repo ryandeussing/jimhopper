@@ -280,7 +280,7 @@ For these reasons, researchers seeking to determine prevalence rates should not 
 
 Here are two examples of questionnaire items employing behavioral descriptions and follow-up questions. Both are from research on the sexual abuse of males conducted by David Lisak and his colleagues, including me (e.g., [Lisak, Hopper, & Song, 1996](/pdf/Lisak_Hopper_Song_(1996)_Factors_in_cycle_of_violence.pdf){: .cc-active}):
 
-Someone fondled you (i.e., touched your genitals or other parts of your body) in a sexual way. YES**__**NO__
+Someone fondled you (i.e., touched your genitals or other parts of your body) in a sexual way. YES__NO__
 
 If yes…
 
@@ -322,7 +322,7 @@ They used physical force&nbsp;*_____*
 
 Other (please explain)&nbsp;*_____*
 
-A woman had you perform vaginal intercourse on her. YES**__** NO__
+A woman had you perform vaginal intercourse on her. YES__ NO__
 
 If yes…
 
