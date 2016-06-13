@@ -11,11 +11,12 @@ prevurl:
 prevtitle:
 ---
 
+
 on this page
 {: .onpage__header}
 
-* [Overview and Introduction](#overview-and-introduction)
-* [Introduction to Traumatic Memories](#introduction-to-traumatic-memories)
+* [Book Recommendations](#book-recommendations)
+* [Website Recommendations](#website-recommendations)
 {: .onpage}
 
 This section consists primarily of links to websites, but I also suggest three hotlines, a referral service that can help you find a therapist in your area, some books and an article on the international prevalence of child sexual abuse. (For resources specifically for parents and caregivers of abused children, see [Resources for Parents & Caregivers](/child-abuse/resources-for-parents-and-caregivers/).)&nbsp;
