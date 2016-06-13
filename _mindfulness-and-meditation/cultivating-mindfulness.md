@@ -76,7 +76,7 @@ Indeed, mindfulness is a skill that takes practice to cultivate and integrate in
   * 'I need…' 'I want…' 'I deserve…' Positive judgments and the cravings they evoke can also be a problem, particularly when they are automatic and intense. We can lose our focus, forget what's important, get caught in cycles of addiction, selfishly take advantage of others, etc.
   * In contrast, the non-judgmental quality of mindfulness brings great *freedom* – to see things more clearly, to evaluate situations with some distance from our habitual emotional reactions and impulses, to observe emotions and impulses as they arise without either trying to escape them or letting them carry us away.
   * We all have at least glimpses of this potential, when we are feeling so positive and relaxed that something which would normally cause strong judgment and negative emotions is seen as no big deal, more clearly for what it is: a passing unwanted experience or temptation to indulge.
-  * But to bring this non-judgmental quality into our daily lives, consistently, even at very stressful times, this is something many of us can hardly imagine. Yet it is possible, by practicing mindfulness (and kindness).
+  * But to bring this non-judgmental quality into our daily lives, consistently, even at very stressful times, this is something many of us can hardly imagine. Yet it is possible, by practicing mindfulness (and kindness and compassion).
   * And for those who are vulnerable to remembering and reliving painful experiences from the past, to strong waves of emotion, to intense self-criticism – the cultivation of non-judgmental mindfulness can bring tremendous relief and freedom from old patterns.
 
 
