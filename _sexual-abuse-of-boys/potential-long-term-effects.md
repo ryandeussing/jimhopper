@@ -105,7 +105,7 @@ See "References to Cited Research" on the [Additional Resources](/child-abuse/se
 
 In addition to David Lisak's article on interviews with men (see above), there are three other classic articles on the sexual abuse of boys that I highly recommend.
 
-Holmes, G.R., Offen, L., Waller, G. (1997). [See no evil, hear no evil, speak no evil: Why do relatively few male victims of childhood sexual abuse receive help for abuse-related issues in adulthood?](/pdf/Holmes_Offen_Waller_1997.pdf) *Clinical Psychology Review, 17,* 69-88.
+**Holmes, G.R., Offen, L., Waller, G. (1997). [See no evil, hear no evil, speak no evil: Why do relatively few male victims of childhood sexual abuse receive help for abuse-related issues in adulthood?](/pdf/Holmes_Offen_Waller_1997.pdf) *Clinical Psychology Review, 17,* 69-88.**
 
 * The Extent of the Problem
 * Why do professionals identify relatively few men with histories of childhood sexual abuse?
@@ -125,7 +125,7 @@ Holmes, G.R., Offen, L., Waller, G. (1997). [See no evil, hear no evil, speak no
   * Clinical implications
 
 
-Holmes, W. C. & Slap, G. B. (1998). [Sexual abuse of boys: Definition, prevalence, correlates, sequelae, and management](/pdf/Holmes_&amp;_Slap_1998.pdf). *JAMA,* Dec 2, 280(21), 1855-1162.
+**Holmes, W. C. & Slap, G. B. (1998). [Sexual abuse of boys: Definition, prevalence, correlates, sequelae, and management](/pdf/Holmes_&amp;_Slap_1998.pdf). *JAMA,* Dec 2, 280(21), 1855-1162.**
 
 Objective: To clarify the definition of sexual abuse of boys, update estimates of its prevalence, and explore critically its reported correlates, sequelae, and management.
 
