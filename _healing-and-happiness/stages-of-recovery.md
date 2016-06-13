@@ -15,7 +15,7 @@ prevtitle:
 on this page
 {: .onpage__header}
 
-* [Imperfect Word, Good Models](#imperfect-world-good-models)
+* [Imperfect World, Good Models](#imperfect-world-good-models)
 * [Herman’s Stages of Recovery](#hermans-stages-of-recovery)
 * [Hunter’s Stages of Recovery](#hunters-stages-of-recovery)
 {: .onpage}
