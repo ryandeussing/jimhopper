@@ -39,7 +39,7 @@ But simply reading this section (whether you try meditating or not) will introdu
 
 This page offers a technical and narrow definition, and popular and broad one. Unless specifically indicated, the popular and broad definition is meant by 'mindfulness' is used throughout this section and website.
 
-### Technical & Traditional Definition
+### Traditional, Technical Definition
 
 As explained in a [critical paper](/pdf/GrossmanVanDam2011.pdf) by Paul Grossman and Nicholas Van Dam, 'mindfulness' is a translation of the Pali term *sati* (early texts of Buddhism were written in Pali), and the meaning of *sati* is not the same as some understandings of the current popular term, 'mindfulness' (see below). As they point out, a more accurate rendering of *sati* is 'to be mindful,' in this sense: to maintain one's awareness on an object of attention (e.g., one's breath), including *remembering* to pay attention to it (in a certain way).
 
