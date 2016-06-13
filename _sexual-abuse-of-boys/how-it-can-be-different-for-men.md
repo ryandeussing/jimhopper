@@ -12,13 +12,14 @@ prevtitle:
 ---
 
 
-<ul class="onpage"><p class="onpage__header">on this page</p>
-  <li><a href="#not-whats-supposed-to-happen-to-males">Not What’s Supposed to Happen to Males</a></li>
-  <li><a href="#proving-manhood-and-self-protection">Proving Manhood and Self-Protection</a></li>
-  <li><a href="#confusion-or-fears-about-your-sexuality">Confusion or Fears About Your Sexuality</a></li>
-  <li><a href="#totally-normal-understandable-and-can-be-overcome">Totally Normal, Understandable, and Can Be Overcome</a></li>
-</ul>
+on this page
+{: .onpage__header}
 
+* [Not What’s Supposed to Happen to Males](#not-whats-supposed-to-happen-to-males)
+* [Proving Manhood and Self-Protection](#proving-manhood-and-self-protection)
+* [Confusion or Fears About Your Sexuality](#confusion-or-fears-about-your-sexuality)
+* [Totally Normal, Understandable, and Can Be Overcome](#totally-normal-understandable-and-can-be-overcome)
+{: .onpage}
 
 ## Not What’s Supposed to Happen to Males
 
@@ -30,10 +31,11 @@ Many men fear their masculinity has been robbed or destroyed, that they’ll be 
 
 Why? Having unwanted or abusive sexual experiences means being:
 
-*   Sexually used or dominated
-*   Vulnerable
-*   Overwhelmed
-*   Flooded by intense emotions
+* Sexually used or dominated
+* Vulnerable
+* Overwhelmed
+* Flooded by intense emotions
+
 
 All of that is the *opposite* of how males are supposed to be.
 
@@ -43,7 +45,7 @@ And men’s confidence and self-esteem can greatly depend on how ‘manly’ the
 
 ## Proving Manhood and Self-Protection
 
-It should be no surprise that some men go overboard to prove – to themselves and everyone else – that they’re not not only ‘real men,’ but _super_ manly.
+It should be no surprise that some men go overboard to prove – to themselves and everyone else – that they’re not not only ‘real men,’ but *super* manly.
 
 Countless men have said that as boys, teenagers and young adults, they’ve gone to great lengths to prove their masculinity: playing aggressive sports in super-aggressive ways, sexual conquests, bulking up by lifting weights, picking fights, extreme drinking and drugging, reckless driving and other daredevil stunts, joining the Marines…
 
@@ -59,10 +61,11 @@ Another way that it’s different for many men: If the sexual experiences involv
 
 It’s very common to ask oneself:
 
-*   Did it happen because I’m (really) gay?
-*   Am I gay because it happened?
-*   If anyone finds out, will they think I’m gay?
-*   Can I ever be a real man if I was sexual with another male?
+* Did it happen because I’m (really) gay?
+* Am I gay because it happened?
+* If anyone finds out, will they think I’m gay?
+* Can I ever be a real man if I was sexual with another male?
+
 
 Whether you are straight, gay, or bisexual is totally fine. Of course, in different cultures and subcultues, these ways of being sexual are accepted, or not, to different degrees.
 
@@ -72,4 +75,4 @@ In most cultures, though, whatever your sexual orientation, if you’ve had unwa
 
 Such concerns and worries about one’s masculinity and sexuality are common and totally normal. But it’s absolutely possible to sort them out, and to become completely comfortable with who you are as a man and a sexual being. Many other guys like you already have.
 
-Finally, you may want to read a paper on [the psychological impact of such experiences on men](http://www.jimhopper.com/pdfs/Lisak.pdf), by Dr. David Lisak, a colleague of mine. It has many powerful quotes from interviews with men, which are grouped into themes and discussed in terms of how the effects can be different for men. (At first glance it may look ‘academic,’ but it’s not.)
+Finally, you may want to read a paper on [the psychological impact of such experiences on men](/pdf/Lisak.pdf), by Dr. David Lisak, a colleague of mine. It has many powerful quotes from interviews with men, which are grouped into themes and discussed in terms of how the effects can be different for men. (At first glance it may look ‘academic,’ but it’s not.)
