@@ -139,7 +139,7 @@ Data Synthesis: We identified 166 studies representing 149 sexual abuse samples.
 
 Conclusions: Sexual abuse of boys appears to be common, underreported, underrecognized, and undertreated. Future study requires clearer definitions of abuse, improved sampling, more rigorous data collection, more sophisticated data analyses, and better assessment of management and treatment strategies. Regardless, health care professionals should be more aware of and sensitive to the possibility of sexual abuse in their male patients.
 
-Dube, S. R., et al. (2005). [Long-term consequences of childhood sexual abuse by gender of victim](/pdf/Dube_(2005)_Childhood_sexual_abuse_by_gender_of_victim.pdf). *American Journal of Preventive Medicine, 28,* 430-438.
+**Dube, S. R., et al. (2005). [Long-term consequences of childhood sexual abuse by gender of victim](/pdf/Dube_(2005)_Childhood_sexual_abuse_by_gender_of_victim.pdf). *American Journal of Preventive Medicine, 28,* 430-438.**
 
 Background: Childhood sexual abuse (CSA) is a worldwide problem. Although most studies on the long-term consequences of CSA have focused on women, sexual abuse of both boys and girls is common. Thus, a comparison of the long-term effects of CSA by gender of the victim will provide perspective on the need for future research, prevention activities, and treatment of survivors.
 
