@@ -16,7 +16,7 @@ On this page I offer resources that are not found on the other pages of this sec
 
 ## Websites
 
-The web site of Dr. [Kenneth Pope](http://kspope.com/) has several articles on the recovered memory/false memory debate. Dr. Pope is an accomplished psychologist who has published many articles and a book on the scientific and therapeutic issues involved.
+[Dr. Kenneth Pope](http://kspope.com/) has several articles on the recovered memory/false memory debate. Dr. Pope is an accomplished psychologist who has published many articles and a book on the scientific and therapeutic issues involved.
 
 Ross Cheit, political scientist at Brown University who conducts important research on sexual abuse and public policy in the United States, maintains the [Recovered Memory Project](http://blogs.brown.edu/recoveredmemory/). This website includes an archive of corroborated cases of recovered memories of sexual abuse. The Archive includes cases in which sexual abuse had gone on for years – occurrences still claimed to be impossible by those now unable to deny the existence of recovered memories. Cheit provides the criteria for inclusion in the Archive and invites submission of additional cases, as well as criticism and contrary evidence. It's an extremely valuable web site, and I strongly encourage you to educate yourself there – especially if you're still skeptical about the reality of recovered memories of abuse. Here's an outline of the Archive's Corroborated Cases of Recovered Memory:
 
@@ -25,11 +25,11 @@ Ross Cheit, political scientist at Brown University who conducts important resea
 * 33 Other Corroborated Cases of Recovered Memory
 
 
-**Amnesia and Recovered Memories for Other Traumas**
+## Amnesia and Recovered Memories for Other Traumas
 
 Clearly the scholarly work cited on this website demonstrates that people experience amnesia and delayed recall for memories of childhood sexual abuse. But there are other traumas for which these phenomena have been found as well – although this is often overlooked in many discussions of recovered memories. The following is a sampling of papers reporting findings like those for sexual abuse.
 
-**Combat trauma:**
+### Combat Trauma
 
 Karon, B.P., & Widener, A.J. (1997). Repressed memories and World War II: Lest we forget! *Professional Psychology: Research and Practice, 28,* 338-340.
 
@@ -43,19 +43,19 @@ Myers, C. S. (1915, January). A contribution to the study of shell-shock. *Lance
 
 Thom, D. A., & Fenton, N. (1920). Amnesias in war cases. *American Journal of Insanity, 76,* 437-448.
 
-**Natural disasters and accidents:**
+### Natural Disasters and Accidents
 
 Madakasira, S., & O'Brian, K. (1987). Acute posttraumatic stress disorder in victims of a natural disaster. *Journal of Nervous & Mental Disease, 175,* 286-290.
 
 van der Kolk, B. A., & Kadish, W. (1987). Amnesia, dissociation, and the return of the repressed. In B. A. van der Kolk (Ed.), *Psychological Trauma.* American Psychiatric Press, Inc., Washington, D.C.
 
-**Victims of torture:**
+### Victims of Torture
 
 Goldfeld, A. E., Mollica, R. F., Pesavento, B. H., & Faraone, S. V. (1988). The physical and psychological sequelae of torture: Symptomology and diagnosis. *Journal of the American Medical Association, 259,* 2725-2729.
 
 Kinzie, J. D. (1993). Posttraumatic effects and their treatment among Southeast Asian refugees. In J.P. Wilson and B. Raphael (Eds.), *International handbook of traumatic stress syndromes.* New York: Plenum, pp.311-319.
 
-**Holocaust survivors:**
+### Holocaust Survivors
 
 [Memory Disturbances and Dissociative Amnesia in Holocaust Survivors](http://blogs.brown.edu/recoveredmemory/scholarly-resources/holocaust/)
 
