@@ -1460,15 +1460,15 @@ ul.onpage {
   @media screen and (min-width: 6.25em) {
     .article blockquote {
       font-size: 1rem;
-      font-weight: regular;} }
+      font-weight: normal;} }
   @media screen and (min-width: 41.6875em) {
     .article blockquote {
       font-size: 1rem;
-      font-weight: regular;} }
+      font-weight: normal;} }
   @media screen and (min-width: 48.0625em) {
     .article blockquote {
       font-size: 1.3125em;
-      font-weight: regular;} }
+      font-weight: normal;} }
 
 .article .assault-link {
   background-color: #f4f4f2;
