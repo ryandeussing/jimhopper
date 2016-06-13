@@ -71,7 +71,7 @@ There are many good and some great books on recovered memories of sexual abuse i
 
 Three examples of the praise this book has received:
 
-> Pope and Brown have presented a careful review of memory science that both appreciates complexity and cautions against overgeneralization. . . . The book presents very pragmatic guidelines for clinicians that serve to improve the standard of care and decrease liability risk. . . . This is a very sane, ethical, and compassionate approach to a very controversial and often irrational debate. <cite>Daniel Brown, Ph.D., ABPH, Harvard Medical School</cite>
+> # Pope and Brown have presented a careful review of memory science that both appreciates complexity and cautions against overgeneralization. . . . The book presents very pragmatic guidelines for clinicians that serve to improve the standard of care and decrease liability risk. . . . This is a very sane, ethical, and compassionate approach to a very controversial and often irrational debate. <cite>Daniel Brown, Ph.D., ABPH, Harvard Medical School</cite>
 
 > Essential reading for lawyers and expert witnesses, this landmark book is scientifically grounded, carefully researched, and – thankfully! – of great practical use. The consent forms, deposition and cross-examination questions, outlines for reviewing treatment plans, and scrupulously fair examinations of the major controversies are major contributions. Avoiding the polarizing polemics and limited points of view that mar so much of the work in this area, this is the best book on this topic. <cite>Gary Sampley, Esq., Attorney at Law</cite>
 
