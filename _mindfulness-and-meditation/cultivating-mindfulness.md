@@ -53,7 +53,7 @@ In short, it's helpful to remember that there's a lot to mindfulness, definitely
 
 Mindfulness meditation teacher Jon Kabat-Zinn has provided a definition of mindfulness that is widely used by researchers, therapists, the media and throughout the world.
 
-"paying attention in a particular way: on purpose, in the present moment, and non-judgmentally."
+# "paying attention in a particular way: on purpose, in the present moment, and non-judgmentally."
 
 This is a concise definition, and a good one so long as one appreciates the richness of the contemplative practices and features of mindfulness or *sati* outlined above.
 
