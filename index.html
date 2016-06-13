@@ -1,18 +1,180 @@
-<HTML>
-<HEAD>
+---
+layout: default
+title: Home
+class: home
+hotlines_sidebar: false
+sidebar_one: false
+sidebar_two: false
+sidebar_three: false
+sidebar_four: false
+---
+<main class="load">
 
-<META HTTP-EQUIV=refresh content="0; url=http://www.jimhopper.com">
+  <section class="hero">
+    <div class="container">
+      <h1>{{ site.title}}</h1>
+      <h2 class="editable">Clinical psychologist and independent consultant, Teaching Associate in Psychology, Harvard Medical School, and nationally recognized expert on psychological trauma.</h2>
+    </div>
+  </section>
 
-<TITLE>Publications by David Lisak, Ph.D. and Jim Hopper, Ph.D.</TITLE></HEAD>
+  <section class="intro">
+    <div class="container">
+      <div class="editable copy"><p>Welcome.</p><p>My research, clinical work, teaching and consultation have focused on the psychological and biological effects of child abuse and sexual assault, and on contemplative practices for healing, including meditation.&nbsp;</p><p>I consult to clients and teach a variety of professionals on trauma, healing and seeking justice, including the neurobiology of trauma and its implications for the law enforcement and criminal justice systems, the unique impacts of sexual trauma on boys and men, and contemplative methods in the healing of trauma.</p><p>I regularly advise and train civilian and military investigators and prosecutors, victim advocates, university administrators and senior officers of the United States military services and Department of Defense. My nonprofit and policy work have included being a founding board member and long-time advisor of 1in6, and serving on the Peace Corps Sexual Assault Advisory Council.</p><p>Finally, as you can see on this extensive website, I like to share my knowledge and insights, as much as possible, for free.</p></div>
+      <div></div>
+      <div class="hide-s hide-m show-l">
+        {% if page.hotlines_sidebar == true %}
+          {% include hotlines.html %}
+        {% endif %}
+        {% if page.sidebar_one %}
+          <div class="custom_sidebar first">
+            <div class="sidebar__inner editable">
+              <p class="sidebar__header">Sidebar</p>
+              <p>Edit this text</p>
+            </div>
+          </div>
+        {% endif %}
+
+        {% if page.sidebar_two %}
+          <div class="custom_sidebar">
+            <div class="sidebar__inner editable">
+              <p class="sidebar__header">Sidebar</p>
+              <p>this is content inside a sidebar </p>
+            </div>
+          </div>
+        {% endif %}
+
+        {% if page.sidebar_three %}
+          <div class="custom_sidebar">
+            <div class="sidebar__inner editable">
+              <p class="sidebar__header">Sidebar</p>
+              <p>this is content inside a sidebar </p>
+            </div>
+          </div>
+        {% endif %}
+
+        {% if page.sidebar_four %}
+          <div class="custom_sidebar">
+            <div class="sidebar__inner editable">
+              <p class="sidebar__header">Sidebar</p>
+              <p>this is content inside a sidebar </p>
+            </div>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+  </section>
+
+  <section class="topics">
+    <div class="container">
+      <h2>Topics</h2>
+      <div class="topic-wrapper">
+        <div class="topic topic__full">
+          <div class="header">
+            <a href="/child-abuse/overview"><img alt="" src="/assets/images/bear.png" />
+            <h4 class="editable">Child Abuse</h4></a><i class="hide-m fa fa-caret-right"></i>
+          </div>
+          <p class="editable description hide-s">This is the most comprehensive section of the site, with a wealth of information and resources on unwanted and abusive childhood experiences, and making sense of them and healing from their unwanted effects.</p>
+            <a href="/child-abuse/overview">
+              <button class="hide-s nolink"><p>LEARN MORE</p></button>
+            </a>
+        </div>
+      </div>
+
+      <div class="topic-wrapper">
+        <div class="topic topic__half">
+          <div class="header">
+            <a href="/sexual-assault"><img alt="" src="/assets/images/bandage.png" />
+            <h4 class="editable">Sexual Assault</h4></a><i class="hide-m fa fa-caret-right"></i>
+          </div>
+          <p class="editable description hide-s">Brain-based explanations for why many victims don't fight or yell and have fragmented and incomplete memories. Includes links to writings and videos of mine, a handout to help victim advocates answer common questions from sexual assault victims with brain-based explanations, and other resources.</p>
+            <a href="/sexual-assault">
+              <button class="hide-s nolink"><p>LEARN MORE</p></button>
+            </a>
+        </div>
+        <div class="topic topic__half">
+          <div class="header">
+            <a href="/the-brain/overview"><img alt="" src="/assets/images/brain.png" />
+            <h4 class="editable">The Brain</h4></a><i class="hide-m fa fa-caret-right"></i>
+          </div>
+          <p class="editable description hide-s">A model of key brain circuitries that's grounded in neuroscience, fits with our lived experience, and is a powerful tool for understanding and transforming basic cycles of suffering, healing and happiness.</p>
+            <a href="/the-brain/overview">
+              <button class="hide-s nolink"><p>LEARN MORE</p></button>
+            </a>
+        </div>
+      </div>
+
+      <div class="topic-wrapper">
+        <div class="topic topic__half">
+          <div class="header">
+            <a href="/mindfulness-and-meditation/overview"><img alt="" src="/assets/images/lotus.png" />
+            <h4 class="editable">Mindfulness &amp; Meditation</h4></a><i class="hide-m fa fa-caret-right"></i>
+          </div>
+          <p class="editable description hide-s">Information about practices for cultivating bodily awareness, mindfulness, kindness and compassion, as well as resources for learning to be more embodied, mindful, kind and compassionate.</p>
+            <a href="/mindfulness-and-meditation/overview">
+              <button class="hide-s nolink"><p>LEARN MORE</p></button>
+            </a>
+        </div>
+        <div class="topic topic__half">
+          <div class="header">
+            <a href="/healing-and-happiness/overview"><img alt="" src="/assets/images/heart.png" />
+            <h4 class="editable">Healing &amp; Happiness</h4></a><i class="hide-m fa fa-caret-right"></i>
+          </div>
+          <p class="editable description hide-s">Key information about what brings healing and happiness, including what kinds of relationships and therapies, as well as resources for finding and evaluating therapists and therapies.</p>
+            <a href="/healing-and-happiness/overview">
+              <button class="hide-s nolink"><p>LEARN MORE</p></button>
+            </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="mobile-sidebar show-s show-m hide-l">
+    <div class="container">
+      {% if page.hotlines_sidebar == true %}
+        {% include hotlines.html %}
+      {% endif %}
+      {% if page.sidebar_one %}
+        <div class="custom_sidebar first">
+          <div class="sidebar__inner editable">
+            <p class="sidebar__header">Sidebar</p>
+            <p>Edit this text</p>
+          </div>
+        </div>
+      {% endif %}
+
+      {% if page.sidebar_two %}
+        <div class="custom_sidebar">
+          <div class="sidebar__inner editable">
+            <p class="sidebar__header">Sidebar</p>
+            <p>this is content inside a sidebar </p>
+          </div>
+        </div>
+      {% endif %}
+
+      {% if page.sidebar_three %}
+        <div class="custom_sidebar">
+          <div class="sidebar__inner editable">
+            <p class="sidebar__header">Sidebar</p>
+            <p>this is content inside a sidebar </p>
+          </div>
+        </div>
+      {% endif %}
+
+      {% if page.sidebar_four %}
+        <div class="custom_sidebar">
+          <div class="sidebar__inner editable">
+            <p class="sidebar__header">Sidebar</p>
+            <p>this is content inside a sidebar </p>
+          </div>
+        </div>
+      {% endif %}
+    </div>
+  </section>
 
 
 
-<BODY bgcolor="#ffffff" link="#0000bd" alink="#215E21" vlink="#A62A2A">
 
-<p><br><br>
-<center><strong><font color="0000bd" size=+1>Sorry, but you can't look at this directory.</font></strong></center>
+</main>
 
 
 
-</BODY>
-</HTML> 
