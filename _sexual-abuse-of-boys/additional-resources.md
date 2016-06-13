@@ -112,7 +112,7 @@ Hepburn, J. M. (1994). The implications of contemporary feminist theories of dev
 
 Hillary, B. E. & Schare, M. L. (1993). Sexually and physically abused adolescents: An empirical search for PTSD.&nbsp;*Journal of Clinical Psychology, 49,*&nbsp;161-165.
 
-Holmes, G.R., Offen, L., Waller, G. (1997). See no evil, hear no evil, speak no evil: Why do relatively few male victims of childhood sexual abuse receive help for abuse-related issues in adulthood?&nbsp;*Clinical Psychology Review, 17,*&nbsp;69-88.
+Holmes, G.R., Offen, L., Waller, G. (1997). [See no evil, hear no evil, speak no evil: Why do relatively few male victims of childhood sexual abuse receive help for abuse-related issues in adulthood?](/pdf/Holmes_Offen_Waller_1997.pdf)&nbsp;*Clinical Psychology Review, 17,*&nbsp;69-88.
 
 Holmes, W. C., Slap, G. B. (1998). [Sexual abuse of boys: Definition, prevalence, correlates, sequelae, and management](/pdf/Holmes_&amp;_Slap_1998.pdf).&nbsp;*JAMA, 280(21),&nbsp;*1855-1162.
 
