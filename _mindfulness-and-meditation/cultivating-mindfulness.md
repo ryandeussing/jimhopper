@@ -27,17 +27,17 @@ I’ve written this page for a variety of people, including:
 * People who are curious about mindfulness, but have read little or nothing about it and never tried meditating.
 * People seeking new ways to overcome childhood hurts, depression, addiction, and other all-too-human problems.
 * Beginning meditators.
-* Meditators interested in the insights of a fellow meditator who happens to be a therapist, clinical psychology and psychiatric neuroscience researcher, as well as a husband and parent.
+* Meditators interested in the insights of a fellow meditator who has also been a therapist, psychological trauma and neuroscience researcher, husband and parent.
 * Therapists interested in bringing mindfulness and meditation into their clinical practices.
 
 
 Some will begin reading and find themselves thinking, "I can't see myself doing mindfulness meditation practices, so I might as well stop reading now and not bother coming back to this later."
 
-But simply reading this section (whether you try meditating or not) will introduce you to new, and potentially very transformative and healing ways of *thinking about*, *experiencing* and *responding to* your own emotional and other mental and brain processes. Just learning these concepts and perspectives (without ever meditating), has proved extremely helpful to many people, including those struggling with a great deal of emotional suffering. I can't guarantee that will happen for you, but I would like to encourage you to take the time, at some point, to find out for yourself.
+But simply reading this section (whether you try meditating or not) will introduce you to new, and potentially very transformative and healing ways of *thinking about*, *experiencing* and *responding to* your own emotional and other mental and brain processes. Just learning these concepts and perspectives (without ever meditating), has proved extremely helpful to many people, including those struggling with a great deal of emotional suffering. I can't guarantee that will happen for you, but I encourage you to take the time, at some point, to find out for yourself.
 
 ## What Is Mindfulness?
 
-This page offers a technical and narrow definition, and popular and broad one. Unless specifically indicated, the popular and broad definition is meant by 'mindfulness' is used throughout this section and website.
+This page offers a technical and narrow definition, and popular and broad one. Unless specifically indicated, the popular and broad definition of 'mindfulness' is used throughout this page and website.
 
 ### Traditional, Technical Definition
 
