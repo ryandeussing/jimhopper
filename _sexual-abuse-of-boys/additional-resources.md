@@ -114,7 +114,7 @@ Hillary, B. E. & Schare, M. L. (1993). Sexually and physically abused adolescent
 
 Holmes, G.R., Offen, L., Waller, G. (1997). See no evil, hear no evil, speak no evil: Why do relatively few male victims of childhood sexual abuse receive help for abuse-related issues in adulthood?&nbsp;*Clinical Psychology Review, 17,*&nbsp;69-88.
 
-Holmes, W. C., Slap, G. B. (1998). Sexual abuse of boys: Definition, prevalence, correlates, sequelae, and management.&nbsp;*JAMA, 280(21),&nbsp;*1855-1162.
+Holmes, W. C., Slap, G. B. (1998). [Sexual abuse of boys: Definition, prevalence, correlates, sequelae, and management](/pdf/Holmes_&amp;_Slap_1998.pdf).&nbsp;*JAMA, 280(21),&nbsp;*1855-1162.
 
 Hunter, J. A. (1991). A comparison of the psychosocial adjustment of adult males and females sexually molested as children.&nbsp;*Journal of Interpersonal Violence, 6,*&nbsp;205-217.
 
