@@ -28,7 +28,7 @@ There are many other resources on my site that could be helpful to men who exper
 
 [Boys and Men Healing](http://bigvoicepictures.com/production-3/boys-and-men-healing/) is Kathy Barbini's amazing documentary film, which in my opinion (and many others') is the best on this issue.
 
-[Stories of Silence: Recovering from Boyhood Sexual Abuse](http://www.storiesofsilence.org/) is Ethan Delavan's powerful documentary film.
+[Stories of Silence: Recovering from Boyhood Sexual Abuse](http://www.storiesofsilence.org/) is Ethan Delavan's powerful documentary.
 
 [British Columbia Society for Male Survivors of Sexual Abuse](http://bc-malesurvivors.com/) - Their mission is providing "therapeutic services for males who have been sexually abused at some time in their lives." This includes direct services to men and their significant others; providing training to help establish new agencies for men with histories of sexual abuse in British Columbia; and consulting with community and government groups on prevention, treatment, therapy, and other matters relating to sexual abuse of males.
 
