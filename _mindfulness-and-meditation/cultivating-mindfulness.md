@@ -60,8 +60,8 @@ This is a concise definition, and a good one so long as one appreciates the rich
 Indeed, mindfulness is a skill that takes practice to cultivate and integrate into one's life. Why? Let's consider the different parts of the definition…
 
 * 'Paying attention'
-  * How much of the time are you really paying attention to what's happening in your life – as opposed to thinking about something else, remembering things, imagining possible futures, and acting out habitual patterns or, more accurately, <u>reacting</u> to people and situations based on old habits of perceiving, thinking, feeling, and behaving?
-  * Paying conscious attention can be especially hard when a current interaction reminds us of past hurts or betrayals – and before even realizing it, we can automatically and defensively responded as if those old experiences were happening again.
+  * How much of the time are you really paying attention to what's happening in your life – as opposed to thinking about something else, remembering things, imagining possible futures, and acting out habitual patterns or, more accurately, *reacting* to people and situations based on old habits of perceiving, thinking, feeling, and behaving?
+  * Paying conscious attention can be especially hard when a current interaction reminds us of past hurts or betrayals – and before even realizing it, we can automatically and defensively respond as if those old experiences were happening again.
   * All of us have our habitual patterns, our vulnerabilities to automatic reactions based on past experiences of hurt, our 'buttons' that can get 'pushed.' This is particularly true when we are already stressed and/or in a hurry. Truly paying attention in our lives is a challenge for anyone.
 * 'On purpose'
   * It takes a conscious decision, and effort by one's mind and brain, to pay attention to what's happening in the present. In fact, such choices and efforts are required over and over again, since we are continually pulled back into habitual ways of processing information and responding to things.
