@@ -16,7 +16,7 @@ on this page
 {: .onpage__header}
 
 * [Empirical Evidence, Psychological Constructs and Scientific Progress](#empirical-evidence-psychological-constructs-and-scientific-progress)
-* [Special Issue, Journal of Psychiatry and Law](#special-issue-journal-of-psychiatry-and-law)
+* [Special Issue, Journal of Traumatic Stress](#special-issue-journal-of-traumatic-stress)
 * [Linda Williams](#linda-williams)
 * [Cathy Widom](#cathy-widom)
 * [Diana Elliott](#diana-elliott)
