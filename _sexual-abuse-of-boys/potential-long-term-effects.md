@@ -68,7 +68,7 @@ By the mid 1990s many researchers had found different combinations of the above 
 * Peters & Range, 1995
 
 
-Note: See References on the [Additional Resources](/child-abuse/sexual-abuse-of-boys/additional-resources/) page of this section for full citations of the papers cited above and every other paper cited on this page, as well as many books.
+Note: See References to Cited Research under&nbsp;[Additional Resources](/child-abuse/sexual-abuse-of-boys/additional-resources/)&nbsp;for full citations of the papers cited above and every other paper cited on this page, as well as many books.
 
 ## Reports from Therapists
 
