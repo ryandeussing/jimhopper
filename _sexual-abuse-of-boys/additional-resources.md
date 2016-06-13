@@ -26,7 +26,7 @@ There are many other resources on my site that could be helpful to men who exper
 
 [MaleSurvivor](http://www.malesurvivor.org/) - Their mission: "We are committed to preventing, healing, and eliminating all forms of sexual victimization of boys and men through treatment, research, education, advocacy, and activism." Their site has many helpful resources, including [A Consumers Guide To Therapist Shopping](http://www.malesurvivor.org/consumers-guide/), and the organization offers [Weekends and Days of Recovery](http://www.malesurvivor.org/weekends-of-recovery/)&nbsp;several times a year.
 
-[Boys and Men Healing](http://bigvoicepictures.com/production-3/boys-and-men-healing/) is Kathy Barbini's amazing documentary film which, in my opinion (and many others'), is the best on this issue.
+[Boys and Men Healing](http://bigvoicepictures.com/production-3/boys-and-men-healing/) is Kathy Barbini's amazing documentary film, which in my opinion (and many others') is the best on this issue.
 
 [Stories of Silence: Recovering from Boyhood Sexual Abuse](http://www.storiesofsilence.org/) is Ethan Delavan's powerful documentary film.
 
