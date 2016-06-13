@@ -26,7 +26,6 @@ Before you dig in, it might be helpful to reflect briefly on language and words 
 
 > # header example 2
 
-&nbsp;
 
 ## Thoughts on Language and Words
 
