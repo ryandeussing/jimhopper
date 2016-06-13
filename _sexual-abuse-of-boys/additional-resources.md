@@ -26,18 +26,12 @@ prevtitle: Statistics on Sexual Abuse of Boys
 
 [British Columbia Society for Male Survivors of Sexual Abuse](http://bc-malesurvivors.com/) - This non-profit society has the mission of providing "therapeutic services for males who have been sexually abused at some time in their lives." This includes direct services to men and their significant others; providing training to help establish new agencies for male survivors of sexual abuse in British Columbia; and consulting with community and government groups on prevention, treatment, therapy, and other matters relating to sexual abuse of males.
 
-[The Next Step Counseling and Training, and Small Wonder Books](http://www.nextstepcounseling.org/) - This is the website of Mike Lew, M.Ed. and Thom Harrigan, LICSW, and includes information about their center in Newton, Massachusetts, workshops for male survivors that they offer around the world, and Lew's most recent book, [Leaping upon the mountains: Men proclaiming victory over child sexual abuse](http://www.nextstepcounseling.org/books2.htm#leaping). Lew is also the author of Victims No Longer, considered by many to be the best book ever written about and for male survivors of sexual abuse.
+[The Next Step Counseling and Training, and Small Wonder Books](http://www.nextstepcounseling.org/) - This is the website of Mike Lew, M.Ed. and Thom Harrigan, LICSW, and includes information about their center in Newton, Massachusetts, workshops for male survivors that they offer around the world, and Lew's most recent book, [Leaping upon the mountains: Men proclaiming victory over child sexual abuse](http://www.nextstepcounseling.org/books2.htm#leaping). Lew is also the author of [Victims No Longer](https://www.amazon.com/Victims-No-Longer-Classic-Recovering/dp/006053026X/ref_=nosim&amp;tag=jimhoppercom-20), considered by many to be the best book ever written about and for men sexually abused as boys.
 
-Richard Gartner, Ph.D.
-<br>&nbsp; &nbsp; &nbsp;Dr. Gartner has written books and articles on the sexual abuse of males and their treatment in therapy, and is past president of MaleSurvivor. His web site has many resources, including writings and testimony by Gartner on a variety of issues relevant to males with histories of sexual abuse.
+[Richard Gartner, Ph.D.](http://www.richardgartner.com/about.html)&nbsp;has written books and articles on the sexual abuse of males and their treatment in therapy, and is past president of MaleSurvivor. His web site has many resources, including writings and testimony by Gartner on a variety of issues relevant to males with histories of sexual abuse.
 
-No Escape: Male Rape in U.S. Prisons
-<br>&nbsp; &nbsp; &nbsp;This excellent and ground-breaking report, published by Human Rights Watch in April 2001, provides the strongest and most accessible evidence to date of the brutality of U.S. prisons - and the urgent need for action.
+[Just Detention International (JDI)](http://justdetention.org/) is a human rights organization that seeks to end sexual abuse in all forms of detention. Their site has many informative and educational documents on prison rape, including an extensive publications section.
 
-Just Detention International (JDI)
-<br>&nbsp; &nbsp; &nbsp;JDI is a human rights organization that seeks to end sexual abuse in all forms of detention. Their site has many informative and educational documents on prison rape, including an extensive publications section.
+References to Research
 
-Effective Group Therapy With Male Survivors of Sexual Abuse
-<br>&nbsp; &nbsp; &nbsp;Writing from a psychodynamic systems perspective, Mikele Rauch and John W. Jones nicely describe some of the issues and challenges for therapists considering this mode of treatment.
-
-To find the latest research in medical and psychological journals, use the PubMed database, provided free by the National Institutes of Health. You can go to the site, or launch your search using the form below.
+&nbsp;
