@@ -22,7 +22,7 @@ on this page
 * [Three important things to keep in mind](#three-important-things-to-keep-in-mind)
 {: .onpage}
 
-I’ve written this for a variety of people, including:
+I’ve written this page for a variety of people, including:
 
 * People who are curious about mindfulness, but have read little or nothing about it and never tried meditating.
 * People seeking new ways to overcome childhood hurts, depression, addiction, and other all-too-human problems.
