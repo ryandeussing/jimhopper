@@ -12,6 +12,12 @@ prevtitle: Statistics on Sexual Abuse of Boys
 ---
 
 
+This page has links to other organizations and website, as well as to articles, chapters and books by researchers and therapists.
+
+It also includes links to the websites of two excellent documentary films and a couple of leaders in this work.
+
+There are many other resources on my site that could be helpful to men who experienced unwanted or abusive sexual experiences as boys, and people who care about them.
+
 ## Organizations & Websites
 
 [1in6](https://www.1in6.org) - Their mission: To help men who have had unwanted or abusive sexual experiences in childhood live healthier, happier lives. Their website has lots of information for men who've had such experiences and people who care about them. (During my time with 1in6, I wrote most of the pages on the site.)
