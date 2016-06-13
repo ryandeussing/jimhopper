@@ -78,7 +78,7 @@ I discuss in-depth the research up to 1996, when I conducted a comprehensive rev
 
 Also, there's only been one authoritative study using really good research methods since then, the 2005 C.D.C. study mentioned above, which supports the 1 in 6 prevalence estimate. That was Dube and colleagues' study of 17,000 California residents, Long-term consequences of childhood sexual abuse by gender of victim, published in the *American Journal of Preventive Medicine*.
 
-Note: Complete references for articles and books cited in this section are in the References section at the bottom of [Additional Resources](/child-abuse/sexual-abuse-of-boys/additional-resources).
+Note: Complete references for articles and books cited in this section are in the References to Research Cited on&nbsp;[Additional Resources](/child-abuse/sexual-abuse-of-boys/additional-resources).
 
 The following review is grouped into three sections, according to the sample studied:
 
