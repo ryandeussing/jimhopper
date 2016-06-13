@@ -278,9 +278,9 @@ The point here is that good prevalence research must use behavioral descriptions
 
 For these reasons, researchers seeking to determine prevalence rates should not use the word 'abuse' in their interviews or questionnaire items. Instead, they should provide clear behavioral descriptions of experiences to which subjects can answer 'yes' or 'no.' When an answer is yes, further information should be elicited, including: the age of the subject and the other person involved; the nature of the relationship (parent, sibling, friend, priest, etc.); the level of coercion or violence; the number of times and period of time over which the experience happened; and the person's emotional appraisal of the event when it occurred and at the time of the research.
 
-Here are two examples of questionnaire items employing behavioral descriptions and follow-up questions. Both are from research on the sexual abuse of males conducted by David Lisak and his colleagues, including me (e.g., [Lisak, Hopper, & Song, 1996](){: .cc-active}):
+Here are two examples of questionnaire items employing behavioral descriptions and follow-up questions. Both are from research on the sexual abuse of males conducted by David Lisak and his colleagues, including me (e.g., [Lisak, Hopper, & Song, 1996](/pdf/Lisak_Hopper_Song_(1996)_Factors_in_cycle_of_violence.pdf){: .cc-active}):
 
-Someone fondled you (i.e., touched your genitals or other parts of your body) in a sexual way. YES**__ NO**__
+Someone fondled you (i.e., touched your genitals or other parts of your body) in a sexual way. YES**__**NO__
 
 If yes…
 
