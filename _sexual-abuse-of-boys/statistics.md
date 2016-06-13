@@ -56,17 +56,17 @@ Please consider helping to educate others by letting them know about this page (
 
 ### References
 
-Dube, S.R., Anda, R.F., Whitfield, C.L., et al. (2005). Long-term consequences of childhood sexual abuse by gender of victim. *American Journal of Preventive Medicine, 28,* 430-438.
-
 Briere, J. & Elliot, D.M. (2003). Prevalence and psychological sequelae of self-reported childhood physical and sexual abuse in a general population sample of men and women. *Child Abuse & Neglect, 27,* 1205-1222.
 
-Holmes, W.C., & Slap, G.B. (1998). Sexual abuse of boys: Definition, prevalence, correlates, sequelae, and management. *Journal of the American Medical Association (JAMA), 280,* 1855-1862.
-
-Lisak, D., Hopper, J. & Song, P. (1996). Factors in the cycle of violence: Gender rigidity and emotional constriction. *Journal of Traumatic Stress, 9,* 721-743.
+Dube, S.R., Anda, R.F., Whitfield, C.L., et al. (2005). [Long-term consequences of childhood sexual abuse by gender of victim](/pdf/Dube_(2005)_Childhood_sexual_abuse_by_gender_of_victim.pdf). *American Journal of Preventive Medicine, 28,* 430-438.
 
 Finkelhor, D., Hotaling, G., Lewis, I. A., & Smith, C. (1990). Sexual abuse in a national survey of adult men and women: Prevalence, characteristics, and risk factors. *Child Abuse & Neglect, 14,* 19-28.
 
-Holmes, G.R., Offen, L., & Waller, G. (1997). See no evil, hear no evil, speak no evil: Why do relatively few male victims of childhood sexual abuse receive help for abuse-related issues in adulthood? *Clinical Psychology Review, 17,* 69-88.
+Holmes, G.R., Offen, L., & Waller, G. (1997). [See no evil, hear no evil, speak no evil: Why do relatively few male victims of childhood sexual abuse receive help for abuse-related issues in adulthood?](/pdf/Holmes_Offen_Waller_1997.pdf) *Clinical Psychology Review, 17,* 69-88.
+
+Holmes, W.C., & Slap, G.B. (1998). [Sexual abuse of boys: Definition, prevalence, correlates, sequelae, and management](/pdf/Holmes_&amp;_Slap_1998.pdf). *Journal of the American Medical Association (JAMA), 280,* 1855-1862.
+
+Lisak, D., Hopper, J. & Song, P. (1996). Factors in the cycle of violence: Gender rigidity and emotional constriction. *Journal of Traumatic Stress, 9,* 721-743.
 
 Widom, C.S. & Morris, S. (1997). Accuracy of adult recollections of childhood victimization part 2. Childhood sexual abuse. *Psychological Assessment, 9,* 34-46.
 
