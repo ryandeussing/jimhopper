@@ -14,13 +14,21 @@ prevtitle: About Jim Hopper
 
 This is the largest section of my website (as large as a book). [Consequences](/child-abuse/consequences-of-abuse/), [Recovered Memories](/child-abuse/recovered-memories/) and [Sexual Abuse of Boys](/child-abuse/sexual-abuse-of-boys/) are subsections containing several pages each.&nbsp;
 
-There is a lot of breadth and depth here, both in the scope of information provided and the complexities and subtleties that I sometimes address.
+There is a lot of breadth and depth here, both in the scope of information provided and the complexities and subtleties that I sometimes address.&nbsp;
 
 Whoever you are, wherever you're coming from and whatever you need, I hope you find some helpful information here, maybe even some healing knowledge, insights, encouragement and support. (Other areas of my site also have resources for those struggling with effects of harmful childhood experiences.)
 
 > Largest section, lots of breadth and depth
 
 Before you dig in, it might be helpful to reflect briefly on language and words – both mine and yours…
+
+> paragraph text&nbsp;
+
+> # header 1
+
+> ## header 2
+
+&nbsp;
 
 ## Thoughts on Language and Words
 
