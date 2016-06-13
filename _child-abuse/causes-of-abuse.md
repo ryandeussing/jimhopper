@@ -4,7 +4,6 @@ custom_title:
 order: 2
 subcollection:
 hotlines_sidebar: true
-on_this_page_: true
 description:
 nexturl:
 nexttitle:
@@ -12,8 +11,8 @@ prevurl: /child-abuse/overview/
 prevtitle: Unwanted or Abusive Childhood Experiences
 ---
 
-<p class="onpage__header">on this page</p>
-<ul class="onpage">
+<p class="onpage__header">on this page</p> 
+<ul class="onpage"> 
   <li><a href="#why-do-people-abuse-children">Why do People Abuse Children?</a></li>
   <li><a href="#why-ask-why">Why Ask Why?</a></li>
   <li><a href="#wanting-to-understand-or-not-depends-on-ones-experiences-and-feelings">Wanting to Understand (or Not) Depends on One’s Experiences and Feelings</a></li>
@@ -25,6 +24,7 @@ prevtitle: Unwanted or Abusive Childhood Experiences
   <li><a href="#the-other-persons-experience-and-understanding-now">The Other Person’s Experience and Understanding Now</a></li>
   <li><a href="#children-and-teenagers-who-sexually-use-or-abuse-other-children">Children and Teenagers Who Sexually Use or Abuse Other Children</a></li>
 </ul>
+
 
 Of course there are many causes, and lots of research has been done on this issue for decades.
 
