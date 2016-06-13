@@ -49,7 +49,7 @@ Yet every step of the way – by how parents, teachers, and other kids relate to
 
 Boys also learn, without even having to think about it, that they should be ashamed of such feelings, even that they should hate themselves for having them.
 
-## Capacities We All Have – And Need
+## Capacities We All Have, And Need
 
 The abilities to be aware of vulnerable emotions, express them to others, and accept them as part of being alive, are *human* capacities. Every boy and girl is born with the potential to develop them.
 
