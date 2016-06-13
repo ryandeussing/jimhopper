@@ -1461,16 +1461,19 @@ ul.onpage {
     .article blockquote h1 {
       font-size: 1.125rem;
       margin-bottom: .75em;
+      line-height: 1.5;
       font-weight: normal;} }
   @media screen and (min-width: 41.6875em) {
     .article blockquote h1 {
       font-size: 1.125rem;
       margin-bottom: .75em;
+      line-height: 1.5;
       font-weight: normal;} }
   @media screen and (min-width: 48.0625em) {
     .article blockquote h1 {
       font-size: 1.125rem;
       margin-bottom: .75em;
+      line-height: 1.5;
       font-weight: normal;} }
 
 .article .assault-link {
