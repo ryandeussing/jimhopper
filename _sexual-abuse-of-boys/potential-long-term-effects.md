@@ -22,7 +22,7 @@ Research findings on the long-term effects of child sexual abuse in males have b
 
 First, I want to recommend a paper by David Lisak, Ph.D. This paper contains many powerful quotations from interviews with men who were sexually abused as boys. Lisak groups the quotations into themes, and discusses them with remarkable insight and compassion. The reference and article themes are:
 
-Lisak, D. (1994). [The psychological impact of sexual abuse: Content analysis of interviews with male survivors](/pdf/Lisak_Interviews.pdf). *Journal of Traumatic Stress, 7,* 525-548.
+**Lisak, D. (1994). [The psychological impact of sexual abuse: Content analysis of interviews with male survivors](/pdf/Lisak_Interviews.pdf). *Journal of Traumatic Stress, 7,* 525-548.**
 
 * Anger
 * Fear
