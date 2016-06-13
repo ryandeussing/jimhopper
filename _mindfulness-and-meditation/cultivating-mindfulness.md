@@ -51,7 +51,7 @@ In short, it's helpful to remember that there's a lot to mindfulness, definitely
 
 ### Popular Definition
 
-Mindfulness meditation teacher Jon Kabat-Zinn has provided a definition of mindfulness that is widely used by researchers, therapists, the media and throughout the world.
+Mindfulness meditation teacher Jon Kabat-Zinn has provided a definition of mindfulness that is widely used by researchers, therapists, the media and others throughout the world.
 
 # "paying attention in a particular way: on purpose, in the present moment, and non-judgmentally."
 
