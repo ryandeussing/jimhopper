@@ -16,6 +16,7 @@ on this page
 {: .onpage__header}
 
 * [The 1 in 6 Statistic, in Brief](#the-1-in-6-statistic-in-brief)
+* [What the Research Tells Us](#what-the-research-tells-us)
 * [Details on Prevalence Research](#details-on-prevalence-research)
 {: .onpage}
 
