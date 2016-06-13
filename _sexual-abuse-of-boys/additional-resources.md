@@ -118,33 +118,33 @@ Holmes, W. C., Slap, G. B. (1998). [Sexual abuse of boys: Definition, prevalence
 
 Hunter, J. A. (1991). A comparison of the psychosocial adjustment of adult males and females sexually molested as children.&nbsp;*Journal of Interpersonal Violence, 6,*&nbsp;205-217.
 
-Hunter, M. (1990). Abused boys: The neglected victims of sexual abuse.New York: Fawcett Columbine.
+Hunter, M. (1990). *Abused boys: The neglected victims of sexual abuse.&nbsp;*New York: Fawcett Columbine.
 
-Hunter, M. (Ed.) (1990). The sexually abused male: Prevalence, impact, and treatment. Vol. 1. Lexington, MA: Lexington Books.
+Hunter, M. (Ed.) (1990). *The sexually abused male: Prevalence, impact, and treatment. Vol. 1.* Lexington, MA: Lexington Books.
 
-Hunter, M. (Ed.) (1996). The sexually abused male: Application of treatment strategies. Vol. 2. Lexington, MA: Lexington Books.
+Hunter, M. (Ed.) (1996). *The sexually abused male: Application of treatment strategies. Vol. 2.* Lexington, MA: Lexington Books.
 
-Johnson, R. L. & Shrier, D. (1987). Past sexual victimization by females of males in an adolescent medicine clinic population. American Journal of Psychiatry, 144, 650-652.
+Johnson, R. L. & Shrier, D. (1987). Past sexual victimization by females of males in an adolescent medicine clinic population. *American Journal of Psychiatry, 144,* 650-652.
 
-Kendall-Tackett, K. A. & Simon, A. F. (1992). A comparison of the abuse experiences of male and female adults molested as children. Journal of Family Violence, 7, 57-62.
+Kendall-Tackett, K. A. & Simon, A. F. (1992). A comparison of the abuse experiences of male and female adults molested as children. *Journal of Family Violence, 7,* 57-62.
 
-King, N. (1995). Speaking our truth: Voices of courage and healing for male survivors of childhood sexual abuse. San Francisco: Harpercollins.
+King, N. (1995). *Speaking our truth: Voices of courage and healing for male survivors of childhood sexual abuse.* San Francisco: Harpercollins.
 
-Kinzl, J. F., Mangweth, B., Traweger, C., Biebl, W. (1996). Sexual dysfunction in males: Significance of adverse childhood experiences. Child Abuse \*& Neglect, 20,\* 759-766.
+Kinzl, J. F., Mangweth, B., Traweger, C., Biebl, W. (1996). Sexual dysfunction in males: Significance of adverse childhood experiences. *Child Abuse & Neglect, 20,*&nbsp;759-766.
 
-Krug, R. S. (1989). Adult male reports of childhood sexual abuse by mothers: Case descriptions, motivations and long-term consequences. Child Abuse \*& Neglect, 13,\* 111-119.
+Krug, R. S. (1989). Adult male reports of childhood sexual abuse by mothers: Case descriptions, motivations and long-term consequences. *Child Abuse & Neglect, 13,*&nbsp;111-119.
 
-Kuhn, J. (2000). In cabin six: An anthology of poetry by male survivors of sexual abuse. Atascadero, CA: Impact Publishing
+Kuhn, J. (2000). *In cabin six: An anthology of poetry by male survivors of sexual abuse.* Atascadero, CA: Impact Publishing
 
-Lawson, C. (1993). Mother-son sexual abuse: Rare or underreported? A critique of the research. Child Abuse \*& Neglect, 17,\* 261-269.
+Lawson, C. (1993). Mother-son sexual abuse: Rare or underreported? A critique of the research. *Child Abuse & Neglect, 17,*&nbsp;261-269.
 
-Levesque, R. J. R. (1994). Sex differences in the experience of child sexual victimization. Journal of Family Violence, 9, 357-369.
+Levesque, R. J. R. (1994). Sex differences in the experience of child sexual victimization. *Journal of Family Violence, 9,* 357-369.
 
-Lew, M. (1988). Victims no longer: Men recovering from incest and other child sexual abuse. New York: Nevraumont.
+Lew, M. (1988). *[Victims no longer: Men recovering from incest and other child sexual abuse](http://www.amazon.com/dp/006053026X/ref=nosim/?tag=jimhoppercom-20).* New York: Nevraumont.
 
-Lew, M., & Hoffman, R. (2000). Leaping upon the mountains: Men proclaiming victory over sexual child abuse. Jamaica Plain, Massachusetts: Small Wonder Books.
+Lew, M., & Hoffman, R. (2000). *[Leaping upon the mountains: Men proclaiming victory over sexual child abuse](http://www.nextstepcounseling.org/books2.htm#leaping).* Jamaica Plain, Massachusetts: Small Wonder Books.
 
-Lisak, D. (1994). The psychological impact of sexual abuse: Content analysis of interviews with male survivors. Journal of Traumatic Stress, 7, 525-548.
+Lisak, D. (1994). [The psychological impact of sexual abuse: Content analysis of interviews with male survivors.](/pdf/Lisak_Interviews.pdf) *Journal of Traumatic Stress, 7,* 525-548.
 
 Lisak, D., Hopper, J., & Song, P. (1996). Factors in the cycle of violence: Gender rigidity and emotional constriction. Journal of Traumatic Stress, 9, 721-743.
 
