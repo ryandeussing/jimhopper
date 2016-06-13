@@ -47,7 +47,7 @@ Thus unlike some understandings of the current popular definition of 'mindfulnes
 
 # "(1) deliberate, open-hearted awareness of moment-to-moment perceptible experience; (2) a process held and sustained by such qualities as kindness, tolerance, patience and courage (as underpinnings of a stance of nonjudgmentalness and acceptance); (3) a practice of nondiscursive, non-analytic investigation of ongoing experience; (4) an awareness markedly different from everyday modes of attention; and (5) in general, a necessity of systematic practice for its gradual refinement" (2002, p.221, references omitted).
 
-Thus it is helpful to remember that there is a lot to mindfulness, as traditionally defined and more fully understood; definitely more than just qualities of attention and awareness, which "are at most *aspects that serve as preconditions*, rather than *equivalents*, of mindfulness" (2002, 223).
+In short, it's helpful to remember that there's a lot to mindfulness, definitely more than just qualities of attention and awareness, which are "at most *aspects that serve as preconditions*, rather than *equivalents*, of mindfulness" (Grossman & Van Dam, 2002, p. 223).
 
 ## Popular Definition
 
