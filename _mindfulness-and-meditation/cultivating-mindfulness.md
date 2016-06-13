@@ -92,7 +92,7 @@ In addition to defining what mindfulness is, it's important to define *what it's
 
 Mindfulness is an inner capacity or resource that everyone can cultivate, and one that can be very helpful for overcoming suffering and achieving greater freedom and happiness. Of course, other important capacities and abilities, including emotion regulation skills and kindness and compassion toward oneself and others, are also necessary to overcome habitual patterns developed to cope with unwanted experiences and emotions. Mindfulness is *not* a 'miracle cure' that single-handedly eliminates suffering-causing habits of perceiving, thinking, feeling and behaving that may have been ingrained since childhood. Still, it can help a lot…
 
-### Reducing Unhelpful Habitual Response Patterns
+### Reducing Unhelpful Response Patterns
 
 Mindfulness can help us to reduce the intensity, duration, and frequency of our unhelpful habitual responses. Below outlines how some of these effects can occur and accumulate.
 
