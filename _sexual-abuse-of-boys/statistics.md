@@ -1,6 +1,6 @@
 ---
-title: Statistics on the Sexual Abuse of Boys
-custom_title: Statistics on Sexual Abuse of Boys
+title: Statistics on Sexual Abuse of Boys
+custom_title: Statistics on the Sexual Abuse of Boys
 order: 6
 subcollection:
 hotlines_sidebar: true
