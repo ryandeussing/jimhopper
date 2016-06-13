@@ -336,7 +336,7 @@ Good therapists can help you improve your self-regulation skills. For people wit
 * Such gradual, tolerable and deliberate re-experiencing of painful feelings and memories can modulate their intensity and foster increasing confidence and mastery. It really is possible to relate to painful experiences and memories without trying to escape or becoming overwhelmed.
 
 
-For many people, it is necessary to work with a therapist and/or meditation teacher who is experienced at helping people deal with the four problems listed above. One therapy that can be extremely beneficial is Dialectical Behavior Therapy (DBT). This treatment approach incorporates mindfulness into a comprehensive individual and group program designed to cultivate skills of emotion tolerance, emotion regulation and interpersonal effectiveness. (For more information on DBT, see the section, "Resources for Learning to Be More Mindful")
+For many people, it is necessary to work with a therapist and/or meditation teacher who is experienced at helping people deal with the four problems listed above. One therapy that can be very helpful is Dialectical Behavior Therapy (DBT). This treatment approach incorporates mindfulness into a comprehensive individual and group program designed to cultivate skills of emotion tolerance, emotion regulation and interpersonal effectiveness. (For more information on DBT, see below, Resources for Learning to Be More Mindful.)
 
 Finally, some people need to take medication for severe depression, anxiety, posttraumatic disorder or other symptoms. A group of long-term meditators who are also physicians – Roger Walsh, Robin Bitner, Bruce Victor and Lorena Hillman – have written a very thoughtful article on this issue, [Medication or Meditation?](http://moonlightcounseling.com/meditation-or-medication/) They discuss preliminary research findings on potential benefits of anti-depressants for meditators who suffer from major depression.
 
@@ -346,11 +346,11 @@ Today there are many options for learning to be more mindful. Which ones are bes
 
 I recommend that you do a little research: start with the resources below, then look into resources in your area, which could involve a series of calls to gather information and referrals from local clinics, therapists, and/or meditation centers.
 
-## Three important things to keep in mind
+### Three important things to keep in mind
 
-* There is no substitute for actual mindfulness practice (especially in a daily, disciplined way).
-* To maintain a regular practice, most people will need regular contact with a meditation teacher and/or supportive group or community.
-* You may need to learn some emotion-regulation and other skills first, so if you haven't yet, be sure to read "Caution: Mindfulness Requires Readiness" (above) before reading this section.
+1. There is no substitute for actual mindfulness practice (especially in a daily, disciplined way).
+2. To maintain a regular practice, most people will need regular contact with a meditation teacher and/or supportive group or community.
+3. You may need to learn some emotion-regulation and other skills first, so if you haven't yet, be sure to read "Caution: Mindfulness Requires Readiness" (above) before reading this section.
 
 
 Here are four free and inexpensive options for getting started on your own. Please don't be discouraged, though, if you find that going it alone isn't working for you.
