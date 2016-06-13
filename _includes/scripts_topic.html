@@ -40,6 +40,9 @@
         var maxHeight = Math.max.apply(null, elementHeights);
         $('.prevnext').height(maxHeight); // Set each height to the max height
       }, 250);
+      
+      var h1quotes = $('blockquote > h1');
+      h1quotes.addClass('h1');
 
       // var main = $('main');
       // setTimeout(function(){
