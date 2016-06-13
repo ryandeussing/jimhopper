@@ -55,7 +55,7 @@ Mindfulness meditation teacher Jon Kabat-Zinn has provided a definition of mindf
 
 # "paying attention in a particular way: on purpose, in the present moment, and non-judgmentally."
 
-This is a concise definition, and a good one so long as one appreciates the richness of the contemplative practices and features of mindfulness or *sati* outlined above.
+This is a concise definition, and a good one so long as one appreciates the richness of the contemplative practices and features of mindfulness or *sati* touched upon above.
 
 Indeed, mindfulness is a skill that takes practice to cultivate and integrate into one's life. Why? Let's consider the different parts of the definition…
 
