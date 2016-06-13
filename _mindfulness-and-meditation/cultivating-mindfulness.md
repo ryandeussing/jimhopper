@@ -37,13 +37,13 @@ Simply reading this section (whether you try meditating or not) will introduce y
 
 ## What Is Mindfulness?
 
-This page offers a technical and narrow definition, and popular and broad one. Unless specifically indicated, the popular and broad definition is meant by “mindfulness” is used throughout this section and website.
+This page offers a technical and narrow definition, and popular and broad one. Unless specifically indicated, the popular and broad definition is meant by 'mindfulness' is used throughout this section and website.
 
 ## Technical & Traditional Definition
 
-As explained in a [critical paper](/pdf/GrossmanVanDam2011.pdf) by Paul Grossman and Nicholas Van Dam, "mindfulness" is a translation of the Pali term *sati* (early texts of Buddhism were written in Pali), and the meaning of *sati* is not the same as some understandings of the current popular term of "mindfulness" (see below). As they point out, a more accurate rendering of *sati* is "to be mindful," in this sense: to maintain one's awareness on an object of attention (e.g., one's breath), including *remembering* to pay attention in a certain way.
+As explained in a [critical paper](/pdf/GrossmanVanDam2011.pdf) by Paul Grossman and Nicholas Van Dam, 'mindfulness' is a translation of the Pali term *sati* (early texts of Buddhism were written in Pali), and the meaning of *sati* is not the same as some understandings of the current popular term of 'mindfulness' (see below). As they point out, a more accurate rendering of *sati* is 'to be mindful,' in this sense: to maintain one's awareness on an object of attention (e.g., one's breath), including *remembering* to pay attention in a certain way.
 
-Thus unlike some understandings of the current popular definition of "mindfulness," write Grossman and Van Dam, *sati* is not a noun and does not imply a trait. Rather, the technical and traditional definition of *sati* or mindfulness refers to "a *practice* or process involving at least four distinct phases… ranging from mindfulness of bodily sensations to awareness of more expansive mental content and processes, such as emotion and altered view of self." They continue, noting that it connotes several features, including some that are missing from the current popular definition and how Western researchers have attempted to measure mindfulness:
+Thus unlike some understandings of the current popular definition of 'mindfulness,' write Grossman and Van Dam, *sati* is not a noun and does not imply a trait. Rather, the technical and traditional definition of *sati* or mindfulness refers to "a *practice* or process involving at least four distinct phases… ranging from mindfulness of bodily sensations to awareness of more expansive mental content and processes, such as emotion and altered view of self." They continue, noting that it connotes several features, including some that are missing from the current popular definition and how Western researchers have attempted to measure mindfulness:
 
 * "(1) deliberate, open-hearted awareness of moment-to-moment perceptible experience; (2) a process held and sustained by such qualities as kindness, tolerance, patience and courage (as underpinnings of a stance of nonjudgmentalness and acceptance); (3) a practice of nondiscursive, non-analytic investigation of ongoing experience; (4) an awareness markedly different from everyday modes of attention; and (5) in general, a necessity of systematic practice for its gradual refinement" (2002, p.221, references omitted).
 
@@ -60,22 +60,22 @@ This is a concise definition, and a good one so long as one appreciates the rich
 
 Indeed, mindfulness is a skill that takes practice to cultivate and integrate into one's life. Why? Let's consider the different parts of the definition…
 
-* "Paying attention"
+* 'Paying attention'
   * How much of the time are you really paying attention to what's happening in your life – as opposed to thinking about something else, remembering things, imagining possible futures, and acting out habitual patterns or, more accurately, <u>reacting</u> to people and situations based on old habits of perceiving, thinking, feeling, and behaving?
   * Paying conscious attention can be especially hard when a current interaction reminds us of past hurts or betrayals – and before even realizing it, we can automatically and defensively responded as if those old experiences were happening again.
-  * All of us have our habitual patterns, our vulnerabilities to automatic reactions based on past experiences of hurt, our "buttons" that can get "pushed." This is particularly true when we are already stressed and/or in a hurry. Truly paying attention in our lives is a challenge for anyone.
-* "On purpose"
+  * All of us have our habitual patterns, our vulnerabilities to automatic reactions based on past experiences of hurt, our 'buttons' that can get 'pushed.' This is particularly true when we are already stressed and/or in a hurry. Truly paying attention in our lives is a challenge for anyone.
+* 'On purpose'
   * It takes a conscious decision, and effort by one's mind and brain, to pay attention to what's happening in the present. In fact, such choices and efforts are required over and over again, since we are continually pulled back into habitual ways of processing information and responding to things.
-  * Too often we're on "auto pilot," not even trying to pay attention to what's actually happening in the unique situations and interactions that make up our lives.
-* "In the present moment"
+  * Too often we're on 'auto pilot,' not even trying to pay attention to what's actually happening in the unique situations and interactions that make up our lives.
+* 'In the present moment'
   * Most of us, most of the time, are absorbed in memories of the past or visions and plans for the future.
   * For most people, it is rare to be aware, without some amount of distraction or multi-tasking, of what is actually occurring in the present moment.
-  * Particularly when strong emotions arise, people often respond not to situations as they are, but to reactive perceptions and thoughts based on painful experiences in the past. In the most extreme instances, one may not be "here" in the present, but "back there," reliving the past through responses to present situations.
-* "Non-judgmentally"
+  * Particularly when strong emotions arise, people often respond not to situations as they are, but to reactive perceptions and thoughts based on painful experiences in the past. In the most extreme instances, one may not be 'here' in the present, but 'back there,' reliving the past through responses to present situations.
+* 'Non-judgmentally'
   * This is one of the hardest things to achieve. We so often react intensely to our experiences, particularly unwanted experiences, and to our initial responses to them.
-  * "This is horrible!" "What an idiot!" "How could I do that?!" "I can't take this any more!" "Here I go again." You know the ways you can instantaneously and automatically judge situations, other people, and your own thoughts, feelings and behaviors – often in a chain reaction of increasing judgment and distress.
-  * "I need…" "I want…" "I deserve…" Positive judgments and the cravings they evoke can also be a problem, particularly when they are automatic and intense. We can lose our focus, forget what's important, get caught in cycles of addiction, selfishly take advantage of others, etc.
-  * In contrast, the non-judgmental quality of mindfulness brings great <u>freedom</u> – to see things more clearly, to evaluate situations with some distance from our habitual emotional reactions and impulses, to observe emotions and impulses as they arise without either trying to escape them or letting them carry us away.
+  * 'This is horrible!' 'What an idiot!' 'How could I do that?!' 'I can't take this any more!' 'Here I go again.' You know the ways you can instantaneously and automatically judge situations, other people, and your own thoughts, feelings and behaviors – often in a chain reaction of increasing judgment and distress.
+  * 'I need…' 'I want…' 'I deserve…' Positive judgments and the cravings they evoke can also be a problem, particularly when they are automatic and intense. We can lose our focus, forget what's important, get caught in cycles of addiction, selfishly take advantage of others, etc.
+  * In contrast, the non-judgmental quality of mindfulness brings great *freedom* – to see things more clearly, to evaluate situations with some distance from our habitual emotional reactions and impulses, to observe emotions and impulses as they arise without either trying to escape them or letting them carry us away.
   * We all have at least glimpses of this potential, when we are feeling so positive and relaxed that something which would normally cause strong judgment and negative emotions is seen as no big deal, more clearly for what it is: a passing unwanted experience or temptation to indulge.
   * But to bring this non-judgmental quality into our daily lives, consistently, even at very stressful times, this is something many of us can hardly imagine. Yet it is possible, by practicing mindfulness (and kindness).
   * And for those who are vulnerable to remembering and reliving painful experiences from the past, to strong waves of emotion, to intense self-criticism – the cultivation of non-judgmental mindfulness can bring tremendous relief and freedom from old patterns.
@@ -83,7 +83,7 @@ Indeed, mindfulness is a skill that takes practice to cultivate and integrate in
 
 ### What It's Not
 
-In addition to defining what mindfulness is, it's important to define <u>what it is not</u>. Here are two common misconceptions:
+In addition to defining what mindfulness is, it's important to define *what it is not*. Here are two common misconceptions:
 
 * Paying attention mindfully is not about detaching from your experience and failing to emotionally engage with your life. It does not cause apathy. It does not kill passion. In fact, mindfulness allows one to engage more fully with one's emotions and other experiences, rather than simply reacting to them with habitual patterns of avoidance or acting out.
 * Non-judgmental awareness is not the same as passively accepting whatever happens, including harmful things. It does not mean failing to evaluate whether others' actions or your own are harmful, or failing to protect yourself from victimization, or failing to prevent yourself from causing harm. Quite the opposite: non-judgmental mindfulness enables one to respond to such situations from awareness and thoughtfulness rather than habit, over-reaction, compulsion, addiction, etc.
