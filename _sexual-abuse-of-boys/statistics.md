@@ -134,4 +134,4 @@ In contrast to studies with women, published studies using face-to-face intervie
 
 However, it is important to note here that assessment for sexual abuse histories in hospitals has traditionally been extremely poor, and remains so in many settings. Thus these rates, based on reviews of records, are likely to be vast underestimates. For example, Briere and Zaidi (1989) reviewed intake reports on women presenting to an urban psychiatric emergency room. They randomly reviewed 50 charts before and 50 after the intake staff were instructed to question clients about previous sexual victimization. The first 50 charts had recorded rates of 6%, and the second set, 70%.
 
-Detailed references for the papers cited above can be found in the References section at the bottom of [Additional Resources](/child-abuse/sexual-abuse-of-boys/additional-resources).
+Detailed references for the papers cited above can be found in the References to Research Cited section on&nbsp;[Additional Resources](/child-abuse/sexual-abuse-of-boys/additional-resources).
