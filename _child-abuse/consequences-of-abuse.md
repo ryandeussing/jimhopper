@@ -11,12 +11,11 @@ prevurl:
 prevtitle:
 ---
 
-
-
-<ul class="onpage"><p class="onpage__header">on this page</p>
+<p class="onpage__header">on this page</p>
+<ul class="onpage">
   <li><a href="#effects-on-many-aspects-of-development">Effects on Many Aspects of Development</a></li>
   <li><a href="#factors-that-can-shape-the-effects">Factors That Can Shape the Effects</a></li>
-  <li><a href="#abuse-or-harmful-childhood-experiences-and-being-human">Abusive or Harmful Childhood Experiences and Being Human</a></li>
+  <li><a href="#abusive-or-harmful-childhood-experiences-and-being-human">Abusive or Harmful Childhood Experiences and Being Human</a></li>
 </ul>
 
 Interconnected and unique effects in the lives of children and adults
