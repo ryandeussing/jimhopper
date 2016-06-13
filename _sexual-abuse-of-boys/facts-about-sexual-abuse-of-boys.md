@@ -20,7 +20,7 @@ on this page
 * [Sexual abuse harms boys and girls in ways that are similar and different, but equally harmful.](#sexual-abuse-harms-boys-and-girls-in-ways-that-are-similar-and-different-but-equally-harmful)
 * [Boys can be sexually abused by both straight men and gay men. It's about taking advantage of a child’s vulnerability, not the sexual orientation of the abusive person.](#boys-can-be-sexually-abused-by-both-straight-men-and-gay-men-its-about-taking-advantage-of-a-childs-vulnerability-not-the-sexual-orientation-of-the-abusive-person)
 * [Whether he is gay, straight or bisexual, a boy’s sexual orientation is neither the cause or the result of sexual abuse.](#whether-he-is-gay-straight-or-bisexual-a-boys-sexual-orientation-is-neither-the-cause-or-the-result-of-sexual-abuse)
-* [Girls and women can sexually abuse boys.](#Girls-and-women-can-sexually-abuse-boys)
+* [Girls and women can sexually abuse boys.](#girls-and-women-can-sexually-abuse-boys)
 * [Most boys who are sexually abused will not go on to sexually abuse others.](#most-boys-who-are-sexually-abused-will-not-go-on-to-sexually-abuse-others)
 * [Not understanding these facts is understandable, but harmful, and needs to be overcome.](#not-understanding-these-facts-is-understandable-but-harmful-and-needs-to-be-overcome)
 {: .onpage}
