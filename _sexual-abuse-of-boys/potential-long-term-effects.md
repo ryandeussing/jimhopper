@@ -84,7 +84,7 @@ Similarly, therapists working with men who were sexually abused in childhood hav
 
 Some of the long-term effects of sexual abuse are related to the development of gender identity. Again, years ago number of clinicians' case studies indicated that male survivors of childhood sexual abuse may experience:
 
-* Attempts to "prove" their masculinity by having multiple female sexual partners, sexually victimizing others, and/or engaging in dangerous or violent behaviors (e.g., Bruckner & Johnson, 1987; Lew 1988)
+* Attempts to 'prove' their masculinity by having multiple female sexual partners, sexually victimizing others, and/or engaging in dangerous or violent behaviors (e.g., Bruckner & Johnson, 1987; Lew 1988)
 * Confusion over their gender and sexual identities (e.g., Nasjleti, 1980; Bruckner & Johnson, 1987; Johnson & Shrier, 1987; Dimock, 1988; Lew, 1988; Myers, 1989; Gilgun & Reiser, 1990)
 * Sense of being inadequate as men (e.g., Dimock, 1988; Lew, 1988; Myers, 1989; Pierce & Pierce, 1985)
 * Sense of lost power, control, and confidence in their manhood (e.g., Myers, 1989)
@@ -99,7 +99,7 @@ Finally, some clinicians have noted that sexually abused males often experience 
 
 Again, males who've experienced unwanted or abusive sexual experiences as boys don't necessarily experience the problems and symptoms listed above, and even when they do it doesn't necessarily mean those experiences are their sole or primary cause. But these are common outcomes, and it can be very helpful to know, if you're struggling with such things, you're not alone.
 
-See "References to Cited Research" on the [Additional Resources](/child-abuse/sexual-abuse-of-boys/additional-resources/) page of this section for full citations of the papers cited above and every other paper cited on this page, as well as many books.
+See References to Cited Research under&nbsp;[Additional Resources](/child-abuse/sexual-abuse-of-boys/additional-resources/)&nbsp;for full citations of the papers cited above and every other paper cited on this page, as well as many books.
 
 ## Three Key Articles
 
@@ -110,7 +110,7 @@ In addition to David Lisak's article on interviews with men (see above), there a
 * The Extent of the Problem
 * Why do professionals identify relatively few men with histories of childhood sexual abuse?
   * Does childhood abuse have little effect on men?
-  * Are men who have been childhood victims seen by services other than the "helping professions"?
+  * Are men who have been childhood victims seen by services other than the 'helping professions'?
   * Do adult males tend not to disclose their experiences of childhood sexual abuse?
     * Men do not define their childhood experiences as abusive, and do not think that their abuse experiences have had a negative impact.
     * The consequences of disclosure are perceived as worse than the consequences of non-disclosure.
@@ -121,7 +121,7 @@ In addition to David Lisak's article on interviews with men (see above), there a
     * Clinicians' belief in male clients' disclosures of childhood sexual abuse.
     * Clinicians' responses to disclosure of childhood sexual abuse.
 * Conclusions
-  * The social construction of the "problem" of male victims of childhood sexual abuse
+  * The social construction of the 'problem' of male victims of childhood sexual abuse
   * Clinical implications
 
 
