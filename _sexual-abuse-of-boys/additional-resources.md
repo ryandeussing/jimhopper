@@ -164,24 +164,24 @@ Olson, P. E. (1990). The sexual abuse of boys: A study of the long-term psycholo
 
 Peters, D. K. & Range, L. M. (1995). Childhood sexual abuse and current suicidality in college women and men. *Child Abuse & Neglect, 19,*&nbsp;335-341.
 
-Pierce, R. & Pierce, L. H. (1985). The sexually abused child: A comparison of male and female victims. Special Issue: C. Henry Kempe memorial research issue. Child Abuse \*& Neglect, 9,\* 191-199.
+Pierce, R. & Pierce, L. H. (1985). The sexually abused child: A comparison of male and female victims. Special Issue: C. Henry Kempe memorial research issue. *Child Abuse & Neglect, 9,*&nbsp;191-199.
 
-Risin, L. I. & Koss, M. P. (1987). The sexual abuse of boys: Prevalence and descriptive characteristics of childhood victimizations. Journal of Interpersonal Violence, 2, 309-323.
+Risin, L. I. & Koss, M. P. (1987). The sexual abuse of boys: Prevalence and descriptive characteristics of childhood victimizations. *Journal of Interpersonal Violence, 2,* 309-323.
 
-Rosen, L. N. & Martin, L. (1998). Long-term effects of childhood maltreatment history on gender-related personality characteristics. Child Abuse & Neglect, 22, 197-211.
+Rosen, L. N. & Martin, L. (1998). Long-term effects of childhood maltreatment history on gender-related personality characteristics. *Child Abuse & Neglect, 22,* 197-211.
 
-Schacht, A. J., Kerlinsky, D., & Carlson, C. (1990). Group therapy with sexually abused boys: Leadership, projective identification, and countertransference issues. International Journal of Group Psychotherapy, 40, 401-417.
+Schacht, A. J., Kerlinsky, D., & Carlson, C. (1990). Group therapy with sexually abused boys: Leadership, projective identification, and countertransference issues. *International Journal of Group Psychotherapy, 40,* 401-417.
 
-Siegel, J. M., Sorenson, S. B., Golding, J. M., Burman, M. A, & Stein, J. A. (1987). The prevalence of childhood sexual assault: The Los Angeles epidemiology catchment area project. American Journal of Epidemiology, 126, 1141-1153.
+Siegel, J. M., Sorenson, S. B., Golding, J. M., Burman, M. A, & Stein, J. A. (1987). The prevalence of childhood sexual assault: The Los Angeles epidemiology catchment area project. *American Journal of Epidemiology, 126,* 1141-1153.
 
-Summit, R. C. (1983). The child sexual abuse accommodation syndrome. Child Abuse & Neglect, 7, 133-146.
+Summit, R. C. (1983). The child sexual abuse accommodation syndrome. *Child Abuse & Neglect, 7,* 133-146.
 
-Urquiza, A. & Capra, M. (1990). The impact of sexual abuse: Initial and long-term effects. In M. Hunter (Ed.) The sexually abused male: Prevalence, impact, and treatment. Vol. 1. Lexington, MA: Lexington Books.
+Urquiza, A. & Capra, M. (1990). The impact of sexual abuse: Initial and long-term effects. In M. Hunter (Ed.) *The sexually abused male: Prevalence, impact, and treatment.* *Vol. 1.* Lexington, MA: Lexington Books.
 
-Urquiza, A. & Keating, L. M. (1990). The prevalence of sexual victimization of males. In M. Hunter (Ed.), The sexually abused male: Prevalence, impact, and treatment. Vol. 1. Lexinton, MA: Lexington Books.
+Urquiza, A. & Keating, L. M. (1990). The prevalence of sexual victimization of males. In M. Hunter (Ed.), *The sexually abused male: Prevalence, impact, and treatment. Vol. 1.* Lexington, MA: Lexington Books.
 
-Violato, C. & Genuis, M. (1993). Problems in research in male child sexual abuse: A review. Journal of Child Sexual Abuse, 2, 33-54.
+Violato, C. & Genuis, M. (1993). Problems in research in male child sexual abuse: A review. *Journal of Child Sexual Abuse, 2,* 33-54.
 
-Watkins, B., & Bentovim, A. (1992). The sexual abuse of male children and adolescents: A review of current research. Journal of Child Psychology and Psychiatry, 33, 197-248.
+Watkins, B., & Bentovim, A. (1992). The sexual abuse of male children and adolescents: A review of current research. *Journal of Child Psychology and Psychiatry, 33,* 197-248.
 
-Young, R. E. (1994). Comparison of the effects of sexual abuse on male and female latency-aged children. Journal of Interpersonal Violence, 9, 291-306.
+Young, R. E. (1994). Comparison of the effects of sexual abuse on male and female latency-aged children. *Journal of Interpersonal Violence, 9,* 291-306.
