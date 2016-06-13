@@ -82,7 +82,7 @@ Indeed, mindfulness is a skill that takes practice to cultivate and integrate in
 
 ### What It's Not
 
-In addition to defining what mindfulness is, it's important to define *what it is not*. Here are two common misconceptions:
+In addition to defining what mindfulness is, it's important to define *what it's not*. Here are two common misconceptions:
 
 * Paying attention mindfully is not about detaching from your experience and failing to emotionally engage with your life. It does not cause apathy. It does not kill passion. In fact, mindfulness allows one to engage more fully with one's emotions and other experiences, rather than simply reacting to them with habitual patterns of avoidance or acting out.
 * Non-judgmental awareness is not the same as passively accepting whatever happens, including harmful things. It does not mean failing to evaluate whether others' actions or your own are harmful, or failing to protect yourself from victimization, or failing to prevent yourself from causing harm. Quite the opposite: non-judgmental mindfulness enables one to respond to such situations from awareness and thoughtfulness rather than habit, over-reaction, compulsion, addiction, etc.
