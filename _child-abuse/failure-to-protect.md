@@ -1,5 +1,5 @@
 ---
-title: Failure to Protect
+title: Why Adults Fail to Protect Children
 custom_title:
 order: 4
 subcollection:
@@ -12,22 +12,23 @@ prevtitle: Guilt
 ---
 
 
+on this page
+{: .onpage__header}
 
-<ul class="onpage"><p class="onpage__header">on this page</p>
-  <li><a href="#overwhelming-feelings">Overwhelming Feelings</a></li>
-  <li><a href="#stereotypes">Stereotypes</a></li>
-  <li><a href="#the-cost-of-speaking-up-vs-the-cost-of-silence">The Cost of Speaking Up vs. The Cost of Silence</a></li>
-  <li><a href="#self-doubt">Self Doubt</a></li>
-  <li><a href="#misunderstandings-about-how-children-respond-to-abuse-or-even-what-abuse-is">Misunderstandings about how children respond to abuse, or even what abuse is.</a></li>
-  <li><a href="#demands-for-forgiveness">Demands for Forgiveness</a></li>
-  <li><a href="#some-final-thoughts">Some Final Thoughts</a></li>
-</ul>
-
-**No excuses. But no simple answers, either.**
+* [Overwhelming Feelings](#overwhelming-feelings)
+* [Stereotypes](#stereotypes)
+* [The Cost of Speaking Up vs. The Cost of Silence](#the-cost-of-speaking-up-vs-the-cost-of-silence)
+* [Self Doubt](#self-doubt)
+* [Misunderstandings about how children respond to abuse, or even what abuse is.](#misunderstandings-about-how-children-respond-to-abuse-or-even-what-abuse-is)
+* [Demands for Forgiveness](#demands-for-forgiveness)
+* [Some Final Thoughts](#some-final-thoughts)
+{: .onpage}
 
 Ask nearly anyone: They’ll say they would speak up if they thought a child was being abused. Many are certain they’d recognize abusive behavior if it were happening. Almost no one believes they would allow harmful sexual behavior to continue if they knew for sure that it was going on.
 
 And yet, the sad truth: Millions of children are abused every year in this country. Many of them believe, correctly, that someone else knows or should know about their situation, but does little or nothing to protect them. Some tell adults what’s going on, seeking protection and help, only to be met with disbelief, denial, blame, or even punishment. How can that be?
+
+> No excuses. But no simple answers, either.&nbsp;
 
 When you’re the one who has been hurt in this way (or someone who cares about a child who has), it’s hard to imagine that there can be any “good reason” for failing to protect a vulnerable child. You may feel doubly betrayed by someone’s failure to help. You were in danger, someone could have protected you and chose not to…period. No excuses or rationalizations for their failure seem acceptable.
 
@@ -49,11 +50,12 @@ Most important, it’s helpful to remember that the people children look to for 
 
 As difficult as it may be to accept, there are many genuine, compelling reasons that it can be challenging for adults – even otherwise loving and caring adults – to take protective action, or even to notice, when children are being abused, or at risk of being harmed in that way. These reasons or causes include:
 
-*   Overwhelming feelings (like fear, anger, or shame) caused by just thinking about the sexual abuse of children.
-*   Confusion caused by incorrect stereotypes about what kinds of people sexually use and abuse children.
-*   Physical, emotional, and financial dependency on an individual or group that would be lost (for oneself and the family) if such concerns are raised.
-*   Self doubts of various kinds (e.g., “I’m paranoid.” “What if I’m wrong?” “It’s none of my business.”).
-*   Fears of various consequences (e.g., of acknowledging betrayal by a trusted and respected person, of being wrong, of being right).
+* Overwhelming feelings (like fear, anger, or shame) caused by just thinking about the sexual abuse of children.
+* Confusion caused by incorrect stereotypes about what kinds of people sexually use and abuse children.
+* Physical, emotional, and financial dependency on an individual or group that would be lost (for oneself and the family) if such concerns are raised.
+* Self doubts of various kinds (e.g., “I’m paranoid.” “What if I’m wrong?” “It’s none of my business.”).
+* Fears of various consequences (e.g., of acknowledging betrayal by a trusted and respected person, of being wrong, of being right).
+
 
 For these and many other reasons (explored in detail below), even when an adult knows about such behavior, he or she may not speak up, or may even tell the child to keep quiet. Also, if the child’s distress or any harm seems minor or absent, a tragic calculation may take place: the immediate costs of confronting the situation seem greater than the imagined long-term costs of looking the other way.
 
@@ -165,5 +167,4 @@ Finally, why people fail to protect a child from unwanted or abusive sexual expe
 
 For excellent child sexual abuse prevention information and resources, including guidebooks on how to talk with other adults about potential or definite sexual abuse situations, visit the website of [Stop It Now](http://www.stopitnow.org/).
 
-_Special thanks to my colleague and friend Peter Pollard for helping me to write this page._
-
+*Special thanks to my colleague and friend Peter Pollard for helping me to write this page.*
