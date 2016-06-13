@@ -75,4 +75,4 @@ In most cultures, though, whatever your sexual orientation, if you’ve had unwa
 
 Such concerns and worries about one’s masculinity and sexuality are common and totally normal. But it’s absolutely possible to sort them out, and to become completely comfortable with who you are as a man and a sexual being. Many other guys like you already have.
 
-Finally, you may want to read a paper on [the psychological impact of such experiences on men](/pdf/Lisak.pdf), by Dr. David Lisak, a colleague of mine. It has many powerful quotes from interviews with men, which are grouped into themes and discussed in terms of how the effects can be different for men. (At first glance it may look ‘academic,’ but it’s not.)
+Finally, you may want to read a paper on [the psychological impact of such experiences on men](/pdf/LisakInterviews.pdf), by Dr. David Lisak, a colleague of mine. It has many powerful quotes from interviews with men, which are grouped into themes and discussed in terms of how the effects can be different for men. (At first glance it may look ‘academic,’ but it’s not.)
