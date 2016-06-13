@@ -88,4 +88,4 @@ Finally, here are a few more things to consider:
 
 If you want to start learning and practicing the self-regulation skills essential to dealing with traumatic memories and the first stage of recovery, I strongly recommend this book: [*Growing Beyond Survival: A Self-Help Toolkit for Managing Traumatic Stress*](http://www.amazon.com/exec/obidos/ASIN/1886968098/jimhoppercom-20)*,* by Elizabeth Vermilyea.
 
-To learn more about stages of recovery from traumatic child abuse, and how to find competent professional help, see Additional Resources [link] in the Child Abuse section of my website.
+To learn more about stages of recovery from traumatic child abuse, and how to find competent professional help, see [Additional Resources](/child-abuse/additional-resources/) under [Child Abuse](/child-abuse/).
