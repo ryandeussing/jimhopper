@@ -45,7 +45,7 @@ As explained in a [critical paper](/pdf/GrossmanVanDam2011.pdf) by Paul Grossman
 
 Thus unlike some understandings of the current popular definition of 'mindfulness,' *sati* is not a noun and does not imply a trait, write Grossman and Van Dam. Rather, the traditional, technical definition of *sati* or mindfulness refers to "a *practice* or process involving at least four distinct phases… ranging from mindfulness of bodily sensations to awareness of more expansive mental content and processes, such as emotion and altered view of self." Indeed, they continue, it connotes several features, including some that are missing from the current popular definition and how Western researchers have attempted to measure mindfulness:
 
-# "(1) deliberate, open-hearted awareness of moment-to-moment perceptible experience; (2) a process held and sustained by such qualities as kindness, tolerance, patience and courage (as underpinnings of a stance of nonjudgmentalness and acceptance); (3) a practice of nondiscursive, non-analytic investigation of ongoing experience; (4) an awareness markedly different from everyday modes of attention; and (5) in general, a necessity of systematic practice for its gradual refinement" (2002, p.221, references omitted).
+> # (1) deliberate, open-hearted awareness of moment-to-moment perceptible experience; (2) a process held and sustained by such qualities as kindness, tolerance, patience and courage (as underpinnings of a stance of nonjudgmentalness and acceptance); (3) a practice of nondiscursive, non-analytic investigation of ongoing experience; (4) an awareness markedly different from everyday modes of attention; and (5) in general, a necessity of systematic practice for its gradual refinement" (2002, p.221, references omitted).
 
 In short, it's helpful to remember that there's a lot to mindfulness, definitely more than just qualities of attention and awareness, which are "at most *aspects that serve as preconditions*, rather than *equivalents*, of mindfulness" (Grossman & Van Dam, 2002, p. 223).
 
@@ -154,7 +154,9 @@ As with meditation, unless you have seriously studied Buddhism, you are likely t
 
 ### A Mindfulness of Breathing Practice
 
-<u>Important</u>: If you have a tendency to become overwhelmed by anxiety, painful feelings or memories when you are not "keeping busy" or otherwise distracted from such experiences, the practice below could result in becoming overwhelmed. In that case, before trying the practice, please read the section below, Caution: Mindfulness Includes Pain, and Requires Readiness. At a minimum, be prepared to stop at any time and do something you can rely on to calm you down.
+<u>Important</u>
+
+: If you have a tendency to become overwhelmed by anxiety, painful feelings or memories when you are not "keeping busy" or otherwise distracted from such experiences, the practice below could result in becoming overwhelmed. In that case, before trying the practice, please read the section below, Caution: Mindfulness Includes Pain, and Requires Readiness. At a minimum, be prepared to stop at any time and do something you can rely on to calm you down.
 
 1. Sit comfortably with your spine straight, in a relaxed way, on a straight-backed chair or cushion on the floor. It is important that your spine is straight and your body relaxed, to promote mental alertness and clarity. Sitting this way may be a new experience, and you may need to experiment a bit. (If you feel that you need more detailed instructions on posture, see [What To Do With Your Body](http://www.vipassana.com/meditation/mindfulness_in_plain_english_8.php), a brief chapter in Mindfulness in Plain English.)
 2. Establish a proper motivation before beginning the practice. For example, you might affirm the intention to simply use your breath as an anchor for being mindfully aware of your experience in each moment, with a sincere desire to learn something new, with an attitude of open-minded curiosity.
@@ -198,8 +200,6 @@ If you have read the previous section of this page, you have already encountered
 
 
 **Curiosity:&nbsp;**An attitude of interest in learning about the nature of one's experience and mind.
-
-
 
 * Through mindfulness, this quality of mind can be brought to a much greater range of experience than we ordinarily do. When it comes to things we want, we tend to just go after them based on prior conditioning. When it comes to experiences that we don't want, including painful memories and emotions, we tend to just push them away and avoid them, again based on our conditioning. We tend to reserve curiosity for things and experiences that are new and at least somewhat positive. But with mindfulness, we can bring curiosity to the full range of our experience, and discover much that is new and enlightening. We can discover that experiences which would ordinarily just evoke automatic conditioned responses are opportunities to apply curiosity and learn a great deal about how our mind works, including how it can increase our suffering by imposing old conditioning on new situations – or increase our happiness when freed from such habits.
 * For example, it is possible to bring curiosity to the way a reminder of past betrayal by someone we loved triggers memories, which in turn trigger automatic responses like sadness, shame, or anger, and/or craving for alcohol, sex, or some other 'fix.' When such reactions are experienced with mindful curiosity, they can become opportunities for learning, for being gentle and kind toward oneself in the midst of such responses, and for discovering new ways of responding.
