@@ -33,7 +33,7 @@ I’ve written this for a variety of people, including:
 
 A message to those who will begin reading and find themselves thinking, "I can't see myself doing mindfulness meditation practices, so I might as well stop reading now and not bother coming back to this later":
 
-Simply reading this section (whether you try meditating or not) will introduce you to new, and potentially very transformative and healing ways of <u>thinking about</u>, <u>experiencing</u> and <u>responding to</u> your own emotional and other mental and brain processes. Just learning these concepts and perspectives (without ever meditating), has proved extremely helpful to many people, including those struggling with a great deal of emotional suffering. I can't guarantee that will happen for you, but I would like to encourage you to take the time, at some point, to find out for yourself.
+Simply reading this section (whether you try meditating or not) will introduce you to new, and potentially very transformative and healing ways of *thinking about*, *experiencing* and *responding to* your own emotional and other mental and brain processes. Just learning these concepts and perspectives (without ever meditating), has proved extremely helpful to many people, including those struggling with a great deal of emotional suffering. I can't guarantee that will happen for you, but I would like to encourage you to take the time, at some point, to find out for yourself.
 
 ## What Is Mindfulness?
 
@@ -41,7 +41,7 @@ This page offers a technical and narrow definition, and popular and broad one. U
 
 ## Technical & Traditional Definition
 
-As explained in a [critical paper](http://www.psychosomatik-basel.ch/deutsch/publikationen/pdf/2011/grossman_2011_mindfulness_by_any_other_name.pdf) by Paul Grossman and Nicholas Van Dam, "mindfulness" is a translation of the Pali term *sati* (early texts of Buddhism were written in Pali), and the meaning of *sati* is not the same as some understandings of the current popular term of "mindfulness" (see below). As they point out, a more accurate rendering of *sati* is "to be mindful," in this sense: to maintain one's awareness on an object of attention (e.g., one's breath), including *remembering* to pay attention in a certain way.
+As explained in a [critical paper](/pdf/GrossmanVanDam2011.pdf) by Paul Grossman and Nicholas Van Dam, "mindfulness" is a translation of the Pali term *sati* (early texts of Buddhism were written in Pali), and the meaning of *sati* is not the same as some understandings of the current popular term of "mindfulness" (see below). As they point out, a more accurate rendering of *sati* is "to be mindful," in this sense: to maintain one's awareness on an object of attention (e.g., one's breath), including *remembering* to pay attention in a certain way.
 
 Thus unlike some understandings of the current popular definition of "mindfulness," write Grossman and Van Dam, *sati* is not a noun and does not imply a trait. Rather, the technical and traditional definition of *sati* or mindfulness refers to "a *practice* or process involving at least four distinct phases… ranging from mindfulness of bodily sensations to awareness of more expansive mental content and processes, such as emotion and altered view of self." They continue, noting that it connotes several features, including some that are missing from the current popular definition and how Western researchers have attempted to measure mindfulness:
 
