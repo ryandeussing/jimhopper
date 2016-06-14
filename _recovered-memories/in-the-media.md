@@ -9,7 +9,7 @@ nexturl: /child-abuse/recovered-memories/in-the-DSM
 nexttitle: Recovered Memories in the DSM
 prevurl: /child-abuse/recovered-memories/scientific-research
 prevtitle: Scientific Research on Recovered Memories
-facebook_image_path:
+facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
 
