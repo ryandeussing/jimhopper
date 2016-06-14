@@ -9,7 +9,7 @@ nexturl:
 nexttitle:
 prevurl: /mindfulness-and-meditation/
 prevtitle: 'Mindfulness & Meditation'
-facebook_image_path:
+facebook_image_path: /uploads/facebook-happiness.jpg
 ---
 
 
