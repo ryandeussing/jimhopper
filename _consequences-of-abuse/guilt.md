@@ -10,6 +10,7 @@ nexturl: /child-abuse/failure-to-protect/
 nexttitle: Why Adults Fail to Protect Children
 prevurl:
 prevtitle:
+facebook_image_path:
 ---
 
 
