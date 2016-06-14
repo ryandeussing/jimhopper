@@ -9,7 +9,7 @@ nexturl:
 nexttitle:
 prevurl: /about
 prevtitle: About Jim Hopper
-facebook_image_path:
+facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
 
