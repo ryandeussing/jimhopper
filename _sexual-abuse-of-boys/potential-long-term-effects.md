@@ -9,7 +9,7 @@ nexturl:
 nexttitle:
 prevurl: /child-abuse/sexual-abuse-of-boys/how-being-male-can-make-it-hard-to-heal/
 prevtitle: How Being Male Can Make It Hard to Heal
-facebook_image_path: /uploads/facebook-sexual-assault.jpg
+facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
 
