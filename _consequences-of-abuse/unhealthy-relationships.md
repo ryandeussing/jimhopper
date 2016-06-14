@@ -10,7 +10,7 @@ nexturl:
 nexttitle:
 prevurl:
 prevtitle:
-facebook_image_path:
+facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
 
