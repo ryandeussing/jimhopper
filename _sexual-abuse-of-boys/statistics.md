@@ -124,7 +124,7 @@ Lisak and his colleagues argue that the criteria they employed to assess sexual 
 
 A prevalence rate similar to the Lisak et al. studies was found in another study of college males. Collings (1995) used an anonymous questionnaire and defined sexual abuse as 'unwanted' sexual experiences taking place before the age of 18. The term 'unwanted' is likely to bias rates downward, as noted above, but the inclusion of subjects aged 16 and 17 is likely to increase the found prevalence rate. Not surprisingly, Collings found that 29% of the 284 male respondents had been sexually abused, with 20% reporting non-contact abuse and 6% reporting abuse experiences involving physical contact.
 
-2.&nbsp;<u>Studies with community samples</u>
+2. <u>Studies with community samples</u>
 
 have ranged in their prevalence rates from 2.8% to 16%. Again, methodology has been crucial. Kercher and McShane (1984) mailed a single self-report question including the word 'abuse' to a random sample of Texas drivers. They found a prevalence rate of 3%. Given the wording of their single question, this rate is not surprising.
 
