@@ -9,7 +9,7 @@ nexturl: /child-abuse/recovered-memories/personal-questions/
 nexttitle: Personal Questions About Recovered Memories
 prevurl: /child-abuse/failure-to-protect
 prevtitle: Why Adults Fail to Protect Children
-facebook_image_path:
+facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
 
