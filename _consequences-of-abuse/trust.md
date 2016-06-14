@@ -10,6 +10,7 @@ nexturl:
 nexttitle:
 prevurl:
 prevtitle:
+facebook_image_path:
 ---
 
 <p class="onpage__header">on this page</p>
