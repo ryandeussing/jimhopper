@@ -9,6 +9,7 @@ nexturl:
 nexttitle:
 prevurl: /about
 prevtitle: About Jim Hopper
+facebook_image_path:
 ---
 
 
