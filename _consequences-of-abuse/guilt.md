@@ -2,7 +2,7 @@
 title: Guilt
 custom_title:
 order: 7
-subtopic: consequences-of-abuse
+subtopic: Consequences of Abuse
 subcollection:
 hotlines_sidebar: true
 description:
