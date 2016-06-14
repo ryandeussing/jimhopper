@@ -9,7 +9,7 @@ nexturl: /child-abuse/recovered-memories/scientific-research
 nexttitle: Scientific Research on Recovered Memories
 prevurl: /child-abuse/recovered-memories/
 prevtitle: Recovered Memories of Sexual Abuse
-facebook_image_path:
+facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
 
