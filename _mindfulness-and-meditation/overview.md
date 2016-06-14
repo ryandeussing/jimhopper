@@ -8,7 +8,7 @@ nexturl:
 nexttitle:
 prevurl: /the-brain/overview/
 prevtitle: The Brain
-facebook_image_path:
+facebook_image_path: /uploads/facebook-meditation.jpg
 ---
 
 
