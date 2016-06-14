@@ -9,6 +9,7 @@ nexturl:
 nexttitle:
 prevurl: /child-abuse/overview/
 prevtitle: Unwanted or Abusive Childhood Experiences
+facebook_image_path:
 ---
 
 <p class="onpage__header">on this page</p> 
