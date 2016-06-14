@@ -124,7 +124,7 @@ Lisak and his colleagues argue that the criteria they employed to assess sexual 
 
 A prevalence rate similar to the Lisak et al. studies was found in another study of college males. Collings (1995) used an anonymous questionnaire and defined sexual abuse as 'unwanted' sexual experiences taking place before the age of 18. The term 'unwanted' is likely to bias rates downward, as noted above, but the inclusion of subjects aged 16 and 17 is likely to increase the found prevalence rate. Not surprisingly, Collings found that 29% of the 284 male respondents had been sexually abused, with 20% reporting non-contact abuse and 6% reporting abuse experiences involving physical contact.
 
-2. <u>Studies with community samples</u>
+2.&nbsp;<u>Studies with community samples</u>
 
 have ranged in their prevalence rates from 2.8% to 16%. Again, methodology has been crucial. Kercher and McShane (1984) mailed a single self-report question including the word 'abuse' to a random sample of Texas drivers. They found a prevalence rate of 3%. Given the wording of their single question, this rate is not surprising.
 
@@ -136,7 +136,7 @@ The highest community-sample prevalence rate of 16% was found in a random teleph
 
 In contrast to studies with women, published studies using face-to-face interviews with men have yielded very low prevalence rates, perhaps due to subjects' adherence to stereotypes about males not being victims (Urquiza & Keating, 1990). Finkelhor's (1984) face-to-face interview with Boston-area fathers yielded a rate of 6%. Siegel and colleagues (1987), using gate-question interviews with 1,480 Los Angeles-area men, found a prevalence rate of 3.8%. Baker and Duncan (1985) used a single question that described various sexual acts and found the highest face-to-face prevalence rate of 8% in their random sample of 970 men in Great Britain.
 
-3. <u>Studies with clinical samples</u>
+3.&nbsp;<u>Studies with clinical samples</u>
 
 have obtained prevalence rates from 3% to 23%. The lowest rate was reported from a study that used psychological records of 954 male and female patients of a large regional medical center (Belkin, Greene, Rodrique, & Boggs, 1994). In a chart review of emergency room records of a Buffalo, New York hospital, Ellerstein and Canavan (1980) found an 11% prevalence rate. DeJong and colleagues (DeJong, Emmett, & Hervada, 1982) reviewed several clinical studies and found rates from 11% to 17%, and in their own hospital population found a rate of just under 14% (1982). Metcalfe and his associates (1990) found a prevalence of 23% in their survey of 100 male psychiatric inpatients.
 
