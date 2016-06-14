@@ -2,6 +2,7 @@
 title: 'Self-regulation &amp; Addictions'
 custom_title:
 order: 4
+subtopic: consequences-of-abuse
 subcollection:
 hotlines_sidebar: true
 description:
