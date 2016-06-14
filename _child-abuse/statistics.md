@@ -9,6 +9,7 @@ nexturl:
 nexttitle:
 prevurl: /child-abuse/recovered-memories/
 prevtitle: Recovered Memories of Sexual Abuse
+facebook_image_path:
 ---
 
 
