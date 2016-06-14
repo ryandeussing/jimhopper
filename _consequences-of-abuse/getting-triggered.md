@@ -2,6 +2,7 @@
 title: Getting Triggered
 custom_title:
 order: 5
+subtopic: consequences-of-abuse
 subcollection:
 hotlines_sidebar: true
 description:
