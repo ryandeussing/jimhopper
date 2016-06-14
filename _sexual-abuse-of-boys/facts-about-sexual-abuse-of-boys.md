@@ -9,7 +9,7 @@ nexturl: /child-abuse/sexual-abuse-of-boys/how-being-it-can-be-different-for-men
 nexttitle: How  It Can Be Different for Males
 prevurl: /child-abuse/sexual-abuse-of-boys/
 prevtitle: Sexual Abuse of Boys
-facebook_image_path:
+facebook_image_path: /uploads/facebook-sexual-assault.jpg
 ---
 
 
