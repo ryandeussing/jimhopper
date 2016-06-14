@@ -8,7 +8,8 @@ description:
 nexturl:
 nexttitle:
 prevurl:
-prevtitle: 
+prevtitle:
+facebook_image_path:
 ---
 
 
