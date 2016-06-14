@@ -9,6 +9,7 @@ nexturl: /child-abuse/sexual-abuse-of-girls/
 nexttitle: Sexual Abuse of Girls
 prevurl: /child-abuse/sexual-abuse-of-boys/statistics/
 prevtitle: Statistics on Sexual Abuse of Boys
+facebook_image_path:
 ---
 
 
