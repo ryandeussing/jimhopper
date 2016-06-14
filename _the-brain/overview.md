@@ -8,7 +8,7 @@ nexturl:
 nexttitle:
 prevurl: 'http://localhost:3000/sexual-assault/'
 prevtitle: Sexual Assault
-facebook_image_path:
+facebook_image_path: /uploads/facebook-brain.jpg
 ---
 
 
