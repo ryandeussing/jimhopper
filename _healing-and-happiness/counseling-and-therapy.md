@@ -9,7 +9,7 @@ nexturl:
 nexttitle:
 prevurl: /healing-and-happiness/overview/
 prevtitle: 'Healing & Happiness'
-facebook_image_path:
+facebook_image_path: /uploads/facebook-happiness.jpg
 ---
 
 
