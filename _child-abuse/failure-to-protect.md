@@ -9,7 +9,7 @@ nexturl:
 nexttitle:
 prevurl: /child-abuse/consequences-of-abuse/guilt/
 prevtitle: Guilt
-facebook_image_path:
+facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
 
