@@ -98,7 +98,7 @@ The following review is grouped into three sections, according to the sample stu
 
 As noted above, please keep in mind: All of the rates below are likely to be underestimates of the actual prevalence of the sexual abuse of boys in our society. Why? There is evidence that a substantial minority of adults who were sexually abused as children do not remember those abusive experiences, and that the younger the child was at the time of the abuse, and the closer the relationship to the abuser, the less likely he or she is to remember. See the section on Linda Williams' research on my page, Recovered Memories of Sexual Abuse: Scientific Research & Scholarly Resources.
 
-1&nbsp;<u>Studies of male college students<em>&nbsp;</em></u>
+1.&nbsp;<u>Studies of male college students<em>&nbsp;</em></u>
 
 have found prevalence rates from 4.8% to 28%. At the lower extreme of 4.8% is a study by Fritz, Stoll and Wagner (1981) in which 412 students responded to a self-report questionnaire that required them to label their experiences as 'abusive' - a method guaranteed to cause under-reporting (see discussion in section above). Risin and Koss (1987) obtained a rate of 7.3% in a national sample of 2,972 male college students. They used eight self-report behavioral descriptions about sexual behaviors before age 14. As pure behavioral descriptions, none of the items included the word 'abuse.' Finkelhor (1979) used a similar list of behavioral self-report items in a study of 266 college students and found an 8.3% prevalence rate; he included non-contact experiences and used specific age criteria (if under 14 there had to be a 5 year age difference with the perpetrator, if 14-15, a 10 year difference).
 
