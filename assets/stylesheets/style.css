@@ -1377,7 +1377,8 @@ ul.onpage {
   color: #689700; }
   @media screen and (min-width: 6.25em) {
     .article h2, .article h3 {
-      margin-top: 1.25em; }
+      margin-top: 1.25em; 
+      margin-bottom: .5em; }
       .article h2 a, .article h3 a {
         color: #689700; }
         .article h2 a:hover, .article h3 a:hover {
