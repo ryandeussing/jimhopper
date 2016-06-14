@@ -2,7 +2,7 @@
 title: Shame
 custom_title:
 order: 6
-subtopic: consequences-of-abuse
+subtopic: Consequences of Abuse
 subcollection:
 hotlines_sidebar: true
 description:
