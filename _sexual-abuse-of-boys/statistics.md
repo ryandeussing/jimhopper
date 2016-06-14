@@ -9,7 +9,7 @@ nexturl:
 nexttitle:
 prevurl:
 prevtitle:
-facebook_image_path: /uploads/facebook-sexual-assault.jpg
+facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
 
