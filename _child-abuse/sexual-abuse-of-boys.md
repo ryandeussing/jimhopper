@@ -9,7 +9,7 @@ nexturl: /child-abuse/sexual-abuse-of-boys/facts-about-sexual-abuse-of-boys/
 nexttitle: Facts About Sexual Abuse of Boys
 prevurl:
 prevtitle:
-facebook_image_path:
+facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
 This section of my site is for men who've had unwanted or abusive sexual experiences and those who care about them.
