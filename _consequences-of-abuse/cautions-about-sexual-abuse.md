@@ -2,7 +2,7 @@
 title: Cautions About Sexual Abuse
 custom_title:
 order: 1
-subtopic: consequences-of-abuse
+subtopic: Consequences of Abuse
 subcollection:
 hotlines_sidebar: true
 description:
