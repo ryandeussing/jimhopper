@@ -2,7 +2,7 @@
 title: Unhealthy Relationships
 custom_title:
 order: 3
-subtopic: consequences-of-abuse
+subtopic: Consequences of Abuse
 subcollection:
 hotlines_sidebar: true
 description:
