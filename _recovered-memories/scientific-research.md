@@ -56,7 +56,7 @@ Reading this brief introduction will make it much easier to benefit from the res
 
 ### Empirical Evidence
 
-Physical evidence of assaults, corroboration from witnesses, and confessions by perpetrators are empirical evidence. When it comes to research on recovered child abuse memories, there IS empirical evidence of this kind, though a lot less than of the next type…
+Physical evidence of abuse, corroboration from witnesses, and confessions by perpetrators are empirical evidence. When it comes to research on recovered child abuse memories, there *is* empirical evidence of this kind, though a lot less than of the next type…
 
 The things people say about their abuse memories, including how they respond to researchers' questions – these are empirical evidence too. Of course, these kinds of data are not necessarily about objective events, nor are they conclusive evidence that abuse occurred. But they are the only evidence we have about people's memories for abuse experiences (real, imagined, or some mixture of the two).
 
@@ -88,24 +88,24 @@ When people say these things, we try to describe and explain what they are repor
 
 Four crucial points:
 
-1. 'Amnesia' is a <u>descriptive</u> construct. It directs our attention to the condition of being unable to remember experiences like childhood sexual abuse, even when one encounters things that would be expected to trigger memory retrieval or recall.
-2. 'Repression' and 'dissociation' are <u>explanatory</u> constructs. They point to hypothesized psychological mechanisms that may be responsible for the condition of amnesia.
-3. All constructs exist on a <u>continuum</u> from descriptive to explanatory. When it comes to empirical evidence of traumatic and recovered memories, dissociation is more descriptive of more empirical evidence than is repression.
-4. The <u>persistence</u> and the <u>accuracy</u> of a memory are completely separate issues, and not keeping them separate as constructs leads to considerable confusion. People can have memories that are largely true or largely false whether or not those memories have been continuously available or were not recalled for a period of years or even decades. Thus it is very misleading to talk about 'recovered versus false memories of abuse' or to present these as mutually exclusive categories.
+1. 'Amnesia' is a *descriptive* construct. It directs our attention to the condition of being unable to remember experiences like childhood sexual abuse, even when one encounters things that would be expected to trigger memory retrieval or recall.
+2. 'Repression' and 'dissociation' are *explanatory* constructs. They point to hypothesized psychological mechanisms that may be responsible for the condition of amnesia.
+3. All constructs exist on a *continuum* from descriptive to explanatory. When it comes to empirical evidence of traumatic and recovered memories, dissociation is more descriptive of more empirical evidence than is repression.
+4. The *persistence* and the *accuracy* of a memory are completely separate issues, and not keeping them separate as constructs leads to considerable confusion. People can have memories that are largely true or largely false whether or not those memories have been continuously available or were not recalled for a period of years or even decades. Thus it is very misleading to talk about 'recovered versus false memories of abuse' or to present these as mutually exclusive categories.
 
 
-It is not rare for people to say that at some point they came to remember a past abuse experience which they had not previously remembered.
+*It is not rare for people to say that at some point they came to remember a past abuse experience which they had not previously remembered.*
 
 When people say things along these lines, again we use psychological constructs as we strive to describe and explain what happened to them:
 
 * "He remembered."
 * "She recovered a memory."
 * "Before beginning therapy, the patient experienced delayed recall."
-* "Some research subjects had a return of previously repressed memories."
-* "Some subjects in the study made new associative linkages among dissociated memory fragments, and integrated these with their conscious, verbal and narrative autobiographical memories."
+* "Some research participants had a return of previously repressed memories."
+* "Some participants in the study made new associative linkages among dissociated memory fragments, and integrated these with their verbal and narrative autobiographical memories."
 
 
-In short, we use psychological constructs to describe and explain people's inabilities to recall and their recovered memories of child abuse – which are far too varied and complex to be captured by any one construct alone. And we use separate constructs to describe memories along a continuum from continuous to recovered, and along a continuum from accurate to inaccurate.
+In short, we use psychological constructs to describe and explain people's inabilities to recall and their recovered memories of child abuse – which are far too varied and complex to be captured by any one construct alone. And we use *different* constructs to describe memories along a continuum from continuous to recovered, and along a continuum from accurate to inaccurate.
 
 As noted above, no matter which constructs we use, we should never confuse constructs with empirical evidence. And no matter which constructs we prefer, this does not change the empirical evidence we already have (though our constructs can influence our interpretations of the evidence). Finally, better constructs lead to better research questions and methods, better empirical evidence, better interpretations of evidence and still-better constructs. . . That's the self-perpetuating process of scientific progress, of course.
 
@@ -113,7 +113,7 @@ This page documents scientific progress by those who study child abuse memories,
 
 > A substantial body of empirical evidence of amnesia and delayed recall for abuse has existed for many years.
 
-Great progress has occurred in how such empirical evidence is described and explained in ways that do not confuse and mislead people, particularly in shifting from 'repression' to more descriptive constructs like dissociation and explanatory constructs from cognitive science and the neuroscience of memory.
+Great progress has occurred in how such empirical evidence can be described and explained in ways that do not confuse and mislead people, particularly in shifting from 'repression' to more descriptive constructs like dissociation and to explanatory constructs from cognitive science and the neuroscience of memory.
 
 ## Special Issue, *The Journal of Psychiatry and Law*
 
