@@ -352,7 +352,7 @@ I recommend that you do a little research: start with the resources below, then 
 
 1. There is no substitute for actual mindfulness practice (especially in a daily, disciplined way).
 2. To maintain a regular practice, most people will need regular contact with a meditation teacher and/or supportive group or community.
-3. You may need to learn some emotion-regulation and other skills first, so if you haven't yet, be sure to read "Caution: Mindfulness Requires Readiness" (above) before reading this section.
+3. You may need to learn some emotion-regulation and other skills first, so if you haven't yet, be sure to read "Caution: Mindfulness Requires Readiness" (above).
 
 
 Here are four free or inexpensive options for getting started on your own. Please don't be discouraged, though, if you find that going it alone isn't working for you.
