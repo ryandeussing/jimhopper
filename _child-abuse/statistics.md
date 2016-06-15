@@ -353,7 +353,7 @@ And there is one more very important point to keep in mind: Any research study, 
 
 Why? There is evidence that a substantial minority of adults who were sexually abused as children do not remember those abusive experiences, and that the younger the child was at the time of the abuse, and the closer the relationship to the abuser, the less likely he or she is to remember. See the section on Linda Williams' research on [Scientific Research](/child-abuse/recovered-memories/scientific-research) under [Recovered Memories of Sexual Abuse](/child-abuse/recovered-memories/).
 
-## Sexual Abuse of Boys: In Depth
+## Sexual Abuse of Boys In Depth
 
 This section is for those who want to understand how different research methods yield different prevalence statistics, in this case, of the sexual abuse of boys.
 
