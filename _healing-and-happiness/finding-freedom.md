@@ -134,7 +134,7 @@ Reflecting on your life, how often do you feel like you can’t keep up with all
 
 Do you feel like there’s little room in your life for spontaneously changing your plans? Like you can never suddenly decide to give yourself a break for an hour, to relax or do whatever?
 
-Again, the less opportunities you have to be spontaneous, or even just feel like you can’t be, because of a sense of obligation to “stay on track,” the less free you’re going to feel. And the less freedom you experience, the less happy, confident, and connected with life you will be.
+Again, the less opportunities you have to be spontaneous, or even just feel like you can’t be, because of a sense of obligation to 'stay on track,' the less free you’re going to feel. And the less freedom you experience, the less happy, confident, and connected with life you will be.
 
 True, this feeling of confinement, this feeling that our freedom is limited, isn’t directly related to having been abused or used as a child (though many people like to 'keep busy' as a way of avoiding unwanted thoughts, feelings and memories including those related to painful past experiences). But it is a very real and powerful force in many people’s lives – one that, if not understood and countered, can make it very hard to find the time and space to heal, or even to feel that we have the freedom or 'luxury' of doing what’s necessary to find healing and happiness.
 
