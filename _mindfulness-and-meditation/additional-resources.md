@@ -133,7 +133,7 @@ As mentioned above, for those who are very motivated and disciplined, there are 
 
 For those who are academically inclined and have access to college and university libraries, a few important and informative articles are listed here. Certainly there are many others, and increasing numbers are being published in reputable psychology and medical journals. But these are a good start for those who are interested.
 
-Baer, R.A. (2003). [Mindfulness training as a clinical intervention: A conceptual and empirical review.](file:///C:/Users/James%20Hopper/Documents/Internet/Files/pdfs/Baer2003.pdf) *Clinical Psychology: Science and Practice, 10,* 125-143. This article is followed by several commentaries, by Jon Kabat-Zinn and several clinical and research psychologists who are integrating mindfulness practices into therapy interventions.
+Baer, R.A. (2003). [Mindfulness training as a clinical intervention: A conceptual and empirical review.](/pdf/Baer2003.pdf) *Clinical Psychology: Science and Practice, 10,* 125-143. This article is followed by several commentaries, by Jon Kabat-Zinn and several clinical and research psychologists who are integrating mindfulness practices into therapy interventions.
 
 Bishop, S.R. et al. (2004). [Mindfulness: A proposed operational definition.](file:///C:/Users/James%20Hopper/Documents/Internet/Files/pdfs/Bishop2004.pdf) *Clinical Psychology: Science and Practice, 11,* 230-241.
 
