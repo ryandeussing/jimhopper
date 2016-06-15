@@ -19,6 +19,8 @@ on this page
 * [Unavoidable Controversies and Biases, in Historical Contexts](#unavoidable-controversies-and-biases-in-historical-contexts)
 * [Sources of Statistics](#sources-of-statistics)
 * [Statistics Are Human Creations](#statistics-are-human-creations)
+* [Retrospective Survey Methods](#retrospective-survey-methods)
+* [Sexual Abuse of Boys In Depth](#sexual-abuse-of-boys-in-depth)
 {: .onpage}
 
 This page provides overviews and in-depth discussions of child abuse statistics – where they come from, how to make sense of them, etc. When it gets into specific statistics, the focus is on the sexual abuse of boys, because that's typically neglected and something that I studied in depth starting in the early 1990s.
