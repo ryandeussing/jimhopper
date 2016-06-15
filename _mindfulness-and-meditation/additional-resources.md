@@ -177,6 +177,6 @@ The four links below are to respected Vipassana meditation centers and organizat
 
 [Iyengar Yoga: National Association of the United States](https://iynaus.org/)&nbsp;includes a clear [description](https://iynaus.org/iyengar-yoga) of Iyengar Yoga and a&nbsp;[directory](https://secure.iynaus.org/search)&nbsp;of Iyengar yoga teachers in the U.S. As explained on [Cultivating Mindfulness](mindfulness-and-meditation/cultivating-mindfulness/), this yoga method can be a good way to cultivate mindfulness for people who need a physically active and movement oriented approach and/or don't (yet) feel at home in their bodies.
 
-[Self-Compassion](http://www.self-compassion.org/) - Site of Dr. Kristin Neff, focused on "a healthier way of relating to yourself," includes scholarly research and exercises for how to increase self-compassion.
+[Self-Compassion](http://www.self-compassion.org/) - Site of Dr. Kristin Neff, focused on 'a healthier way of relating to yourself,' includes scholarly research and exercises for how to increase self-compassion.
 
-[The Center for Mindful Eating](http://www.tcme.org/) - This is a "forum" for "professionals who wish to help their clients develop healthier relationships with food and eating, and to bring eating into balance with other important aspects of life." The resources on this site are helpful for non-professionals too.
+[The Center for Mindful Eating](http://www.tcme.org/) - This is a 'forum' for "professionals who wish to help their clients develop healthier relationships with food and eating, and to bring eating into balance with other important aspects of life." The resources on this site are helpful for non-professionals too.
