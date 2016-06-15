@@ -40,7 +40,7 @@ Those who know something about the brain, and perhaps are familiar with the work
 
 My *key circuitries* approach, while compatible with and complementary to those of Siegel and others, sheds unique light on brain-based experiences and processes that are fundamental to our suffering, healing and happiness.
 
-I hope that many people, including you, will find what I'm sharing to be enlightening and useful.
+I hope that many people, including you, will find what I share to be enlightening and useful.
 
 ## Fear Circuitry
 
