@@ -27,7 +27,7 @@ Most of the recommendations here are for materials specifically focused on the c
 
 Work by teachers and writers from Tibetan and other Buddhist traditions are recommended too, and a few key scholarly and research papers are listed and linked to as well.
 
-Finally, first I recommend books for everyone, then books specifically written for therapists.
+First, I recommend books for everyone, then books specifically written for therapists.
 
 ## Books
 
@@ -43,9 +43,9 @@ Finally, first I recommend books for everyone, then books specifically written f
 
 [Insight Meditation: The Practice of Freedom](http://www.amazon.com/dp/1590300165/ref=nosim/?tag=jimhoppercom-20/), by Joseph Goldstein
 
-[The Compassionate Mind: A New Approach to Life's Challenges](http://www.amazon.com/dp/1572248408/ref=nosim/?tag=jimhoppercom-20/), by Paul Gilbert
-
 [The Mindful Path to Self-Compassion: Freeing Yourself from Destructive Thoughts and Emotions](http://www.amazon.com/dp/1593859759/ref=nosim/?tag=jimhoppercom-20/), by Christopher Germer
+
+[he Compassionate Mind: A New Approach to Life's Challenges](http://www.amazon.com/dp/1572248408/ref=nosim/?tag=jimhoppercom-20/), by Paul Gilbert
 
 [Seeking the Heart of Wisdom: The Path of Insight Meditation](http://www.amazon.com/dp/157062805X/ref=nosim/?tag=jimhoppercom-20/), by Joseph Goldstein and Jack Kornfield
 
@@ -73,7 +73,7 @@ Finally, first I recommend books for everyone, then books specifically written f
 
 [Mindful Parenting: Meditations, Verses, and Visualizations for a More Joyful Life](http://www.amazon.com/dp/0977345505/ref=nosim/?tag=jimhoppercom-20/), by Scott Rogers
 
-As noted above, for some people, including those with histories of major hurt and betrayal in childhood, mindfulness practices will not be helpful until a foundation of self-regulation skills has been established (and before then could even increase suffering). The self-help books below are excellent, though professional help may be necessary too.
+As noted on [Cultivating Mindfulness](/mindfulness-and-meditation/cultivating-mindfulness/), for some people, including those with histories of major hurt and betrayal in childhood, mindfulness practices will not be helpful until a foundation of self-regulation skills has been established (and before then could even increase suffering). The self-help books below are excellent, though professional help may be necessary too.
 
 * [Growing Beyond Survival: A Self-Help Toolkit for Managing Traumatic Stress](http://www.amazon.com/dp/1886968098/ref=nosim/?tag=jimhoppercom-20/), by Elizabeth Vermilyea. This is particularly helpful if you struggle with dissociation.
 * [The PTSD Workbook: Simple, Effective Techniques for Overcoming Traumatic Stress Symptoms](http://www.amazon.com/dp/1572242825/ref=nosim/?tag=jimhoppercom-20/), by Mary Beth Williams and Soili Poijula
