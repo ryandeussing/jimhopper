@@ -34,7 +34,7 @@ I’ve written this page for a variety of people, including:
 
 Some will begin reading and find themselves thinking, "I can't see myself doing mindfulness meditation practices, so I might as well stop reading now and not bother coming back to this later."
 
-But simply reading this section (whether you try meditating or not) will introduce you to new, and potentially very transformative and healing ways of *thinking about*, *experiencing* and *responding to* your own emotional and other mental and brain processes. Just learning these concepts and perspectives (without ever meditating), has proved extremely helpful to many people, including those struggling with a great deal of emotional suffering. I can't guarantee that will happen for you, but I encourage you to take the time, at some point, to find out for yourself.
+But simply reading this page (whether you try meditating or not) will introduce you to new, and potentially very transformative and healing ways of *thinking about*, *experiencing* and *responding to* your own emotional and other mental and brain processes. Just learning these concepts and perspectives (without ever meditating), has proved extremely helpful to many people, including those struggling with a great deal of emotional suffering. I can't guarantee that will happen for you, but I encourage you to take the time, at some point, to find out for yourself.
 
 ## What Is Mindfulness?
 
@@ -143,7 +143,7 @@ In short, mindfulness can give rise to profound insight into the workings of our
 
 ## How Can I Cultivate Mindfulness?
 
-In this section, I first make a few comments about meditation and Buddhism, then provide instructions for a standard mindfulness of breathing meditation, discuss some key concepts, and address some common questions about the cultivation of mindfulness in daily life and relationships.
+First I will make a few comments about meditation and Buddhism, and then provide instructions for a standard mindfulness of breathing meditation, discuss some key concepts, and address some common questions about the cultivation of mindfulness in daily life and relationships.
 
 If you have never meditated, and maybe even if you have, you will have some questions about what meditation is. There are many different kinds of meditation, from many different traditions, including Christianity, Judaism, and Islam. If you want to learn about *mindfulness* meditation before trying the basic meditation practice below, read [What Meditation Isn't](http://www.vipassana.com/meditation/mindfulness_in_plain_english_4.php) and [What Meditation Is](http://www.vipassana.com/meditation/mindfulness_in_plain_english_5.php). The first addresses 11 common misconceptions about meditation, and the second explains mindfulness meditation of the Buddhist Vipassana tradition, including some basic Buddhist concepts. Both are chapters in a book that's free on the web, [Mindfulness in Plain English](http://www.vipassana.com/meditation/mindfulness_in_plain_english.php), by [Bhante Gunaratana](http://www.vipassana.com/meditation/mindfulness_in_plain_english_1.php), who has been teaching meditation and Buddhism to Americans, including college and graduate students, for many years.
 
@@ -283,7 +283,7 @@ Ultimately, each individual needs to discover, in her or his own life, that the 
 
 ## Caution: Mindfulness Requires Readiness
 
-For this section, a preliminary discussion of pain and suffering is necessary.
+First, a preliminary discussion of pain and suffering is necessary.
 
 Physical and emotional pain are inevitable parts of life. Our brains are designed to experience pain as a source of crucial information (e.g., this is harming me, I need to avoid doing that again, that part of my body needs care, etc.). While our brains are wired to avoid pain, the *function* of this avoidance is not to avoid pain itself, but rather to avoid *causes* of pain that are harmful to our well-being. And after harm has occurred, causes of pain are avoided because they can slow or prevent recovery from the harm that has already occurred.
 
