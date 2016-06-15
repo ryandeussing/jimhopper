@@ -54,7 +54,7 @@ Healing from the effects of abuse is a process that takes place in *stages*, and
 
 The first stage of healing and recovery, and any helpful therapy or counseling, is about:
 
-* Getting a "road map" of the healing process, including the possible stages and the most helpful approaches to memories at each stage.
+* Getting a 'road map' of the healing process, including the possible stages and the most helpful approaches to memories at each stage.
 * Establishing safety and stability in your body, your relationships, and the rest of your life.
 * Tapping into and developing your own inner strengths and all the resources potentially available to you.
 * Learning how to regulate your emotions and manage symptoms that make you feel unsafe or cause suffering.
