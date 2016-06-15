@@ -121,9 +121,9 @@ Also, some people may need to take medication for severe depression, anxiety, po
 
 [Wildmind](http://www.wildmind.org/) has mindfulness and lovingkindness [meditation guides](http://www.wildmind.org/meditation).
 
-## Book Plus Audio Disk Combinations
+## Book-Plus-Audio Combinations
 
-As mentioned above, for those who are very self-motivated and self-disciplined, there are self-study courses offered by two of the most respected teachers of mindfulness meditation in the West, Sharon Salzberg and Joseph Goldstein. If you do go this route, I encourage you also to seek out communities of other mindfulness meditators in your area, because the support of others on the path is extremely important.
+As mentioned above, for those who are very motivated and disciplined, there are self-study courses offered by two of the most respected teachers of mindfulness meditation in the West, Sharon Salzberg and Joseph Goldstein. If you do go this route, I encourage you also to seek out communities of other mindfulness meditators in your area, because the support of others on the path is extremely important.
 
 * [Insight Meditation: An In-Depth Correspondence Course](http://www.amazon.com/dp/1564554341/ref=nosim/?tag=jimhoppercom-20/) - includes an 88-page workbook and 18 hours of audiotaped instruction designed to help you establish and sustain a daily mindfulness meditation practice. There is also the option of receiving personalized instruction (via email) from an advanced meditation teacher.
 * [Insight Meditation: A Step-By-Step Course on How to Meditate](http://www.amazon.com/dp/1564559068/ref=nosim/?tag=jimhoppercom-20/) - smaller and less expensive, includes a 240-page Insight Meditation workbook, two 70-minute CDs and twelve study cards.
