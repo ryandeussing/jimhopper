@@ -23,7 +23,9 @@ Here I provide some cautionary information and advice for those of you who are h
 
 ## Caution: Recovering Your Memories?
 
-You may be reading this section of my website to gain better understanding of your own memories, or lack of memories of (suspected) sexual or physical abuse in childhood. Or you may have questions about whether remembering child abuse experiences can improve your life. If so, please take the time to read this entire section. At its end I suggest a book with <u>effective tools</u> for managing painful and unpredictable memories, and link to more information on the stages of recovery and how to find professional help.
+You may be reading this section of my website to gain better understanding of your own memories, or lack of memories of (suspected) sexual or physical abuse in childhood. Or you may have questions about whether remembering child abuse experiences can improve your life. If so, please take the time to read this entire section.
+
+At the end I suggest a book with *effective tools* for managing painful and unpredictable memories, and link to more information on the stages of recovery and how to find professional help.
 
 People who visit my website sometimes have questions like these:
 
