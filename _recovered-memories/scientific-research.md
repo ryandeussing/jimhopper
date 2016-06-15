@@ -235,17 +235,17 @@ Williams found that for the documented incidents of sexual abuse that had occurr
 
 The group of three articles listed below provide you with a unique opportunity to witness leading scholars and researchers debate over amnesia for child abuse experiences – and to evaluate the research and arguments for yourself. The first is Williams' report of the study. The second is a critique of this study by Elizabeth Loftus (who has declared and argued that repressed memory is a 'myth') and two of her colleagues. The third is Williams' response.
 
-Williams, L. M. (1994). Recall of childhood trauma: A prospective study of women's memories of child sexual abuse. *Journal of Consulting and Clinical Psychology, 62,* 1167-1176.
+Williams, L. M. (1994). [Recall of childhood trauma: A prospective study of women's memories of child sexual abuse](/pdf/Williams_(1994)_Recall_of_childhood_trauma.pdf). *Journal of Consulting and Clinical Psychology, 62,* 1167-1176.
 
-Loftus, Elizabeth E. F., Garry, M., & Feldman, J. (1994). Forgetting sexual trauma: What does it mean when 38% forget. *Journal of Consulting and Clinical Psychology, 62,* 1177-1181.
+Loftus, Elizabeth E. F., Garry, M., & Feldman, J. (1994). [Forgetting sexual trauma: What does it mean when 38% forget](/pdf/Loftus_et _al_(1994)_Forgetting_sexual_trauma.pdf). *Journal of Consulting and Clinical Psychology, 62,* 1177-1181.
 
-Williams, L. M. (1994). What does it mean to forget child sexual abuse: A Reply to Loftus, Garry, and Feldman. *Journal of Consulting and Clinical Psychology, 62,* 1182-1186.
+Williams, L. M. (1994). [What does it mean to forget child sexual abuse: A Reply to Loftus, Garry, and Feldman](/pdf/Williams_(1994)_What_does_it_mean_to_forget.pdf). *Journal of Consulting and Clinical Psychology, 62,* 1182-1186.
 
 **Study 2**
 
 This study is the second from Williams' research interviews with 129 women, 17 years after they were sexually abused and evaluated in a hospital emergency room. This paper reports the most important research to date on recovered memories of child sexual abuse, and is essential reading for anyone who wishes to evaluate the highest quality evidence currently available. The relatively young Journal of Traumatic Stress may not be easy to find, but it is highly respected in the field of psychological trauma studies. (This article is from a special issue of the journal, which is presented elsewhere on this page, as is ordering information.)
 
-**Williams, L. M. (1995). Recovered memories of abuse in women with documented child sexual victimization histories. *Journal of Traumatic Stress, 8,* 649-673.**
+**Williams, L. M. (1995). [Recovered memories of abuse in women with documented child sexual victimization histories](/pdf/Williams1995.pdf). *Journal of Traumatic Stress, 8,* 649-673.**
 
 Abstract: "This study provides evidence that some adults who claim to have recovered memories of sexual abuse recall actual events that occurred in childhood. One hundred twenty-nine women with documented histories of sexual victimization in childhood were interviewed and asked about abuse history. Seventeen years following the initial report of the abuse, 80 of the women recalled the victimization. One in 10 women (16% of those who recalled the abuse) reported that at some time in the past they had forgotten about the abuse. Those with a prior period of forgetting – the women with 'recovered memories' – were younger at the time of abuse and were less likely to have received support from their mothers than the women who reported that they had always remembered their victimization. The women who had recovered memories and those who had always remembered had the same number of discrepancies when their accounts of the abuse were compared to the reports from the early 1970's."
 
