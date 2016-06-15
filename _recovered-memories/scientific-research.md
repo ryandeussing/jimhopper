@@ -489,7 +489,7 @@ Here are excerpts from the *New York Times Book Review*:
 
 "She has a complex enough case to argue; she argues it fairly and with virtuoso skill, blending vivid anecdote with statistical evidence, first-person accounts with research reports, in a highly literate and engaging style. Partisan passions, alas, are seldom quenched by reason. But unblinkered readers will surely agree that Ms. Freyd's book places recovered memories squarely on the cognitive-science agenda. Her diagnosis of their source may well turn out to be correct." - Derek Bickerton, *New York Times Book Review*
 
-**Freyd, J. (1994). Betrayal trauma: Traumatic amnesia as an adaptive response to childhood abuse. *Ethics & Behavior, 4,* 307-329.**
+**Freyd, J. (1994). [Betrayal trauma: Traumatic amnesia as an adaptive response to childhood abuse](http://dynamic.uoregon.edu/jjf/articles/freyd94.pdf). *Ethics & Behavior, 4,* 307-329.**
 
 Abstract: "Betrayal trauma theory suggests that psychogenic amnesia is an adaptive response to childhood abuse. When a parent or other powerful figure violates a fundamental ethic of human relationships, victims may need to remain unaware of the trauma not to reduce suffering but rather to promote survival. Amnesia enables the child to maintain an attachment with a figure vital to survival, development, and thriving. Analysis of evolutionary pressures, mental modules, social cognitions, and developmental needs suggests that the degree to which the most fundamental human ethics are violated can influence the nature, form, and process of trauma and responses to the trauma."
 
