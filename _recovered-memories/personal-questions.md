@@ -46,7 +46,7 @@ It is more helpful, however, to step back and look at the bigger picture, includ
 
 These are extremely important questions. They go to the heart of who you are, your deepest hopes, and your current struggles. There are no right or wrong answers. The point is that, first, you need to better understand your current problems and clarify what you want to achieve for yourself and your life. This must come before learning about whether recovering memories might be helpful.
 
-Who knows, maybe recovering memories could help you. But this is *not* the key to healing the effects of child abuse and having a better life, and what you hope to gain by recovering memories is usually better achieved in <u>other</u> ways.
+Who knows, maybe recovering memories could help you. But this is *not* the key to healing the effects of child abuse and having a better life, and what you hope to gain by recovering memories is usually better achieved in *other* ways.
 
 Remembering how you got through painful experiences, with whatever strengths and resources you had at the time, is usually much more helpful than remembering details of abuse. This is understood by the experts on these issues, and by any therapist qualified to help people heal from painful childhoods.
 
