@@ -157,7 +157,7 @@ As with meditation, unless you have seriously studied Buddhism, you are likely t
 
 ### A Mindfulness of Breathing Practice
 
-<u>Important</u>: If you have a tendency to become overwhelmed by anxiety, painful feelings or memories when you are not "keeping busy" or otherwise distracted from such experiences, the practice below could result in becoming overwhelmed. In that case, before trying the practice, please read the section below, Caution: Mindfulness Includes Pain, and Requires Readiness. At a minimum, be prepared to stop at any time and do something you can rely on to calm you down.
+<u>Important</u>: If you have a tendency to become overwhelmed by anxiety, painful feelings or memories when you are not "keeping busy" or otherwise distracted from such experiences, the practice below could result in becoming overwhelmed. In that case, before trying the practice, please read the section below, [Caution: Mindfulness Requires Readiness](#caution-mindfulness-requires-readiness). At a minimum, be prepared to stop at any time and do something you can rely on to calm you down.
 
 1. Sit comfortably with your spine straight, in a relaxed way, on a straight-backed chair or cushion on the floor. It is important that your spine is straight and your body relaxed, to promote mental alertness and clarity. Sitting this way may be a new experience, and you may need to experiment a bit. (If you feel that you need more detailed instructions on posture, see [What To Do With Your Body](http://www.vipassana.com/meditation/mindfulness_in_plain_english_8.php), a brief chapter in Mindfulness in Plain English.)
 2. Establish a proper motivation before beginning the practice. For example, you might affirm the intention to simply use your breath as an anchor for being mindfully aware of your experience in each moment, with a sincere desire to learn something new, with an attitude of open-minded curiosity.
@@ -166,7 +166,7 @@ As with meditation, unless you have seriously studied Buddhism, you are likely t
 5. Consciously and deliberately take a few deep breaths, but do not strain. The idea is to emphasize the movement and sensations, to clarify what you are attending to.
 6. Now allow the breath to find its own natural rhythm. Allow the body to breath on its own, without attempting to change it in any way. Shallow or deep, fast or slow, it's OK. Allow the inhalations and exhalations to come and go, just noticing the sensations of your flowing breath at the tip of your nostrils or in your abdomen. You may notice the slight pauses between each in-breath and out-breath
 7. Gently and without wavering, allow your attention to rest or float on the changing rhythms of your in-breaths and out-breaths. Whenever your attention wanders or loses its alertness – and it often will – gently but firmly bring your awareness back to the breath, and observe with fresh curiosity the sensations as they arise and pass away. It is totally natural for your mind to wander, and nothing to be concerned about. Again, when you notice that you mind has wandered, gently and firmly bring it back to the breath with fresh curiosity and alertness. If you find yourself judging yourself when you discover that your mind has wandered, instead briefly congratulate yourself for making the discovery – then go gently and firmly back to your breath…
-8. Continue with this practice for 15-20 minutes, or just 10 minutes or less if that feels like enough for the first time. During this time, sometimes when you find that your attention has wandered, you might remind yourself of your intention: simply to use your breath as an anchor for being mindfully aware of your experience in each moment. If at any time you find yourself becoming not just perturbed but overwhelmed by feelings or memories, immediately stop and do something (healthy) that you would normally do to cope with these experiences. Then read the section below, Caution: Mindfulness Includes Pain, and Requires Readiness.
+8. Continue with this practice for 15-20 minutes, or just 10 minutes or less if that feels like enough for the first time. During this time, sometimes when you find that your attention has wandered, you might remind yourself of your intention: simply to use your breath as an anchor for being mindfully aware of your experience in each moment. If at any time you find yourself becoming not just perturbed but overwhelmed by feelings or memories, immediately stop and do something (healthy) that you would normally do to cope with these experiences. Then read the section below, [Caution: Mindfulness Requires Readiness](#caution-mindfulness-requires-readiness).
 
 
 ### From Meditating to Its Benefits
@@ -283,7 +283,7 @@ Ultimately, each individual needs to discover, in her or his own life, that the 
 
 ## Caution: Mindfulness Requires Readiness
 
-First, a preliminary discussion of pain and suffering is necessary.
+First, a preliminary discussion of pain and suffering is necessary, because mindfulness includes direct awareness of pain and suffering.
 
 Physical and emotional pain are inevitable parts of life. Our brains are designed to experience pain as a source of crucial information (e.g., this is harming me, I need to avoid doing that again, that part of my body needs care, etc.). While our brains are wired to avoid pain, the *function* of this avoidance is not to avoid pain itself, but rather to avoid *causes* of pain that are harmful to our well-being. And after harm has occurred, causes of pain are avoided because they can slow or prevent recovery from the harm that has already occurred.
 
@@ -352,7 +352,7 @@ I recommend that you do a little research: start with the resources below, then 
 
 1. There is no substitute for actual mindfulness practice (especially in a daily, disciplined way).
 2. To maintain a regular practice, most people will need regular contact with a meditation teacher and/or supportive group or community.
-3. You may need to learn some emotion-regulation and other skills first, so if you haven't yet, be sure to read "Caution: Mindfulness Requires Readiness" (above).
+3. You may need to learn some emotion-regulation and other skills first, so if you haven't yet, be sure to read [Caution: Mindfulness Requires Readiness](#caution-mindfulness-requires-readiness)&nbsp;(above).
 
 
 Here are four free or inexpensive options for getting started on your own. Please don't be discouraged, though, if you find that going it alone isn't working for you.
