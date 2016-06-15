@@ -70,7 +70,7 @@ There are many good and some great books on recovered memories of sexual abuse i
 
 *[Recovered Memories of Abuse: Assessment, Therapy, Forensics](http://www.amazon.com/dp/155798395X/ref=nosim/?tag=jimhoppercom-20),*by Kenneth Pope & Laura Brown. Washington, DC: American Psychological Association, 1996. This highly acclaimed book is an excellent practical resource for therapists, lawyers, and expert witnesses.
 
-#### Three examples of the praise this book has received:
+Three examples of the praise this book has received:
 
 #### Pope and Brown have presented a careful review of memory science that both appreciates complexity and cautions against overgeneralization. . . . The book presents very pragmatic guidelines for clinicians that serve to improve the standard of care and decrease liability risk. . . . This is a very sane, ethical, and compassionate approach to a very controversial and often irrational debate. <cite>Daniel Brown, Ph.D., ABPH, Harvard Medical School</cite>
 
