@@ -28,13 +28,13 @@ on this page
 
 On this page I share a framework for understanding human suffering, healing and happiness in terms cycles of suffering and cycles of healing (and happiness) that entail particular relationships among key brain circuitries.
 
-By “cycle” I mean a set of experiences and actions that unfold repeatedly, in the same order, and typically in a self-perpetuating way. This will become very clear below.
+By 'cycle' I mean a set of experiences and actions that unfold repeatedly, in the same order, and typically in a self-perpetuating way. This will become very clear below.
 
 I introduce and explain this framework in three steps. First, what I call fundamental 'cycles of suffering,' which involve relationships among key brain circuitries, are explained and briefly illustrated with examples. Second, I explain and illustrate what I call fundamental 'cycles of healing and happiness,' and roles of the [key brain circuitries](/the-brain/key-brain-circuitries/) in those cycles.
 
 Third, I explain how the seeking, satisfaction and embodiment circuitries can be harnessed by contemplative practices – especially those that cultivate mindfulness, love, kindness and compassion – to transform suffering and bring genuine happiness.
 
-This "circuitries and cycles" framework can be used to increase our understanding of all kinds of human suffering, including depression, anxiety, post-traumatic stress, addictions and various problems with regulating emotions and impulses.
+This 'circuitries and cycles' framework can be used to increase our understanding of all kinds of human suffering, including depression, anxiety, post-traumatic stress, addictions and various problems with regulating emotions and impulses.
 
 It can also be used to understand potential pathways to healing, including how therapy and contemplative practices can harness key brain circuitries to bring healing, freedom and happiness.
 
@@ -52,7 +52,7 @@ What makes cycles of suffering self-perpetuating? The brain's seeking circuitry 
 
 Cycles of suffering are caused (and partly constituted by) seeking escapes that only perpetuate suffering. Cycles of suffering are often cycles of addiction (defined broadly to include all habitual behaviors used repeatedly to seek escape from suffering, including habitual mental behaviors like obsessing and ruminating).
 
-All of these cycles of suffering – however addictive or harmful – are about the pursuit of quick fixes that bring no more satisfaction or “reward” than this: brief and partial escape from an unwanted experience.
+All of these cycles of suffering – however addictive or harmful – are about the pursuit of quick fixes that bring no more satisfaction or 'reward' than this: brief and partial escape from an unwanted experience.
 
 Different cycles of suffering involve distinct unhealthy relationships among the circuitries of fear, seeking, satisfaction and embodiment. And there are two very common cycles of suffering, one revolving around fear and anxiety, and the other around depression, defeat and demoralization.
 
@@ -66,7 +66,7 @@ When the escape ends the suffering from which we were seeking escape returns. An
 
 In this suffering cycle the embodiment circuitry is occupied with sensations of fear and anxiety, and with sensations of craving for escapes from sensations of fear, anxiety, and craving.
 
-There’s little activation of the satisfaction circuitry anywhere in the cycle, with the possible exception of briefly while experiencing escape (e.g., intoxication, sexual pleasure, the brief "power high" an angry outburst can give).
+There’s little activation of the satisfaction circuitry anywhere in the cycle, with the possible exception of briefly while experiencing escape (e.g., intoxication, sexual pleasure, the brief 'power high' an angry outburst can give).
 
 ![](/uploads/versions/brain_cycles_revised---x0-19-819-617-386-291x---.png)
 
@@ -122,7 +122,7 @@ Or someone may seek to understand the roots of his addictive behavior, and seek 
 
 However we engage in this cycle, it is critical that our process engages the embodiment circuitry, which registers and allows awareness of our suffering. It is difficult, if not impossible, for us to know, understand or transform our pain and suffering without experiencing *how they feel in our bodies*.
 
-For some people, especially traumatized people, attending to bodily aspects of suffering can be very difficult and “triggering.” They will need extra patience and support, and probably some specifically body-focused approaches (e.g., trauma-sensitive yoga).
+For some people, especially traumatized people, attending to bodily aspects of suffering can be very difficult and 'triggering.' They will need extra patience and support, and probably some specifically body-focused approaches (e.g., trauma-sensitive yoga).
 
 For everyone this healing cycle requires strong motivation, because it can be quite unpleasant to engage with our suffering, which we typically attempt to avoid.
 
@@ -142,7 +142,7 @@ And as addressed next, we can free up our brain's seeking circuitry to pursue mu
 
 Fortunately, healing isn't all about seeking to deal more effectively with pain and suffering. If that’s all we ever focus on – or all the people we've enlisted to help us focus on – the work healing is not so appealing, and definitely not inspiring, for anyone involved.
 
-In the second fundamental healing cycle, *seeking true goods*, we are harnessing our brain's seeking circuitry – that always-active and powerful driver of our thoughts and behaviors – to seeking out the truly “good things in life.”
+In the second fundamental healing cycle, *seeking true goods*, we are harnessing our brain's seeking circuitry – that always-active and powerful driver of our thoughts and behaviors – to seeking out the truly 'good things in life.'
 
 These true goods include love, playfulness, and joy. In this healing cycle one seeks and experiences the kind of happiness and satisfaction that come from being a good friend, a good spouse or partner, a good parent, good at our job or a genuine contributor to our community.
 
@@ -160,7 +160,7 @@ Also, the more we activate our brain’s satisfaction circuitry as a result of s
 
 ![](/uploads/versions/brain_cycles_revised4---x0-6-835-644-363-280x---.png)
 
-In this cycle, (A) the seeking circuitry is focused on wanting and pursuing (B) what is genuinely satisfying and fulfilling. This leads to (C) more experiences of genuine satisfaction, fulfillment and happiness, including the bodily aspects of such experiences as registered by the embodiment circuitry. This in turn increases motivation to seek and enjoy more true goods (rather than quick fixes and other “false goods” that perpetuate suffering), which decreases fear circuitry activation (see text) and suffering in general.
+In this cycle, (A) the seeking circuitry is focused on wanting and pursuing (B) what is genuinely satisfying and fulfilling. This leads to (C) more experiences of genuine satisfaction, fulfillment and happiness, including the bodily aspects of such experiences as registered by the embodiment circuitry. This in turn increases motivation to seek and enjoy more true goods (rather than quick fixes and other 'false goods' that perpetuate suffering), which decreases fear circuitry activation (see text) and suffering in general.
 
 ## Contemplative Practices for Seeking to Engage and Transform Suffering
 
@@ -202,17 +202,17 @@ And we can choose: *What shall I seek*? *What should I seek as my highest priori
 
 We can also contemplate and choose our answers to these questions: What *really* makes me happy? What is my *motivation* for doing (or thinking or saying or writing) this? These questions and choices are at the heart of contemplative practices and how we put them into practice in our lives.
 
-What should we seek? Religious and spiritual leaders have long sought (whether wisely or in confusion themselves) to help people seek transcendent “true goods” – obedience to God’s law, surrender to God’s will; an intimate relationship with God or Jesus; loving others, even our “enemies,” as we love ourselves; forever striving to free all beings from suffering.
+What should we seek? Religious and spiritual leaders have long sought (whether wisely or in confusion themselves) to help people seek transcendent 'true goods' – obedience to God’s law, surrender to God’s will; an intimate relationship with God or Jesus; loving others, even our 'enemies,' as we love ourselves; forever striving to free all beings from suffering.
 
-Profit-seeking companies, politicians, and advertisers bombard us with sights, sounds and words designed to harness our seeking circuitry to the (perceived) benefits they seek for themselves. The *Declaration of Independence* declares it a “self-evident” truth that we are endowed by our creator with unalienable rights, not only to life and liberty, but “the pursuit of happiness.”
+Profit-seeking companies, politicians, and advertisers bombard us with sights, sounds and words designed to harness our seeking circuitry to the (perceived) benefits they seek for themselves. The *Declaration of Independence* declares it a 'self-evident' truth that we are endowed by our creator with unalienable rights, not only to life and liberty, but 'the pursuit of happiness.'
 
 In short, the brain’s seeking circuitry is central to human existence.
 
 Yet around the world – not only in popular cultures but within neuroscience, psychology and psychiatry – the seeking circuitry has been largely unknown, unappreciated, and misunderstood.
 
-So far, aside from addiction research, the brain’s seeking circuitry has been largely unrecognized and overlooked. (And among addiction researchers, their remains confusion about the "reward circuitiry," of which the seeking circuitry is a key but often inadequately understood component.) Similarly, the recent focus on mindfulness and other contemplative methods in psychology has involved little consideration of the seeking circuitry. (There are good reasons for this, including lack of knowledge of this critical aspect of brain function; a focus, shared with medicine, on treating illness and reducing suffering rather than promoting health and happiness; and fears of venturing into realms of morality, religion and spirituality.)
+So far, aside from addiction research, the brain’s seeking circuitry has been largely unrecognized and overlooked. (And among addiction researchers, their remains confusion about the 'reward circuitiry,' of which the seeking circuitry is a key but often inadequately understood component.) Similarly, the recent focus on mindfulness and other contemplative methods in psychology has involved little consideration of the seeking circuitry. (There are good reasons for this, including lack of knowledge of this critical aspect of brain function; a focus, shared with medicine, on treating illness and reducing suffering rather than promoting health and happiness; and fears of venturing into realms of morality, religion and spirituality.)
 
-Indeed, discussions of mindfulness often include cautions about the danger of seeking any result, and the concern that doing so is incompatible with mindfulness. Certainly seeking results can be an obstacle to mindfulness and the unsought and unexpected insights and transformations that it can bring. But as stated in the "Second Noble Truth" of Buddhism, the problem is *craving conditioned by ignorance* – not seeking itself, which need not involve craving and is inseparable from normative brain function, healthy living, and embodied life itself.
+Indeed, discussions of mindfulness often include cautions about the danger of seeking any result, and the concern that doing so is incompatible with mindfulness. Certainly seeking results can be an obstacle to mindfulness and the unsought and unexpected insights and transformations that it can bring. But as stated in the 'Second Noble Truth' of Buddhism, the problem is *craving conditioned by ignorance* – not seeking itself, which need not involve craving and is inseparable from normative brain function, healthy living, and embodied life itself.
 
 Furthermore, as Purser and Loy (2013) have observed, “Buddhists differentiate between Right Mindfulness (*samma sati*) and Wrong Mindfulness (*miccha sati*),” and this distinction addresses “whether the quality of awareness is characterized by wholesome intentions and positive mental qualities that lead to human flourishing and optimal well-being for others as well as oneself.” In short, Right Mindfulness entails seeking true goods for oneself and others (not just nonjudgmental awareness of present experience and any benefits that brings, although those are considerable).
 
@@ -222,9 +222,11 @@ The meditation teacher and therapist Tara Brach has movingly written of an exper
 
 Similarly, in a recent interview, the widely respected Buddhist teacher, author, and peace activist Thich Nhat Hanh recalled this formative experience when he was seven or eight years old:
 
-> “One day I saw a picture of the Buddha… [H]e was sitting on the grass very peaceful, smiling, and I was impressed. Around me people were not like that, so I had the desire to be someone like him. And I nourished that kind of desire until the age of 16, when I had the permission from my parents to go and ordain as a Buddhist monk…. We call it the beginner’s mind: *The deep intention, the deepest desire that one person may have*. And I can say that since that time, until this day, this beginner’s mind is still alive in me” (interview with Oprah Winfrey, 2012, emphasis in spoken words).Similarly, the Dalai Lama is clearly a driven man, as well as an accepting one. Despite many obstacles, he *continually seeks* to be a vehicle of compassion, to serve Tibetans as their spiritual and political leader, and to serve humanity, including by helping to foster integrations of neuroscience with contemplative practices and insights. Yes, seeking can cause problems – when it becomes craving, grasping, clinging and attachment to passing things that cannot bring genuine happiness. But seeking can be focused on true goods that, when experienced but not clung to, bring genuine happiness and *reduce* craving and attachment.
+> “One day I saw a picture of the Buddha… [H]e was sitting on the grass very peaceful, smiling, and I was impressed. Around me people were not like that, so I had the desire to be someone like him. And I nourished that kind of desire until the age of 16, when I had the permission from my parents to go and ordain as a Buddhist monk…. We call it the beginner’s mind: *The deep intention, the deepest desire that one person may have*. And I can say that since that time, until this day, this beginner’s mind is still alive in me” (interview with Oprah Winfrey, 2012, emphasis in spoken words).
 
-While "mindfulness" and Buddhism have recently become popular, even trendy, sages of the great philosophical and religious traditions of the West have always recognized the centrality of seeking in human life – and that where we focus our seeking is the key to happiness and goodness. Those Western traditions, including Christianity, have always had spiritual teachers who understood that harnessing one's seeking to the pursuit of true goods is a key, perhaps the key, to spiritual transformation and "the good life."
+Similarly, the Dalai Lama is clearly a driven man, as well as an accepting one. Despite many obstacles, he *continually seeks* to be a vehicle of compassion, to serve Tibetans as their spiritual and political leader, and to serve humanity, including by helping to foster integrations of neuroscience with contemplative practices and insights. Yes, seeking can cause problems – when it becomes craving, grasping, clinging and attachment to passing things that cannot bring genuine happiness. But seeking can be focused on true goods that, when experienced but not clung to, bring genuine happiness and *reduce* craving and attachment.
+
+While 'mindfulness' and Buddhism have recently become popular, even trendy, sages of the great philosophical and religious traditions of the West have always recognized the centrality of seeking in human life – and that where we focus our seeking is the key to happiness and goodness. Those Western traditions, including Christianity, have always had spiritual teachers who understood that harnessing one's seeking to the pursuit of true goods is a key, perhaps the key, to spiritual transformation and 'the good life.'
 
 In Boethius' 6th century masterpiece, [The Consolation of Philosophy](https://en.wikipedia.org/wiki/The_Consolation_of_Philosophy), one of the most influential books ever written in the (Christian) West, he repeatedly pointed out that nothing is more important than discovering and seeking what is truly good. He observed, "A desire for true good is planted by nature in human minds. Only error leads them astray towards false goods." He also wrote, "In spite of a clouded memory, the mind seeks its own good, though like a drunkard it cannot find the path home."
 
@@ -264,13 +266,13 @@ The benefits of cultivating love, kindness and compassion toward ourselves and o
 
 As with mindfulness, however, things can be more complex. Given the neglect, losses, abuses and betrayals that many people have experienced in their lives, feelings of love, kindness and compassion can trigger fear. This is normal, and there are many ways that people can be helped to gently and safely explore, understand and overcome these obstacles to receiving, cultivating and giving love, kindness and compassion.
 
-Other “true goods.” There is a good case, made by many for millennia, that *love* – which we can experience and express in many ways – is the greatest good and the greatest source of genuine human happiness.
+Other 'true goods.' There is a good case, made by many for millennia, that *love* – which we can experience and express in many ways – is the greatest good and the greatest source of genuine human happiness.
 
-But most of us agree there are other (if lesser) “true goods” too. Other experiences and goals that are most worthy of seeking and most likely to bring genuine happiness.
+But most of us agree there are other (if lesser) 'true goods' too. Other experiences and goals that are most worthy of seeking and most likely to bring genuine happiness.
 
 Depending on our personality, our cultural and religious background and several other factors, we may highly value and seek various things along a continuum from false to true goods (e.g., power, money, technology toys, entertainment, sexual stimulation, physical health, beauty, creativity, knowledge, courage, generosity, connection with nature, playfulness, achievement, contributing to others through our work).
 
-The world’s religious and spiritual traditions supremely value wisdom, which includes liberation from ignorance and, to use a central Buddhist conception, “seeing things as they really are” – not as we fear or want them to be.
+The world’s religious and spiritual traditions supremely value wisdom, which includes liberation from ignorance and, to use a central Buddhist conception, 'seeing things as they really are' – not as we fear or want them to be.
 
 Such wisdom entails accurately perceiving and knowing oneself, per the ancient Delphic maxim.
 
@@ -298,14 +300,14 @@ Here are some exercises and handouts that foster greater experiential understand
 
 ## Additional Notes
 
-Buddhist psychology and meditation practice are important sources of the framework presented here. Particularly influential are their focuses on fear/aversion and seeking/craving, which, along with ignorance, are known in Buddhist psychology as the “three poisons" or three root causes of suffering.
+Buddhist psychology and meditation practice are important sources of the framework presented here. Particularly influential are their focuses on fear/aversion and seeking/craving, which, along with ignorance, are known in Buddhist psychology as the 'three poisons' or three root causes of suffering.
 
 As meditation masters teach, the concentration that arises from concentration meditation is a precondition of mindfulness. Without a foundation of concentration, mindfulness is impossible because attention is swept away by thoughts, emotions, and images that revolve around wants and fears.
 
-Importantly, effective meditative concentration requires both (1) quieting the fear circuitry and (2) adjusting activity of the seeking circuitry to the optimal amount required to sustain meditative focus (neither too little nor too much intensity of seeking), as indicated by the Tibetan term for the concentration practice of *shamatha,* which means “calm abiding” ([Wallace, 1998](http://www.amazon.com/Bridge-Quiescence-Experiencing-Buddhist-Meditation/dp/0812693612/ref=nosim/?tag=jimhoppercom-20/)).
+Importantly, effective meditative concentration requires both (1) quieting the fear circuitry and (2) adjusting activity of the seeking circuitry to the optimal amount required to sustain meditative focus (neither too little nor too much intensity of seeking), as indicated by the Tibetan term for the concentration practice of *shamatha,* which means 'calm abiding' ([Wallace, 1998](http://www.amazon.com/Bridge-Quiescence-Experiencing-Buddhist-Meditation/dp/0812693612/ref=nosim/?tag=jimhoppercom-20/)).
 
 Similarly, in the Buddhist tradition mindfulness itself is a precondition for something more transformative than present-focused awareness, stress-reduction and the other benefits for which it is now promoted. That is, mindfulness can be a foundation for liberating insight or *vipassana*, which includes directly observing how aversion, seeking, and habitual relationships between them – which can otherwise unfold outside of awareness, in just fractions of a second – are causing suffering for oneself and others.
 
-Buddhist psychology and meditation practice, along with Western contemplative traditions, are also sources of my focus on harnessing the brain's seeking circuitry to the pursuit of what is truly good and satisfying. Specifically, in Mahayana Buddhism the greatest motivation, said to be an expression of *bodhicitta* or “mind of enlightenment”, is the loving and compassionate motivation to seek enlightenment for the benefit of all beings, so one can help them to achieve liberation from suffering and genuine happiness.
+Buddhist psychology and meditation practice, along with Western contemplative traditions, are also sources of my focus on harnessing the brain's seeking circuitry to the pursuit of what is truly good and satisfying. Specifically, in Mahayana Buddhism the greatest motivation, said to be an expression of *bodhicitta* or 'mind of enlightenment,' is the loving and compassionate motivation to seek enlightenment for the benefit of all beings, so one can help them to achieve liberation from suffering and genuine happiness.
 
 Finally, according to Vajrayana or tantric Buddhism (the Dalai Lama’s tradition), as explained in the classic *Introduction to Tantra: The Transformation of Desire,* “it is only through the skillful use of desirous energy [in biological terms, the seeking circuitry] and by building up the habit of experiencing what we might call true pleasure [biologically based in the satisfaction circuitry] that we can hope to achieve the everlasting bliss and joy of full illumination” ([Yeshe, 2001](http://www.amazon.com/Introduction-Tantra-Lama-Thubten-Yeshe/dp/1614291551/ref=nosim/?tag=jimhoppercom-20/), p.10).
