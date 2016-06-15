@@ -17,9 +17,9 @@ This page is for people with personal questions and concerns about their own mem
 
 First, I want to reassure you that whatever you're experiencing and struggling with is probably totally normal, and understandable (including by you, with some help).
 
-With the goal of understanding in mind, I recommend that you read the *Introduction to Traumatic Memories* on the main page of this section on *Recovered Memories*. There I provide some essential information on the complexity of human memory and the different types of memory involved in the brain's encoding, storage and recall of traumatic experiences (like childhood sexual abuse) and other life events. Without that basic knowledge, it's easy to be confused and misled by limited or bad information in the media or on the internet.
+With the goal of understanding in mind, I recommend that you read [Introduction to Traumatic Memories](http://green-cornet.cloudvent.net/child-abuse/recovered-memories/#introduction-to-traumatic-memories) on main Recovered Memories page. There I provide some essential information on the complexity of human memory and the different types of memory involved in the brain's encoding, storage and recall of traumatic experiences (like childhood sexual abuse) and other life events. Without that basic knowledge, it's easy to be confused and misled by limited or bad information in the media or on the internet.
 
-On this page I provide some cautionary information and advice for those of you who are hoping or seeking to recall memories that are not (currently) available to you.
+Here I provide some cautionary information and advice for those of you who are hoping or seeking to recall memories that are not (currently) available to you.
 
 ## Caution: Recovering Your Memories?
 
