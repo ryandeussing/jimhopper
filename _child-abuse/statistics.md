@@ -361,7 +361,7 @@ This section is for those who want to understand how different research methods 
 
 This discusses in-depth the research up to 1996, when I conducted a comprehensive review for my masters thesis (after that I became focused on all kinds of abuse and assault, how they can affect men and women, and how best to help them receive therapeutic and legal help and to heal from their traumas).
 
-For the most authoritative evidence supporting the 1 in 6 prevalence estimate, read the study of 17,000 California residents, [Long-term consequences of childhood sexual abuse by gender of victim](/pdfs/Dube_(2005)_Childhood_sexual_abuse_by_gender_of_victim.pdf), published in 2005 by Shanta Dube and colleagues in the American Journal of Preventive Medicine.
+For the most authoritative evidence supporting the 1 in 6 prevalence estimate, read the study of 17,000 California residents, [Long-term consequences of childhood sexual abuse by gender of victim](/pdf/Dube_(2005)_Childhood_sexual_abuse_by_gender_of_victim.pdf), published in 2005 by Shanta Dube and colleagues in the American Journal of Preventive Medicine.
 
 Please note: The [Additional Resources](/child-abuse/sexual-abuse-of-boys/additional-resources/) page under [Sexual Abuse of Boys](/child-abuse/sexual-abuse-of-boys/)&nbsp;contains a list of references to all the articles and books cited in this section, along with others addressing potential lasting effects of child sexual abuse in men.
 
