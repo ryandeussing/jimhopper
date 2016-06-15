@@ -36,9 +36,9 @@ I focus on these particular circuitries for a few important reasons. First, unli
 
 For those who want the scientific research backing up my teachings on these circuitries, one place to start is a [book chapter of mine](/pdf/Hopper_2015_Harnessing_the_Seeking_Satisfaction_and_Embodiment_Circuitries.pdf) that has citations to key research and a full references section. (However, those citations are not comprehensive and more research is continually being published.)
 
-Those who know something about the brain, and perhaps are familiar with the popular and important work of Daniel Siegel, on interpersonal neurobiology and its applications, will see that I don't organize things according to the "triune" model of brain stem, "limbic system" and prefrontal cortex. There are other differences in my approach as well.
+Those who know something about the brain, and perhaps are familiar with the work of Daniel Siegel on interpersonal neurobiology, will see that I don't organize things according to the 'triune' model of brain stem, 'limbic system' and prefrontal cortex. There are other differences in my approach as well.
 
-My *key circuitries* approach, while compatible with and complementary to those of Siegel and others, sheds unique light on brain-based experiences and processes that are fundamental to our suffering and happiness.
+My *key circuitries* approach, while compatible with and complementary to those of Siegel and others, sheds unique light on brain-based experiences and processes that are fundamental to our suffering, healing and happiness.
 
 I hope that many people, including you, will find what I'm sharing to be enlightening and useful.
 
