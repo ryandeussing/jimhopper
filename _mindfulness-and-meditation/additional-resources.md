@@ -81,9 +81,11 @@ As noted on [Cultivating Mindfulness](/mindfulness-and-meditation/cultivating-mi
 * [Waking the Tiger: Healing Trauma](http://www.amazon.com/dp/155643233X/ref=nosim/?tag=jimhoppercom-20/), by Peter Levine (and his [Healing Trauma](http://www.amazon.com/dp/1564556948/ref=nosim/?tag=jimhoppercom-20/) audio tapes).
 
 
-Also as noted above, some people need to take medication for severe depression, anxiety, posttraumatic or other symptoms. [Medicate or Meditate?](http://www.thebuddhadharma.com/issues/2009/spring/medicate.php) is an excellent article on this issue, including potential benefits of anti-depressants for meditators who suffer from major depression.
+Also, some people may need to take medication for severe depression, anxiety, posttraumatic or other symptoms. [Medicate or Meditate?](http://www.thebuddhadharma.com/issues/2009/spring/medicate.php) is an excellent article on this issue, including potential benefits of anti-depressants for meditators who suffer from major depression.
 
 ## Books Specifically for Therapists
+
+[Sitting Together: Essential Skills for Mindfulness-Based Psychotherapy](http://www.amazon.com/dp/1462513980/ref=nosim/?tag=jimhoppercom-20/), by Susan Pollak, Thomas Pedulla, and Ronald Siegel
 
 [Mindfulness and Psychotherapy](http://www.amazon.com/dp/1593851391/ref=nosim/?tag=jimhoppercom-20/), edited by Christopher Germer, Ronald Siegel, and Paul Fulton.
 
