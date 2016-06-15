@@ -119,7 +119,9 @@ Another example: Rather than coming home from work really stressed out and, when
 
 Clearly such changes in one's awareness and attention, which loosen the grip of habitual response patterns, bring greater freedom to choose how one responds to the inevitable unpleasant and unwanted experiences of life and relationships.
 
-**Reducing the *intensity* of unhelpful habitual responses.** Some of the ways mindfulness helps with this are obvious from the comments above, and others are worth mentioning as well.
+**Reducing the *intensity* of unhelpful habitual responses.**
+
+Some of the ways mindfulness helps with this are obvious from the comments above, and others are worth mentioning as well.
 
 The less time a habitual response has to develop, the less likely it will become intense. Of course, some habitual responses happen extremely quickly and almost instantaneously reach high levels of emotional intensity and behavioral impulsiveness. But most of the time, it takes a few seconds for a habitual response to reach a high level of intensity, and 'nipping it in the bud' prevents a full flowering of destructive emotion.
 
@@ -384,7 +386,7 @@ Today there are many options for learning to be more mindful. Which ones are bes
 
 I recommend that you do a little research: start with the resources below, then look into resources in your area, which could involve a series of calls to gather information and referrals from local clinics, therapists, and/or meditation centers.
 
-### Three important things to keep in mind
+**Three important things to keep in mind:**
 
 1. There is no substitute for actual mindfulness practice (especially in a daily, disciplined way).
 2. To maintain a regular practice, most people will need regular contact with a meditation teacher and/or supportive group or community.
