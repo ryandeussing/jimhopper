@@ -231,7 +231,7 @@ If you have read the previous section of this page, you have already encountered
 * Repeatedly attending to the processes of one's mind in daily meditation practice, one can become more mindful and more skilled at noticing the processes of experiences in daily life – and choosing not to get lost in the contents of experiences. This creates many opportunities for insight and freedom. The transformative and healing power of this shift in how we attend to our experience really is amazing, though it does take practice and discipline. Most important, this is a skill that truly can only be experienced directly, and only hinted at with words and concepts like these.
 
 
-### Daily mindfulness practice vs. intensive mindfulness practice
+### Daily Mindfulness Practice vs. Intensive Mindfulness Practice
 
 Daily mindfulness practice typically refers to one or two 20- to 45-minute sessions of sitting meditation every day. The practice is along the lines of that described above: attending to the sensations of one's breathing, and repeatedly bringing one's attention back to the breath after discovering that it has wondered. It also includes noticing – with acceptance and curiosity, and without judgment – where one's attention wondered to, and perhaps quickly labeling the experience or mental process before bringing one's attention back to the breath.
 
@@ -243,7 +243,7 @@ For many people, experiences during intensive meditation practice show them what
 
 Finally, it is important to note that intensive meditation practice *is* intense. Sometimes an initial calming of the mind is followed by a great deal of inner turmoil. And engaging in intensive practice before one is ready can result in becoming overwhelmed. Because very painful experiences and memories can emerge or intensify during periods of extended silent meditation, it is important to have a foundation of skills for managing such experiences before engaging in intensive practice (see the next section, [Caution: Mindfulness Requires Readiness](#caution-mindfulness-requires-readiness)). Therapists who are meditators and/or experienced meditation teachers can help you determine when you are ready to engage in intensive practice. In addition, meditation retreat centers usually attempt to assess in advance for risk of such reactions, and have procedures in place to help people who need extra support. (Before doing a retreat, make sure the center has such policies and procedures in place.)
 
-### Formal practice vs. weaving mindfulness into daily life
+### Formal Practice vs. Weaving Mindfulness Into Daily Life
 
 Daily meditation practice and intensive meditation practices are formal practices. That is, they involve very specific and structured routines, and take place in time and space separated from one's regular life, whether that's a half-hour of sitting meditation in the morning after waking or a week-long meditation retreat every summer. The point of such practices, however, is not to become a better meditator in such artificial situations. The point is to transform your mind and heart in ways that bring greater kindness, compassion, love, freedom and happiness into *all aspects of your life*.
 
