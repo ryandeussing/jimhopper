@@ -20,7 +20,6 @@ on this page
 * [How Can I Cultivate Mindfulness?](#how-can-i-cultivate-mindfulness)
 * [Caution: Mindfulness Requires Readiness](#caution-mindfulness-requires-readiness)
 * [Resources for Learning to Be More Mindful](#resources-for-learning-to-be-more-mindful)
-* [Three important things to keep in mind](#three-important-things-to-keep-in-mind)
 {: .onpage}
 
 I’ve written this page for a variety of people, including:
@@ -195,7 +194,9 @@ As with meditation, unless you have seriously studied Buddhism, you are likely t
 
 ### A Mindfulness of Breathing Practice
 
-<u>Important</u>: If you have a tendency to become overwhelmed by anxiety, painful feelings or memories when you are not "keeping busy" or otherwise distracted from such experiences, the practice below could result in becoming overwhelmed. In that case, before trying the practice, please read the section below, [Caution: Mindfulness Requires Readiness](#caution-mindfulness-requires-readiness). At a minimum, be prepared to stop at any time and do something you can rely on to calm you down.
+<u>Important</u>
+
+: If you have a tendency to become overwhelmed by anxiety, painful feelings or memories when you are not "keeping busy" or otherwise distracted from such experiences, the practice below could result in becoming overwhelmed. In that case, before trying the practice, please read the section below, [Caution: Mindfulness Requires Readiness](#caution-mindfulness-requires-readiness). At a minimum, be prepared to stop at any time and do something you can rely on to calm you down.
 
 1. Sit comfortably with your spine straight, in a relaxed way, on a straight-backed chair or cushion on the floor. It is important that your spine is straight and your body relaxed, to promote mental alertness and clarity. Sitting this way may be a new experience, and you may need to experiment a bit. (If you feel that you need more detailed instructions on posture, see [What To Do With Your Body](http://www.vipassana.com/meditation/mindfulness_in_plain_english_8.php), a brief chapter in Mindfulness in Plain English.)
 2. Establish a proper motivation before beginning the practice. For example, you might affirm the intention to simply use your breath as an anchor for being mindfully aware of your experience in each moment, with a sincere desire to learn something new, with an attitude of open-minded curiosity.
