@@ -161,13 +161,13 @@ Lutz, A., et al. (2004). Long-term meditators self-induce high-amplitude gamma s
 
 The four links below are to respected Vipassana meditation centers and organizations. Each has a links page with many other resources.
 
-#### [Insight Meditation Society](http://www.dharma.org/ims/) - Barre, Massachusetts
+[Insight Meditation Society](http://www.dharma.org/ims/) - Barre, Massachusetts
 
-#### [Spirit Rock Meditation Center](http://www.spiritrock.org/) - Woodacre, California (near San Francisco)
+[Spirit Rock Meditation Center](http://www.spiritrock.org/) - Woodacre, California (near San Francisco)
 
-#### [Gaia House](http://www.gaiahouse.co.uk/) - Devon, United Kingdom
+[Gaia House](http://www.gaiahouse.co.uk/) - Devon, United Kingdom
 
-#### [Vipassana Fellowship](http://www.vipassana.com/) - Online meditation courses
+[Vipassana Fellowship](http://www.vipassana.com/) - Online meditation courses
 
 [The Institute for Meditation and Psychotherapy](http://www.meditationandpsychotherapy.org/) - A group of Boston-area psychotherapists who are meditators, "dedicated to the education and training of mental health professionals interested in the integration of mindfulness meditation and psychotherapy, for the purpose of enhancing the therapy relationship, the quality of clinical interventions, and the well-being of the therapist." Provides workshops around the country and online training options.
 
