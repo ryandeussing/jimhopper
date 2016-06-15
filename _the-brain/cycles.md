@@ -26,7 +26,7 @@ on this page
 * [Additional Notes](#additional-notes)
 {: .onpage}
 
-On this page I share a framework for understanding human suffering, healing and happiness in terms cycles of suffering and cycles of healing (and happiness) that entail particular relationships among key brain circuitries.
+Here I share a framework for understanding human suffering, healing and happiness in terms cycles of suffering and cycles of healing (and happiness) that entail particular relationships among key brain circuitries.
 
 By 'cycle' I mean a set of experiences and actions that unfold repeatedly, in the same order, and typically in a self-perpetuating way. This will become very clear below.
 
@@ -40,7 +40,7 @@ It can also be used to understand potential pathways to healing, including how t
 
 Once familiar with the framework – especially when understanding is grounded in mindful attention to moment-to-moment experience – we can see how the circuitries of fear, seeking, satisfaction and embodiment are major drivers of our thoughts, feelings and behaviors.
 
-This includes insights into our habitual ways of attempting to regulate emotional and physiological states; insights into psychological symptoms with which we may struggle; insights into our values, hopes, and life goals; and insights into our moment-to-moment reactions to what is pleasant and unpleasant, feared and wanted, and unsatisfying and fulfilling.
+This includes insights into our habitual ways of attempting to regulate emotional and physiological states; insights into psychological symptoms with which we may struggle; insights into our values, hopes, and life goals; and insights into our moment-to-moment reactions to what is pleasant and unpleasant, feared and wanted, unsatisfying and fulfilling.
 
 In short, this framework is offered as a set of clarifying conceptual tools for exploring experience and behavior, for understanding suffering and healing, and for choosing and getting the most from different types of therapy and from the contemplative methods of humanity's great philosophical, religious and spiritual traditions.
 
