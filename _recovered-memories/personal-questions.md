@@ -65,6 +65,8 @@ The first stage of healing and recovery, and any helpful therapy or counseling, 
 
 Of course, everything is not always so perfectly ordered and sequential. During the first stage of recovery, it may be necessary to discuss the contents of memories that are disrupting your life. This may be required, for example, to help you manage them, or to understand why you find it is hard to care for yourself (the person or people who abused you gave you the message that you were unworthy of care or love, etc.). However, in this case addressing memories is not the focus of therapy, but a means to achieving safety, stability and greater ability to take care of yourself.
 
+> Important questions to ask yourself
+
 Therefore, here are two more important questions that you need to answer, which will require more research and, in most cases, consultation with a qualified professional:
 
 * "What must I learn *before* discussing or 'working through' abuse memories could help me to improve my current life and help me achieve future goals?"
