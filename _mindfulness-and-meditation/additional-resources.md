@@ -20,6 +20,7 @@ on this page
 * [Audio](#audio)
 * [Book-Plus-Audio Combinations](#book-plus-audio-combinations)
 * [Scholarly and Scientific Articles](#scholarly-and-scientific-articles)
+* [Other Resources](#other-resources)
 {: .onpage}
 
 Most of the recommendations here are for materials specifically focused on the cultivation of mindfulness, lovingkindness and compassion as originally taught in the Buddhist Vipassana tradition. This tradition's methods and concepts have been incorporated into the scientifically supported treatments of Mindfulness-Based Stress Reduction (MBSR) and Mindfulness-Based Cognitive Therapy for Depression.
