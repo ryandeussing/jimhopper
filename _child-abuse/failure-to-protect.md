@@ -31,11 +31,11 @@ And yet, the sad truth: Millions of children are abused every year in this count
 
 > No excuses. But no simple answers, either.&nbsp;
 
-When you’re the one who has been hurt in this way (or someone who cares about a child who has), it’s hard to imagine that there can be any “good reason” for failing to protect a vulnerable child. You may feel doubly betrayed by someone’s failure to help. You were in danger, someone could have protected you and chose not to…period. No excuses or rationalizations for their failure seem acceptable.
+When you’re the one who has been hurt in this way (or someone who cares about a child who has), it’s hard to imagine that there can be any 'good reason' for failing to protect a vulnerable child. You may feel doubly betrayed by someone’s failure to help. You were in danger, someone could have protected you and chose not to…period. No excuses or rationalizations for their failure seem acceptable.
 
 Also, some people actually feel more anger toward a non-abusive adult who didn’t speak up than toward the person who actually hurt them. They may have expected the worst of the abuser, who was clearly deeply disturbed or had little or no concern for others, but expected better from someone who was otherwise mostly caring and worthy of trust. This anger at the person who failed to protect may be especially strong while the abuse is happening, or as one begins coming to grips with the consequences. But it can last for decades.
 
-I totally understand. I'm not trying to “excuse” anyone. I'm not trying to convince you of anything. I am just offering some perspectives and information based on decades of experience and research on how people can become “bystanders” who fail to protect others from harm, including children who are being abused.
+I totally understand. I'm not trying to 'excuse' anyone. I'm not trying to convince you of anything. I am just offering some perspectives and information based on decades of experience and research on how people can become 'bystanders' who fail to protect others from harm, including children who are being abused.
 
 > I am not asking you to stop feeling angry.
 
@@ -76,11 +76,11 @@ Given how common abusive experiences in childhood are for both men and women (fo
 
 I know that people can respond to such a history in many ways, some of which involve great efforts to avoid unwanted and confusing feelings that the experience may have caused. These strategies can include suppressing memories, denying it ever happened, blaming oneself, self-medication with alcohol or drugs, and rage or violence against others or themselves.
 
-The ability to maintain such self-protective strategies (whether or not they are actually helpful) is usually greatly challenged when one learns that a child one cares about is or may be having similar harmful sexual experiences. The adult may be struggling (with or without realizing it) to keep such coping strategies or “defenses” from breaking down. When the adult is going through that internal struggle, it can be very difficult to support the child, or even to acknowledge the reality of the situation.
+The ability to maintain such self-protective strategies (whether or not they are actually helpful) is usually greatly challenged when one learns that a child one cares about is or may be having similar harmful sexual experiences. The adult may be struggling (with or without realizing it) to keep such coping strategies or 'defenses' from breaking down. When the adult is going through that internal struggle, it can be very difficult to support the child, or even to acknowledge the reality of the situation.
 
 ## Stereotypes
 
-One of the biggest obstacles to acting on suspicions is the tendency, which all of us have, to divide the world into “good” people, who do good things, and “bad” people, who do bad things (or evil).
+One of the biggest obstacles to acting on suspicions is the tendency, which all of us have, to divide the world into 'good' people, who do good things, and 'bad' people, who do bad things (or evil).
 
 We all use stereotypes as shortcuts to decide who and what is safe. That’s how our brains work. And it’s very reassuring. We think we can tell who poses a risk. If they generally behave well, do good things for others, or are generous, inspiring, respected by others or fun to be with, then we instinctively believe they’re safe.
 
@@ -88,13 +88,13 @@ We all use stereotypes as shortcuts to decide who and what is safe. That’s how
 
 Tragically, such thinking gets in the way of protecting children. Even if we recognize this fact and know better, we still tend to act as if it’s only evil and creepy people who hurt children. We believe that we would easily recognize such people and protect children from them.
 
-Unfortunately, it’s much more complicated than that. Those widely accepted stereotypes, especially the ones about what “good people” do to others, make it difficult to recognize real risks. They are also what make it so difficult for children to tell when a respected person is physically or emotionally abusing them, or taking advantage of them sexually.
+Unfortunately, it’s much more complicated than that. Those widely accepted stereotypes, especially the ones about what 'good people' do to others, make it difficult to recognize real risks. They are also what make it so difficult for children to tell when a respected person is physically or emotionally abusing them, or taking advantage of them sexually.
 
 The truth is, sometimes loving and involved mothers and fathers hurt children. Sometimes fun and generous grandparents hurt children. Sometimes caring and dedicated coaches and teachers sexually hurt children. Sometimes inspiring religious leaders sexually hurt children. Sometimes exciting and attentive babysitters, and protective older siblings, cousins or kids down the street, sexually harm children.
 
 In fact, only rarely is the person emotionally, physically and/or sexually harming a child one of those totally creepy people that everyone already suspects.
 
-Most of us find it very challenging to simultaneously hold two conflicting views of how we expect people to behave. And so we often fail to see the risk when it’s staring us in the face. It’s very difficult, even scary, to accept that “good” people have “bad” qualities and behaviors, especially when the “good” person is somebody we care about or respect. So there’s a strong tendency to ignore or bend the facts to fit our reassuring expectations. In reality, no one is purely good or purely bad. And sometimes a “good” person’s bad behaviors include abusing children emotionally, physically, or sexually.
+Most of us find it very challenging to simultaneously hold two conflicting views of how we expect people to behave. And so we often fail to see the risk when it’s staring us in the face. It’s very difficult, even scary, to accept that 'good' people have 'bad' qualities and behaviors, especially when the 'good' person is somebody we care about or respect. So there’s a strong tendency to ignore or bend the facts to fit our reassuring expectations. In reality, no one is purely good or purely bad. And sometimes a 'good' person’s bad behaviors include abusing children emotionally, physically, or sexually.
 
 Still, even if someone can truly get past such stereotypes, the very real costs of speaking up create a huge barrier to acting. And as I’ve pointed out before, adults in a position to protect a child are also – like all of us – imperfect human beings with complicated mixtures of strengths, fears, and weaknesses that may severely limit their ability to protect a child who is being abused.
 
@@ -108,7 +108,7 @@ Competing survival needs and potential for greater harm. Many people are kept fr
 
 > Concluding that protecting a child is just too costly
 
-In addition, if the person to be accused has high status or wields power or authority in the group, it may not just be fear getting in the way, but also deeply ingrained values and beliefs about obeying authority figures. And when the person under suspicion has protected or stood by others in previous difficult situations, a genuine fear of being “disloyal” may be particularly challenging.
+In addition, if the person to be accused has high status or wields power or authority in the group, it may not just be fear getting in the way, but also deeply ingrained values and beliefs about obeying authority figures. And when the person under suspicion has protected or stood by others in previous difficult situations, a genuine fear of being 'disloyal' may be particularly challenging.
 
 Reluctance to acknowledge betrayal. When an individual who is loved or admired harms a child, the powerful sense of betrayal is felt not just by the child, but also by everyone else who trusted or respected that person. For both children and adults, acknowledging such a betrayal can threaten their overall sense of safety in the world.
 
@@ -130,7 +130,7 @@ Maybe I’m just being paranoid. People who have experienced abuse or violence t
 
 > Doubting valid feelings, thoughts, and perceptions
 
-What if I’m wrong? It’s none of my business. “Mind your own business” is one of the earliest lessons many of us were taught. Most people are reluctant to accuse someone else – especially about something as charged as sexual abuse – unless they have solid proof. Fears of almost surely ruining a friendship or other relationship, and of possibly hurting an innocent person’s reputation over something that may not be true, often outweigh the intention to act protectively on a suspicion.
+What if I’m wrong? It’s none of my business. 'Mind your own business' is one of the earliest lessons many of us were taught. Most people are reluctant to accuse someone else – especially about something as charged as sexual abuse – unless they have solid proof. Fears of almost surely ruining a friendship or other relationship, and of possibly hurting an innocent person’s reputation over something that may not be true, often outweigh the intention to act protectively on a suspicion.
 
 What if I’m right? We could lose everything. Fears of the breakup of one’s family, of destructive intervention by child protective services, of shame, of losing one’s children, home or social standing – all of these stop some people from acting protectively. An imperfect child protection system and a criminal justice system that harshly punishes nearly all people who are convicted of sexual offenses (even children), often leads family members not to report someone they care about. Fear of devastating lifelong legal and other consequences are especially powerful when the person sexually misusing or abusing a child is another child or adolescent. (Adolescents and young children, almost always in response to being abused themselves, commit more than a third of all reported sexual abuse of children.)
 
@@ -150,9 +150,9 @@ In many cultures, faith communities and families, the act of forgiveness is held
 
 But others are not. Unfortunately, forgiveness can be false and destructive. This happens when it is demanded or forced — by outside pressure from others, including those who mostly want to avoid conflict and genuinely dealing with the problem, or by <u>internal</u> pressure, including a felt obligation to forgive in order to be a good person. This happens when someone and his or her actions are not (yet) worthy of forgiveness, at least not worthy of forgiveness as the only or main response to the harmful behavior.
 
-Also, unfortunately some people strongly but incorrectly believe that a (seemingly) sincere apology, especially when accompanied by a promise not to repeat one’s harmful behavior, is enough for everyone to “move on.”
+Also, unfortunately some people strongly but incorrectly believe that a (seemingly) sincere apology, especially when accompanied by a promise not to repeat one’s harmful behavior, is enough for everyone to 'move on.'
 
-Tragically, the pressure to “forgive and forget” can be a powerful obstacle to protecting children effectively from harm. Finally, giving in to such a demand for forgiveness also means dismissing the feelings of those who have been harmed, and for them it usually feels, rightly so, like an extension of the abuse.
+Tragically, the pressure to 'forgive and forget' can be a powerful obstacle to protecting children effectively from harm. Finally, giving in to such a demand for forgiveness also means dismissing the feelings of those who have been harmed, and for them it usually feels, rightly so, like an extension of the abuse.
 
 ## Some Final Thoughts
 
@@ -164,7 +164,7 @@ I hope that, by being aware of these complicated obstacles, and having a sober (
 
 Also, depending on your personal situation, understanding what might have gotten in the way may – or may not – reduce your feelings of disappointment, betrayal, or anger toward a person or group who failed to protect you or someone you love.
 
-Finally, why people fail to protect a child from unwanted or abusive sexual experiences, especially if you were the child, are never merely “reasons” to be “understood.” They are tragic and painful realities that people who face them cannot help but struggle with, even grieve over – hopefully with the help of others who care and can truly help with sorting it out, however long that may need to take.
+Finally, why people fail to protect a child from unwanted or abusive sexual experiences, especially if you were the child, are never merely 'reasons' to be 'understood.' They are tragic and painful realities that people who face them cannot help but struggle with, even grieve over – hopefully with the help of others who care and can truly help with sorting it out, however long that may need to take.
 
 For excellent child sexual abuse prevention information and resources, including guidebooks on how to talk with other adults about potential or definite sexual abuse situations, visit the website of [Stop It Now](http://www.stopitnow.org/).
 
