@@ -18,7 +18,7 @@ on this page
 * [Books](#books)
 * [Books for Therapists](#books-specifically-for-therapists)
 * [Audio](#audio)
-* Book-Plus-Audio Combinations
+* [Book-Plus-Audio Combinations](#book-plus-audio-combinations)
 * [Scholarly and Scientific Articles](#scholarly-and-scientific-articles)
 * [Other Resources](#other-resources)
 {: .onpage}
