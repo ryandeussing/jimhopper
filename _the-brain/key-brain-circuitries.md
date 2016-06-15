@@ -24,11 +24,11 @@ on this page
 * [Keys to Understanding Our Suffering, Healing and Happiness](#keys-to-understanding-our-suffering-healing-and-happiness)
 {: .onpage}
 
-Keys to understanding your brain, your experience and your life
-
 The brain can be understood, in part, as consisting of many different and interconnected circuitries. ("Circuitry" simply means a collection of brain areas that work together to perform certain functions.)
 
 After more than two decades of study and reflecting on what's been most useful to those I teach (mostly therapists, police officers, attorneys, military commanders and higher education administrators), I have come to focus on a small number of key brain circuitries.
+
+> Keys to understanding your brain, your experience and your life
 
 The circuitries that I focus on here are among the most studied in neuroscience. For each circuitry, thousands of studies have been conducted and published by many different research laboratories around the world. (There are still disagreements about some details, of course, and respected researchers disagree about what names or labels we should put on certain circuitries, but most of us need not worry about those things.)
 
