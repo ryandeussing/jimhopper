@@ -171,8 +171,6 @@ The four links below are to respected Vipassana meditation centers and organizat
 
 [The Institute for Meditation and Psychotherapy](http://www.meditationandpsychotherapy.org/) - A group of Boston-area psychotherapists who are meditators, "dedicated to the education and training of mental health professionals interested in the integration of mindfulness meditation and psychotherapy, for the purpose of enhancing the therapy relationship, the quality of clinical interventions, and the well-being of the therapist." Provides workshops around the country and online training options.
 
-[Mindfulness Research Guide](http://http/www.mindfulexperience.org/){: .cc-active} - Site by USC graduate student David Black has an extensive and up-to-date list of research publications, information about assessment instruments, links to the sites of treatment and research centers, and a monthly newsletter on current mindfulness research.
-
 [Center for Mindfulness in Medicine, Healthcare, and Society](http://www.umassmed.edu/cfm/index.aspx) - Founded by Jon Kabat-Zinn and colleagues, this organization developed Mindfulness-Based Stress Reduction (MBSR) and has trained people to run MBSR programs around the world.
 
 [Mindfulness-Based Cognitive Therapy](http://www.mbct.com/) - Site by Dr. Zindel Segal, Mark Williams, and John Teasdale, who have developed and researched Mindfulness-Based Cogntive Therapy for Depression. [About MBCT](http://www.mbct.com/About_Main.htm) discusses the nature of depression and how mindfulness can prevent relapse.
