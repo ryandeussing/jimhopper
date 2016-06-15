@@ -86,6 +86,8 @@ It is true that, for some people, focusing on the contents of abuse memories, in
 * Though new memories may emerge during the course of therapy, and managing and making sense of such memories can be part of the healing process, recovering memories of abuse should never be the focus, or even a goal, of therapy or counseling.
 
 
+> There's always much more to you than 'abuse victim' or 'abuse survivor'
+
 Finally, here are a few more things to consider:
 
 * No matter how much abuse someone has experienced, or how complete her or his memories are, there is always much more to that person than 'abuse victim' or 'abuse survivor.'
