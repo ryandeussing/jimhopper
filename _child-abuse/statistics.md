@@ -86,7 +86,7 @@ All four types of studies are discussed and/or critiqued in this section. The cr
 
 ## Statistics Are Human Creations
 
-I've already mentioned ([Introduction](){: .cc-active}) that historical and cultural factors have created and shaped the concept of 'child abuse' as most of us understand it today. The same is true of our relationship to statistics: it is embedded in historical and cultural patterns, particularly how science and statistics are used to define important social problems, shape debates about them, and decide public policies.
+I've already mentioned (above) that historical and cultural factors have created and shaped the concept of 'child abuse' as most of us understand it today. The same is true of our relationship to statistics: it is embedded in historical and cultural patterns, particularly how science and statistics are used to define important social problems, shape debates about them, and decide public policies.
 
 Unfortunately, our healthy respect for scientific research, empirical data and quantifiable knowledge is often untempered by critical thinking:
 
@@ -244,7 +244,7 @@ Praise from the book jacket:
 
 "3. *How was this statistic created?* We should not discount a statistic simply because its creators have a point of view, because they view a social problem as more or less serious. Rather, we need to ask how they arrived at the statistic. All statistics are imperfect, but some are far less perfect than others…. Once we understand that all statistics are created by someone, and that everyone who creates statistics wants to prove something (even if that is only that they are careful, reliable, and unbiased), it becomes clear that the methods of creating statistics are key. The remainder of this book focuses on this third question" (pages 26-28).
 
-**Retrospective Survey Methods**
+## Retrospective Survey Methods
 
 This section is focused on sexual abuse and the sexual abuse of boys largely because I have conducted research on that issue. Another reason is that research on the abuse of male children was once my main area of expertise, and the sexual abuse of males remains virtually unacknowledged throughout the world.
 
@@ -353,7 +353,7 @@ And there is one more very important point to keep in mind: Any research study, 
 
 Why? There is evidence that a substantial minority of adults who were sexually abused as children do not remember those abusive experiences, and that the younger the child was at the time of the abuse, and the closer the relationship to the abuser, the less likely he or she is to remember. See the section on Linda Williams' research on [Scientific Research](/child-abuse/recovered-memories/scientific-research) under [Recovered Memories of Sexual Abuse](/child-abuse/recovered-memories/).
 
-**Sexual Abuse of Boys: In Depth**
+## Sexual Abuse of Boys: In Depth
 
 This section is for those who want to understand how different research methods yield different prevalence statistics, in this case, of the sexual abuse of boys.
 
