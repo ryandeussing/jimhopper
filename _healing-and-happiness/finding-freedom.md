@@ -38,7 +38,7 @@ At the heart of personal freedom is this: the experience that you are freely cho
 
 Freedom is not being – or feeling – controlled or manipulated by anyone else or by some demanding part of yourself.
 
-Exploitation or abuse of a child involves trampling a child’s capacities for such freedom, by force or by manipulation. It might have involved being gradually and systematically manipulated into believing that you “wanted” or were “choosing” to do sexual things that you really wouldn’t have freely chosen to do.
+Exploitation or abuse of a child involves trampling a child’s capacities for such freedom, by force or by manipulation. It might have involved being gradually and systematically manipulated into believing that you 'wanted' or were 'choosing' to do sexual things that you really wouldn’t have freely chosen to do.
 
 However it happened, in unwanted or abusive experiences the other(s) involved did not respect your freedom, but instead saw it as an obstacle to getting what they wanted – an obstacle to be overcome with manipulation, threats, or force. (See [Sorting It Out for Yourself](/child-abuse/sorting-it-out/).)
 
@@ -70,25 +70,25 @@ In such situations, it’s our basic human need for freedom that’s being under
 
 Such undermining of our freedom not only includes being pushed by threats. It includes being pushed by rewards too – if those rewards are imposed from the outside rather than the rewards that naturally come from doing something positive.
 
-For example, consider rewarding children for reading books with a food they love, like pizza. The kids may read more books in the short term. But pizza really has nothing to do with reading. Expecting the pizza reward focuses children’s attention away from the natural excitement and joys of reading and gets them to see reading as <u>a way to get something else</u>. As many teachers have learned the hard way, such unnatural (and manipulative) rewards actually make children less likely to read in the future, and less likely to enjoy the pleasures that reading naturally brings.
+For example, consider rewarding children for reading books with a food they love, like pizza. The kids may read more books in the short term. But pizza really has nothing to do with reading. Expecting the pizza reward focuses children’s attention away from the natural excitement and joys of reading and gets them to see reading as *a way to get something else*. As many teachers have learned the hard way, such unnatural (and manipulative) rewards actually make children less likely to read in the future, and less likely to enjoy the pleasures that reading naturally brings.
 
-In the same way, we all know how it feels to do something because we are “supposed to” or feel like we “have to” – even if no one else is saying so. In cases like this, the pushing or demanding is coming from a voice in our head, or some sort of craving. Again, we don’t feel free, and that runs counter to our fundamental human need for freedom.
+In the same way, we all know how it feels to do something because we are 'supposed to' or feel like we 'have to' – even if no one else is saying so. In cases like this, the pushing or demanding is coming from a voice in our head, or some sort of craving. Again, we don’t feel free, and that runs counter to our fundamental human need for freedom.
 
-That’s why so many New Year’s resolutions don’t go very far. It’s why so many plans to diet, exercise or quit a bad habit go down the drain. Even if it’s just a voice in our own head saying “you should,” we don’t feel free. So eventually we either (a) rebel against that demand or (b) keep complying with it but feel resentful or lifeless inside.
+That’s why so many New Year’s resolutions don’t go very far. It’s why so many plans to diet, exercise or quit a bad habit go down the drain. Even if it’s just a voice in our own head saying 'you should,' we don’t feel free. So eventually we either (a) rebel against that demand or (b) keep complying with it but feel resentful or lifeless inside.
 
 And however we feel about doing things for rewards or because other controls are being imposed on us, lots of research has shown that if we’re doing something for such reasons, we learn less about what we’re doing and perform worse than if we’re doing it of our own freewill. Many studies have shown that when children and adults do something for a reward or because they’re going to be tested on it later – whether it’s reading, making art, or performing some job-related task – they learn less and perform worse than those who do the same thing because they want to, for their own reasons.
 
-In fact, when it comes to anything that requires thoughtfulness, reflection, creativity, concentration, or intuition, we do worse when we’re motivated by such freedom-robbing controls. (For more on this, see “Additional Reading…” at the bottom of this page.)
+In fact, when it comes to anything that requires thoughtfulness, reflection, creativity, concentration, or intuition, we do worse when we’re motivated by such freedom-robbing controls. (For more on this, see [Further Reading](#further-reading-science-on-freedom-and-well-being), below.)
 
 ## Rebellion vs. Compliance
 
 These are the two basic responses to the feeling of being controlled. Neither rebellion nor compliance is good for your body or your brain.
 
-When you’re rebelling, it may feel like you’re acting freely, but really you’re just responding to what you’re rebelling against. As long as you’re acting based on what – or who – you are <u>against</u> more than what you are <u>for</u>, you’re giving power to what you’re rebelling against and still being controlled to some extent.
+When you’re rebelling, it may feel like you’re acting freely, but really you’re just responding to what you’re rebelling against. As long as you’re acting based on what – or who – you are *against* more than what you are <u>for</u>, you’re giving power to what you’re rebelling against and still being controlled to some extent.
 
 Also, we’ve all seen people rebel by conforming. That is, they think they’re acting on their own and not going along with what’s being imposed on them, but actually they’re caught up in conforming to the latest fashion, or something else, as the result of peer pressure.
 
-Consider the teenager who refuses to do homework or even go to school because he’s so angry that adults are telling him he has to (anger that’s rooted in the feeling that his freedom is being trampled). Consider the young person who smokes cigarettes, at least at first, not because he or she likes how it tastes or feels, but because friends are doing it and it’s a way of saying “F you” to adults.
+Consider the teenager who refuses to do homework or even go to school because he’s so angry that adults are telling him he has to (anger that’s rooted in the feeling that his freedom is being trampled). Consider the young person who smokes cigarettes, at least at first, not because he or she likes how it tastes or feels, but because friends are doing it and it’s a way of saying 'F you' to adults.
 
 > When you’re free, you feel real, not fake.
 
@@ -96,11 +96,11 @@ In short, when people are motivated by rebellion, they’re not as free as they 
 
 Compliance usually isn’t what it seems either.
 
-When people are complying, they haven’t really bought into what’s being imposed on them. It could be any kind of rule, or even an important value or moral principle. If it’s not followed out of free will and because it truly feels right inside, but instead from fear of punishment, shame, or other disapproval (even from a “voice” inside our own head), then we have not actually made the rule or value our own. We are not freely choosing to do what we’re doing, however good and “right” it is. And we will suffer the consequences of having been dominated into such compliance, even if it has been disguised as “learning.”
+When people are complying, they haven’t really bought into what’s being imposed on them. It could be any kind of rule, or even an important value or moral principle. If it’s not followed out of free will and because it truly feels right inside, but instead from fear of punishment, shame, or other disapproval (even from a 'voice' inside our own head), then we have not actually made the rule or value our own. We are not freely choosing to do what we’re doing, however good and 'right' it is. And we will suffer the consequences of having been dominated into such compliance, even if it has been disguised as 'learning.'
 
-Many people with histories of abuse in childhood are “doing everything right” on the outside, but feel like total fakes on the inside. Even if other people see them as good and moral, they don’t really feel like it’s true. Usually this isn’t just because sexual, physical and/or emotional abuse has given them the message that they’re a “bad person” who deserves such treatment (although that’s part of it).
+Many people with histories of abuse in childhood are 'doing everything right' on the outside, but feel like total fakes on the inside. Even if other people see them as good and moral, they don’t really feel like it’s true. Usually this isn’t just because sexual, physical and/or emotional abuse has given them the message that they’re a 'bad person' who deserves such treatment (although that’s part of it).
 
-The feeling of being fake, as if at any time people could see that we aren’t really how we appear, can also come from well-meaning but confused parents and teachers. That is, we may have learned to act in the “right ways” by being manipulated with rewards and punishments, not by being guided and supported to learn, for ourselves, how and why such values and ways of being are genuinely good. To truly feel good about ourselves, we need to experience our behavior as freely chosen – as truly our own.
+The feeling of being fake, as if at any time people could see that we aren’t really how we appear, can also come from well-meaning but confused parents and teachers. That is, we may have learned to act in the 'right ways' by being manipulated with rewards and punishments, not by being guided and supported to learn, for ourselves, how and why such values and ways of being are genuinely good. To truly feel good about ourselves, we need to experience our behavior as freely chosen – as truly our own.
 
 Sadly, many people still think that children can be made into responsible and moral beings by rewards and punishments, or through guilt, shame or fear. In fact, children become moral beings despite adults treating them this way (which is probably how the adults were treated). Many children and teenagers have a hard time feeling genuinely good about their values and moral principles precisely because they feel that those values and principles have been forced on them, sometimes with doses of emotional and physical abuse.
 
@@ -114,7 +114,7 @@ And that’s why children subjected to threats, punishments and even abuse by (c
 
 Sexual exploitation or abuse includes being manipulated or forced into doing things you would not freely choose to do. But whether they manipulated or forced you, the person involved did not respect your rights to freedom and choice. They saw your capacity for freedom, your capacity to choose what to do or not to do as an obstacle to getting what they wanted – and they responded with manipulation, threats, or force. (See [Sorting It Out for Yourself](/child-abuse/sorting-it-out/).)
 
-Now let’s consider emotional abuse. It includes being psychologically “beaten down,” with threats or other forms of manipulation, including shaming and guilt trips. “You’re a loser. You’re never gonna amount to anything!” “No wonder other kids don’t like you!” “What? You think you’re special?!”
+Now let’s consider emotional abuse. It includes being psychologically 'beaten down,' with threats or other forms of manipulation, including shaming and guilt trips. “You’re a loser. You’re never gonna amount to anything!” “No wonder other kids don’t like you!” “What? You think you’re special?!”
 
 Emotional abuse makes children feel terrible and causes them to have horrible internal images of themselves. But emotional abuse is more than that: It is an attack on the basic human need for freedom. It undermines freedom – even the sense that we deserve to make our own choices.
 
@@ -126,7 +126,7 @@ Or maybe a childhood of compliance gave way to teenage years of extreme and self
 
 A common factor that undermines many people’s freedom is being too busy, simply having too little unscheduled or unpressured time. Whether or not you have been abused or exploited as a child, if you have a job or other significant responsibilities you are likely to have this problem.
 
-Basically, our society is too busy and overly scheduled, not only at work but in our private lives. That’s definitely the case for many adults, especially those who have children and/or workaholic tendencies. But it’s increasingly true of many kids, too, who have much less “free time” than kids did 20 years ago.
+Basically, our society is too busy and overly scheduled, not only at work but in our private lives. That’s definitely the case for many adults, especially those who have children and/or workaholic tendencies. But it’s increasingly true of many kids, too, who have much less 'free time' than kids did 20 years ago.
 
 > Freedom brings happiness, confidence & well-being.
 
@@ -136,7 +136,7 @@ Do you feel like there’s little room in your life for spontaneously changing y
 
 Again, the less opportunities you have to be spontaneous, or even just feel like you can’t be, because of a sense of obligation to “stay on track,” the less free you’re going to feel. And the less freedom you experience, the less happy, confident, and connected with life you will be.
 
-True, this feeling of confinement, this feeling that our freedom is limited, isn’t directly related to having been abused or used as a child (though many people like to “keep busy” as a way of avoiding unwanted thoughts, feelings and memories including those related to painful past experiences). But it is a very real and powerful force in many people’s lives – one that, if not understood and countered, can make it very hard to find the time and space to heal, or even to feel that we have the freedom or “luxury” of doing what’s necessary to find healing and happiness.
+True, this feeling of confinement, this feeling that our freedom is limited, isn’t directly related to having been abused or used as a child (though many people like to 'keep busy' as a way of avoiding unwanted thoughts, feelings and memories including those related to painful past experiences). But it is a very real and powerful force in many people’s lives – one that, if not understood and countered, can make it very hard to find the time and space to heal, or even to feel that we have the freedom or 'luxury' of doing what’s necessary to find healing and happiness.
 
 ## Healing Relationships Support Your Freedom
 
@@ -158,4 +158,4 @@ Numerous studies by Deci, Ryan, and other researchers have proven the benefits o
 
 Although they haven’t focused on how child abuse and exploitation undermine the development of healthy freedom, their work definitely sheds light on this issue.
 
-See the Wikipedia entry on their “[self-determination theory](http://en.wikipedia.org/wiki/Self-determination_theory)” of human motivation and well-being, and Deci’s book for the general public, [*Why We Do What We Do*](http://www.amazon.com/dp/0140255265/ref=nosim/?tag=jimhoppercom-20/). In the book Deci provides tons of evidence for the benefits – not only to general well-being but to learning, moral behavior, creativity, and productivity – that come when people in “one-up positions” (e.g. parents, teachers, supervisors) respect, support and promote the freedom and competence of those over whom they have influence and power.
+See the Wikipedia entry on their '[self-determination theory](http://en.wikipedia.org/wiki/Self-determination_theory)' of human motivation and well-being, and Deci’s book for the general public, [*Why We Do What We Do*](http://www.amazon.com/dp/0140255265/ref=nosim/?tag=jimhoppercom-20/). In the book Deci provides tons of evidence for the benefits – not only to general well-being but to learning, moral behavior, creativity, and productivity – that come when people in 'one-up positions' (e.g. parents, teachers, supervisors) respect, support and promote the freedom and competence of those over whom they have influence and power.
