@@ -1451,7 +1451,7 @@ ul.onpage {
     .article blockquote {
       font-size: 1.3125em; } }
 
-.article blockquote.h1 {
+.article blockquote.h4 {
   margin-top: 1rem;
   margin-bottom: 1rem;
   border-left: none;
