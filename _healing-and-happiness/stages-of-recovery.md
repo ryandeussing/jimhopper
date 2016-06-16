@@ -137,11 +137,11 @@ The model comes from Hunter’s experiences of helping men and women sort out an
 
 Hunter found parallels with the stages of grieving the loss of an important person in one’s life – which makes sense, because harmful childhood experiences and their effects are often experienced as causing one to ‘lose’ important aspects of oneself (for example, one’s masculinity or femininity, confidence, trust, or enjoyment of life).
 
-### 1. Denial – “Nothing happened…”
+### 1. Denial – 'Nothing happened…'
 
 Denial doesn’t necessarily mean refusing to acknowledge something that is true, though this can be the case. Rather, it refers to a variety of ways that people can – for very good reasons – push memories of unwanted childhood sexual experiences out of their awareness. These ways range from completely 'blocking out' or 'splitting off' memories, without even realizing it, at one extreme, to intentionally, and often with great effort, trying to keep memories and reminders from breaking into consciousness, at the other.
 
-Most people who have had such experiences, but haven’t yet sorted them out or dealt with their effects, find themselves somewhere in the middle. They have clues that something happened, or fragments of memory that pop into awareness, but these are quickly pushed away or “blocked out” whenever they come into awareness.
+Most people who have had such experiences, but haven’t yet sorted them out or dealt with their effects, find themselves somewhere in the middle. They have clues that something happened, or fragments of memory that pop into awareness, but these are quickly pushed away or 'blocked out' whenever they come into awareness.
 
 There are many reasons that people have for pushing such memories and related thoughts out of their minds. They can trigger unwanted feelings like anger, sadness, fear, or horror. They can trigger unwanted and disturbing thoughts – about one’s masculinity, about important people and relationships in one’s life (past and present), and about what would happen if such memories and thoughts were not always pushed away. As discussed in&nbsp;[stages of change](http://1in6.org/man-educating-self/answers/self-regulation/stages-of-change/)&nbsp;(which I wrote for 1in6), it is neither helpful nor respectful to push or try to convince a man to look at such memories or information which suggests that he may have had childhood sexual experiences that are causing him problems now.
 
