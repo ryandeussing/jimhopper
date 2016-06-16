@@ -6,14 +6,14 @@ subcollection:
 hotlines_sidebar: true
 description:
 nexturl:
-nexttitle: test
+nexttitle:
 prevurl: /child-abuse/sexual-abuse-of-boys/
 prevtitle: Sexual Abuse of Boys
 facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
 
-on this page&nbsp;
+on this page
 {: .onpage__header}
 
 * [Boys and men can be sexually used or abused, and it has nothing to do with how masculine they are.](#boys-and-men-can-be-sexually-used-or-abused-and-it-has-nothing-to-do-with-how-masculine-they-are)
