@@ -21,8 +21,6 @@ on this page
 * [Abusive or Harmful Childhood Experiences and Being Human](#abusive-or-harmful-childhood-experiences-and-being-human)
 {: .onpage}
 
-***Interconnected and unique effects in the lives of children and adults***
-
 ## Effects on Many Aspects of Development
 
 Unwanted and abusive childhood experiences are never disconnected from the rest of a child’s life. So the consequences can be quite complex – and take time to sort out, understand, and deal with in healthy ways.
@@ -39,6 +37,8 @@ These experiences happen to children who are *developing* in many ways, includin
 
 
 These things are interwoven. What’s going on in one affects the others. For example, the kinds of relationships we have are determined by how we think, by how we deal with our emotions, and by what we believe and value. And our thoughts, emotions and values are influenced by our beliefs about how boys and men and girls and women are supposed to be.
+
+> Interconnected and unique effects in the lives of children and adults
 
 Unwanted or abusive childhood experiences can impact – and shape – many aspects of development. This has been shown by decades of scientific research. It’s discovered every day by adults who've had these experiences and the people who know them well.
 
