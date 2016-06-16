@@ -112,8 +112,6 @@ What it means to seek to engage and transform suffering can be similar or differ
 
 And for more and more people, as discussed below, this healing cycle involves engaging in meditation or other contemplative practices that cultivate mindful and loving experiences of embodiment, and mindful and loving thoughts and actions.
 
-[caption] In this cycle there is still suffering, but rather than seeking escape from suffering, (A) seeking is focused on acquiring (B) resources that allow (C) engaging with suffering (especially as bodily experiences processed by the embodiment circuitry) in constructive and healthy ways that transform suffering experiences into vehicles of (D) recovery and healing. The seeking circuitry is no longer driven by fear of suffering, but instead by motivations to know, understand, heal and transform one’s suffering.
-
 Whatever works for a particular person, the *seeking to engage and transform suffering* healing cycle entails just that: seeking to *engage* with pain, suffering and unwanted experiences, and doing so *in healthy and healing ways* that decrease trauma and *break cycles of suffering.*
 
 For example, someone may seek to experience feelings of shame associated with a sexual abuse experience, in order to better understand where those feelings come from and to render them more manageable. But this will only be healing if he or she first accesses (with someone else's help) feelings of safety in his or her body and compassion toward himself or herself.
