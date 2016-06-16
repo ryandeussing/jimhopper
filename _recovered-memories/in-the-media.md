@@ -26,3 +26,5 @@ Finally, Dr. Freyd's 2004 presentation addresses these same issues and presents 
 [Commentary: Response to 17 February 2003 Media Reports on Loftus' Bugs Bunny Study](http://dynamic.uoregon.edu/jjf/bugs.html), by Jennifer J. Freyd, University of Oregon cognitive psychologist.
 
 [Misleading and confusing media portrayals of memory research](http://dynamic.uoregon.edu/jjf/aaas04/FreydAAAS.pdf), a presentation by Jennifer J. Freyd at the Annual Meeting of the American Association for the Advancement of Science, February 2004.
+
+See also my discussion the work of [Elizabeth Loftus](/child-abuse/recovered-memories/scientific-research/#elizabeth-loftus), including how the media has dropped the ball when it comes to covering her on this issue (e.g., not knowing or mentioning that her own research found that people can lose access to and then recover memories of sexual abuse.
