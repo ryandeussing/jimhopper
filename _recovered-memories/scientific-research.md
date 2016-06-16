@@ -579,4 +579,4 @@ She has long been aware that experts on traumatic and recovered memories, when t
 
 She has used repression to explain recovered memories reported by subjects in her own research, though experts in traumatic memory would argue that they are more likely dissociative in nature.
 
-For most of you, this is the first time you are learning these facts, because most members of the popular media addressing this issue have note done their homework or made any of these facts known. (For more on the unreliability and poor track record of the popular media on this issue, see Mike Stanton's piece in the *Columbia Journalism Review,* [U-Turn on Memory Lane](/pdf/stanton1997.pdf)).
+For most of you, this is the first time you are learning these facts, because most members of the popular media addressing this issue have not done their homework or made any of these facts known. (For more on the unreliability and poor track record of the popular media on this issue, see Mike Stanton's piece in the *Columbia Journalism Review,* [U-Turn on Memory Lane](/pdf/stanton1997.pdf)).
