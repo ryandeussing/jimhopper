@@ -15,7 +15,7 @@ facebook_image_path: /uploads/facebook-meditation.jpg
 on this page
 {: .onpage__header}
 
-* [Introduction](introduction)
+* [Introduction](#introduction)
 * [Lovingkindness](#lovingkindness)
 * [Compassion](#compassion)
 {: .onpage}
