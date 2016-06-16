@@ -42,7 +42,7 @@ Pacing yourself is important too. You can learn a lot pretty quickly, from my we
 
 Why not push your friend or family member? When we feel great pressure to push others to get help, we’re usually responding more to our own (hard to tolerate) feelings than to the other person’s needs. And the other person will sense this, resist and push back. Then it becomes a struggle that helps neither person, especially the one who could most benefit from getting some help.
 
-Before trying to share what you learn with the person you’re concerned about, take some time to “digest” it for yourself. Take some time to sort through your own feelings, beliefs, and needs. And take some time to think about the most effective way to talk with him or her.
+Before trying to share what you learn with the person you’re concerned about, take some time to 'digest' it for yourself. Take some time to sort through your own feelings, beliefs, and needs. And take some time to think about the most effective way to talk with him or her.
 
 Important: Taking care of yourself and not pushing her or him do not mean neglecting either of your needs, or that meeting your needs must depend on his or her pace.
 
@@ -64,7 +64,7 @@ Before I focus on helping the person you care about, I want to direct your atten
 
 > The more he affects you, the more helpful to focus on yourself.
 
-Especially if you are trying to help someone find professional help, or to “convince” them that they need therapy, I have a recommendation. Before suggesting anything to the other person, consider meeting *yourself* with a therapist who is very experienced at helping people like the person you’re concerned about. Even just one or two sessions can be extremely helpful. Why?
+Especially if you are trying to help someone find professional help, or to 'convince' them that they need therapy, I have a recommendation. Before suggesting anything to the other person, consider meeting *yourself* with a therapist who is very experienced at helping people like the person you’re concerned about. Even just one or two sessions can be extremely helpful. Why?
 
 Talking in person to a qualified professional can help you sort through your feelings, fears, frustrations, and strong impulses to take action (in what, for some of you, may feel like an increasingly unbearable situation).
 
@@ -94,11 +94,11 @@ On the other hand, they may fear that a therapist won’t understand, won’t be
 
 In trying to help someone you care about who is struggling with such mixed feelings, there’s a very common trap that’s easy to fall into. That people so often fall into this trap is totally understandable, and they often do it without realizing what’s happening.
 
-> Pushing him to ‘admit’ he needs help won’t work (for long).
+> Pushing her to ‘admit’ she needs help won’t work (for long).
 
 Here’s the trap: Trying to 'show' or 'convince' or otherwise *push* the other person into 'admitting' they need help, that they 'must' go into therapy, etc.
 
-Unfortunately, this doesn’t work. In general, when people have mixed feelings about something and someone else does all the talking (and pushing) for one side, it puts the other person in the unbalanced position of “holding the other side” and thinking and talking about the reasons he or she doesn’t want or need to change.
+Unfortunately, this doesn’t work. In general, when people have mixed feelings about something and someone else does all the talking (and pushing) for one side, it puts the other person in the unbalanced position of 'holding the other side' and thinking and talking about the reasons he or she doesn’t want or need to change.
 
 Also, when the person who fears change will have some serious drawbacks is someone who was used or abused as a child, being pushed to change can trigger fears of being manipulated and disempowered like he or she was back then. Of course, you may be genuinely trying your best, and pushing out of caring and love (not just growing fear and desperation). But the fact is – as you’ve probably already begun to realize, even if you still don’t quite know what else to do – this approach is not likely to work. The fact is, it tends to polarize things further, and to increase the other person's resistance to change, including seeking help.
 
@@ -112,7 +112,7 @@ However, the principles of motivational interviewing apply to any situation wher
 
 > Exploring his experience and what, for him, truly matters.
 
-Indeed, many people struggling with problems related to harmful unwanted or abusive childhood experiences are often struggling with such mixed feelings. They are often seen as “in denial” about (really, afraid to confront) what happened to them as children, as well as current problems that may be related to those experiences.
+Indeed, many people struggling with problems related to harmful unwanted or abusive childhood experiences are often struggling with such mixed feelings. They are often seen as 'in denial' about (really, afraid to confront) what happened to them as children, as well as current problems that may be related to those experiences.
 
 But again, there are more effective ways to understand and communicate with the person you care about and help her or him make healthy choices, commitments, and behavior changes.
 
