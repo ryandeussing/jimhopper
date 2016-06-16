@@ -113,7 +113,7 @@ Motivational interviewing was developed for people with substance use problems, 
 
 However, the principles of motivational interviewing apply to any situation where one person is trying to help another person resolve his or her mixed feelings about making a positive behavior change or committing to taking positive action.
 
-> Exploring his experience and what, for him, truly matters.
+> Exploring their experience and what, for them, truly matters.
 
 Indeed, many people struggling with problems related to harmful unwanted or abusive childhood experiences are often struggling with such mixed feelings. They are often seen as 'in denial' about (really, afraid to confront) what happened to them as children, as well as current problems that may be related to those experiences.
 
