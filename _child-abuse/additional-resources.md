@@ -56,9 +56,9 @@ This is a 24-hour-a-day hotline, staffed by trained volunteers who are ready to 
 
 The following two books offer a wealth of helpful information, including explanations of post-traumatic stress disorder and related problems, and many great techniques for managing trauma-related emotions, memories and various other symptoms and problems commonly struggled with by people who were abused as children.
 
-[The PTSD Workbook: Simple, Effective Techniques for Overcoming Traumatic Stress Symptoms](http://www.amazon.com/dp/1572242825/ref=nosim/?tag=jimhoppercom-20), by Mary Beth Williams and Soili Poijula
+#### [The PTSD Workbook: Simple, Effective Techniques for Overcoming Traumatic Stress Symptoms](http://www.amazon.com/dp/1572242825/ref=nosim/?tag=jimhoppercom-20), by Mary Beth Williams and Soili Poijula
 
-[Post-Traumatic Stress Disorder Sourcebook](http://www.amazon.com/dp/0737302658/ref=nosim/?tag=jimhoppercom-20), by Glenn Schiraldi
+#### [Post-Traumatic Stress Disorder Sourcebook](http://www.amazon.com/dp/0737302658/ref=nosim/?tag=jimhoppercom-20), by Glenn Schiraldi
 
 ## Website Recommendations
 
