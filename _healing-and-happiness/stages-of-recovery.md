@@ -84,7 +84,7 @@ Depending on the person, the first stage of treatment may also involve:
 
 Throughout all stages of treatment, it is often necessary to address psychological themes and ‘dynamics’ related to one’s history of unwanted or abusive experiences.
 
-As discussed in [Counseling & Therapy](/healing-and-happiness/counseling-and-therapy/), some of these are core issues that should determine the very nature and structure of treatment. These include:
+As discussed in [Consequences of Abuse](/child-abuse/consequences-of-abuse/), some of these are core issues that should determine the very nature and structure of treatment. These include:
 
 * Powerlessness
 * Shame and guilt
