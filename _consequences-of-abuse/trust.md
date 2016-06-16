@@ -13,35 +13,37 @@ prevtitle:
 facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
-<p class="onpage__header">on this page</p>
-<ul class="onpage">
-  <li><a href="#children-dependent-trusting-and-vulnerable">Children: Dependent, Trusting, and Vulnerable</a></li>
-  <li><a href="#betrayal-of-trust-and-its-consequences">Betrayal of Trust and Its Consequences</a></li>
-  <li><a href="#difficulties-trusting-oneself">Difficulties Trusting Oneself</a></li>
-  <li><a href="#learning-to-trust">Learning to Trust</a></li>
-</ul>
 
-It's a basic foundation of human life and relationships. And unwanted or abusive childhood experiences are violations of trust.
+on this page
+{: .onpage__header}
+
+* [Children: Dependent, Trusting, and Vulnerable](#children-dependent-trusting-and-vulnerable)
+* [Betrayal of Trust and Its Consequences](#betrayal-of-trust-and-its-consequences)
+* [Difficulties Trusting Oneself](#difficulties-trusting-oneself)
+* [Learning to Trust](#learning-to-trust)
+{: .onpage}
 
 ## Children: Dependent, Trusting, and Vulnerable
+
+Trust is a basic foundation of human life and relationships. And unwanted or abusive childhood experiences are violations of trust.
 
 We all grow up having no choice but to trust in others. As infants and young children we are totally dependent on others to meet our most basic needs.
 
 Getting the attention and care they need gives babies and young children a sense of trust in the world – and in themselves. It provides predictability and safety in one’s most important relationships, which are the bedrock of feeling safe, secure, and confident in life.
 
-> Violations of trust are _betrayals_ that have lasting effects
+> Violations of trust are *betrayals* that have lasting effects
 
-Abuse and exploitation happen to children who are _dependent_ on adults to care for them and protect them from harm.
+Abuse and exploitation happen to children who are *dependent* on adults to care for them and protect them from harm.
 
 Children depend on adults because they’re learning everything about life – how to physically do things (like swim, or throw and catch), how to think things through, and how to respond emotionally to situations in helpful ways.
 
-For these reasons, children _cannot help but trust in others_ – especially parents and people in roles of authority – to care for them and to look out for their best interests.
+For these reasons, children *cannot help but trust in others* – especially parents and people in roles of authority – to care for them and to look out for their best interests.
 
 Their dependency and need to trust also makes children vulnerable to manipulation, exploitation and abuse by adults, teenagers, and other children.
 
 ## Betrayal of Trust and Its Consequences
 
-When children are subjected to unwanted or abusive sexual, physical or emotional experiences by adults or older children, they experience _betrayal_, the violation and destruction of trust.
+When children are subjected to unwanted or abusive sexual, physical or emotional experiences by adults or older children, they experience *betrayal*, the violation and destruction of trust.
 
 This is also true when adults fail to play protective roles toward children, or otherwise fail to meet a child’s needs. Those are betrayals of trust too.
 
@@ -57,7 +59,7 @@ And then there’s the flip side: wanting so badly to find someone worthy of tru
 
 In this way children who have been abused, exploited or otherwise harmed by trusted adults can find themselves cycling back and forth between having no trust and being too trusting. This pattern can continue into adulthood, with each new betrayal feeding into the cycle.
 
-> You can learn who to trust, when and how, including _yourself._
+> You can learn who to trust, when and how, including *yourself.*
 
 ## Difficulties Trusting Oneself
 
