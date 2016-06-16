@@ -16,6 +16,7 @@ facebook_image_path: /uploads/facebook-child-abuse.jpg
 on this page
 {: .onpage__header}
 
+* [Introduction](#introduction)
 * [Where Do I Start?](#where-do-i-start)
 * [Your Needs Matter Too](#your-needs-matter-too)
 * [Consider Focusing on Yourself First](#consider-focusing-on-yourself-first)
@@ -24,19 +25,21 @@ on this page
 * [Additional Resources Related to Childhood Sexual Abuse](#additional-resources-related-to-childhood-sexual-abuse)
 {: .onpage}
 
-This section is for spouses and partners, boyfriends and girlfriends, and other family and friends of adults who are (or may be) struggling with the effects of harmful unwanted or abusive childhood experiences.
+## Introduction
+
+This page is for spouses and partners, boyfriends and girlfriends, and other family and friends of adults who are (or may be) struggling with the effects of harmful unwanted or abusive childhood experiences.
 
 Maybe you’re just beginning to learn about how harmful childhood experiences could be having negative effects on a man or woman you care about. Or how you can best support someone you love. Maybe you’ve been dealing with these issues for years, and are wondering how this website could be useful to you. Maybe something in between.
 
 Whatever your situation, I have resources for you. But first, especially if you’re just beginning to deal with this, my most important advice: take care of yourself, and don’t push him.
-
-> Take care of yourself. Don’t push him or her.
 
 ## Where Do I Start?
 
 Based on many years of experience helping people in situations like yours, including people who are feeling desperate and at their wits end, I recommend that you start by focusing on taking care of yourself.
 
 Why focus on yourself, not just on the person you're concerned about and his or her needs? The better you take care of yourself, the more effectively you can support her or him. You’ll be able to take a break when you’re getting overwhelmed, manage feelings like anger and sadness, and reach out for help when you need it. You’ll also be modeling self-care for the person you love, and more likely to stick with her or him (in a way that’s healthy for you) even in the hardest times.
+
+> Take care of yourself. Don’t push him or her.
 
 Pacing yourself is important too. You can learn a lot pretty quickly, from my website and others, and some excellent books I recommend. But you don’t have to figure out everything right away. If that’s a pressure you feel, I totally understand. I also know that, if you don’t pace yourself, going full steam ahead can create new problems.
 
