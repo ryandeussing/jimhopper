@@ -21,8 +21,6 @@ on this page
 * [Hunter’s Stages of Recovery](#hunters-stages-of-recovery)
 {: .onpage}
 
-***Road maps of how people overcome the effects of traumatic experiences.***
-
 ## Imperfect Word, Good Models
 
 First, let’s address that imperfect term, ‘recovery.’
@@ -33,6 +31,8 @@ First, let’s address that imperfect term, ‘recovery.’
 
 
 Now, for the models. There are two that describe ‘stages of recovery’ people go through to overcome traumatic childhood experiences and other traumas.
+
+> Road maps of how people overcome the effects of traumatic experiences.
 
 Both models are excellent. Both map common paths that many others, including people who once felt hopeless about ever being truly happy, have traveled with success.
 
