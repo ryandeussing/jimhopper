@@ -15,12 +15,15 @@ facebook_image_path: /uploads/facebook-meditation.jpg
 on this page
 {: .onpage__header}
 
+* [Introduction](#introduction)
 * [What Is Mindfulness?](#what-is-mindfulness)
 * [How Could Mindfulness Help Me?](#how-could-mindfulness-help-me)
 * [How Can I Cultivate Mindfulness?](#how-can-i-cultivate-mindfulness)
 * [Caution: Mindfulness Requires Readiness](#caution-mindfulness-requires-readiness)
 * [Resources for Learning to Be More Mindful](#resources-for-learning-to-be-more-mindful)
 {: .onpage}
+
+## Introduction
 
 I’ve written this page for a variety of people, including:
 
