@@ -44,9 +44,9 @@ Some simple examples of triggers and the ‘conditioned responses’ they unleas
 
 Triggers can be totally obvious, like someone touching you sexually when you don’t want or expect it, or someone threatening you or clearly trying to take advantage of you.
 
-> Triggers can be obvious or subtle, in our awareness or not.
-
 Or they can be subtle, like someone making a mildly sarcastic comment that reminds you of mean and shaming things a parent used to say, or someone giving you a look that seems to have contempt in it.
+
+> Triggers can be obvious or subtle, in our awareness or not.
 
 Triggers aren’t always about other people and what they say or do. They can be something like a faint smell of alcohol (that used to be on the breath of an abuser). They could be the shape of a man’s mustache, a style of clothing, a wallpaper pattern, or the sound of a slamming door. They can be the ‘anniversary’ date of a traumatic event like an abuse experience or someone’s death.
 
