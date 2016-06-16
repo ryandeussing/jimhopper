@@ -102,7 +102,7 @@ Two keys to recovery and healing – and spiritual transformation – are focusi
 
 That's why there are two fundamental cycles of healing and happiness: *seeking to engage and transform suffering*, and *seeking true goods*.
 
-While each of these cycles supports the other and they can overlap, it’s helpful to consider them separately – particularly with respect to how each can change relationships among the circuitries of seeking, fear, satisfaction and embodiment.
+While each of these cycles supports the other and they can overlap, it’s helpful to consider them separately – particularly with respect to how each can change the activities of the circuitries of seeking, fear, satisfaction and embodiment, as well as the relationships among them.
 
 ## Healing Cycle: Seeking to Engage and Transform Suffering
 
