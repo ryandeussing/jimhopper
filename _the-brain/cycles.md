@@ -108,15 +108,15 @@ While each of these cycles supports the other and they can overlap, it’s helpf
 
 This brain-based healing cycle is about seeking to know, tolerate, understand, and make positive use of pain and suffering.
 
-What it means to seek to engage and transform suffering can be similar or different for different people. For some, seeking to know and understand their suffering means working with a therapist or counselor. Other people seek to engage with and transform their suffering by talking with family and friends. Some seek such understanding and support from members of their religious or spiritual community, or a support group for people dealing with the same problems and struggles. Some write about their experiences of suffering, or express them through art.
+What it means to seek to engage and transform suffering can be similar or different for different people. For some, seeking to know and understand their suffering means working with a therapist or counselor. Others seek to engage with and transform their suffering by talking with family and friends. Some seek such understanding and support from members of their religious or spiritual community, or a support group for people dealing with the same problems and struggles. Some write about their experiences of suffering, or express them through art.
 
-And for more and more people, as discussed below, this healing cycle involves engaging in meditation or other contemplative practices that cultivate mindful and loving experiences of embodiment, and mindful and loving thoughts and actions.
+For more and more people, as discussed below, this healing cycle involves engaging in meditation or other contemplative practices that cultivate mindful and loving experiences of embodiment, and mindful and loving thoughts and actions.
 
 Whatever works for a particular person, the *seeking to engage and transform suffering* healing cycle entails just that: seeking to *engage* with pain, suffering and unwanted experiences, and doing so *in healthy and healing ways* that decrease trauma and *break cycles of suffering.*
 
-For example, someone may seek to experience feelings of shame associated with a sexual abuse experience, in order to better understand where those feelings come from and to render them more manageable. But this will only be healing if he or she first accesses (with someone else's help) feelings of safety in his or her body and compassion toward himself or herself.
+For example, someone may seek to experience feelings of shame associated with a sexual abuse experience, in order to better understand where those feelings come from and to render them more manageable. But this will only be healing if he or she first (with someone else's help) accesses feelings of safety in his or her body and compassion toward himself or herself.
 
-Or someone may seek to understand the roots of his addictive behavior, and seek help to learn new skills for dealing with unwanted feelings that he has been trying to escape with alcohol, drugs, sex or constant work.
+Or someone may seek to understand the roots of his addictive behavior, and seek help to learn new skills for dealing with unwanted feelings that he has been trying to escape with alcohol, drugs, sex, or constant work.
 
 However we engage in this cycle, it is critical that our process engages the embodiment circuitry, which registers and allows awareness of our suffering. It is difficult, if not impossible, for us to know, understand or transform our pain and suffering without experiencing *how they feel in our bodies*.
 
