@@ -81,4 +81,4 @@ Figuring out who can be trusted – in which roles, with which kinds of informat
 
 And it can be liberating: You can avoid the extremes of telling others almost nothing about yourself or saying too much. You can know when it’s safe to tell more to a close friend or partner. If you’re in therapy, you can finally get to talk safely about things that you really need help with but have feared would provoke rejection and betrayal.
 
-Getting better at choosing who to trust, and when – and getting positive responses and support from those who really matter to you – will rebuild your sense of trust, not only in other people and the world in general, but in yourself.
+Getting better at choosing who to trust, and when – and getting positive responses and support from those who really matter to you – will rebuild your sense of trust, not only in other people and the world in general, but in yourself too.
