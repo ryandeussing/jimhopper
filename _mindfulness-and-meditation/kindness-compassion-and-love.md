@@ -15,9 +15,12 @@ facebook_image_path: /uploads/facebook-meditation.jpg
 on this page
 {: .onpage__header}
 
+* [Introduction](introduction)
 * [Lovingkindness](#lovingkindness)
 * [Compassion](#compassion)
 {: .onpage}
+
+## Introduction
 
 The non-judgmental quality of [mindfulness](/mindfulness-and-meditation/cultivating-mindfulness/) is very important. However, the absence of judgment toward unwanted experiences is necessary but not sufficient. We also need to cultivate *the* *presence of kindness, compassion and love* – toward ourselves, toward others, and toward the inevitable unwanted, painful and otherwise distressing experiences in life.
 
@@ -31,11 +34,11 @@ While lovingkindness and compassion are (moral and ethical) ideals for relating 
 
 Lovingkindness refers to an unconditional and open love. This is not the kind of 'love' that has requirements and conditions attached to it ("I love you because…", "I'll love you if…"), or that only accepts pleasant experiences and thus distorts one's perceptions based on wishes and illusions. Lovingkindness is not bound up with personal agendas or desire. Lovingkindness does not want things – including unwanted experiences – to be anything other than they actually are, in the present moment. Instead, the present moment and current experience are embraced. Paradoxically, this makes even unwanted and painful situations more 'workable,' by providing other options for responding than automatic and habitual reactions which cause more problems and suffering.
 
-In the Buddhist tradition, it is said that practices designed to cultivate lovingkindness were first taught to help people *to**overcome fear*. Such practices can be extremely helpful to people with histories of childhood hurt and betrayal, or anyone else who continues to struggle with fear in their lives. In fact, many of the automatic and habitual reactions that make situations worse are based on fear of being hurt, exploited or otherwise mistreated, even if one is not aware of this at the time.
+In the Buddhist tradition, it is said that practices designed to cultivate lovingkindness were first taught to help people *to\*\*overcome fear*. Such practices can be extremely helpful to people with histories of childhood hurt and betrayal, or anyone else who continues to struggle with fear in their lives. In fact, many of the automatic and habitual reactions that make situations worse are based on fear of being hurt, exploited or otherwise mistreated, even if one is not aware of this at the time.
 
 Before going further, it is important to clarify what lovingkindness is *not*. It is not about accepting or condoning other people's hurtful behavior. It does not mean becoming more vulnerable because you no longer experience or respect your fear or anger and simply 'let down your guard.' As suggested above, exactly the opposite is true:
 
-* The mental quality of lovingkindness allows one *to**accept the reality of what is happening in the present moment*, including one's potentially intense negative emotional responses.
+* The mental quality of lovingkindness allows one *to\*\*accept the reality of what is happening in the present moment*, including one's potentially intense negative emotional responses.
 * Accepting rather than rejecting what is happening in the current moment does *not* mean believing or 'accepting' that one can do nothing to prevent the situation from continuing or getting worse in the next moment. Nor does it mean blindly accepting and simply allowing one's own automatic and habitual responses free reign – no matter how compelling or 'justified' such responses may initially feel. Just the opposite: accepting the current moment enables you *not* to allow the external situation, or your internal reactions, to rob your capacity for freedom in the next moment.
 * It's not about 'letting down your guard,' but rather *guarding your mind* – guarding it from being carried away with automatic, habitual, and unhelpful responses based on reactions to past hurts; guarding it from being consumed by fear and self-defense rather than being supported by clear perception, effective reasoning and wise choices about how to respond skillfully and without worsening the situation.
 * With lovingkindness, taking care of oneself and responding compassionately to others are *not* in conflict, but go hand in hand. Most of us sometimes 'defend' ourselves when it's not necessary, or respond with more extreme self-protective measures than are required or helpful in a particular situation. And most if not all of us think we were 'just trying to defend myself' when attacking another person. Lovingkindness practices can reduce and eventually help to eliminate these habitual ways of thinking and behaving.
@@ -47,7 +50,7 @@ All of the descriptions above are fairly abstract, so let's reflect on a typical
 * You are walking down the street, feeling calm and happy, enjoying the sights and sounds, when suddenly someone bumps into you. As you watch the person continue past you, you notice how your body immediately swerved to the side and tensed up; how the thought, "Hey, watch where you're going!" automatically arose in your mind and is now quickly followed by attempts at explanation with thoughts like, "What a pushy person," "Maybe she's in a hurry," "Maybe she's distracted and stressed." Mindfully observing the conditioned responses of your body and mind, you maintain the background of calmness and acceptance and, with an attitude of gentle friendliness, simply notice that your body has tensed and your mind is attempting to assign meaning and blame – then go back to enjoying the sights and sounds of walking down the street. You might even look at the person who bumped into you and think, "I hope you have a nice day."
 
 
-Sometimes it can be hard to feel kindness (especially if you've experienced a lot of hurt and betrayal in your life). Try starting with something simple...
+Sometimes it can be hard to feel kindness (especially if you've experienced a lot of hurt and betrayal in your life). Try starting with something simple…
 
 The starting point is to imagine a person or animal that *spontaneously and irresistibly* evokes feelings of kindness. Picture them in a peaceful quiet setting, like a nice field of grass.
 
