@@ -21,7 +21,7 @@ on this page
 * [Website Recommendations](#website-recommendations)
 {: .onpage}
 
-This page is mostly links to websites, but I also suggest some books and three hotlines for immediate help.
+This page is mostly links to websites, but I also suggest some books and provide detailed information on three hotlines for those seeking immediate help.
 
 See also pages with&nbsp;[Resources for Parents & Caregivers](/child-abuse/resources-for-parents-and-caregivers/), [Resources for Family & Friends](/child-abuse/resources-for-family-and-friends/), and the [Healing & Happiness](/healing-and-happiness/) section, which has resources for finding and evaluating therapists or counselors.
 
