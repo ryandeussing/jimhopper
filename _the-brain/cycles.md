@@ -244,13 +244,13 @@ Yet often more effective for cultivating love within ourselves – at least init
 
 In the *metta* practice of the Theravadin Buddhist tradition, now being taught to many people around the world, including by therapists and counselors, the focusing of attention on such an image, and the bodily sensations of spontaneously arising motivations and feelings, is combined with internally repeating phrases like these:
 
-[block quote, single line spacing] May you be happy.
+#### May you be happy.
 
-May you be healthy.
+#### May you be healthy.
 
-May you be at peace.
+#### May you be at peace.
 
-May you be free of suffering.
+#### May you be free of suffering.
 
 Harnessing the brain’s seeking circuitry to cultivating embodied and satisfying love, kindness and compassion. In this way, during this practice visual imagination and verbal thoughts – typically absorbed in memories, plans, and fantasies of imagined rewards – along with attention to bodily sensations, are used to *harness* *the brain’s seeking circuitry to love, kindness and compassion*.
 
