@@ -43,7 +43,7 @@ There are some typical ways people can end up over-estimating the effects of har
 
 Of course, harmful sexual experiences can have a huge impact on one’s life. But if you focus too much on how such experiences may have affected you, then it’s easy to overlook the (sometimes greater) contributions that other unwanted or traumatic experiences and relationships have made to your current problems.
 
-For example, if you tell other people about your sexual experiences – partners, friends, family members, even therapists – they may believe that those experiences “explain everything” (or almost everything) that you are struggling with. The popular media send this message all the time, by featuring lots of stories and research about sexual abuse while ignoring the long-term effects of other harmful or traumatic childhood experiences.
+For example, if you tell other people about your sexual experiences – partners, friends, family members, even therapists – they may believe that those experiences 'explain everything' (or almost everything) that you are struggling with. The popular media send this message all the time, by featuring lots of stories and research about sexual abuse while ignoring the long-term effects of other harmful or traumatic childhood experiences.
 
 ## Other Potentially Harmful Childhood Experiences
 
@@ -54,7 +54,7 @@ Unwanted or abusive experiences happen to children who live in families and home
 * Parents may be physically or emotionally abusive to each other.
 * Parents or caregivers may be minimally involved or not very supportive.
 * The home may be chaotic and unpredictable, and never feel like a safe place.
-* One child may be a “scapegoat” who is rejected and abused by everyone else.
+* One child may be a 'scapegoat' who is rejected and abused by everyone else.
 * Parents may pretend everything is fine when there is little love or connection in the family.
 * A parent may lack healthy adult relationships, and use a child for emotional and sexual gratification.
 * A parent may disappear when depressed, lost in an addiction, or hospitalized for mental illness.
@@ -79,8 +79,8 @@ Alone or in combination, such experiences can lead to problems in many areas, in
 
 ## There Is Always Much More to Who You Are
 
-No matter what unwanted or abusive experiences you had as a child, and no matter how great the effects of those experiences in your life now, there is always *much more* to who you are.
+No matter what unwanted or abusive experiences you had as a child (sexual or otherwise), and no matter how great the effects of those experiences in your life now, there is always *much more* to who you are.
 
-There is a danger of creating – and getting stuck in – a view of oneself that revolves around having been a “victim,” or being a “survivor,” or any other potentially limiting way of defining or labeling yourself.
+There is a danger of creating – and getting stuck in – a view of oneself that revolves around having been a 'victim,' or being a 'survivor,' or any other potentially limiting way of defining or labeling yourself.
 
 Finally, there are many things, including educating oneself and therapy, that can help people heal from harmful effects of unwanted or abusive experiences in childhood. But if improving your current life and creating a better future take a back seat to focusing on the past, then healing will be slowed down and maybe even prevented.
