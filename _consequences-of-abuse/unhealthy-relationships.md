@@ -23,13 +23,11 @@ on this page
 * [Change Is Possible, Therapy Can Really Help](#change-is-possible-therapy-can-really-help)
 {: .onpage}
 
-As children we learn ways of relating – from parents, siblings, anyone who's important in our lives.
-
-And then, over and over, we replay the roles, including harmful ones.
-
 But we can free ourselves.
 
 ## What’s Learned from Unwanted and Abusive Experiences
+
+As children we learn ways of relating – from parents, siblings, anyone who's important in our lives. And then, over and over again, we replay those roles.
 
 People who had such experiences as children have learned some unhealthy relationship patterns.
 
