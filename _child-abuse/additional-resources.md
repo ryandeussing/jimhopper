@@ -65,9 +65,9 @@ The following two books offer a wealth of helpful information, including explana
 
 ## Website Recommendations
 
-There are numerous websites with content addressing child abuse and recovery issues in addition to those already mentioned on this page. Below is a sampling.
+There are numerous websites with content addressing child abuse and recovery issues in addition to those already mentioned on this page. Below is a sampling of sites that I recommend.
 
-If reading material on these issues may disturb or upset you, remember to take care of yourself, and that you can always come back to this page or any of the links below when you feel prepared.
+If reading about these issues may disturb or upset you, remember to take care of yourself, and that you can always come back to this page or any of the links below when you feel prepared.
 
 [1in6.org](http://www.1in6.org/)&nbsp;The mission of 1in6 is "to help men who have had unwanted or abusive sexual experiences in childhood live healthier, happier lives." Their website has many resources for the men they serve, and for people who care about them. (I was a founding board member, long-time adviser, and wrote most of the pages on the 1in6 website.)
 
