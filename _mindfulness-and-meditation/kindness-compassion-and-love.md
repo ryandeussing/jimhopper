@@ -24,7 +24,7 @@ on this page
 
 The non-judgmental quality of mindfulness is very important. However, the absence of judgment toward unwanted experiences is necessary but not sufficient. We also need to cultivate *the* *presence of kindness, compassion and love* – toward ourselves, toward others, and toward the inevitable unwanted, painful and otherwise distressing experiences in life.
 
-There are two especially important ways of loving others and ourselves, known to all of the religious and spiritual traditions of the world. Buddhists refer to them as "lovingkindness" and "compassion." These are ways of relating to ourselves and others that promote acceptance, calmness, happiness, and freedom (especially from suffering-causing reactions and compulsions).
+There are two especially important ways of loving others and ourselves, known to all of the religious and spiritual traditions of the world. Buddhists refer to them as 'lovingkindness' and 'compassion.' These are ways of relating to ourselves and others that promote acceptance, calmness, happiness, and freedom (especially from suffering-causing reactions and compulsions).
 
 While lovingkindness and compassion are (moral and ethical) ideals for relating to others, they are also mental qualities *essential* for achieving greater peace, freedom, and genuine happiness. Therefore, encouraging oneself or others to cultivate these qualities – as I'm doing here – is not about 'preaching' or 'moralizing' or pushing people to be 'good' or 'nice.' Rather, the encouragement and suggestions that follow are intended to help you to discover how cultivating these qualities will help you to achieve much more peace, freedom and happiness in your life.
 
