@@ -16,6 +16,7 @@ facebook_image_path: /uploads/facebook-child-abuse.jpg
 on this page
 {: .onpage__header}
 
+* [Immediate Help](#immediate-help)
 * [Book Recommendations](#book-recommendations)
 * [Website Recommendations](#website-recommendations)
 {: .onpage}
@@ -23,6 +24,8 @@ on this page
 This section consists primarily of links to websites, but I also suggest three hotlines, a referral service that can help you find a therapist in your area, some books and an article on the international prevalence of child sexual abuse. (For resources specifically for parents and caregivers of abused children, see [Resources for Parents & Caregivers](/child-abuse/resources-for-parents-and-caregivers/).)&nbsp;
 
 If you are looking for a therapist or counselor in the United States, even if only for a couple of consultations, the Sidran Foundation has an extensive list of therapists and clinics around the country that specialize in treating people with histories of severe child abuse. See [Help Desk](https://www.sidran.org/help-desk/).
+
+## Immediate Help
 
 If you need *immediate* information about and/or connection to resources in your own community, here are four 24-hour toll-free hotlines that you can call, three in the US and one in the UK:
 
