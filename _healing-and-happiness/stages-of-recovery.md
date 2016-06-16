@@ -42,7 +42,7 @@ I encourage you to learn about both models, of Judith Herman and Mic Hunter. The
 
 In her classic book *[Trauma and Recovery](http://www.amazon.com/dp/0465087302/ref=nosim/?tag=jimhoppercom-20/),* Judith Herman presents a three-stage model of recovery which describes in detail the healing process of people who struggle with a combination of problems related to unwanted, abusive, or traumatic experiences.
 
-### The problems may include:
+The problems may include:
 
 * Difficulty regulating emotions and impulses
 * Emotional numbing
@@ -84,7 +84,7 @@ Depending on the person, the first stage of treatment may also involve:
 
 Throughout all stages of treatment, it is often necessary to address psychological themes and ‘dynamics’ related to one’s history of unwanted or abusive experiences.
 
-As discussed in [Counseling & Therapy](/healing-and-happiness/counselling-and-therapy/), some of these are core issues that should determine the very nature and structure of treatment. These include:
+As discussed in [Counseling & Therapy](/healing-and-happiness/counseling-and-therapy/), some of these are core issues that should determine the very nature and structure of treatment. These include:
 
 * Powerlessness
 * Shame and guilt
