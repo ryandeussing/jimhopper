@@ -23,8 +23,6 @@ on this page
 * [Change Is Possible, Therapy Can Really Help](#change-is-possible-therapy-can-really-help)
 {: .onpage}
 
-But we can free ourselves.
-
 ## What’s Learned from Unwanted and Abusive Experiences
 
 As children we learn ways of relating – from parents, siblings, anyone who's important in our lives. And then, over and over again, we replay those roles.
@@ -52,6 +50,8 @@ Even people who never think of themselves as ‘victims’ often respond as if o
 For example, when parents and caregivers are abusive, they almost always believe (even if they don’t think about it) that their actions are justifiable responses to being victims of a child’s ‘disobedience,’ ‘disrespect,’ etc. (A very extreme and disturbing example is in [this video](https://www.youtube.com/watch?v=Wl9y3SIPt7o) of a man beating his daughter; if you can stomach it and get that far, you'll see how he feels like the victim, as he repeatedly yells that his daughter has 'disrespected' him).
 
 Or a parent may feel like a victim in way that they believe entitles them to, for example, use a child for sexual gratification (‘my wife won't have sex with me’).
+
+> We can free ourselves from these patterns and roles
 
 But there are plenty of less extreme examples. Whenever we feel like someone ‘deserved’ a nasty or attacking comment we just made, we’ve rapidly and automatically gone from feeling like a victim of that person to victimizing them in the perpetrator role.
 
