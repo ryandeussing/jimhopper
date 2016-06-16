@@ -21,4 +21,4 @@ This short page provides links to an article, a commentary, and a presentation t
 
 [Misleading and confusing media portrayals of memory research](http://dynamic.uoregon.edu/jjf/aaas04/FreydAAAS.pdf)&nbsp;is a presentation by Dr. Freyd at the Annual Meeting of the American Association for the Advancement of Science in February 2004. She addresses these same issues and presents research on the effects of such media coverage.&nbsp;
 
-Finally, see my discussion of&nbsp;[Elizabeth Loftus](/child-abuse/recovered-memories/scientific-research/#elizabeth-loftus), including how the media has dropped the ball in it's coverage of her on this issue, for example by not knowing or mentioning that her own research found that people can lose access to and then recover memories of sexual abuse.
+Finally, see my discussion of&nbsp;[Elizabeth Loftus](/child-abuse/recovered-memories/scientific-research/#elizabeth-loftus), including how the media has dropped the ball in it's coverage of her on this issue, for example by not knowing or mentioning that *her own research* has found that people can lose access to and then recover memories of sexual abuse.
