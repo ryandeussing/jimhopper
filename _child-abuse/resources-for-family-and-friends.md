@@ -140,7 +140,7 @@ See also the [Center for Motivation and Change](http://motivationandchange.com/)
 
 ## Additional Resources Related to Childhood Sexual Abuse
 
-If you’re wondering whether childhood abuse experiences are related to the problems or struggles of someone you care about, or whether he or she experienced 'sexual abuse,' then you may want to start with [Consequences of Abuse](/child-abuse/consequences-of-abuse/),&nbsp;[Sorting It Out for Yourself](/child-abuse/sorting-it-out/)&nbsp;or [Sexual Abuse of Boys](/child-abuse/sexual-abuse-of-boys).
+If you’re wondering whether someone you care experienced 'sexual abuse,' about, or whether childhood abuse experiences are related to his or her problems or struggles, then you may want to start with [Sorting It Out for Yourself](/child-abuse/sorting-it-out/),&nbsp;[Consequences of Abuse](/child-abuse/consequences-of-abuse/), or [Sexual Abuse of Boys](/child-abuse/sexual-abuse-of-boys).
 
 If you're looking for more resources specifically for family and friends of men who were (or may have been) sexually abused as children, I recommend the [Family & Friends](https://1in6.org/family-and-friends/) section of [1in6.org](http://www.1in6.org/) (I wrote most of the site's pages and was a founding board member of 1in6).
 
