@@ -60,15 +60,15 @@ Because every person needs to sort these things out on his or her own terms, in 
 
 ## Consider Focusing on Yourself First
 
-Before I focus on helping the person you care about, I want to direct your attention to helping yourself. The closer your relationship to the man in question, and the greater the impact of his problems on you, the more important it is to start with *your* experiences and needs.
+Before I focus on helping the person you care about, I want to direct your attention to helping yourself. The closer your relationship to the man or woman in question, and the greater the impact of his or her problems on you, the more important it is to start with *your* experiences and needs.
 
 > The more he affects you, the more helpful to focus on yourself.
 
-Especially if you are trying to help someone find professional help, or to 'convince' them that they need therapy, I have a recommendation. Before suggesting anything to the other person, consider meeting *yourself* with a therapist who is very experienced at helping people like the person you’re concerned about. Even just one or two sessions can be extremely helpful. Why?
+Especially if you are trying to help someone find professional help, or to 'convince' them that they need therapy, I have a recommendation. Before suggesting anything to the other person, consider meeting *yourself* with a therapist who is very experienced at helping people like the person you’re concerned about. Even just one or two sessions can be extremely helpful.
 
-Talking in person to a qualified professional can help you sort through your feelings, fears, frustrations, and strong impulses to take action (in what, for some of you, may feel like an increasingly unbearable situation).
+Why? Talking in person to a qualified professional can help you sort through your feelings, fears, frustrations, and strong impulses to take action (in what, for some of you, may feel like an increasingly unbearable situation).
 
-It’s your ability to manage such feelings and impulses that determines how effective you are at discussing these issues with the one you love. Will you talk with them in a way that decreases the likelihood that they’ll get defensive? In a way that increases the likelihood that they'll come to his own – freely chosen and internally motivated – decision to seek help?
+It’s your ability to manage such feelings and impulses that determines how effective you are at discussing these issues with someone you love. Will you talk with them in a way that decreases the likelihood that they’ll get defensive? In a way that increases the likelihood that they'll come to his own – freely chosen and internally motivated – decision to seek help?
 
 Basically, it often makes sense for you to get some consultation, support and help in dealing with the difficult situation you are in. Doing so can maximize your chances of helping the person you care about make his or her own decisions and commitments about seeking help and making changes for the better.
 
