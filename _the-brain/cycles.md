@@ -138,7 +138,7 @@ And as addressed next, we can free up our brain's seeking circuitry to pursue mu
 
 ## Healing and Happiness Cycle: Seeking True Goods
 
-Fortunately, healing isn't all about seeking to deal more effectively with pain and suffering. If that’s all we ever focus on – or all the people we've enlisted to help us focus on – the work healing is not so appealing, and definitely not inspiring, for anyone involved.
+Fortunately, healing isn't all about seeking to deal more effectively with pain and suffering. If that’s all we ever focus on – or all the people we've enlisted to help us focus on – the work of healing is not so appealing, and definitely not inspiring, for anyone involved.
 
 In the second fundamental healing cycle, *seeking true goods*, we are harnessing our brain's seeking circuitry – that always-active and powerful driver of our thoughts and behaviors – to seeking out the truly 'good things in life.'
 
@@ -146,7 +146,7 @@ These true goods include love, playfulness, and joy. In this healing cycle one s
 
 We all need to sort out, for ourselves, what truly makes us happy; what we find to be the greatest goods in life, the things we most deeply value and find most satisfying to experience.
 
-This process of exploration and discovery may take some time, especially if we've had little experience with true goods and genuine happiness. It will take the support of others who do not judge our values or push us to adopt their own, but instead give us the space, as well as the support and inspiration, to sort things out for ourselves – and to awaken and harness our seeking circuitry to this pursuit.
+This process of exploration and discovery may take some time, especially if we've had little experience with true goods and genuine happiness. It will take the support of others who do not judge our values or push us to adopt theirs, but instead give us the space, as well as the support and inspiration, to sort things out for ourselves – and to awaken and harness our seeking circuitry to this pursuit.
 
 (One therapy model that many find helpful with this is [Acceptance and Commitment Therapy](https://contextualscience.org/act), or ACT, which has a major focus on helping people sort through their values and goals, and then commit to behaving consistently with the values that are most important to them.)
 
@@ -158,7 +158,7 @@ Also, the more we activate our brain’s satisfaction circuitry as a result of s
 
 ![](/uploads/versions/brain_cycles_revised4---x0-6-835-644-363-280x---.png)
 
-In this cycle, (A) the seeking circuitry is focused on wanting and pursuing (B) what is genuinely satisfying and fulfilling. This leads to (C) more experiences of genuine satisfaction, fulfillment and happiness, including the bodily aspects of such experiences as registered by the embodiment circuitry. This in turn increases motivation to seek and enjoy more true goods (rather than quick fixes and other 'false goods' that perpetuate suffering), which decreases fear circuitry activation (see text) and suffering in general.
+To summarize, in this cycle the seeking circuitry is focused on wanting and pursuing what is genuinely satisfying and fulfilling. This leads to more experiences of genuine satisfaction, fulfillment and happiness, including the bodily aspects of such experiences as registered by the embodiment circuitry. This in turn increases motivation to seek and enjoy more true goods (rather than quick fixes and other 'false goods' that perpetuate suffering), which decreases fear circuitry activation and suffering in general.
 
 ## Contemplative Practices for Seeking to Engage and Transform Suffering
 
@@ -166,15 +166,15 @@ Contemplative practices can be used to carefully attend to and investigate any e
 
 Employing our capacities for attention and investigation in this way are central to the *seeking to engage and* *transform suffering* healing cycle, which involves seeking to know, tolerate, understand, and make positive use of our pain and suffering.
 
-Readiness and Preparation. Before directly facing pain and suffering, we need skills for managing our painful and unwanted feelings and body sensations, which may include traumatic memories and addictive cravings. For example, therapists competent at working with traumatized people, including those with addictions, understand that the *first stage* of recovery is focused on learning and strengthening self-care and self-regulation skills.
+**Readiness and Preparation.** Before directly facing pain and suffering, we need skills for managing our painful and unwanted feelings and body sensations, which may include traumatic memories and addictive cravings. For example, therapists competent at working with traumatized people, including those with addictions, understand that the *first stage* of recovery is focused on learning and strengthening self-care and self-regulation skills.
 
 For those struggling with extreme psychological suffering (perhaps partly due to trauma), there is another prerequisite for safely facing the pain and suffering: a relationship with someone, often a therapist, who is not only competent at guiding them through the stages of recovery, but truly understands and cares for them.
 
-Mindfulness. A common definition of *mindfulness* is “the awareness that emerges through paying attention on purpose, in the present moment, and nonjudgmentally to the unfolding of experience moment by moment” (Kabat-Zinn, 2003).
+**Mindfulness.** A common definition of *mindfulness* is “the awareness that emerges through paying attention on purpose, in the present moment, and nonjudgmentally to the unfolding of experience moment by moment” (Kabat-Zinn, 2003).
 
 Mindfulness can be an excellent tool for exploring extremes of suffering, including trauma-related memories, feelings, bodily experiences, thought processes and ways of relating to others. Experiences that had previously felt too unbearable to focus on can be explored and investigated, and seen as passing sensations and thoughts that arise under particular conditions, without resorting to seeking escape. When habitual reactions arise, or suffering cycles begin to unfold, one can mindfully observe and even experientially understand them, and not get carried away.
 
-Bodily awareness as key. Mindful awareness of bodily sensations, that is, one’s *moment-to-moment* *experiences of* *embodiment,* is the foundation for attending to and exploring one’s emotions, thoughts, behaviors and relationship patterns.
+**Bodily awareness as key.** Mindful awareness of bodily sensations, that is, one’s *moment-to-moment* *experiences of* *embodiment,* is the foundation for attending to and exploring one’s emotions, thoughts, behaviors and relationship patterns.
 
 Only with that grounding in embodied awareness – of the impermanent bodily sensations – can we effectively bring mindful awareness to emotions and thoughts; otherwise we are repeatedly swept away in habitual cycles of seeking brief escapes and quick-fixes that perpetuate suffering and disconnection from present experience.
 
@@ -182,27 +182,27 @@ Mindfulness can enable direct and safe engagement with the bodily sensations of 
 
 In short, mindfulness enables the transformation of suffering experiences into opportunities for healing, even spiritual awakening.
 
-In my book chapter, [Harnessing the Seeking, Satisfaction and Embodiment Circuitries in Contemplative Approaches to Healing Trauma](/pdf/Hopper_2015_Harnessing_the_Seeking_Satisfaction_and_Embodiment_Circuitries.pdf), and in several other chapters of [Mindfulness-Oriented Interventions for Trauma](http://www.amazon.com/Mindfulness-Oriented-Interventions-Trauma-Integrating-Contemplative/dp/1462518583/ref=nosim/?tag=jimhoppercom-20), there are many examples of how mindfulness can play an integral role in the healing cycles of *seeking to engage and transform suffering*.
+In my book chapter, [Harnessing the Seeking, Satisfaction and Embodiment Circuitries in Contemplative Approaches to Healing Trauma](/pdf/Hopper_2015_Harnessing_the_Seeking_Satisfaction_and_Embodiment_Circuitries.pdf), and in several other chapters of [Mindfulness-Oriented Interventions for Trauma](http://www.amazon.com/Mindfulness-Oriented-Interventions-Trauma-Integrating-Contemplative/dp/1462518583/ref=nosim/?tag=jimhoppercom-20)&nbsp;(co-edited by several colleagues and me), there are many examples of how mindfulness can play an integral role in the healing cycles of *seeking to engage and transform suffering*.
 
-Here I want to note that, especially for very traumatized people, attending to body sensations associated with trauma, even unintentionally in the midst of a mindfulness exercise, can be quite triggering (e.g., of traumatic memories and trauma-based emotional reactions) and overwhelming. So it can be safest – and most helpful – to first experience mindfulness in the context of a relationship with a mindful therapist. This too is illustrated by several case vignettes in chapters of the same book (co-edited by several colleagues and me).
+Here I want to note that, especially for very traumatized people, attending to body sensations associated with trauma, even unintentionally in the midst of a mindfulness exercise, can be quite triggering (e.g., of traumatic memories and trauma-based emotional reactions) and overwhelming. So it can be safest – and most helpful – to first experience mindfulness in the context of a relationship with a mindful therapist. This too is illustrated by several case vignettes in chapters of the same book.
 
 Certainly mindfulness and other contemplative methods for engaging with and transforming suffering are not quick fixes or panaceas. Even after cultivating the self-care and self-regulation skills needed to engage directly with trauma or other forms of extreme suffering, engaging with and transforming suffering can be a long process.
 
-Also, we are all creatures of habit, and old habits can be hard to break, especially if they (have seemed to) ensure our physical or psychological survival. But with a foundation of self-regulation skills, regular practice, and relationships that support both, mindfully engaging with one’s suffering can facilitate the healing cycle of *seeking to engage and transform suffering*.
+Also, we are all creatures of habit, and old habits can be hard to break, especially if they (seemed to) ensure our physical or psychological survival. But with a foundation of self-regulation skills, regular practice, and relationships that support both, mindfully engaging with one’s suffering can facilitate the healing cycle of *seeking to engage and transform suffering*.
 
 ## Contemplative Practices and Seeking True Goods
 
 *Seeking true goods*, the second healing cycle of the framework I am sharing, includes the use of contemplative practices to *harness the brain’s seeking circuitry*, which when wrongly directed causes so much of our suffering, *to the pursuit of true goods that bring genuine happiness*.
 
-Our seeking circuitry is always active. Fortunately, unlike many other aspects of brain function, the seeking circuitry is *accessible* to us. Its functioning is something we can bring into awareness and contemplate.
+Our seeking circuitry is always active. Fortunately, unlike many other aspects of brain function, our seeking circuitry is *accessible* to us. Its functioning is something we can bring into awareness and contemplate.
 
-And we can choose: *What shall I seek*? *What should I seek as my highest priorities?* *What do I want to seek in this relationship? In this moment? In this moment with its conflicting motivations?*
+And we can choose: *What shall I seek*? *What should I seek as my highest priorities?* *What do I want to seek in this relationship? In this moment? In this moment with its conflicting motivations, and different parts of me that have been activated?*
 
 We can also contemplate and choose our answers to these questions: What *really* makes me happy? What is my *motivation* for doing (or thinking or saying or writing) this? These questions and choices are at the heart of contemplative practices and how we put them into practice in our lives.
 
-What should we seek? Religious and spiritual leaders have long sought (whether wisely or in confusion themselves) to help people seek transcendent 'true goods' – obedience to God’s law, surrender to God’s will; an intimate relationship with God or Jesus; loving others, even our 'enemies,' as we love ourselves; forever striving to free all beings from suffering.
+*What should we seek?* Religious and spiritual leaders have long sought (whether wisely or in confusion themselves) to help people seek transcendent 'true goods' – obedience to God’s law, surrender to God’s will; an intimate relationship with God or Jesus; loving others, even our 'enemies,' as we love ourselves; forever striving to free all beings from suffering.
 
-Profit-seeking companies, politicians, and advertisers bombard us with sights, sounds and words designed to harness our seeking circuitry to the (perceived) benefits they seek for themselves. The *Declaration of Independence* declares it a 'self-evident' truth that we are endowed by our creator with unalienable rights, not only to life and liberty, but 'the pursuit of happiness.'
+Profit-seeking companies, advertisers and politicians bombard us with sights, sounds and words designed to harness our seeking circuitry to the (perceived) benefits they seek for themselves. The *Declaration of Independence*&nbsp;of the United States declares it to be a 'self-evident' truth that we are endowed by our creator with unalienable rights, not only to life and liberty, but 'the pursuit of happiness.'
 
 In short, the brain’s seeking circuitry is central to human existence.
 
