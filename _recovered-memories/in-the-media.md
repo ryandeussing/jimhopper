@@ -15,16 +15,10 @@ facebook_image_path: /uploads/facebook-child-abuse.jpg
 
 This short page provides links to an article, a commentary, and a presentation that are very informative and clarifying.
 
-The first article, published by Mike Stanton in the 1997 *Columbia Journalism Review*, traces the stark reversal in the major media's portrayal of recovered memories of sexual abuse, which corresponded to the rise of the False Memory Syndrome Foundation and its aggressive public relations efforts.
+[U-Turn on Memory Lane](/pdf/Stanton1997.pdf), by Mike Stanton, published in the July/August 1997 *Columbia Journalism Review*, traces the stark reversal in the major media's portrayal of recovered memories of sexual abuse, which corresponded to the rise of the False Memory Syndrome Foundation and its aggressive public relations efforts.
 
-The second, a February 2003 online commentary by cognitive psychologist Jennifer Freyd, lucidly demonstrates how the media continued (and continues) to give the public biased, incomplete and deceptive accounts of research by those who claim it is easy to implant false memories of sexual abuse and that recovered memories are likely false.
+[Commentary: Response to 17 February 2003 Media Reports on Loftus' Bugs Bunny Study](http://dynamic.uoregon.edu/jjf/bugs.html), by Jennifer J. Freyd, University of Oregon cognitive psychologist, lucidly shows how the media continued (and continues) to give the public biased, incomplete and deceptive accounts of research by those who claim it is easy to implant false memories of sexual abuse and that recovered memories are likely false.
 
-Finally, Dr. Freyd's 2004 presentation addresses these same issues and presents research on the effects of such media coverage.
+[Misleading and confusing media portrayals of memory research](http://dynamic.uoregon.edu/jjf/aaas04/FreydAAAS.pdf)&nbsp;is a presentation by Dr. Freyd at the Annual Meeting of the American Association for the Advancement of Science in February 2004. She addresses these same issues and presents research on the effects of such media coverage.&nbsp;
 
-[U-Turn on Memory Lane](/pdf/Stanton1997.pdf), by Mike Stanton, in the July/August 1997 issue of *Columbia Journalism Review.*
-
-[Commentary: Response to 17 February 2003 Media Reports on Loftus' Bugs Bunny Study](http://dynamic.uoregon.edu/jjf/bugs.html), by Jennifer J. Freyd, University of Oregon cognitive psychologist.
-
-[Misleading and confusing media portrayals of memory research](http://dynamic.uoregon.edu/jjf/aaas04/FreydAAAS.pdf), a presentation by Jennifer J. Freyd at the Annual Meeting of the American Association for the Advancement of Science, February 2004.
-
-See also my discussion the work of [Elizabeth Loftus](/child-abuse/recovered-memories/scientific-research/#elizabeth-loftus), including how the media has dropped the ball when it comes to covering her on this issue (e.g., not knowing or mentioning that her own research found that people can lose access to and then recover memories of sexual abuse.
+Finally, see my discussion of&nbsp;[Elizabeth Loftus](/child-abuse/recovered-memories/scientific-research/#elizabeth-loftus), including how the media has dropped the ball in it's coverage of her on this issue, for example by not knowing or mentioning that her own research found that people can lose access to and then recover memories of sexual abuse.
