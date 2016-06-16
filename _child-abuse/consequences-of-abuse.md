@@ -66,6 +66,8 @@ Other factors that that play out differently for every person:
 
 Some of those effects reflect how abusive the experiences were, and some the kinds of the relationships in which the experiences and the child’s reactions played out. They’re all very important.
 
+> You don't have to figure everything out
+
 Lots of research has been done on how such things determine the consequences of unwanted or abusive childhood sexual, physical and emotional experiences. Researchers talk about “risk factors,” which make bad effects more likely, and “protective factors,” which make bad effects less likely.
 
 Every man or woman who’s had such experiences is different, and has a *unique combination* of risk and protective factors that have influenced the effects in his or her life.
