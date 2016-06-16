@@ -130,7 +130,7 @@ Indeed, as shown in the image depicting this healing cycle (below), it can invol
 
 ![](/uploads/versions/brain_cycles_revised---x0-4-825-647-362-284x---.png)
 
-In this cycle there is still suffering, but rather than seeking escape from suffering, seeking is focused on acquiring resources that allow engaging with suffering (especially as bodily experiences processed by the embodiment circuitry) in constructive and healthy ways that transform suffering experiences into vehicles of recovery and healing. The seeking circuitry is no longer driven by fear of suffering, but instead by motivations to know, understand, heal and transform one’s suffering.
+In this cycle there is still suffering, but rather than seeking escape from suffering, seeking is focused on acquiring resources that allow engaging with suffering (especially as bodily experiences processed by the embodiment circuitry) in constructive and healthy ways that transform suffering experiences into vehicles of recovery and healing (even redemption). The seeking circuitry is no longer driven by fear of suffering, but instead by motivations to know, understand, heal and transform one’s suffering.
 
 Yes, engaging in this healing cycle is difficult. Sometimes it's painful. But the payoff is huge. We can come to live in much less fear, and with much less aversion to the inevitable unwanted experiences life sends our way. We can have more compassion for ourselves, no matter what we're going through. We can find courage and strength inside that we never realized were there.
 
