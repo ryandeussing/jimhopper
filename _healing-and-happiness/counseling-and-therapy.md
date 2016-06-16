@@ -17,13 +17,8 @@ on this page
 {: .onpage__header}
 
 * [Principles of Counseling and Therapy](#principles-of-counseling-and-therapy)
-* [The Therapeutic Frame](#the-therapeutic-frame)
 * [Finding and Evaluating Therapists](#finding-and-evaluating-therapists)
 {: .onpage}
-
-*Good to know if you're seeking professional help – and at any stage of counseling or therapy*
-
-This page has two major sections, on Principles of Counseling / Therapy, and Finding and Evaluating Therapists.
 
 ## Principles of Counseling and Therapy
 
@@ -59,7 +54,7 @@ However, anyone in therapy, especially people who’ve been deeply hurt and betr
 
 Also, connection does not mean ‘closeness’ or ‘intimacy’ in the traditional sense of non-therapy relationships. <u>Boundaries</u> between the therapist and client are absolutely essential. Therapists who share too much of their own experience, become over-involved or engaged in ‘rescue missions’ are not helping their clients; they’re violating the principle of disinterestedness by trying to use the client and the relationship to meet their own needs. This can do tremendous damage to the therapy relationship, disempower the client, prevent healing, and even retraumatize the client.
 
-## The Therapeutic Frame
+### The Therapeutic Frame
 
 Because the therapy relationship can be an intense experience at times, and involves addressing vulnerable areas of one’s life, it is absolutely essential that the relationship is bounded by a ‘frame.’ This can be understood as the collection of ‘ground rules’ that create consistency and stability in several dimensions of the relationship. In this way, the frame ensures that the therapy relationship can be safe and healing.
 
