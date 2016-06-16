@@ -108,7 +108,7 @@ If reading material on these issues may disturb or upset you, remember to take c
 
 [Silent Edge](http://www.silent-edge.org/)&nbsp;This page has links to several resources addressing sexual abuse and exploitation by coaches, particularly of figure skaters.
 
-[STOP IT NOW!](http://www.stopitnow.org/)&nbsp;A organization that believes all adults must accept the responsibility to recognize, acknowledge and confront the behaviors that lead to the sexual abuse of children. We offer adults tools they can use to prevent sexual abuse - before there’s a victim to heal or an offender to punish. In collaboration with our network of community-based Stop It Now! programs, we reach out to adults who are concerned about their own or others’ sexualized behavior toward children."
+[Stop It **Now!**](http://www.stopitnow.org/)&nbsp;A organization that believes all adults must accept the responsibility to recognize, acknowledge and confront the behaviors that lead to the sexual abuse of children. We offer adults tools they can use to prevent sexual abuse - before there’s a victim to heal or an offender to punish. In collaboration with our network of community-based Stop It Now! programs, we reach out to adults who are concerned about their own or others’ sexualized behavior toward children."
 
 [SNAP - Survivors Network of those Abused by Priests](http://www.snapnetwork.org/)&nbsp;"SNAP is a national self-help organization of men and women who were sexually abused by Catholic priests (brothers, nuns, deacons, teachers, etc). Members find healing and empowerment by joining with other survivors."
 
