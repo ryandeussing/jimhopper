@@ -60,7 +60,9 @@ These two common suffering cycles, and the corresponding activity of the brain c
 
 [caption - can we put this in a box with the figure/image/] In the fear/anxiety cycle, (A) seeking escape from what’s feared, and from fear and anxiety, lead to more fear and anxiety, and (B) high fear circuitry activity drives the seeking circuitry in the presence of little or no satisfaction circuitry activity. The depression/defeat cycle entails (C) more sporadic seeking of escape from depression and defeat, and (D) suppressed seeking circuitry activity in the presence of little or no fear and satisfaction circuitry activity. In both cycles the embodiment circuitry is occupied, to the extent it processes bodily information, with unpleasant sensations.
 
-Fear/anxiety cycle. In this suffering cycle seeking is focused on avoiding things we are afraid of or anxious about, and/or on avoiding fear and anxiety. Thus the seeking circuitry is driven primarily by the fear circuitry, not by pursuit of what’s truly satisfying or fulfilling.
+### Fear/Anxiety Cycle
+
+In this suffering cycle seeking is focused on avoiding things we are afraid of or anxious about, and/or on avoiding fear and anxiety. Thus the seeking circuitry is driven primarily by the fear circuitry, not by pursuit of what’s truly satisfying or fulfilling.
 
 When the escape ends the suffering from which we were seeking escape returns. And that suffering may be intensified, because the way we seek escape may itself cause or increases our fear and anxiety (e.g., we may get drunk to escape fears and anxieties and then fear how our drunken behavior has affected loved ones and how they see us).
 
@@ -70,7 +72,9 @@ There’s little activation of the satisfaction circuitry anywhere in the cycle,
 
 ![](/uploads/versions/brain_cycles_revised---x0-19-819-617-386-291x---.png)
 
-Depression/defeat cycle. In this cycle we feel stuck in and overwhelmed by something bad that’s *already* happened.
+### Depression/Defeat Cycle
+
+In this cycle we feel stuck in and overwhelmed by something bad that’s *already* happened.
 
 The fear circuitry is relatively inactive, since something that may have been feared has already come to pass.
 
