@@ -96,7 +96,7 @@ The bottom line: So long as our seeking circuitry is suppressed or is focused al
 
 Just as there are fundamental cycles of suffering, there are fundamental cycles of healing and happiness.
 
-A key contribution of the framework offered here is its focus on the seeking circuitry, including its potential roles in suffering and, as addressed below, in healing and finding genuine happiness and fulfillment in life.
+A key contribution of the framework offered here is its focus on the seeking circuitry, including not just its potential roles in suffering but also in healing and finding genuine happiness and fulfillment in life.
 
 Two keys to recovery and healing – and spiritual transformation – are focusing one’s seeking circuitry on pursuing things that are (1) genuinely healing, not merely brief escapes from suffering (which can be confused with healing), and (2) truly satisfying and fulfilling, not merely fleeting or unhealthy pleasures.
 
