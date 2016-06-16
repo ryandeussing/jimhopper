@@ -57,9 +57,9 @@ Such messages deeply harm the ability to trust. It may feel impossible to trust 
 
 And then there’s the flip side: wanting so badly to find someone worthy of trust that you are easily fooled by untrustworthy people, and end up being betrayed over and over again.
 
-In this way children who have been abused, exploited or otherwise harmed by trusted adults can find themselves cycling back and forth between having no trust and being too trusting. This pattern can continue into adulthood, with each new betrayal feeding into the cycle.
-
 > You can learn who to trust, when and how, including *yourself.*
+
+In this way children who have been abused, exploited or otherwise harmed by trusted adults can find themselves cycling back and forth between having no trust and being too trusting. This pattern can continue into adulthood, with each new betrayal feeding into the cycle.
 
 ## Difficulties Trusting Oneself
 
