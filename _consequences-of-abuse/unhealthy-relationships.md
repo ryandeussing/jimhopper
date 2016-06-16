@@ -51,7 +51,7 @@ For example, when parents and caregivers are abusive, they almost always believe
 
 Or a parent may feel like a victim in way that they believe entitles them to, for example, use a child for sexual gratification (‘my wife won't have sex with me’).
 
-> We can free ourselves from these patterns and roles
+> We can free ourselves from these roles
 
 But there are plenty of less extreme examples. Whenever we feel like someone ‘deserved’ a nasty or attacking comment we just made, we’ve rapidly and automatically gone from feeling like a victim of that person to victimizing them in the perpetrator role.
 
