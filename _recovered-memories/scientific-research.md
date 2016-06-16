@@ -551,7 +551,7 @@ Unfortunately, many reporters and journalists have failed to critically evaluate
 
 **Here is the study almost never mentioned by Dr. Loftus or the media:**
 
-**Loftus, E.F., Polonsky, S., & Fullilove, M. T. (1994). [Memories of childhood sexual abuse: Remembering and repressing](/pdf/Loftus.pdf). *Psychology of Women Quarterly, 18,* 67-84.**
+**Loftus, E.F., Polonsky, S., & Fullilove, M. T. (1994). [Memories of childhood sexual abuse: Remembering and repressing](/pdf/Loftus1994.pdf). *Psychology of Women Quarterly, 18,* 67-84.**
 
 Abstract: "Women involved in out-patient treatment for substance abuse were interviewed to examine their recollections of childhood sexual abuse. Overall, 54% of the women reported a history of childhood sexual abuse. The majority (81.1%) remembered all or part of the abuse their whole lives; 19% reported they forgot the abuse for a period of time, and later the memory returned. Women who remembered the abuse their whole lives reported a clearer memory, with a more detailed picture. They also reported greater intensity of feelings at the time the abuse happened. Women who remembered the abuse their whole lives did not differ from others in terms of the violence of the abuse or whether the abuse was incestuous. These data bear on current discussions concerning the extent to which repression is a common way of coping with child sexual abuse trauma, and also bear on some widely held beliefs about the correlates of repression."
 
