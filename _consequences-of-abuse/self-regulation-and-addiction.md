@@ -24,8 +24,6 @@ on this page
 * [Deal With This Early, With As Much Hope, Help, and Patience As Possible](#deal-with-this-early-with-as-much-hope-help-and-patience-as-possible)
 {: .onpage}
 
-It's about managing emotions, impulses, wants and needs. These aren't always easy, but are keys to things getting better.
-
 ## Losing Control
 
 Do your emotions control you more than you control them? Are you struggling with addiction?
