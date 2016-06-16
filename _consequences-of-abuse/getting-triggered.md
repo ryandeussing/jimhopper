@@ -23,9 +23,9 @@ on this page
 * [Awareness and Learning, Freedom and Control](#awareness-and-learning-freedom-and-control)
 {: .onpage}
 
-Something in the present releases – automatically, in your brain – memories or reactions from past painful experiences. These responses can be understood, and overcome.
-
 ## Suddenly In Defense or Survival Mode
+
+Something in the present releases – automatically, in your brain – memories or reactions from past painful experiences.
 
 When triggers hit, they’re usually unexpected and beyond your control.
 
