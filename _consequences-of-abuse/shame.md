@@ -14,15 +14,13 @@ facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
 
-*It's almost always a problem for people who've had harmful unwanted or abusive childhood experiences.*
-
-*So if you too are struggling with shame, you're not alone.*
-
-## What It’s About
+### What It’s About
 
 Shame is thoughts and feelings about *who you are.*
 
 It involves feeling unworthy of respect or positive consideration by others, feeling like you deserve to be judged and criticized, and feeling embarrassed in front of others.
+
+Shame is almost always a problem for people who've had harmful unwanted or abusive childhood experiences.
 
 > If you are struggling with shame, you are not alone.
 
@@ -34,11 +32,11 @@ But shame can be a huge problem, of course. It can go too far, go on too long, a
 
 Yet many people have found they can overcome shame and leave it behind, using the tools of self-awareness, understanding, and compassion.
 
-And this won’t be news to anyone: For people with histories of harmful unwanted or abusive childhood experiences, intense and long-term shame can become a seemingly unshakable part of life.
+And this won’t be news to anyone: For people with histories of harmful unwanted or abusive childhood experiences, intense and long-term shame can seem to be an unshakable part of life.
 
 You already know a major reason why…
 
-## Being a Person Who's Had Unwanted or Abusive Sexual Experiences
+## Being Someone Who's Had Unwanted or Abusive Sexual Experiences
 
 For the vast majority of children, it feels shameful to have had unwanted or abusive sexual experiences. The sense of shame can last long into adulthood, and sadly some people take it with them to the grave.
 
