@@ -134,7 +134,7 @@ The less judgment one has toward a habitual response, the less likely it will be
 
 ### Calming the Mind
 
-There are several ways that mindfulness can help to quiet and calm the mind, which increases the occurrence of positive feelings like enjoyment, appreciation, gratitude and general happiness. Similarly, by cultivating positive emotions, particularly ones involving kindness toward yourself and others, you help calm your mind. You can learn to make this healing and happiness promoting cycle work for you.
+There are several ways that mindfulness can help to calm and quiet the mind, which increases the occurrence of positive feelings like enjoyment, appreciation, gratitude and general happiness. Similarly, by cultivating positive emotions, particularly ones involving kindness toward yourself and others, you help calm your mind. You can learn to make this healing and happiness promoting cycle work for you.
 
 The following outlines how these effects can occur and accumulate, and offers some exercises that help bring these benefits.
 
