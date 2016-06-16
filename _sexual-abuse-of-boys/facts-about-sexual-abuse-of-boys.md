@@ -5,7 +5,7 @@ order: 2
 subcollection:
 hotlines_sidebar: true
 description:
-nexturl: google.com
+nexturl:
 nexttitle:
 prevurl: /child-abuse/sexual-abuse-of-boys/
 prevtitle: Sexual Abuse of Boys
