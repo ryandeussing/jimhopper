@@ -302,7 +302,7 @@ Here are some exercises and handouts that foster greater experiential understand
 
 [What Do I Do with My Seeking Circuitry](/pdf/WhatDoISeek.pdf) - One-page handout to promote reflection and possibly new action. This handout is used in two of the exercises in the handout below.
 
-[Individual and Partner Exercises](/pdf/CircuitriesCyclesExercises.pdf) - I lead people through these exercises during my programs on harnessing key brain for healing and happiness, especially in my annual 5-day training, where we have lots of time to engage in contemplative practices and exercises.
+[Individual and Partner Exercises](/pdf/CircuitriesCyclesExercises.pdf) - I lead people through these exercises during my trainings on harnessing key brain circuitries for healing and happiness, especially in my [annual 5-day program](/services/kripalu/), where we have lots of time to engage in contemplative practices and exercises.
 
 ## Additional Notes
 
