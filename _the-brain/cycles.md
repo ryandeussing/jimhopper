@@ -186,15 +186,15 @@ Only with that grounding in embodied awareness – of the impermanent bodily sen
 
 Mindfulness can enable direct and safe engagement with the bodily sensations of pain and suffering, which enables us to experience and understand those sensations as just that: passing sensory information that does not constitute a major threat that must be escaped or defended against. Rather than seeking to control or escape those sensations, which brings no healing but does perpetuate suffering, mindfulness allows tolerance and compassionate understanding of those sensations, and other constructive and healing responses to them.
 
-In short, mindfulness enables the transformation of suffering experiences into opportunities for healing, even spiritual awakening.
-
-In my book chapter, [Harnessing the Seeking, Satisfaction and Embodiment Circuitries in Contemplative Approaches to Healing Trauma](/pdf/Hopper_2015_Harnessing_the_Seeking_Satisfaction_and_Embodiment_Circuitries.pdf), and in several other chapters of [Mindfulness-Oriented Interventions for Trauma](http://www.amazon.com/Mindfulness-Oriented-Interventions-Trauma-Integrating-Contemplative/dp/1462518583/ref=nosim/?tag=jimhoppercom-20)&nbsp;(co-edited with colleagues), there are many examples of how mindfulness can play an integral role in the healing cycles of *seeking to engage and transform suffering*.
+In short, mindfulness of bodily sensations plays a central role in the transformation of suffering experiences into opportunities for healing, even spiritual awakening.
 
 Here I want to note that, especially for very traumatized people, attending to body sensations associated with trauma, even unintentionally in the midst of a mindfulness exercise, can be quite triggering (e.g., of traumatic memories and trauma-based emotional reactions) and overwhelming. So it can be safest – and most helpful – to first experience mindfulness in the context of a relationship with a mindful therapist. This too is illustrated by several case vignettes in chapters of the same book.
 
 Certainly mindfulness and other contemplative methods for engaging with and transforming suffering are not quick fixes or panaceas. Even after cultivating the self-care and self-regulation skills needed to engage directly with trauma or other forms of extreme suffering, engaging with and transforming suffering can be a long process.
 
 Also, we are all creatures of habit, and old habits can be hard to break, especially if they (have seemed to) ensure our physical or psychological survival. But with a foundation of self-regulation skills, regular practice, and relationships that support both, mindfully engaging with one’s suffering can facilitate the healing cycle of *seeking to engage and transform suffering*.
+
+In my chapter, [Harnessing the Seeking, Satisfaction and Embodiment Circuitries in Contemplative Approaches to Healing Trauma](/pdf/Hopper_2015_Harnessing_the_Seeking_Satisfaction_and_Embodiment_Circuitries.pdf), and in several other chapters of [Mindfulness-Oriented Interventions for Trauma](http://www.amazon.com/Mindfulness-Oriented-Interventions-Trauma-Integrating-Contemplative/dp/1462518583/ref=nosim/?tag=jimhoppercom-20)&nbsp;(co-edited with colleagues), there are many examples of how mindfulness can play an integral role in the healing cycle of *seeking to engage and transform suffering*.
 
 ## Contemplative Practices and Seeking True Goods
 
