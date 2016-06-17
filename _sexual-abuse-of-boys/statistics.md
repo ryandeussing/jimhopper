@@ -18,7 +18,7 @@ on this page
 
 * [The 1 in 6 Statistic, in Brief](#the-1-in-6-statistic-in-brief)
 * [The Research](#the-research)
-* [Why the 1 in 6 Statistic Is Probably an *Under*-estimate](#why-the-1-in-6-statistic-is-probably-an-underestimate)
+* [Why the 1 in 6 Statistic Is Probably an *Under*estimate](#why-the-1-in-6-statistic-is-probably-an-underestimate)
 * [Think About It, and Consider Educating Others](#Think-about-it-and-consider-educating-others)
 * [Details on Prevalence Research](#details-on-prevalence-research)
 {: .onpage}
