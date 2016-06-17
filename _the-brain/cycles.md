@@ -32,7 +32,7 @@ By 'cycle' I mean a set of experiences and actions that unfold repeatedly, in th
 
 I introduce and explain this framework in three steps. First, what I call fundamental 'cycles of suffering,' which involve relationships among key brain circuitries, are explained and briefly illustrated with examples. Second, I explain and illustrate what I call fundamental 'cycles of healing and happiness,' and roles of the [key brain circuitries](/the-brain/key-brain-circuitries/) in those cycles.
 
-Third, I explain how the seeking, satisfaction and embodiment circuitries can be harnessed by contemplative practices – especially those that cultivate mindfulness, love, kindness and compassion – to transform suffering and bring genuine happiness.
+Third, I explain how the seeking, satisfaction and embodiment circuitries can be harnessed by contemplative practices – especially those that cultivate mindfulness, kindness, compassion and love – to transform suffering and bring genuine happiness.
 
 This 'circuitries and cycles' framework can be used to increase our understanding of all kinds of human suffering, including depression, anxiety, post-traumatic stress, addictions and various problems with regulating emotions and impulses.
 
@@ -242,7 +242,7 @@ We all know this in our hearts, but of course it's easier said than done. And we
 
 For Thich Nhat Hanh it was an image of a happy and loving Buddha; for many Christians, it’s an image of Jesus. Every religion and spiritual tradition has its images of wise, loving and happy beings that can powerfully activate our seeking circuitry and deepest longings.
 
-Yet often more effective for cultivating love within ourselves – at least initially – are simpler and more common images that easily called to mind or found on the internet, like a cute baby, a puppy, a kitten. The key to successfully utilizing images in this way: bringing the image to mind causes motivations and feelings of kindness, compassion, and love to arise *spontaneously and effortlessly*.
+Yet often more effective for cultivating love within ourselves – at least initially – are simpler and more common images that are easily called to mind or found on the internet, like a cute baby, a puppy, a kitten. The key to successfully utilizing images in this way: bringing the image to mind causes motivations and feelings of kindness, compassion, and love to arise *spontaneously and effortlessly*.
 
 In the *metta* practice of the Theravadin Buddhist tradition, now being taught to many people around the world, including by therapists and counselors, the focusing of attention on such an image, and the bodily sensations of spontaneously arising motivations and feelings, is combined with internally repeating phrases like these:
 
@@ -254,11 +254,11 @@ In the *metta* practice of the Theravadin Buddhist tradition, now being taught t
 
 #### May you be free of suffering.
 
-In this way, during this practice visual imagination and verbal thoughts – typically absorbed in memories, plans, and fantasies of imagined rewards – along with attention to bodily sensations, are used to *harness* *the brain’s seeking circuitry to love, kindness and compassion*.
+In this way, during this practice visual imagination and verbal thoughts (which are typically absorbed in memories, plans, and fantasies of imagined rewards), along with attention to bodily sensations, are used to *harness* *the brain’s seeking circuitry to kindness, compassion, and love*.
 
 > Harnessing the brain’s seeking circuitry to cultivating embodied and satisfying kindness, compassion, and love.
 
-If while doing this practice we *experience in our bodies* feelings of love, kindness and compassion, we occupy the embodiment circuitry with them.
+If while doing this practice we *experience in our bodies* feelings of kindness, compassion and love, we occupy the embodiment circuitry with them.
 
 If those good feelings are accompanied by feelings of contentment, peace, and satisfaction, then this practice also involves the satisfaction circuitry.
 
@@ -266,9 +266,9 @@ And to the extent we experience the bodily sensations of contentment, peace and 
 
 In the understanding I am sharing here, harnessing the seeking, satisfaction and embodiment circuitries to the cultivation of kindness, compassion, and love is the most basic and powerful form of the *seeking true goods* healing cycle.
 
-The benefits of cultivating love, kindness and compassion toward ourselves and others are many – especially for those of us who are suffering greatly and have thus far experienced little of these true goods in their lives.
+The benefits of cultivating kindness, compassion and love toward ourselves and others are many – especially for those of us who are suffering greatly and have thus far experienced little of these true goods in their lives.
 
-As with mindfulness, however, things can be more complex. Given the neglect, losses, abuses and betrayals that many people have experienced in their lives, feelings of love, kindness and compassion can trigger fear. This is normal, and there are many ways that people can be helped to gently and safely explore, understand and overcome these obstacles to receiving, cultivating and giving love, kindness and compassion.
+As with mindfulness, however, things can be more complex. Given the neglect, losses, abuses and betrayals that many people have experienced in their lives, feelings of kindness, compassion and love can trigger fear. This is normal, and there are many ways that people can be helped to gently and safely explore, understand and overcome these obstacles to receiving, cultivating and giving kindness, compassion and love.
 
 ### Other 'True Goods'
 
@@ -286,7 +286,7 @@ Combining mindfulness practice with analytic meditation involving self-questioni
 
 Seeking the true good of self-knowledge can help us to mindfully and compassionately acknowledge such normal human short-comings, to gain more freedom from them, and to focus our seeking on true goods and genuine happiness.
 
-In short, there are many contemplative practices – especially but not only those for cultivating love, kindness and compassion – that can bring healing from suffering, and much more, *by harnessing the brains’ seeking circuitry to the pursuit of true goods and genuine happiness*.
+In short, there are many contemplative practices – especially but not only those for cultivating kindness, compassion and love – that can bring healing from suffering, and much more, *by harnessing the brains’ seeking circuitry to the pursuit of true goods and genuine happiness*.
 
 ## Summary and Conclusions
 
