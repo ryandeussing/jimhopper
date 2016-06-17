@@ -56,11 +56,11 @@ All of these cycles of suffering – however addictive or harmful – are about 
 
 Different cycles of suffering involve distinct unhealthy relationships among the circuitries of fear, seeking, satisfaction and embodiment. And there are two very common cycles of suffering, one revolving around fear and anxiety, and the other around depression, defeat and demoralization.
 
-These two common suffering cycles, and the corresponding activity of the brain circuitries of fear, seeking, satisfaction, are depicted below.
+These two common suffering cycles, and the corresponding activity of the brain circuitries of fear, seeking, satisfaction, are described below.
 
 ### Fear/Anxiety Cycle
 
-In this suffering cycle seeking is focused on avoiding things we are afraid of or anxious about, and/or on avoiding fear and anxiety. Thus the seeking circuitry is driven primarily by the fear circuitry, not by pursuit of what’s truly satisfying or fulfilling.
+In this suffering cycle seeking is focused on avoiding or escaping from things we are afraid of or anxious about, and/or on avoiding or escaping fear and anxiety. Thus the seeking circuitry is driven primarily by the fear circuitry, not by pursuit of what’s truly satisfying or fulfilling.
 
 When the avoidance or escape end, the suffering from which we were seeking escape returns. And that suffering may be intensified, because the way we seek to avoid or escape may itself cause or increase our fear and anxiety (e.g., we may get drunk to avoid or escape fears and anxieties and then fear how our drunken behavior has affected loved ones and how they see us).
 
@@ -80,9 +80,9 @@ The embodiment circuitry is occupied by sensations that go with feeling heavy, s
 
 The seeking circuitry is actually *suppressed*, so we don’t expect good things to happen or have much motivation for their pursuit. To the extent the seeking circuitry *is* active – whether sporadically in a burst like getting off the couch to go out and drink (or shop or have sex), or at an ongoing low level as in someone motivated to smoke pot and watch TV all day – it focuses on escaping the bad feelings and sensations of depression and defeat. (This is true even when we are avoiding embodied emotional experiences by ruminating on negative, pessimistic and/or self-denigrating thoughts, memories and fantasies.)
 
-As with the fear/anxiety cycle, when the escape behavior ends the suffering of depression and defeat return. Sometimes the depression and feelings of defeat are even worse than before, because the escape behavior (or the substance used, or the effects of withdrawing from the substance) are causes of depression and feelings of defeat.
+As with the fear/anxiety cycle, when the escape behavior ends the suffering of depression and defeat return. Sometimes the depression and feelings of defeat are even worse than before, because the escape behavior (or the substance used, or the effects of withdrawing from the substance) are themselves causes of depression and feelings of defeat.
 
-And of course states of depression involve little or no activity of the satisfaction circuitry. There is no satisfaction, contentment or peace in such states of suffering.
+And of course states of depression involve little or no activity of the satisfaction circuitry. There is no satisfaction, contentment or happiness in such states of suffering.
 
 Finally, the suppression and *misdirection* of the seeking circuitry – especially with actions that are inconsistent with our highest values – when combined with the absence of satisfaction, can cause or greatly worsen a sense of *demoralization*. When we feel too depressed and defeated to live up to our highest values and be our best selves, and when we're only escaping our depression by doing things that we feel ashamed of, it can be terribly demoralizing.
 
@@ -90,7 +90,7 @@ Finally, the suppression and *misdirection* of the seeking circuitry – especia
 
 Of course, sometimes people can be fearful or anxious *and* depressed at the same time. And we may seek to avoid and escape from other unwanted experiences too, for example feeling emotionally numb or disconnected from other people and life.
 
-The bottom line: So long as our seeking circuitry is suppressed or is focused almost entirely on avoiding and escaping pain and suffering – rather than on seeking what is truly satisfying and fulfilling – we are caught in cycles of suffering.
+> So long as our seeking circuitry is suppressed or is focused almost entirely on avoiding and escaping pain and suffering – rather than on seeking what is truly satisfying and fulfilling – we are caught in cycles of suffering.
 
 ## Cycles of Healing and Happiness
 
