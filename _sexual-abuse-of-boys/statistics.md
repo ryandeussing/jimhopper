@@ -53,13 +53,13 @@ A 1996 study of male university students in the Boston area reported that 18% of
 
 A 1990 national study of U.S. adults reported that 16% of men were sexually abused before the age of 18 (Finkelhor et al., 1990).
 
-### Why 1 in 6 Is Probably an&nbsp;*Under-*estimate
+## Why 1 in 6 Is Probably an&nbsp;*Under-*estimate
 
 Males who have such experiences are less likely to disclose them than are females, even on anonymous and confidential surveys (Holmes, Offen & Waller, 1997).
 
 Only 16% of men with documented histories of sexual abuse (by social service agencies, which means it was very serious) considered themselves to have been sexually abused, compared to 64% of women with documented histories in the same study (Widom & Morris, 1997).
 
-### Think About It, and Consider Educating Others
+## Think About It, and Consider Educating Others
 
 In summary, the 1 in 6 statistic is supported by solid scientific research, including a study conducted by the U.S. Centers for Disease Control, and is likely an *under*estimate of the actual prevalence. Yet few people are aware that there are just as many men who experienced sexual abuse as children as there are who develop prostate cancer, the most common cancer and second leading cause of death among men. And few know that the 19 million men with histories of childhood sexual abuse are *more than 4 times* the number with heart disease, the leading cause of death among men.
 
