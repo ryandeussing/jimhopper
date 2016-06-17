@@ -145,7 +145,7 @@ Brain researchers call this the 'default mode' of the human brain, and for good 
 
 ![](/uploads/versions/default_circuitry---x----400-330x---.jpg)
 
-The brain’s 'default mode network' (or circuitry) has been mapped. While there are technical obstacles to measuring small bouts of seeking circuitry activity during mind wandering, researchers have shown connections between the default mode and seeking circuitries.
+The brain’s default mode circuitry (or network) has been mapped. While there are technical obstacles to measuring small bouts of seeking circuitry activity during mind wandering, researchers have shown connections between the default mode and seeking circuitries.
 
 And as noted above, we don't need brain research to know this: when we (mindfully) observe our own daydreams, memories and plans – our default mode activity, that is – we see how much they revolve around seeking and experiencing 'rewards' in our imaginations. Future yummy meals, fun weekends, vacations. Future achievements, praise, vindications.
 
@@ -153,7 +153,7 @@ All those little reward scenarios we keep seeking and experiencing in our heads 
 
 ## Executive Circuitry
 
-Finally, the brain's executive circuitry, which mostly consists of the prefrontal cortex (but also parietal cortex), is what allows us to think, plan, solve problems, imagine the future, manage our emotions and impulses, remember our highest values and goals, and make thoughtful decisions.
+Finally, the brain's *executive circuitry*, which mostly consists of the prefrontal cortex (but also parietal cortex), is what allows us to think, plan, solve problems, imagine the future, manage our emotions and impulses, remember our highest values and goals, and make thoughtful decisions.
 
 The executive circuitry also allows us to direct our attention where we choose, rather than where it's automatically pulled by internal feelings, thoughts and images, or by external sights, sounds and other stimuli.
 
