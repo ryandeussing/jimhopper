@@ -134,7 +134,7 @@ In this cycle there is still suffering, but rather than seeking escape from suff
 
 Yes, engaging in this healing cycle is difficult. Sometimes it's painful. But the payoff is huge. We can come to live in much less fear, and with much less aversion to the inevitable unwanted experiences life sends our way. We can have more compassion for ourselves, no matter what we're going through. We can find courage and strength inside that we never realized were there.
 
-And as addressed next, we can free up our brain's seeking circuitry to pursue much more satisfying and fulfilling things in life, which will bring more happiness and healthiness than we ever imagined possible.
+And as addressed next, we can free up our brain's seeking circuitry to pursue much more satisfying and fulfilling things in life, which will bring greater happiness and health than we ever imagined possible.
 
 ## Healing and Happiness Cycle: Seeking True Goods
 
@@ -148,7 +148,7 @@ We all need to sort out, for ourselves, what truly makes us happy; what we find 
 
 This process of exploration and discovery may take some time, especially if we've had little experience with true goods and genuine happiness. It will take the support of others who do not judge our values or push us to adopt theirs, but instead give us the space, as well as the support and inspiration, to sort things out for ourselves – and to awaken and harness our seeking circuitry to this pursuit.
 
-(One therapy model that many find helpful with this is [Acceptance and Commitment Therapy](https://contextualscience.org/act), or ACT, which has a major focus on helping people sort through their values and goals, and then commit to behaving consistently with the values that are most important to them.)
+(One therapy that many find helpful with this is [Acceptance and Commitment Therapy](https://contextualscience.org/act), or ACT, which has a major focus on helping people sort through their values and goals, and then commit to behaving consistently with the values that are most important to them. In the addictions field, [motivational interviewing](http://www.motivationalinterviewing.org/) helps people )
 
 As shown in the image below, the *seeking true goods* healing cycle involves aligning the seeking circuitry with one’s deepest needs and longings.
 
