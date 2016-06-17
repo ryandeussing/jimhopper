@@ -15,6 +15,7 @@ facebook_image_path: /uploads/facebook-brain.jpg
 on this page
 {: .onpage__header}
 
+* [Introduction](#introduction)
 * [Fear Circuitry](#fear-circuitry)
 * [Seeking Circuitry](#seeking-circuitry)
 * [Satisfaction Circuitry](#satisfaction-circuitry)
@@ -23,6 +24,8 @@ on this page
 * [Executive Circuitry](#executive-circuitry)
 * [Keys to Understanding Our Suffering, Healing and Happiness](#keys-to-understanding-our-suffering-healing-and-happiness)
 {: .onpage}
+
+## Introduction
 
 The brain can be understood, in part, as consisting of many different and interconnected circuitries. ('Circuitry' simply means a collection of brain areas that work together to perform certain functions.)
 
