@@ -152,13 +152,13 @@ This process of exploration and discovery may take some time, especially if we'v
 
 As shown in the image below, the *seeking true goods* healing cycle involves aligning the seeking circuitry with one’s deepest needs and longings.
 
+![](/uploads/versions/brain_cycles_revised4---x0-6-835-644-363-280x---.png)
+
 A person engaging in this healing and happiness cycle is seeking what will be genuinely satisfying and fulfilling, and spending more and more time experiencing that satisfaction and fulfillment.
 
 Also, the more we activate our brain’s satisfaction circuitry as a result of successful seeking of this kind, and the more we occupy our embodiment circuitry with the sensations of that satisfaction, the less power the circuitries of fear and seeking have over us. That’s what it *means* to be satisfied and content: accepting and embracing this moment, without wanting or seeking more from it; accepting whatever may come next, without fear.
 
-![](/uploads/versions/brain_cycles_revised4---x0-6-835-644-363-280x---.png)
-
-To summarize, in this cycle the seeking circuitry is focused on wanting and pursuing what is genuinely satisfying and fulfilling. This leads to more experiences of genuine satisfaction, fulfillment and happiness, including the bodily aspects of such experiences as registered by the embodiment circuitry. This in turn increases motivation to seek and enjoy more true goods (rather than quick fixes and other 'false goods' that perpetuate suffering), which decreases fear circuitry activation and suffering in general.
+To summarize, in the seeking true good cycle the seeking circuitry is focused on wanting and pursuing what is genuinely satisfying and fulfilling. This leads to more experiences of genuine satisfaction, fulfillment and happiness, including the bodily aspects of such experiences as registered by the embodiment circuitry. This in turn increases motivation to seek and enjoy more true goods (rather than quick fixes and other 'false goods' that perpetuate suffering), which decreases fear circuitry activation and suffering in general.
 
 ## Contemplative Practices for Seeking to Engage and Transform Suffering
 
@@ -188,7 +188,7 @@ Here I want to note that, especially for very traumatized people, attending to b
 
 Certainly mindfulness and other contemplative methods for engaging with and transforming suffering are not quick fixes or panaceas. Even after cultivating the self-care and self-regulation skills needed to engage directly with trauma or other forms of extreme suffering, engaging with and transforming suffering can be a long process.
 
-Also, we are all creatures of habit, and old habits can be hard to break, especially if they (seemed to) ensure our physical or psychological survival. But with a foundation of self-regulation skills, regular practice, and relationships that support both, mindfully engaging with one’s suffering can facilitate the healing cycle of *seeking to engage and transform suffering*.
+Also, we are all creatures of habit, and old habits can be hard to break, especially if they (have seemed to) ensure our physical or psychological survival. But with a foundation of self-regulation skills, regular practice, and relationships that support both, mindfully engaging with one’s suffering can facilitate the healing cycle of *seeking to engage and transform suffering*.
 
 ## Contemplative Practices and Seeking True Goods
 
@@ -196,7 +196,7 @@ Also, we are all creatures of habit, and old habits can be hard to break, especi
 
 Our seeking circuitry is always active. Fortunately, unlike many other aspects of brain function, our seeking circuitry is *accessible* to us. Its functioning is something we can bring into awareness and contemplate.
 
-And we can choose: *What shall I seek*? *What should I seek as my highest priorities?* *What do I want to seek in this relationship? In this moment? In this moment with its conflicting motivations, and different parts of me that have been activated?*
+And we can choose: *What shall I seek*? *What should I seek as my highest priorities?* *What do I want to seek in this relationship? In this moment? In this moment with its conflicting motivations, in which very different parts of me are activated and wanting to respond in very different ways?*
 
 We can also contemplate and choose our answers to these questions: What *really* makes me happy? What is my *motivation* for doing (or thinking or saying or writing) this? These questions and choices are at the heart of contemplative practices and how we put them into practice in our lives.
 
@@ -208,7 +208,7 @@ In short, the brain’s seeking circuitry is central to human existence.
 
 Yet around the world – not only in popular cultures but within neuroscience, psychology and psychiatry – the seeking circuitry has been largely unknown, unappreciated, and misunderstood.
 
-So far, aside from addiction research, the brain’s seeking circuitry has been largely unrecognized and overlooked. (And among addiction researchers, their remains confusion about the 'reward circuitiry,' of which the seeking circuitry is a key but often inadequately understood component.) Similarly, the recent focus on mindfulness and other contemplative methods in psychology has involved little consideration of the seeking circuitry. (There are good reasons for this, including lack of knowledge of this critical aspect of brain function; a focus, shared with medicine, on treating illness and reducing suffering rather than promoting health and happiness; and fears of venturing into realms of morality, religion and spirituality.)
+So far, aside from addiction research, the brain’s seeking circuitry has been largely unrecognized and overlooked. (And among addiction researchers, there remains confusion about the 'reward circuitiry,' of which the seeking circuitry is a key but often inadequately understood component.) Similarly, the recent focus on mindfulness and other contemplative methods in psychology has involved little consideration of the seeking circuitry. (There are good reasons for this, including lack of knowledge of this critical aspect of brain function; a focus, shared with medicine, on treating illness and reducing suffering rather than promoting health and happiness; and fears of venturing into realms of morality, religion and spirituality.)
 
 Indeed, discussions of mindfulness often include cautions about the danger of seeking any result, and the concern that doing so is incompatible with mindfulness. Certainly seeking results can be an obstacle to mindfulness and the unsought and unexpected insights and transformations that it can bring. But as stated in the 'Second Noble Truth' of Buddhism, the problem is *craving conditioned by ignorance* – not seeking itself, which need not involve craving and is inseparable from normative brain function, healthy living, and embodied life itself.
 
@@ -218,7 +218,7 @@ The meditation teacher and therapist Tara Brach has movingly written of an exper
 
 #### “Late one evening I sat meditating alone in my room. My attention moved deeper and deeper into longing, until I felt as if I might explode with its heartbreaking urgency. Yet at the same time I knew that was exactly what I wanted – *I wanted to die into longing, into communion, into love itself*. At that moment I could finally let my longing be all that it was. I even invited it…” (Brach, 2003, pp.153-154).
 
-Similarly, in a recent interview, the widely respected Buddhist teacher, author, and peace activist Thich Nhat Hanh recalled this formative experience when he was seven or eight years old:
+Similarly, in an interview, the widely respected Buddhist teacher, author, and peace activist Thich Nhat Hanh recalled this formative experience when he was seven or eight years old:
 
 #### “One day I saw a picture of the Buddha… [H]e was sitting on the grass very peaceful, smiling, and I was impressed. Around me people were not like that, so I had the desire to be someone like him. And I nourished that kind of desire until the age of 16, when I had the permission from my parents to go and ordain as a Buddhist monk…. We call it the beginner’s mind: *The deep intention, the deepest desire that one person may have*. And I can say that since that time, until this day, this beginner’s mind is still alive in me” (interview with Oprah Winfrey, 2012, emphasis in spoken words).
 
@@ -228,19 +228,21 @@ Yes, seeking can cause problems – when it becomes craving, grasping, clinging 
 
 While 'mindfulness' and Buddhism have recently become popular, even trendy, sages of the great philosophical and religious traditions of the West have always recognized the centrality of seeking in human life – and that where we focus our seeking is the key to happiness and goodness. Those Western traditions, including Christianity, have always had spiritual teachers who understood that harnessing one's seeking to the pursuit of true goods is a key, perhaps the key, to spiritual transformation and 'the good life.'
 
-In Boethius' 6th century masterpiece, [The Consolation of Philosophy](https://en.wikipedia.org/wiki/The_Consolation_of_Philosophy), one of the most influential books ever written in the (Christian) West, he repeatedly pointed out that nothing is more important than discovering and seeking what is truly good. He observed, "A desire for true good is planted by nature in human minds. Only error leads them astray towards false goods." He also wrote, "In spite of a clouded memory, the mind seeks its own good, though like a drunkard it cannot find the path home."
+Great philosophers like Plato and Aristotle wrote a lot about what is truly good, what is truly worth seeking and embodying, and the nature of the good life. In Boethius' 6th century masterpiece, [The Consolation of Philosophy](https://en.wikipedia.org/wiki/The_Consolation_of_Philosophy), one of the most influential books ever written in the (Christian) West, he repeatedly pointed out that nothing is more important than discovering and seeking what is truly good. He observed, "A desire for true good is planted by nature in human minds. Only error leads them astray towards false goods." He also wrote, "In spite of a clouded memory, the mind seeks its own good, though like a drunkard it cannot find the path home."
 
-And Boethius pointed to this truth, which can be uncomfortable to acknowledge, "Each person considers what he desires above all else to be the supreme good."
+The great Roman poet Virgil wrote, "Every person makes a god of his own desire." And Boethius pointed to the same truth, which can be uncomfortable for us to acknowledge, "Each person considers what he desires above all else to be the supreme good."
 
 What do we really desire? What do we really seek? What do we really long to have, and to be? What do we really believe are the greatest goods?
 
-Actions speak louder than words. Only by honestly investigating and acknowledging what we are *actually* seeking – day by day, moment by moment, thought by thought, action by action – and by harnessing our seeking circuitry to the pursuit of what is truly good – thus truly fulfilling – can we live with integrity and cultivate genuine happiness and love.
+Actions speak louder than words. Only by honestly investigating and acknowledging what we are *actually* seeking – day by day, moment by moment, thought by thought, action by action – and by harnessing our seeking circuitry to the pursuit of what is truly good – thus truly fulfilling – can we live with integrity and cultivate genuine happiness.
 
-We all know this in our hearts, but of course it's easier said than done. And we can't do it alone. We need the support of others. We need philosophical, religious and/or spiritual traditions, and we need disciplined practices for cultivating genuine insight into our motivations and for harnessing our seeking circuitry to the pursuit of true goods.
+We all know this in our hearts, but of course it's easier said than done. And we can't do it alone. We need the support of others. We need the support of philosophical, religious and/or spiritual traditions. And we need disciplined practices for cultivating genuine insight into our motivations, and disciplined practices for harnessing our seeking circuitry to the pursuit of true goods.
 
-Seeking love, kindness and compassion. For Thich Nhat Hanh it was an image of a happy and loving Buddha; for many Christians, it’s an image of Jesus. Every religion and spiritual tradition has its images of wise, loving and happy beings that can powerfully activate our seeking circuitry and deepest longings.
+### Seeking Kindness, Compassion, and Love
 
-Yet often more effective for cultivating love within ourselves – at least initially – are simpler and more common images that easily called to mind or found on the internet, like a cute baby, a puppy, a kitten. The key to successfully utilizing images in this way: bringing the image to mind causes motivations and feelings of love, kindness and compassion to arise *spontaneously and effortlessly*.
+For Thich Nhat Hanh it was an image of a happy and loving Buddha; for many Christians, it’s an image of Jesus. Every religion and spiritual tradition has its images of wise, loving and happy beings that can powerfully activate our seeking circuitry and deepest longings.
+
+Yet often more effective for cultivating love within ourselves – at least initially – are simpler and more common images that easily called to mind or found on the internet, like a cute baby, a puppy, a kitten. The key to successfully utilizing images in this way: bringing the image to mind causes motivations and feelings of kindness, compassion, and love to arise *spontaneously and effortlessly*.
 
 In the *metta* practice of the Theravadin Buddhist tradition, now being taught to many people around the world, including by therapists and counselors, the focusing of attention on such an image, and the bodily sensations of spontaneously arising motivations and feelings, is combined with internally repeating phrases like these:
 
@@ -252,7 +254,9 @@ In the *metta* practice of the Theravadin Buddhist tradition, now being taught t
 
 #### May you be free of suffering.
 
-Harnessing the brain’s seeking circuitry to cultivating embodied and satisfying love, kindness and compassion. In this way, during this practice visual imagination and verbal thoughts – typically absorbed in memories, plans, and fantasies of imagined rewards – along with attention to bodily sensations, are used to *harness* *the brain’s seeking circuitry to love, kindness and compassion*.
+In this way, during this practice visual imagination and verbal thoughts – typically absorbed in memories, plans, and fantasies of imagined rewards – along with attention to bodily sensations, are used to *harness* *the brain’s seeking circuitry to love, kindness and compassion*.
+
+> Harnessing the brain’s seeking circuitry to cultivating embodied and satisfying love, kindness and compassion.
 
 If while doing this practice we *experience in our bodies* feelings of love, kindness and compassion, we occupy the embodiment circuitry with them.
 
