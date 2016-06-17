@@ -137,7 +137,7 @@ And all the truly good things in life include bodily sensations too (however awa
 
 ## Default Mode Circuitry
 
-Another key brain circuitry that I focus on is the default mode circuitry. This too is an extremely well-studied circuitry, discovered by neuroscientists who were curious to see which brain areas were active when people were told – as they have been in thousands of experiments – to do 'nothing' while lying in a brain scanner.
+Another key brain circuitry that I focus on is the *default mode circuitry*. This too is an extremely well-studied circuitry, discovered by neuroscientists who were curious to see which brain areas were active when people were told – as they have been in thousands of experiments – to do 'nothing' while lying in a brain scanner.
 
 When we are not focused on a particular task, our minds tend to wander. This wandering includes running through plans or scenarios in our heads, and imagining things we want to happen and do not want to happen.
 
