@@ -260,13 +260,13 @@ In this way, during this practice visual imagination and verbal thoughts (which 
 
 If while doing this practice we *experience in our bodies* feelings of kindness, compassion and love, we occupy the embodiment circuitry with them.
 
-If those good feelings are accompanied by feelings of contentment, peace, and satisfaction, then this practice also involves the satisfaction circuitry.
+If those good feelings are accompanied by feelings of contentment, peace, satisfaction and joy, then this practice also involves the satisfaction circuitry.
 
 And to the extent we experience the bodily sensations of contentment, peace and satisfaction, the embodiment and satisfaction circuitries are not only involved, but being transformed.
 
 In the understanding I am sharing here, harnessing the seeking, satisfaction and embodiment circuitries to the cultivation of kindness, compassion, and love is the most basic and powerful form of the *seeking true goods* healing cycle.
 
-The benefits of cultivating kindness, compassion and love toward ourselves and others are many – especially for those of us who are suffering greatly and have thus far experienced little of these true goods in their lives.
+The benefits of cultivating kindness, compassion and love toward ourselves and others are many – especially for those of us who are suffering greatly and have thus far experienced little of these true goods in our lives.
 
 As with mindfulness, however, things can be more complex. Given the neglect, losses, abuses and betrayals that many people have experienced in their lives, feelings of kindness, compassion and love can trigger fear. This is normal, and there are many ways that people can be helped to gently and safely explore, understand and overcome these obstacles to receiving, cultivating and giving kindness, compassion and love.
 
@@ -294,7 +294,7 @@ On this webpage I am offering a framework for understanding key brain and psycho
 
 I have drawn on scientific, clinical and contemplative knowledge to provide an integrative vision. And while simplifying things in some ways, this framework acknowledges the complexity of human suffering and healing. Also, respected neuroscience colleagues asked to review my writing on this framework (for my book chapter) found nothing inconsistent with current scientific knowledge, although it is important to note that direct research on interactions between the brain circuitries of fear, seeking, satisfaction and embodiment is currently limited (but substantive and growing).
 
-Certainly more research is needed. In the meantime, those of us seeking healing and genuine happiness for ourselves and others can better appreciate and explore the power of contemplative practices – Eastern and Western, secular and religious – to harness our brains' seeking, satisfaction and embodiment circuitries to decrease suffering and to cultivate more mindful, loving and happy minds and bodies.
+Certainly more research is needed. In the meantime, those of us seeking healing and genuine happiness for ourselves and others can better appreciate and explore the power of contemplative practices – Eastern and Western, secular and religious – to harness our brains' seeking, satisfaction and embodiment circuitries to decrease suffering and to cultivate more mindful, loving and happy minds, bodies, relationships, families and communities.
 
 ## Exercises and Handouts
 
