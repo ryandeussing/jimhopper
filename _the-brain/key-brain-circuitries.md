@@ -119,7 +119,7 @@ Like the brain’s own opiates, those from outside the body – whether injected
 
 ## Embodiment Circuitry
 
-Another extensively studied and well-established brain circuitry is what I call the *embodiment circuitry*. The more commonly term used in neuroscience is 'interoceptive' circuitry ([interoception](/pdf/Farb_et_al_2015.pdf), broadly defined, refers to the process of receiving, accessing and appraising signals originating within the body.) *Embodiment* is a less technical term and clearly indicates that this circuitry allows us to know what it feels like to be 'in our bodies.'
+Another extensively studied and well-established brain circuitry is what I call the *embodiment circuitry*. The more commonly term used in neuroscience is 'interoceptive' circuitry ([interoception](/pdf/Farb_et_al_2015.pdf), broadly defined, refers to the process of receiving, accessing and appraising signals originating within the body).&nbsp;*Embodiment* is a less technical term and clearly indicates that this circuitry allows us to know what it feels like to be 'in our bodies.'
 
 A key part of the embodiment circuitry is the insular cortex or insula, a cortical region that brings together all information coming from the body (e.g., sensations of movement, touch, tension, pressure, warmth, etc.).
 
@@ -167,9 +167,9 @@ When we feel safe, and have enough support from others and enough skills of our 
 
 The executive functions of the prefrontal cortex can also help us to resist and overcome unhealthy habits and impulses.
 
-Some of these executive functions are called 'self-regulation capacities.' Others play central roles in our capacities to attune to others and relate to them in healthy and fulfilling ways (the main focus on Dan Siegel's interpersonal neurobiology). We need these self-regulatory executive functions to heal from the effects of hurtful and harmful past experiences, and to become free of harmful addictions.
+Some of these executive functions are called 'self-regulation capacities.' Others play central roles in our capacities to attune to others and relate to them in healthy and fulfilling ways (the main focus of Dan Siegel's interpersonal neurobiology). We need these self-regulatory executive functions to heal from the effects of hurtful and harmful past experiences, and to become free of harmful addictions.
 
-Importantly, we develop – and can increase – these executive (circuitry) functions primarily <u>through our relationships with other people</u>. For example, we first learn how to manage our fears and cravings (or not) from how our parents manage theirs and how they relate to our emotions and behaviors. Those and other important relationships (however healthy or unhealthy) play big roles in determining the capacities and habits of our executive circuitry.
+Importantly, we develop – and can increase – these executive (circuitry) functions primarily *through our relationships with other people*. For example, we first learn how to manage our fears and cravings (or not) from how our parents manage theirs and how they relate to our emotions and behaviors. Those and other important relationships (however healthy or unhealthy) play big roles in determining the capacities and habits of our executive circuitry.
 
 Unfortunately, some traumatic experiences (especially in early childhood) and some intoxicating substances can harm the executive circuitry. Fortunately, because the human brain has an amazing capacity to rewire and heal, in most cases such damage is only temporary and/or can be overcome by compensatory brain adaptations.
 
@@ -183,6 +183,6 @@ Such skills may be learned and strengthened in safe and healthy relationships, i
 
 Knowing these brain circuitries, and learning from direct (especially contemplative) experience how they shape our thoughts, emotions and behaviors – over the course of our lives, day to day, moment to moment – gives us powerful insight into how our brains work.
 
-Although sages of the past could not teach their wisdom in terms of the brain, working with these key circuitries – to transform and redeem suffering, and to seek and embody true goods and genuine happiness – has always been at the heart of humanity's great philosophical, religious, spiritual and contemplative traditions.
+Although sages of the past could not teach their wisdom in terms of the brain, working with these key circuitries – to transform, heal and redeem suffering, and to seek and embody true goods and genuine happiness – has always been at the heart of humanity's great philosophical, religious, spiritual and contemplative traditions.
 
 Those are topics that I address, in a small but hopefully useful way, on the next page,&nbsp;[Cycles of Suffering, Healing & Happiness](/the-brain/cycles/).
