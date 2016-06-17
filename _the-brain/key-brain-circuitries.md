@@ -109,13 +109,13 @@ Just as important as the seeking circuitry is the *satisfaction circuitry*. That
 
 Extensive research has established that chemicals in the brain called opioids (and their receptors on brain cells) are centrally involved in feelings of satisfaction and contentment, as well as feelings of connection with others. As Panksepp and Biven have written, opioids acting on opioid receptors (specifically *mu* opoiod receptors) not only take away feelings of pain but “send messages of pleasant satisfaction in the brain” ([2012](http://www.amazon.com/Archaeology-Mind-Neuroevolutionary-Interpersonal-Neurobiology/dp/0393705315/), p.25).
 
-This opioid circuitry of satisfaction can give us the deeply fulfilling pleasures of feeling happy and loved. Any time we feel contented, this circuitry is involved. Whenever we feel comfort or joy. Such experiences, of course, are minimal or missing in the lives of people who are suffering greatly, including those struggling with major trauma, or major anxiety, depression and/or addiction. As noted above, sometimes the only feelings of pleasure that severely suffering people have are those of seeking, anticipating and experiencing substance-induced highs or other quick-fix escapes.
+This opioid circuitry of satisfaction can give us the deeply fulfilling pleasures of feeling happy and loved. Any time we feel contented, this circuitry is involved. Whenever we feel [comfort or joy](/pdf/Loseth2014). Such experiences, of course, are minimal or missing in the lives of people who are suffering greatly, including those struggling with major trauma, or major anxiety, depression and/or addiction. As noted above, sometimes the only feelings of pleasure that severely suffering people have are those of seeking, anticipating and experiencing substance-induced highs or other quick-fix escapes.
 
 Again, it's not necessary to know every brain chemical, brain region and receptor type involved in satisfaction and contentment (although there is substantial and growing research). But it is helpful to know that a central role in this circuitry is played by opioids. Many people have heard that opioids play a big role in experiences of pleasure and satisfaction – thanks to media reports on the opioid-induced 'runner's high' and on the high rates of addiction to opioid pain pills and heroin in many communities.
 
 ![](/uploads/versions/satisfaction_circuitry---x----400-330x---.jpg)
 
-Like the brain’s own opiates, those from outside the body – whether injected as heroin or ingested via pain pills – act directly on this satisfaction circuitry. That’s why such opiate-induced highs involve intense (if short-lived) feelings of great satisfaction and well-being, even bliss.
+Like the brain’s own opiates, those from outside the body – whether injected as heroin or ingested via pain pills – act directly on this satisfaction circuitry. That’s why such opiate-induced highs involve intense (if short-lived) feelings of great comfort, well-being, joy, even bliss.
 
 ## Embodiment Circuitry
 
