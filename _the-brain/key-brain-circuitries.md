@@ -119,7 +119,7 @@ Like the brain’s own opiates, those from outside the body – whether injected
 
 ## Embodiment Circuitry
 
-Another extensively studied and well-established brain circuitry is what I call the embodiment circuitry. The more common term used in neuroscience is 'interoceptive' circuitry ([interoception](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.00763/abstract), broadly defined, refers to the sense of signals originating within the body.) *Embodiment* is a less technical term and clearly indicates that this circuitry allows us to know what it feels like to be 'in our bodies.'
+Another extensively studied and well-established brain circuitry is what I call the *embodiment circuitry*. The more commonly term used in neuroscience is 'interoceptive' circuitry ([interoception](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.00763/abstract), broadly defined, refers to the sense of signals originating within the body.) *Embodiment* is a less technical term and clearly indicates that this circuitry allows us to know what it feels like to be 'in our bodies.'
 
 A key part of the embodiment circuitry is the insular cortex or insula, a cortical region that brings together all information coming from the body (e.g., sensations of movement, touch, tension, pressure, warmth, etc.).
 
