@@ -47,7 +47,7 @@ I hope that many people, including you, will find what I share to be enlightenin
 
 ## Fear Circuitry
 
-The brain’s fear circuitry includes the amygdala and other brain regions (e.g., hypothalamus and periaqueductal gray). This is one of the best-known and most-studied circuitries in neuroscience, and a major focus of research on psychological trauma and PTSD (areas of expertise for me).
+The brain’s *fear circuitry* includes the amygdala and other brain regions (e.g., hypothalamus and periaqueductal gray). This is one of the best-known and most-studied circuitries in neuroscience, and a major focus of research on psychological trauma and PTSD (areas of expertise for me).
 
 The fear circuitry triggers and implements extreme fear responses, but also less extreme avoidance responses associated with lesser fears, or just things that we (i.e., our brains) find aversive.
 
@@ -67,13 +67,15 @@ In short, our fear circuitry is always operating and continually influencing how
 
 ## Seeking Circuitry
 
-The seeking circuitry is part of the brain’s 'reward circuitry.' Like the circuitry of fear, the seeking circuitry is one of neuroscience’s most studied and best established circuitries (thanks to decades of research funded by the National Institute on Drug Abuse).
+Unlike the amygdala and the fear circuitry, you probably haven't heard of the *seeking circuitry*, but it's one of the most important circuitries in the brain. If it weren't for this circuitry, we would not engage in any motivated behaviors.
 
-Neuroscientists have given different names to this circuitry, based on their different views of overall brain functioning and of this circuitry’s roles in behavior and emotion. The name 'seeking' was coined by Jaak Panksepp, an influential neuroscientist who has focused on (among other things) how human and animal brains are innately driven, by this circuitry, to engage with the world.
+The seeking circuitry is part of the brain’s 'reward circuitry,' which you may have heard of because, like the circuitry of fear, it is one of the most studied and best established circuitries in neuroscience (thanks to decades of research funded by the National Institute on Drug Abuse).
 
-Researchers have found that the seeking circuitry is what enables us to want and seek *anything*. It could be a drink of water or your next meal. It could be a new dress or shirt, a new pair of shoes or watch, or the latest technology toy. It could be an affectionate comment from a girlfriend, boyfriend, spouse or partner, praise from a co-worker or supervisor, or accomplishing a life goal. Or the next pain pill, drink of alcohol, hit of crack or porn video.
+Most neuroscientists still just use the term 'reward circuitry,' even though it has subcomponents, including the seeking circuitry. But a few scientists have given names to this circuitry, based on their different views of brain functioning overall and of this circuitry’s roles in behavior and emotion. The name 'seeking' was coined by Jaak Panksepp, an influential neuroscientist who has focused on (among other things) how human and animal brains are innately driven, by this circuitry, to engage with the world.
 
-As noted above, the seeking circuitry is what drives our attempts to escape from unwanted experiences that have activated the circuitry of fear and aversion. The unwanted experiences we seek to escape can be small, such as an annoying sound or an itch on your back; bigger things, like a sharp pain in your injured knee or the feelings triggered by someone yelling at you; or really big things, like how it feels to be in a miserable marriage, when someone you love is dying of cancer, being abused or unjustly jailed, or seeing a friend killed in war or on the street.
+Researchers have found that the seeking circuitry is what enables us to want and seek *anything*. It could be a drink of water or your next meal. It could be a new dress or shirt, a new pair of shoes or watch, or the latest technology toy. It could be an affectionate comment from a girlfriend, boyfriend, spouse or partner, praise from a co-worker or supervisor, or accomplishing a life goal. Or the next pain pill, drink of alcohol, hit of crack, or porn video.
+
+As noted above, the seeking circuitry is what drives our attempts to avoid and escape from unwanted experiences that have activated the circuitry of fear and aversion. The unwanted experiences we seek to avoid and escape can be small, such as an annoying sound or an itch on your back; bigger things, like a sharp pain in your injured knee or the feelings triggered by someone yelling at you; or really big things, like how it feels to be in a miserable marriage, or when someone you love is dying of cancer, being abused or unjustly jailed, or seeing a friend killed in war or on the street.
 
 ![](/uploads/versions/seeking_circuitry---x----400-330x---.jpg)
 
@@ -103,7 +105,7 @@ Indeed, the central role of seeking in human experience and behavior, and the im
 
 ## Satisfaction Circuitry
 
-Just as important as the seeking circuitry is the 'satisfaction circuitry.' That's the name I've given to the other key component of the brain's 'reward circuitry.'
+Just as important as the seeking circuitry is the *satisfaction circuitry*. That's the name I've given to the other key component of the brain's 'reward circuitry.'
 
 Extensive research has established that chemicals in the brain called opioids (and their receptors on brain cells) are centrally involved in feelings of satisfaction and contentment, as well as feelings of connection with others. As Panksepp and Biven have written, opioids acting on opioid receptors (specifically *mu* opoiod receptors) not only take away feelings of pain but “send messages of pleasant satisfaction in the brain” ([2012](http://www.amazon.com/Archaeology-Mind-Neuroevolutionary-Interpersonal-Neurobiology/dp/0393705315/), p.25).
 
