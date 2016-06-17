@@ -196,7 +196,7 @@ Also, we are all creatures of habit, and old habits can be hard to break, especi
 
 Our seeking circuitry is always active. Fortunately, unlike many other aspects of brain function, our seeking circuitry is *accessible* to us. Its functioning is something we can bring into awareness and contemplate.
 
-And we can choose: *What shall I seek*? *What should I seek as my highest priorities?* *What do I want to seek in this relationship? In this moment? In this moment with its conflicting motivations, in which very different parts of me are activated and wanting to respond in very different ways?*
+And we can choose: *What shall I seek*? *What should I seek as my highest priorities?* *What do I want to seek in this relationship? In this moment? In this moment with its conflicting motivations, in which very different parts of me are wanting to respond in very different ways?*
 
 We can also contemplate and choose our answers to these questions: What *really* makes me happy? What is my *motivation* for doing (or thinking or saying or writing) this? These questions and choices are at the heart of contemplative practices and how we put them into practice in our lives.
 
@@ -232,9 +232,9 @@ Great philosophers like Plato and Aristotle wrote a lot about what is truly good
 
 The great Roman poet Virgil wrote, "Every person makes a god of his own desire." And Boethius pointed to the same truth, which can be uncomfortable for us to acknowledge, "Each person considers what he desires above all else to be the supreme good."
 
-What do we really desire? What do we really seek? What do we really long to have, and to be? What do we really believe are the greatest goods?
+We can ask ourselves: What do I really want? What do I really seek? What do I really long to have, and to be? What do I really believe are the greatest goods?
 
-Actions speak louder than words. Only by honestly investigating and acknowledging what we are *actually* seeking – day by day, moment by moment, thought by thought, action by action – and by harnessing our seeking circuitry to the pursuit of what is truly good – thus truly fulfilling – can we live with integrity and cultivate genuine happiness.
+In our day to day lives, actions speak louder than words. Only by honestly investigating and acknowledging what we are *actually* seeking – day by day, moment by moment, thought by thought, action by action – and by harnessing our seeking circuitry to the pursuit of what is truly good – thus truly fulfilling – can we live with integrity and cultivate genuine happiness.
 
 We all know this in our hearts, but of course it's easier said than done. And we can't do it alone. We need the support of others. We need the support of philosophical, religious and/or spiritual traditions. And we need disciplined practices for cultivating genuine insight into our motivations, and disciplined practices for harnessing our seeking circuitry to the pursuit of true goods.
 
@@ -256,7 +256,7 @@ In the *metta* practice of the Theravadin Buddhist tradition, now being taught t
 
 In this way, during this practice visual imagination and verbal thoughts – typically absorbed in memories, plans, and fantasies of imagined rewards – along with attention to bodily sensations, are used to *harness* *the brain’s seeking circuitry to love, kindness and compassion*.
 
-> Harnessing the brain’s seeking circuitry to cultivating embodied and satisfying love, kindness and compassion.
+> Harnessing the brain’s seeking circuitry to cultivating embodied and satisfying kindness, compassion, and love.
 
 If while doing this practice we *experience in our bodies* feelings of love, kindness and compassion, we occupy the embodiment circuitry with them.
 
@@ -264,13 +264,15 @@ If those good feelings are accompanied by feelings of contentment, peace, and sa
 
 And to the extent we experience the bodily sensations of contentment, peace and satisfaction, the embodiment and satisfaction circuitries are not only involved, but being transformed.
 
-In the understanding I am sharing here, harnessing the seeking, satisfaction and embodiment circuitries to the cultivation of love, kindness and compassion is the most basic and powerful form of the *seeking true goods* healing cycle.
+In the understanding I am sharing here, harnessing the seeking, satisfaction and embodiment circuitries to the cultivation of kindness, compassion, and love is the most basic and powerful form of the *seeking true goods* healing cycle.
 
 The benefits of cultivating love, kindness and compassion toward ourselves and others are many – especially for those of us who are suffering greatly and have thus far experienced little of these true goods in their lives.
 
 As with mindfulness, however, things can be more complex. Given the neglect, losses, abuses and betrayals that many people have experienced in their lives, feelings of love, kindness and compassion can trigger fear. This is normal, and there are many ways that people can be helped to gently and safely explore, understand and overcome these obstacles to receiving, cultivating and giving love, kindness and compassion.
 
-Other 'true goods.' There is a good case, made by many for millennia, that *love* – which we can experience and express in many ways – is the greatest good and the greatest source of genuine human happiness.
+### Other 'True Goods'
+
+There is a good case, made by many for millennia, that *love* – which we can experience and express in many ways – is the greatest good and the greatest source of genuine human happiness.
 
 But most of us agree there are other (if lesser) 'true goods' too. Other experiences and goals that are most worthy of seeking and most likely to bring genuine happiness.
 
