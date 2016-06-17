@@ -118,7 +118,7 @@ For example, someone may seek to experience feelings of shame associated with a 
 
 Or someone may seek to understand the roots of his addictive behavior, and seek help to learn new skills for dealing with unwanted feelings that he has been trying to escape with alcohol, drugs, sex, or constant work.
 
-However we engage in this cycle, it is critical that our process engages the embodiment circuitry, which registers and allows awareness of our suffering. It is difficult, if not impossible, for us to know, understand or transform our pain and suffering without experiencing *how they feel in our bodies*.
+However we engage in this cycle, it is critical that the process actively involves the embodiment circuitry, which registers and allows awareness of our suffering. It is difficult, if not impossible, for us to know, understand or transform our pain and suffering without experiencing *how they feel in our bodies*.
 
 For some people, especially traumatized people, attending to bodily aspects of suffering can be very difficult and 'triggering.' They will need extra patience and support, and probably some specifically body-focused approaches (e.g., trauma-sensitive yoga).
 
@@ -126,9 +126,9 @@ For everyone this healing cycle requires strong motivation, because it can be qu
 
 To sustain that seeking to engage with our suffering, and to find success in doing so, we need *support.* For many of us that support will come mostly from a therapist or counselor; religious or spiritual teachers can be extremely helpful too.
 
-Indeed, as shown in the image depicting this healing cycle (below), it can involve seeking a variety of resources that enable engagement with suffering and its transformation. These may include not only healing-promoting support from others, but learning new skills for regulating our emotions and thoughts. Other necessary resources may include knowledge of and insights into human suffering and healing, in general and in ourselves as unique individuals; healing attitudes, including compassion and kindness toward our suffering; and cultivating new habits, to replace old habits of responding to our suffering that only exacerbate it with new habits that transform it. (Many of these capacities depend on the brain’s executive circuitry, discussed on my [Key Brain Circuitries](/the-brain/key-brain-circuitries/) page.)
+Indeed, as shown in the image depicting this healing cycle (below), it can involve seeking a variety of resources that enable engagement with suffering and its transformation. These may include not only healing-promoting support from others, but learning new skills for regulating our emotions and thoughts. Other necessary resources may include knowledge of and insights into human suffering and healing, in general and in ourselves as unique individuals; healing attitudes, including compassion and kindness toward our suffering; and cultivating new habits that help us engage with and transform suffering, to replace old habits that only exacerbate it. (Many of these capacities depend on the brain’s executive circuitry; see&nbsp;[Key Brain Circuitries](/the-brain/key-brain-circuitries/).)
 
-![](/uploads/versions/brain_cycles_revised---x0-4-825-647-362-284x---.png)
+![](/uploads/versions/brain_cycles_revised3---x0-0-836-656-362-284x---.png)
 
 In this cycle there is still suffering, but rather than seeking escape from suffering, seeking is focused on acquiring resources that allow engaging with suffering (especially as bodily experiences processed by the embodiment circuitry) in constructive and healthy ways that transform suffering experiences into vehicles of recovery and healing (even redemption). The seeking circuitry is no longer driven by fear of suffering, but instead by motivations to know, understand, heal and transform one’s suffering.
 
