@@ -153,13 +153,13 @@ All those little reward scenarios we keep seeking and experiencing in our heads 
 
 ## Executive Circuitry
 
-Finally, the brain's *executive circuitry*, which mostly consists of the prefrontal cortex (but also parietal cortex), is what allows us to think, plan, solve problems, imagine the future, manage our emotions and impulses, remember our highest values and goals, and make thoughtful decisions.
+Finally, the brain's *executive circuitry*, which mostly consists of the prefrontal cortex, is what allows us to think, plan, solve problems, imagine the future, manage our emotions and impulses, remember our highest values and goals, and make thoughtful decisions.
 
-The executive circuitry also allows us to direct our attention where we choose, rather than where it's automatically pulled by internal feelings, thoughts and images, or by external sights, sounds and other stimuli.
+The executive circuitry also allows us to direct our attention where we choose, based on our goals and plans – rather than where it's automatically pulled by internal feelings, thoughts and images, or by external sights, sounds and other stimuli.
 
-The these are all known as 'executive functions,' which is why this circuitry is referred to as the executive circuitry. And this may be a circuitry you've already heard about.
+These are all known as 'executive functions,' which is why this circuitry is referred to as the executive circuitry.
 
-The executive circuitry is connected to the other key circuitries described above, and can play big roles in emotional experience and behavior, and especially in relationships.
+This circuitry is connected to the other key circuitries described above, and it can play big roles in emotional experience and behavior, and especially in relationships.
 
 ![](/uploads/versions/executive_circuitry---x----400-330x---.jpg)
 
@@ -167,15 +167,15 @@ When we feel safe, and have enough support from others and enough skills of our 
 
 The executive functions of the prefrontal cortex can also help us to resist and overcome unhealthy habits and impulses.
 
-Some of these executive functions are called 'self-regulation capacities.' Others play central roles in our capacities to attune to others and relate to them in healthy and fulfilling ways (the main focus of Dan Siegel's interpersonal neurobiology). We need these self-regulatory executive functions to heal from the effects of hurtful and harmful past experiences, and to become free of harmful addictions.
+Some of these executive functions are called 'self-regulation capacities.' Others play central roles in our capacities to attune to others and relate to them in healthy and fulfilling ways (the main focus of Dan Siegel's interpersonal neurobiology). We need these self-regulatory executive functions to heal from the effects of hurtful and harmful past experiences, and to become free of addictions.
 
-Importantly, we develop – and can increase – these executive (circuitry) functions primarily *through our relationships with other people*. For example, we first learn how to manage our fears and cravings (or not) from how our parents manage theirs and how they relate to our emotions and behaviors. Those and other important relationships (however healthy or unhealthy) play big roles in determining the capacities and habits of our executive circuitry.
+Importantly, we develop – and can increase – these executive (circuitry) functions primarily *through our relationships with other people*. For example, we first learn how to manage our fears and cravings (or not) from how our parents manage theirs (or don't) and how they relate to our emotions and behaviors. Those and other important relationships (however healthy or unhealthy) play big roles in determining the capacities and habits of our executive circuitry.
 
 Unfortunately, some traumatic experiences (especially in early childhood) and some intoxicating substances can harm the executive circuitry. Fortunately, because the human brain has an amazing capacity to rewire and heal, in most cases such damage is only temporary and/or can be overcome by compensatory brain adaptations.
 
-Most importantly, the brain's executive circuitry can be harnessed to bring healing and happiness. We can learn and practice skills for working with our attention; for observing, accepting and transforming our feelings, thoughts and impulses; and for cultivating habits of thinking, feeling and behaving that bring healing and genuine happiness.
+Most importantly, the brain's executive circuitry can be harnessed to bring healing and happiness. We can learn and practice skills for working with our attention; for observing, accepting and transforming our feelings, thoughts and impulses; and for cultivating healthy and fulfilling habits of thinking, feeling and behaving.
 
-We can learn to use our executive circuitry to harness and transform the other key circuitries of our brain, especially the seeking, satisfaction and embodiment circuitries.
+We can learn to use our executive circuitry to access, harness and transform the other key circuitries of our brain, especially the seeking, satisfaction and embodiment circuitries.
 
 Such skills may be learned and strengthened in safe and healthy relationships, in therapy or counseling, and by engaging in practices of philosophical, religious and spiritual traditions, including various forms of meditation and contemplation.
 
