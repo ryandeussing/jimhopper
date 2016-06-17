@@ -17,7 +17,7 @@ on this page
 {: .onpage__header}
 
 * [The 1 in 6 Statistic, in Brief](#the-1-in-6-statistic-in-brief)
-* [What the Research Tells Us](#what-the-research-tells-us)
+* [The Research](#the-research)
 * [Details on Prevalence Research](#details-on-prevalence-research)
 {: .onpage}
 
@@ -33,13 +33,13 @@ If you wonder whether such an experience may be connected to some difficulties o
 
 Whoever you are, maybe you’re thinking something like, “1 in 6?! Come on, how can that be?” or even “That can’t be true!” Again, if so, you’re not alone. Those are common responses to this statistic, which many people find hard to believe – including men who’ve had such experiences themselves.
 
-This brief section is basically saying, “Yes, it’s hard to believe,, but there’s strong scientific evidence.”
+This brief section is basically saying, “Yes, it’s hard to believe, but there’s strong scientific evidence.”
 
-Please note: Researchers use “sexual abuse” to describe experiences in which children are subjected to *unwanted sexual contact involving force, threats, or a large age difference* between the child and the other person (which involves a big power differential and exploitation). See [Child Abuse Statistics](/child-abuse/child-abuse-statistics/)&nbsp;for a detailed discussion of definitions and research methods, and see below on why some studies yield lower estimates than 1 in 6 (e.g., large national surveys using telephone interviews that ask few questions).
+Please note: Researchers use 'sexual abuse' to describe experiences in which children are subjected to *unwanted sexual contact involving force, threats, or a large age difference* between the child and the other person (which involves a big power differential and exploitation). See [Child Abuse Statistics](/child-abuse/child-abuse-statistics/)&nbsp;for a detailed discussion of definitions and research methods, and see below on why some studies yield lower estimates than 1 in 6 (e.g., large national surveys using telephone interviews that ask few questions).
 
 Having such an experience does not necessarily mean a boy will suffer significant long-term negative consequences. That depends on several factors, including how many times it happened, how long it went on, who else was involved, whether the boy told anyone and, if so, the response he received. (See [Consequences of Abuse](/child-abuse/consequences-of-abuse/).)
 
-### What the Research Tells Us
+## The Research
 
 A 2005 study conducted by the U.S. Centers for Disease Control, on San Diego Kaiser Permanente HMO members, reported that 16% of males were sexually abused by the age of 18 (Dube et al., 2005).
 
@@ -124,7 +124,8 @@ Lisak and his colleagues argue that the criteria they employed to assess sexual 
 
 A prevalence rate similar to the Lisak et al. studies was found in another study of college males. Collings (1995) used an anonymous questionnaire and defined sexual abuse as 'unwanted' sexual experiences taking place before the age of 18. The term 'unwanted' is likely to bias rates downward, as noted above, but the inclusion of subjects aged 16 and 17 is likely to increase the found prevalence rate. Not surprisingly, Collings found that 29% of the 284 male respondents had been sexually abused, with 20% reporting non-contact abuse and 6% reporting abuse experiences involving physical contact.
 
-2. <u>Studies with community samples</u>
+1. <u>Studies with community samples</u>
+
 
 have ranged in their prevalence rates from 2.8% to 16%. Again, methodology has been crucial. Kercher and McShane (1984) mailed a single self-report question including the word 'abuse' to a random sample of Texas drivers. They found a prevalence rate of 3%. Given the wording of their single question, this rate is not surprising.
 
