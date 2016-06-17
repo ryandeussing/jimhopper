@@ -166,15 +166,21 @@ Contemplative practices can be used to carefully attend to and investigate any e
 
 Employing our capacities for attention and investigation in this way are central to the *seeking to engage and* *transform suffering* healing cycle, which involves seeking to know, tolerate, understand, and make positive use of our pain and suffering.
 
-**Readiness and Preparation.** Before directly facing pain and suffering, we need skills for managing our painful and unwanted feelings and body sensations, which may include traumatic memories and addictive cravings. For example, therapists competent at working with traumatized people, including those with addictions, understand that the *first stage* of recovery is focused on learning and strengthening self-care and self-regulation skills.
+### Readiness and Preparation&nbsp;
+
+Before directly facing pain and suffering, we need skills for managing our painful and unwanted feelings and body sensations, which may include traumatic memories and addictive cravings. For example, therapists competent at working with traumatized people, including those with addictions, understand that the *first stage* of recovery is focused on learning and strengthening self-care and self-regulation skills.
 
 For those struggling with extreme psychological suffering (perhaps partly due to trauma), there is another prerequisite for safely facing the pain and suffering: a relationship with someone, often a therapist, who is not only competent at guiding them through the stages of recovery, but truly understands and cares for them.
 
-**Mindfulness.** A common definition of *mindfulness* is “the awareness that emerges through paying attention on purpose, in the present moment, and nonjudgmentally to the unfolding of experience moment by moment” (Kabat-Zinn, 2003).
+### Mindfulness
+
+A common definition of *mindfulness* is “the awareness that emerges through paying attention on purpose, in the present moment, and nonjudgmentally to the unfolding of experience moment by moment” (Kabat-Zinn, 2003).
 
 Mindfulness can be an excellent tool for exploring extremes of suffering, including trauma-related memories, feelings, bodily experiences, thought processes and ways of relating to others. Experiences that had previously felt too unbearable to focus on can be explored and investigated, and seen as passing sensations and thoughts that arise under particular conditions, without resorting to seeking escape. When habitual reactions arise, or suffering cycles begin to unfold, one can mindfully observe and even experientially understand them, and not get carried away.
 
-**Bodily awareness as key.** Mindful awareness of bodily sensations, that is, one’s *moment-to-moment* *experiences of* *embodiment,* is the foundation for attending to and exploring one’s emotions, thoughts, behaviors and relationship patterns.
+> Bodily awareness is key
+
+Mindful awareness of bodily sensations, that is, one’s *moment-to-moment* *experiences of* *embodiment,* is the foundation for attending to and exploring one’s emotions, thoughts, behaviors and relationship patterns.
 
 Only with that grounding in embodied awareness – of the impermanent bodily sensations – can we effectively bring mindful awareness to emotions and thoughts; otherwise we are repeatedly swept away in habitual cycles of seeking brief escapes and quick-fixes that perpetuate suffering and disconnection from present experience.
 
