@@ -40,15 +40,15 @@ I introduce and explain this framework in three steps.
 First, what I call fundamental 'cycles of suffering,' which involve relationships among key brain circuitries, are explained and briefly illustrated with examples.
 
 Second, I explain and illustrate what I call fundamental 'cycles of healing and happiness,' and roles of the key brain circuitries in those cycles.&nbsp;
-<br>This 'circuitries and cycles' framework can be used to increase our understanding of all kinds of human suffering, including depression, anxiety, post-traumatic stress, addictions and various problems with regulating emotions and impulses. It can also be
+<br>This *circuitries and cycles*&nbsp;framework can be used to increase our understanding of all kinds of human suffering, including depression, anxiety, post-traumatic stress, addictions and various problems with regulating emotions and impulses. It can also be
 
 Third, I explain how the cycles and circuitries framework can be used to understand potential pathways to healing, including how therapy and contemplative practices can harness key brain circuitries to bring healing, freedom and happiness. I particularly focus on how the seeking, satisfaction and embodiment circuitries can be harnessed by contemplative practices – especially those that cultivate mindfulness, kindness, compassion and love – to transform suffering and bring genuine happiness.
 
 Once familiar with the framework – especially when understanding is grounded in mindful attention to our moment-to-moment experience – we can see how the circuitries of fear, seeking, satisfaction and embodiment are major drivers of our thoughts, feelings and behaviors.
 
-This includes insights into our habitual ways of attempting to regulate emotional and physiological states; insights into psychological symptoms with which we may struggle; insights into our values, hopes, and life goals; and insights into our moment-to-moment reactions to what is pleasant and unpleasant, feared and wanted, fulfilling and unsatisfying.
+This includes insights into our habitual ways of attempting to regulate emotional and physiological states; insights into psychological symptoms with which we may struggle; insights into our values, hopes, and life goals; and insights into our moment-to-moment reactions to what is pleasant or unpleasant, wanted or feared, unsatisfying or fulfilling.
 
-In short, this framework is offered as a set of clarifying conceptual tools for exploring experience and behavior, for understanding suffering and healing, and for choosing and getting the most from different types of therapy and from the contemplative methods of humanity's great philosophical, religious and spiritual traditions.
+In short, this circuitries and cycles framework is offered as a set of clarifying conceptual tools for exploring experience and behavior, for understanding suffering and healing, and for choosing and getting the most from different types of therapy and from the contemplative practices of humanity's great philosophical, religious and spiritual traditions.
 
 ## Cycles of Suffering
 
