@@ -35,15 +35,16 @@ I strongly recommend reading [Key Brain Circuitries](/the-brain/key-brain-circui
 
 By 'cycle' I mean a set of experiences and actions that unfold repeatedly, in the same order, and typically in a self-perpetuating way. This will become very clear below.
 
-I introduce and explain this framework in three steps. First, what I call fundamental 'cycles of suffering,' which involve relationships among key brain circuitries, are explained and briefly illustrated with examples. Second, I explain and illustrate what I call fundamental 'cycles of healing and happiness,' and roles of the key brain circuitries in those cycles.
+I introduce and explain this framework in three steps.
 
-Third, I explain how the seeking, satisfaction and embodiment circuitries can be harnessed by contemplative practices – especially those that cultivate mindfulness, kindness, compassion and love – to transform suffering and bring genuine happiness.
+First, what I call fundamental 'cycles of suffering,' which involve relationships among key brain circuitries, are explained and briefly illustrated with examples.
 
-This 'circuitries and cycles' framework can be used to increase our understanding of all kinds of human suffering, including depression, anxiety, post-traumatic stress, addictions and various problems with regulating emotions and impulses.
+Second, I explain and illustrate what I call fundamental 'cycles of healing and happiness,' and roles of the key brain circuitries in those cycles.&nbsp;
+<br>This 'circuitries and cycles' framework can be used to increase our understanding of all kinds of human suffering, including depression, anxiety, post-traumatic stress, addictions and various problems with regulating emotions and impulses. It can also be
 
-It can also be used to understand potential pathways to healing, including how therapy and contemplative practices can harness key brain circuitries to bring healing, freedom and happiness.
+Third, I explain how the cycles and circuitries framework can be used to understand potential pathways to healing, including how therapy and contemplative practices can harness key brain circuitries to bring healing, freedom and happiness. I particularly focus on how the seeking, satisfaction and embodiment circuitries can be harnessed by contemplative practices – especially those that cultivate mindfulness, kindness, compassion and love – to transform suffering and bring genuine happiness.
 
-Once familiar with the framework – especially when understanding is grounded in mindful attention to moment-to-moment experience – we can see how the circuitries of fear, seeking, satisfaction and embodiment are major drivers of our thoughts, feelings and behaviors.
+Once familiar with the framework – especially when understanding is grounded in mindful attention to our moment-to-moment experience – we can see how the circuitries of fear, seeking, satisfaction and embodiment are major drivers of our thoughts, feelings and behaviors.
 
 This includes insights into our habitual ways of attempting to regulate emotional and physiological states; insights into psychological symptoms with which we may struggle; insights into our values, hopes, and life goals; and insights into our moment-to-moment reactions to what is pleasant and unpleasant, feared and wanted, fulfilling and unsatisfying.
 
