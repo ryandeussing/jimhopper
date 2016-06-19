@@ -54,15 +54,15 @@ In short, this circuitries and cycles framework is offered as a set of clarifyin
 
 Human beings are often caught in self-perpetuating cycles of suffering. We can understand these cycles, in part, as unhealthy relationships among the circuitries of fear, seeking, satisfaction and embodiment.
 
-What makes cycles of suffering self-perpetuating? The brain's seeking circuitry is focused on escaping suffering in ways that do not really address one’s pain and problems (let alone bring genuine and lasting satisfaction or happiness) but instead keep them going or even make them worse.
+What makes cycles of suffering self-perpetuating? The brain's seeking circuitry is focused on avoiding and escaping suffering in ways that do not really address one’s pain and problems (let alone bring genuine and lasting satisfaction or happiness), but instead keep them going or even make them worse.
 
-Cycles of suffering are caused (and partly constituted by) seeking to avoid and escape suffering in ways that only perpetuate it. Cycles of suffering are often cycles of addiction (defined broadly to include all habitual behaviors used repeatedly to avoid and escape from suffering, including habitual mental behaviors like obsessing and ruminating).
+Cycles of suffering are caused (and partly constituted by) seeking to avoid and escape suffering in ways that only perpetuate it. Cycles of suffering are often cycles of addiction, defined broadly to include all habitual behaviors used repeatedly to avoid and escape from suffering, including habitual mental behaviors like obsessing and ruminating.
 
 All of these cycles of suffering – however addictive or harmful – are about the pursuit of quick fixes that bring no more satisfaction or 'reward' than this: brief and partial escape from an unwanted experience.
 
 Different cycles of suffering involve distinct unhealthy relationships among the circuitries of fear, seeking, satisfaction and embodiment. And there are two very common cycles of suffering, one revolving around fear and anxiety, and the other around depression, defeat and demoralization.
 
-These two common suffering cycles, and the corresponding activity of the brain circuitries of fear, seeking, satisfaction, are described below.
+These two common suffering cycles, and the corresponding activity of the brain circuitries of fear, seeking, satisfaction and embodiment, are described below.
 
 ### Fear/Anxiety Cycle
 
@@ -84,7 +84,7 @@ The fear circuitry is relatively inactive, since something that may have been fe
 
 The embodiment circuitry is occupied by sensations that go with feeling heavy, slow, tired, low-energy, bad about oneself, and unmoved by things that should be motivating or enjoyable.
 
-The seeking circuitry is actually *suppressed*, so we don’t expect good things to happen or have much motivation for their pursuit. To the extent the seeking circuitry *is* active – whether sporadically in a burst like getting off the couch to go out and drink (or shop or have sex), or at an ongoing low level as in someone motivated to smoke pot and watch TV all day – it focuses on escaping the bad feelings and sensations of depression and defeat. (This is true even when we are avoiding embodied emotional experiences by ruminating on negative, pessimistic and/or self-denigrating thoughts, memories and fantasies.)
+The seeking circuitry is actually [*suppressed*](/pdf/Treadway_Zald_2011.pdf), so we don’t expect good things to happen or have much motivation for their pursuit. To the extent the seeking circuitry *is* active – whether sporadically in a burst like getting off the couch to go out and drink (or shop or have sex), or at an ongoing low level as in someone motivated to smoke pot and watch TV all day – it focuses on escaping the bad feelings and sensations of depression and defeat. (This is true even when we are avoiding embodied emotional experiences by ruminating on negative, pessimistic and/or self-denigrating thoughts, memories and fantasies.)
 
 As with the fear/anxiety cycle, when the escape behavior ends the suffering of depression and defeat return. Sometimes the depression and feelings of defeat are even worse than before, because the escape behavior (or the substance used, or the effects of withdrawing from the substance) are themselves causes of depression and feelings of defeat.
 
