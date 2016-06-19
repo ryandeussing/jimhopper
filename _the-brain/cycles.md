@@ -128,7 +128,7 @@ However we engage in this cycle, it is critical that the process actively involv
 
 For some people, especially traumatized people, attending to bodily aspects of suffering can be very difficult and 'triggering.' They will need extra patience and support, and probably some specifically body-focused approaches (e.g., trauma-sensitive yoga).
 
-For everyone this healing cycle requires strong motivation, because it can be quite unpleasant to engage with our suffering, which we typically attempt to avoid.
+For everyone this healing cycle requires strong motivation, because it can be quite unpleasant to engage with our suffering, which we typically attempt to avoid and escape.
 
 To sustain that seeking to engage with our suffering, and to find success in doing so, we need *support.* For many of us that support will come mostly from a therapist or counselor; religious or spiritual teachers can be extremely helpful too.
 
