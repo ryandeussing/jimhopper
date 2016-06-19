@@ -15,6 +15,7 @@ facebook_image_path: /uploads/facebook-brain.jpg
 on this page
 {: .onpage__header}
 
+* [Introduction](#introduction)
 * [Cycles of Suffering](#cycles-of-suffering)
 * [Cycles of Healing and Happiness](#cycles-of-healing-and-happiness)
 * [Healing Cycle: Seeking to Engage and Transform Suffering](#healing-cycle-seeking-to-engage-and-transform-suffering)
@@ -26,11 +27,15 @@ on this page
 * [Additional Notes](#additional-notes)
 {: .onpage}
 
-Here I share a framework for understanding human suffering, healing and happiness in terms cycles of suffering and cycles of healing (and happiness) that entail particular relationships among key brain circuitries.
+## Introduction
+
+Here I share a framework for understanding human suffering, healing and happiness in terms cycles of suffering and cycles of healing (and happiness) that entail particular relationships among key brain circuitries.&nbsp;
+
+I strongly recommend reading [Key Brain Circuitries](/the-brain/key-brain-circuitries/) first, because it provides the foundation for what I share here.
 
 By 'cycle' I mean a set of experiences and actions that unfold repeatedly, in the same order, and typically in a self-perpetuating way. This will become very clear below.
 
-I introduce and explain this framework in three steps. First, what I call fundamental 'cycles of suffering,' which involve relationships among key brain circuitries, are explained and briefly illustrated with examples. Second, I explain and illustrate what I call fundamental 'cycles of healing and happiness,' and roles of the [key brain circuitries](/the-brain/key-brain-circuitries/) in those cycles.
+I introduce and explain this framework in three steps. First, what I call fundamental 'cycles of suffering,' which involve relationships among key brain circuitries, are explained and briefly illustrated with examples. Second, I explain and illustrate what I call fundamental 'cycles of healing and happiness,' and roles of the key brain circuitries in those cycles.
 
 Third, I explain how the seeking, satisfaction and embodiment circuitries can be harnessed by contemplative practices – especially those that cultivate mindfulness, kindness, compassion and love – to transform suffering and bring genuine happiness.
 
