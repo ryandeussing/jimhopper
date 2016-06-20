@@ -78,9 +78,9 @@ There’s little activation of the satisfaction circuitry anywhere in the cycle,
 
 ## Depression/Defeat Cycle
 
-&nbsp;
-
 In this cycle we feel stuck in and overwhelmed by something bad that’s *already* happened.
+
+&nbsp;
 
 The fear circuitry is relatively inactive, since something that may have been feared has already come to pass.
 
