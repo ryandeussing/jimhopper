@@ -92,7 +92,9 @@ And of course states of depression involve little or no activity of the satisfac
 
 Finally, the suppression and *misdirection* of the seeking circuitry – especially with actions that are inconsistent with our highest values – when combined with the absence of satisfaction, can cause or greatly worsen a sense of *demoralization*. When we feel too depressed and defeated to live up to our highest values and be our best selves, and when we're only escaping our depression by doing things that we feel ashamed of, it can be terribly demoralizing.
 
-![](/uploads/versions/brain_cycles_revised2---x----835-656x---.png)Of course, sometimes people can be fearful or anxious *and* depressed at the same time. And we may seek to avoid and escape from other unwanted experiences too, for example feeling emotionally numb or disconnected from other people and life.
+![](/uploads/versions/brain_cycles_revised2---x----835-656x---.png)
+
+Of course, sometimes people can be fearful or anxious *and* depressed at the same time. And we may seek to avoid and escape from other unwanted experiences too, for example feeling emotionally numb or disconnected from other people and life.
 
 &nbsp;
 
