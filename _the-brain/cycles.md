@@ -138,7 +138,9 @@ To sustain that seeking to engage with our suffering, and to find success in doi
 
 Indeed, as shown in the image depicting this healing cycle (below), it can involve seeking a variety of resources that enable engagement with suffering and its transformation. These may include not only healing-promoting support from others, but learning new skills for regulating our emotions and thoughts. Other necessary resources may include knowledge of and insights into human suffering and healing, in general and in ourselves as unique individuals; healing attitudes, including compassion and kindness toward our suffering; and cultivating new habits that help us engage with and transform suffering, to replace old habits that only exacerbate it. (Many of these capacities depend on the brain’s executive circuitry; see&nbsp;[Key Brain Circuitries](/the-brain/key-brain-circuitries/).)
 
-![](/uploads/versions/brain_cycles_revised3---x0-0-836-656-362-284x---.png)
+![](/uploads/versions/brain_cycles_revised3---x----837-656x---.png)
+
+&nbsp;
 
 In this cycle there is still suffering, but rather than seeking escape from suffering, seeking is focused on acquiring resources that allow engaging with suffering (especially as bodily experiences processed by the embodiment circuitry) in constructive and healthy ways that transform suffering experiences into vehicles of recovery and healing (even redemption). The seeking circuitry is no longer driven by fear of suffering, but instead by motivations to know, understand, heal and transform one’s suffering.
 
@@ -162,7 +164,9 @@ This process of exploration and discovery may take some time, especially if we'v
 
 As shown in the image below, the *seeking true goods* healing cycle involves aligning the seeking circuitry with one’s deepest needs and longings.
 
-![](/uploads/versions/brain_cycles_revised4---x0-6-835-644-363-280x---.png)
+![](/uploads/versions/brain_cycles_revised4---x----835-656x---.png)
+
+&nbsp;
 
 A person engaging in this healing and happiness cycle is seeking what will be genuinely satisfying and fulfilling, and spending more and more time experiencing that satisfaction and fulfillment.
 
