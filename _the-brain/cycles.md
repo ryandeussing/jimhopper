@@ -140,8 +140,6 @@ In this cycle there is still suffering, but rather than seeking escape from suff
 
 Yes, engaging in this healing cycle is difficult. Sometimes it's painful. But the payoff is huge. We can come to live in much less fear, and with much less aversion to the inevitable unwanted experiences life sends our way. We can have more compassion for ourselves, no matter what we're going through. We can find courage and strength inside that we never realized were there.
 
-&nbsp;
-
 And as addressed next, we can free up our brain's seeking circuitry to pursue much more satisfying and fulfilling things in life, which will bring greater happiness and health than we ever imagined possible.
 
 ## Healing and Happiness Cycle: Seeking True Goods
