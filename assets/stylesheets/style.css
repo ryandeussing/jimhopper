@@ -1458,6 +1458,8 @@ ul.onpage {
   margin-left: 1rem;
   margin-right: 2rem;
   padding-left: 1rem; }
+.article h4 a {
+    color: #82806e; }
   @media screen and (min-width: 6.25em) {
     .article h4 {
       font-size: 1.125rem;
