@@ -90,11 +90,9 @@ As with the fear/anxiety cycle, when the escape behavior ends the suffering of d
 
 And of course states of depression involve little or no activity of the satisfaction circuitry. There is no satisfaction, contentment or happiness in such states of suffering.
 
+Finally, the suppression and *misdirection* of the seeking circuitry – especially with actions that are inconsistent with our highest values – when combined with the absence of satisfaction, can cause or greatly worsen a sense of *demoralization*. When we feel too depressed and defeated to live up to our highest values and be our best selves, and when we're only escaping our depression by doing things that we feel ashamed of, it can be terribly demoralizing.![](/uploads/versions/brain_cycles_revised2---x----835-656x---.png)
+
 &nbsp;
-
-Finally, the suppression and *misdirection* of the seeking circuitry – especially with actions that are inconsistent with our highest values – when combined with the absence of satisfaction, can cause or greatly worsen a sense of *demoralization*. When we feel too depressed and defeated to live up to our highest values and be our best selves, and when we're only escaping our depression by doing things that we feel ashamed of, it can be terribly demoralizing.
-
-![](/uploads/versions/brain_cycles_revised2---x----835-656x---.png)
 
 &nbsp;
 
