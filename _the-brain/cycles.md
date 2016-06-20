@@ -74,7 +74,9 @@ In this suffering cycle the embodiment circuitry is occupied with sensations of 
 
 There’s little activation of the satisfaction circuitry anywhere in the cycle, with the possible exception of briefly while experiencing escape (e.g., intoxication, sexual pleasure, the brief 'power high' an angry outburst can give).
 
-![](/uploads/versions/brain_cycles_revised---x0-19-819-617-386-291x---.png)
+![](/uploads/versions/brain_cycles_revised---x----833-656x---.png)
+
+&nbsp;
 
 ### Depression/Defeat Cycle
 
