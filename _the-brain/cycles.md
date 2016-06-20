@@ -96,10 +96,6 @@ Finally, the suppression and *misdirection* of the seeking circuitry – especia
 
 Of course, sometimes people can be fearful or anxious *and* depressed at the same time. And we may seek to avoid and escape from other unwanted experiences too, for example feeling emotionally numb or disconnected from other people and life.
 
-&nbsp;
-
-&nbsp;
-
 > So long as our seeking circuitry is suppressed or is focused almost entirely on avoiding and escaping suffering – rather than on seeking what is truly satisfying and fulfilling – we are caught in cycles of suffering.
 
 ## Cycles of Healing and Happiness
