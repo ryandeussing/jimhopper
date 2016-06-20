@@ -76,9 +76,9 @@ There’s little activation of the satisfaction circuitry anywhere in the cycle,
 
 ![](/uploads/versions/brain_cycles_revised---x----833-656x---.png)
 
-&nbsp;
+## Depression/Defeat Cycle
 
-### Depression/Defeat Cycle
+&nbsp;
 
 In this cycle we feel stuck in and overwhelmed by something bad that’s *already* happened.
 
