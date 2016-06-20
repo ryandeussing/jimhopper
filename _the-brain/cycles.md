@@ -64,7 +64,7 @@ Different cycles of suffering involve distinct unhealthy relationships among the
 
 These two common suffering cycles, and the corresponding activity of the brain circuitries of fear, seeking, satisfaction and embodiment, are described below.
 
-## Fear/Anxiety Cycle
+### Fear/Anxiety Cycle
 
 In this suffering cycle seeking is focused on avoiding or escaping from things we are afraid of or anxious about, and/or on avoiding or escaping fear and anxiety. Thus the seeking circuitry is driven primarily by the fear circuitry, not by pursuit of what’s truly satisfying or fulfilling.
 
