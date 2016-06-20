@@ -164,11 +164,9 @@ This process of exploration and discovery may take some time, especially if we'v
 
 As shown in the image below, the *seeking true goods* healing cycle involves aligning the seeking circuitry with one’s deepest needs and longings.
 
-![](/uploads/versions/brain_cycles_revised4---x----835-656x---.png)
+![](/uploads/versions/brain_cycles_revised4---x----835-656x---.png)A person engaging in this healing and happiness cycle is seeking what will be genuinely satisfying and fulfilling, and spending more and more time experiencing that satisfaction and fulfillment.
 
 &nbsp;
-
-A person engaging in this healing and happiness cycle is seeking what will be genuinely satisfying and fulfilling, and spending more and more time experiencing that satisfaction and fulfillment.
 
 Also, the more we activate our brain’s satisfaction circuitry as a result of successful seeking of this kind, and the more we occupy our embodiment circuitry with the sensations of that satisfaction, the less power the circuitries of fear and seeking have over us. That’s what it *means* to be satisfied and content: accepting and embracing this moment, without wanting or seeking more from it; accepting whatever may come next, without fear.
 
