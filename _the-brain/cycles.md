@@ -64,7 +64,7 @@ Different cycles of suffering involve distinct unhealthy relationships among the
 
 These two common suffering cycles, and the corresponding activity of the brain circuitries of fear, seeking, satisfaction and embodiment, are described below.
 
-### Fear/Anxiety Cycle
+## Fear/Anxiety Cycle
 
 In this suffering cycle seeking is focused on avoiding or escaping from things we are afraid of or anxious about, and/or on avoiding or escaping fear and anxiety. Thus the seeking circuitry is driven primarily by the fear circuitry, not by pursuit of what’s truly satisfying or fulfilling.
 
@@ -76,7 +76,7 @@ There’s little activation of the satisfaction circuitry anywhere in the cycle,
 
 ![](/uploads/versions/brain_cycles_revised---x----833-656x---.png)
 
-## Depression/Defeat Cycle
+### Depression/Defeat Cycle
 
 In this cycle we feel stuck in and overwhelmed by something bad that’s *already* happened.
 
@@ -95,6 +95,10 @@ Finally, the suppression and *misdirection* of the seeking circuitry – especia
 ![](/uploads/versions/brain_cycles_revised2---x----835-656x---.png)
 
 Of course, sometimes people can be fearful or anxious *and* depressed at the same time. And we may seek to avoid and escape from other unwanted experiences too, for example feeling emotionally numb or disconnected from other people and life.
+
+&nbsp;
+
+&nbsp;
 
 > So long as our seeking circuitry is suppressed or is focused almost entirely on avoiding and escaping suffering – rather than on seeking what is truly satisfying and fulfilling – we are caught in cycles of suffering.
 
@@ -139,6 +143,8 @@ Indeed, as shown in the image depicting this healing cycle (below), it can invol
 In this cycle there is still suffering, but rather than seeking escape from suffering, seeking is focused on acquiring resources that allow engaging with suffering (especially as bodily experiences processed by the embodiment circuitry) in constructive and healthy ways that transform suffering experiences into vehicles of recovery and healing (even redemption). The seeking circuitry is no longer driven by fear of suffering, but instead by motivations to know, understand, heal and transform one’s suffering.
 
 Yes, engaging in this healing cycle is difficult. Sometimes it's painful. But the payoff is huge. We can come to live in much less fear, and with much less aversion to the inevitable unwanted experiences life sends our way. We can have more compassion for ourselves, no matter what we're going through. We can find courage and strength inside that we never realized were there.
+
+&nbsp;
 
 And as addressed next, we can free up our brain's seeking circuitry to pursue much more satisfying and fulfilling things in life, which will bring greater happiness and health than we ever imagined possible.
 
