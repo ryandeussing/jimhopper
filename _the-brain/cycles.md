@@ -86,11 +86,11 @@ The embodiment circuitry is occupied by sensations that go with feeling heavy, s
 
 The seeking circuitry is actually [*suppressed*](/pdf/Treadway_Zald_2011.pdf), so we don’t expect good things to happen or have much motivation for their pursuit. To the extent the seeking circuitry *is* active – whether sporadically in a burst like getting off the couch to go out and drink (or shop or have sex), or at an ongoing low level as in someone motivated to smoke pot and watch TV all day – it focuses on escaping the bad feelings and sensations of depression and defeat. (This is true even when we are avoiding embodied emotional experiences by ruminating on negative, pessimistic and/or self-denigrating thoughts, memories and fantasies.)
 
-&nbsp;
-
 As with the fear/anxiety cycle, when the escape behavior ends the suffering of depression and defeat returns. Sometimes the depression and feelings of defeat are even worse than before, because the escape behavior (or the substance used, or the effects of withdrawing from the substance) itself causes of depression and feelings of defeat.
 
 And of course states of depression involve little or no activity of the satisfaction circuitry. There is no satisfaction, contentment or happiness in such states of suffering.
+
+&nbsp;
 
 Finally, the suppression and *misdirection* of the seeking circuitry – especially with actions that are inconsistent with our highest values – when combined with the absence of satisfaction, can cause or greatly worsen a sense of *demoralization*. When we feel too depressed and defeated to live up to our highest values and be our best selves, and when we're only escaping our depression by doing things that we feel ashamed of, it can be terribly demoralizing.
 
