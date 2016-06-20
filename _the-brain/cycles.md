@@ -162,7 +162,7 @@ This process of exploration and discovery may take some time, especially if we'v
 
 (One therapy that many find helpful with this is [Acceptance and Commitment Therapy](https://contextualscience.org/act), or ACT, which has a major focus on helping people sort through their values and goals, and then commit to behaving consistently with the values that are most important to them. Another is&nbsp;[motivational interviewing](http://www.motivationalinterviewing.org/), which has helped many people overcome addictions and make other changes that bring their lives into harmony with their deepest values.)
 
-As shown in the image below, the *seeking true goods* healing cycle involves aligning the seeking circuitry with one’s deepest needs and longings.![](/uploads/versions/brain_cycles_revised4---x----835-656x---.png)
+As shown in the image below, the seeking true goods healing cycle involves aligning the seeking circuitry with one’s deepest needs and longings.![](/uploads/versions/brain_cycles_revised4---x----835-656x---.png)
 
 A person engaging in this healing and happiness cycle is seeking what will be genuinely satisfying and fulfilling, and spending more and more time experiencing that satisfaction and fulfillment.
 
