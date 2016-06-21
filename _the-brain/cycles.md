@@ -198,7 +198,7 @@ Mindfulness can enable direct and safe engagement with the bodily sensations of 
 
 In short, mindfulness of bodily sensations plays a central role in the transformation of suffering experiences into opportunities for healing, even spiritual awakening.
 
-Here I want to note that, especially for very traumatized people, attending to body sensations associated with trauma, even unintentionally in the midst of a mindfulness exercise, can be quite triggering (e.g., of traumatic memories and trauma-based emotional reactions) and overwhelming. So it can be safest – and most helpful – to first experience mindfulness in the context of a relationship with a mindful therapist. This too is illustrated by several case vignettes in chapters of the same book.
+Here I want to note that, especially for very traumatized people, attending to body sensations associated with trauma, even unintentionally in the midst of a mindfulness exercise, can be quite [triggering](/child-abuse/consequences-of-abuse/getting-triggered/) (e.g., of traumatic memories and trauma-based emotional reactions) and overwhelming. So it can be safest – and most helpful – to first experience mindfulness in the context of a relationship with a mindful therapist. This too is illustrated by several case vignettes in chapters of the same book.
 
 Certainly mindfulness and other contemplative methods for engaging with and transforming suffering are not quick fixes or panaceas. Even after cultivating the self-care and self-regulation skills needed to engage directly with trauma or other forms of extreme suffering, engaging with and transforming suffering can be a long process.
 
