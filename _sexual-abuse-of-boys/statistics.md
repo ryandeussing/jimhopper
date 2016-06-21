@@ -53,7 +53,7 @@ A 1996 study of male university students in the Boston area reported that 18% of
 
 A 1990 national study of U.S. adults reported that 16% of men were sexually abused before the age of 18 (Finkelhor et al., 1990).
 
-## Why 1 in 6 Is Probably an&nbsp;*Under*estimate
+### Why 1 in 6 Is Probably an Underestimate
 
 Males who have such experiences are less likely to disclose them than are females, even on anonymous and confidential surveys (Holmes, Offen & Waller, 1997).
 
