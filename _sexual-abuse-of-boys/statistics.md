@@ -18,7 +18,7 @@ on this page
 
 * [The 1 in 6 Statistic, in Brief](#the-1-in-6-statistic-in-brief)
 * [The Research](#the-research)
-* [Why 1 in 6 Is Probably an Underestimate](#why-1-in-6-is-probably-an-underestimate)
+* [Why 1 in 6 Is Probably an *Under*-estimate](#why-1-in-6-is-probably-an-underestimate)
 * [Think About It, and Consider Educating Others](#think-about-it-and-consider-educating-others)
 * [Details on Prevalence Research](#details-on-prevalence-research)
 {: .onpage}
@@ -53,7 +53,7 @@ A 1996 study of male university students in the Boston area reported that 18% of
 
 A 1990 national study of U.S. adults reported that 16% of men were sexually abused before the age of 18 (Finkelhor et al., 1990).
 
-### Why 1 in 6 Is Probably an Underestimate
+### Why 1 in 6 Is Probably an *Under*-estimate
 
 Males who have such experiences are less likely to disclose them than are females, even on anonymous and confidential surveys (Holmes, Offen & Waller, 1997).
 
