@@ -96,10 +96,6 @@ Finally, the suppression and *misdirection* of the seeking circuitry – especia
 
 Of course, sometimes people can be fearful or anxious *and* depressed at the same time. And we may seek to avoid and escape from other unwanted experiences too, for example feeling emotionally numb or disconnected from other people and life.
 
-&nbsp;
-
-&nbsp;
-
 > So long as our seeking circuitry is suppressed or is focused almost entirely on avoiding and escaping suffering – rather than on seeking what is truly satisfying and fulfilling – we are caught in cycles of suffering.
 
 ## Cycles of Healing and Happiness
@@ -156,9 +152,11 @@ These true goods include love, playfulness, and joy. In this healing cycle one s
 
 We all need to sort out, for ourselves, what truly makes us happy; what we find to be the greatest goods in life, the things we most deeply value and find most satisfying to experience.
 
-This process of exploration and discovery may take some time, especially if we've had little experience with true goods and genuine happiness. It will take the support of others who do not judge our values or push us to adopt theirs, but instead give us the space, as well as the support and inspiration, to sort things out for ourselves – and to awaken and harness our seeking circuitry to this pursuit.
+This process of exploration and discovery may take some time, especially if we've had little experience with true goods and genuine happiness. It usually requires the support of others who do not judge our values or push us to adopt theirs, but instead give us the space, as well as the support and inspiration, to sort things out for ourselves – and to awaken and harness our seeking circuitry to this pursuit.
 
-(A therapy that many find helpful with this is [Acceptance and Commitment Therapy](https://contextualscience.org/act), or ACT, which has a major focus on helping people sort through their values and goals, and then commit to behaving consistently with the values that are most important to them. Another is&nbsp;[motivational interviewing](http://www.motivationalinterviewing.org/), which has helped many people overcome addictions and make other changes that bring their lives into harmony with their deepest values.)
+A therapy that many find helpful with this is [Acceptance and Commitment Therapy](https://contextualscience.org/act), or ACT, which has a major focus on helping people sort through their values and goals, and then commit to behaving consistently with the values that are most important to them. Another is&nbsp;[motivational interviewing](http://www.motivationalinterviewing.org/), which has helped many people overcome addictions and make other changes that bring their lives into harmony with their deepest values.
+
+Sometimes, however, people have very powerful insights or epiphanies that they were not expecting or seeking, but happen suddenly and transform them permanently. William Miller, a great addiction researcher and developer of motivational interviewing, and his colleague Janet C'de Baca wrote about such sudden and permanent transformations in their book [Quantum Change](https://www.amazon.com/Quantum-Change-Epiphanies-Insights-Transform/dp/1572305053/ref=nosim/?tag=jimhoppercom-20). Common to such experiences, as they document with individual stories and quantitative analyses, are fundamental reorganizations of the person's identity and values. What they value, and therefore what they seek, are completely reorganized: universally recognized true goods move to the top and stay there.
 
 As shown in the image below, the seeking true goods healing cycle involves aligning the seeking circuitry with one’s deepest needs and longings.
 
