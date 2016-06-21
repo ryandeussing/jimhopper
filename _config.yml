@@ -29,8 +29,6 @@ collections:
   the-brain:
     output: true
     permalink: /the-brain/:title/
-  templates:
-    output: true
 
 defaults:
   -
