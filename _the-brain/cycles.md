@@ -252,7 +252,7 @@ We can ask ourselves: What do I really want? What do I really seek? What do I re
 
 In our day to day lives, actions speak louder than words. Only by honestly investigating and acknowledging what we are *actually* seeking – day by day, moment by moment, thought by thought, action by action – and by harnessing our seeking circuitry to the pursuit of what is truly good – thus truly fulfilling – can we live with integrity and cultivate genuine happiness.
 
-We all know this in our hearts, but of course it's easier said than done. And we can't do it alone. We need the support of others. We need the support of philosophical, religious and/or spiritual traditions. And we need disciplined practices for cultivating genuine insight into our motivations, and disciplined practices for harnessing our seeking circuitry to the pursuit of true goods.
+We all know this in our hearts, but of course it's easier said than done. And we can't do it alone. We need the support of others. Most of us need the support of philosophical, religious and/or spiritual traditions. And we need disciplined practices for cultivating genuine insight into our motivations, and disciplined practices for harnessing our seeking circuitry to the pursuit of true goods.
 
 ### Seeking Kindness, Compassion, and Love
 
