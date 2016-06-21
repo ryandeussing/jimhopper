@@ -214,7 +214,9 @@ Our seeking circuitry is always active. Fortunately, unlike many other aspects o
 
 And we can choose: *What shall I seek*? *What should I seek as my highest priorities?* *What do I want to seek in this relationship? In this moment? In this moment with its conflicting motivations, in which very different parts of me are wanting to respond in very different ways?*
 
-We can also contemplate and choose our answers to these questions: What *really* makes me happy? What is my *motivation* for doing (or thinking or saying or writing) this? These questions and choices are at the heart of contemplative practices and how we put them into practice in our lives.
+We can also contemplate and choose our answers to these questions: What *really* makes me happy? What is my *motivation* for doing (or thinking or saying or writing) this?
+
+These questions and choices are at the heart of contemplative practices and how we put them into practice in our lives.
 
 *What should we seek?* Religious and spiritual leaders have long sought (whether wisely or in confusion themselves) to help people seek transcendent 'true goods' – obedience to God’s law, surrender to God’s will; an intimate relationship with God or Jesus; loving others, even our 'enemies,' as we love ourselves; forever striving to free all beings from suffering.
 
