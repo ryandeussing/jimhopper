@@ -30,7 +30,7 @@ collections:
     output: true
     permalink: /the-brain/:title/
   templates:
-    output: false
+    output: true
 
 defaults:
   -
