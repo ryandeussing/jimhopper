@@ -158,7 +158,7 @@ We all need to sort out, for ourselves, what truly makes us happy; what we find 
 
 This process of exploration and discovery may take some time, especially if we've had little experience with true goods and genuine happiness. It will take the support of others who do not judge our values or push us to adopt theirs, but instead give us the space, as well as the support and inspiration, to sort things out for ourselves – and to awaken and harness our seeking circuitry to this pursuit.
 
-(One therapy that many find helpful with this is [Acceptance and Commitment Therapy](https://contextualscience.org/act), or ACT, which has a major focus on helping people sort through their values and goals, and then commit to behaving consistently with the values that are most important to them. Another is&nbsp;[motivational interviewing](http://www.motivationalinterviewing.org/), which has helped many people overcome addictions and make other changes that bring their lives into harmony with their deepest values.)
+(A therapy that many find helpful with this is [Acceptance and Commitment Therapy](https://contextualscience.org/act), or ACT, which has a major focus on helping people sort through their values and goals, and then commit to behaving consistently with the values that are most important to them. Another is&nbsp;[motivational interviewing](http://www.motivationalinterviewing.org/), which has helped many people overcome addictions and make other changes that bring their lives into harmony with their deepest values.)
 
 As shown in the image below, the seeking true goods healing cycle involves aligning the seeking circuitry with one’s deepest needs and longings.
 
