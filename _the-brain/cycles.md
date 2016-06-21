@@ -130,7 +130,7 @@ Or someone may seek to understand the roots of his addictive behavior, and seek 
 
 However we engage in this cycle, it is critical that the process actively involves the embodiment circuitry, which registers and allows awareness of our suffering. It is difficult, if not impossible, for us to know, understand or transform our suffering without experiencing *how it feels in our bodies*.
 
-For some people, especially traumatized people, attending to bodily aspects of suffering can be very difficult and 'triggering.' They will need extra patience and support, and probably some specifically body-focused approaches (e.g., [trauma-sensitive yoga](/pdf/Rhodes2015.pdf)).
+For some people, especially traumatized people, attending to bodily aspects of suffering can be very difficult and [triggering](/child-abuse/consequences-of-abuse/getting-triggered/). They will need extra patience and support, and probably some specifically body-focused approaches (e.g., [trauma-sensitive yoga](/pdf/Rhodes2015.pdf)).
 
 For everyone this healing cycle requires strong motivation, because it can be quite unpleasant to engage with our suffering, which we typically attempt to avoid and escape.
 
