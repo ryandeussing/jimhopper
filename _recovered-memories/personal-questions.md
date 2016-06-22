@@ -23,7 +23,7 @@ With the goal of understanding in mind, I recommend that you read [Introduction 
 
 ## Caution: Recovering Your Memories?
 
-You may be reading this section of my website to gain better understanding of your own memories, or lack of memories of (suspected) sexual or physical abuse in childhood. Or you may have questions about whether remembering child abuse experiences can improve your life. If so, please take the time to read this entire section.
+You may be reading this section on recovered memories to gain better understanding of your own memories, or your lack of memories of (suspected) sexual or physical abuse in childhood. Or you may have questions about whether remembering child abuse experiences can improve your life. If so, please take the time to read this entire section.
 
 At the end I suggest a book with *effective tools* for managing painful and unpredictable memories, and link to more information on the stages of recovery and how to find professional help.
 
