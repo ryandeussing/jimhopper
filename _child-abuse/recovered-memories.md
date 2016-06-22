@@ -87,7 +87,7 @@ Of course, the picture is more complex: Someone may block out or 'edit out' dist
 
 Researchers distinguish a variety of different types of memory. When it comes to memories of unwanted or abusive childhood sexual experiences, three types are key: episodic, implicit, and procedural.
 
-Episodic memories are what we typically have in mind when we think about remembering something that happened in our past. They are memories of specific events, times, and places, and typically include the emotions associated with them. These are memories that we *recognize* as memories of events in our past, as in, “I remember the time I rode that huge roller coaster at Great America.”
+**Episodic memories** are what we typically have in mind when we think about remembering something that happened in our past. They are memories of specific events, times, and places, and typically include the emotions associated with them. These are memories that we *recognize* as memories of events in our past, as in, “I remember the time I rode that huge roller coaster at Great America.”
 
 Episodic memories can be partial or fragmentary. Someone may remember only snapshots or brief 'clips' of an event. Or someone may remember visual images and sounds but not feelings, or feelings and sounds but not images, etc.
 
@@ -95,7 +95,7 @@ It is not uncommon to have such fragmentary memories of unwanted or abusive chil
 
 But as explained above, just because a memory is fragmentary does not necessarily mean that the fragments are not memories of real experiences. Sorting things out can take time, however, and can require help from a therapist who understands how to avoid distorting memories when you do recall them.
 
-Implicit memories are memories that contain information about a past event or experience but are *not recognized* as being about that event or experience. These memories are typically fragmentary sensations or emotions that get triggered by experiences that the brain associates with past experiences but – and here’s the rub – the connection is not recognized.
+**Implicit memories** are memories that contain information about a past event or experience but are *not recognized* as being about that event or experience. These memories are typically fragmentary sensations or emotions that get triggered by experiences that the brain associates with past experiences but – and here’s the rub – the connection is not recognized.
 
 For example, someone might become afraid or angry when touched by an older man or woman. Or someone could have sudden disturbing images of rape when being sexual in a loving way. The smell of beer or a certain kind of liquor may trigger feelings of terror or disgust. When such experiences happen, they can be very strange and upsetting, and can seem 'irrational' to the person having them (and others who are told about such experiences). He or she may think, “What’s wrong with me?” or “Am I crazy?”
 
@@ -105,7 +105,7 @@ Still, implicit memories can be very disturbing. Also, sometimes it’s just not
 
 > Memories can be seemingly 'crazy' responses, or habitual ones.
 
-Procedural memories are memories of *how to do something*. You may know how to ride a bike, in the sense of being able to do it, but that doesn't mean you can recall and explain exactly what you do with your legs and the rest of your body (i.e. those procedural memories) during every stage of each rotation of the pedals.
+**Procedural memories** are memories of *how to do something*. You may know how to ride a bike, in the sense of being able to do it, but that doesn't mean you can recall and explain exactly what you do with your legs and the rest of your body (i.e. those procedural memories) during every stage of each rotation of the pedals.
 
 Importantly, it is possible to have procedural memories based on experiences for which one has no episodic memories. For example, a child may know how to perform a sexual act without (consciously) remembering having performed it in the past. Indeed, it is not uncommon for teenagers who were sexually abused as young children to discover that they 'already knew' how to engage in sexual behaviors despite having no (episodic) memories of ever having engaged in them before. (And this can be very disturbing, of course.)
 
