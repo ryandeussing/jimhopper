@@ -19,7 +19,6 @@ on this page
 
 * [What’s Learned from Unwanted and Abusive Experiences](#whats-learned-from-unwanted-and-abusive-experiences)
 * [Roles People Play](#roles-people-play)
-* [Other Common Roles and Repetitions](#other-common-roles-and-repetitions)
 * [Change Is Possible, Therapy Can Really Help](#change-is-possible-therapy-can-really-help)
 {: .onpage}
 
@@ -65,7 +64,7 @@ There are so many ways that people can find themselves repeating painful relatio
 
 It’s so easy to fall into the roles of victim, perpetrator and bystander, and to flip back and forth between them, all without even realizing it.
 
-## Other Common Roles and Repetitions
+### Other Common Roles and Repetitions
 
 There are still other roles that people repeat from childhood.
 
