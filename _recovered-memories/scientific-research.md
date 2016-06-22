@@ -5,10 +5,10 @@ order: 2
 subcollection:
 hotlines_sidebar: true
 description:
-nexturl:
-nexttitle:
-prevurl:
-prevtitle:
+nexturl: /child-abuse/recovered-memories/in-the-media
+nexttitle: Recovered Memories in the Media
+prevurl: /child-abuse/recovered-memories/personal-questions
+prevtitle: Personal Questions About Recovered Memories
 facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
@@ -193,7 +193,7 @@ This October 1995 special issue is an important and rich resource. I provide an 
 
 Excerpt: "The present issue of *JTS* is dedicated to the topic of research on traumatic memory. While a few of the articles fall slightly outside of this overall designation, all articles were seen to be pertinent to clinicians and scholars who study and treat individuals with a history of traumatic exposure. The issue is sparked, to some extent, by the controversy raging within and between mental health professionals and academics about whether individuals can 'forget' traumatic events in their pasts, and whether they can 'remember' events that never took place. While the issue is not focused on this controversy per se, it was undertaken to inform clinicians and researchers about a variety of topics related to traumatic memory, 'recovered' or otherwise" (p.501).
 
-**van der Kolk, B., & Fisler, R.&nbsp;****[Dissociation and the fragmentary nature of traumatic memories: Overview and exploratory study.](/pdf/van_der_Kolk_Fisler1995.pdf)**
+**van der Kolk, B., & Fisler, R.****[Dissociation and the fragmentary nature of traumatic memories: Overview and exploratory study.](/pdf/van_der_Kolk_Fisler1995.pdf)**
 
 Abstract: "Since trauma arises from an inescapable stressful event that overwhelms people's coping mechanisms, it is uncertain to what degree the results of laboratory studies of ordinary events are relevant to the understanding of traumatic memories. This paper reviews the literature on differences between recollections of stressful and of traumatic events. It then reviews the evidence implicating dissociation as the central pathogenic mechanism that gives rise to posttraumatic stress disorder (PTSD). A systematic exploratory study of 46 subjects with PTSD indicated that traumatic memories were retrieved, at least initially, in the form of dissociated mental imprints of sensory and affective elements of the traumatic experience: as visual, olfactory, affective, auditory, and kinesthetic experiences. Over time, subjects reported the gradual emergence of a personal narrative that can be properly referred to as 'explicit memory.' The implications of these findings for understanding the nature of traumatic memories are discussed."
 
@@ -451,9 +451,9 @@ Abstract: "The conflict between knowing and not knowing, speech and silence, rem
 
 Excerpt: "On the one hand, traumatized people remember too much; on the other hand, they remember too little . . . . The memories intrude when they are not wanted, in the form of nightmares, flashbacks, and behavioral reenactments. Yet the memories may not be accessible when they are wanted. Major parts of the story may be missing, and sometimes an entire event or series of events may be lost. We have by now a very large body of data indicating that trauma simultaneously enhances and impairs memory. How can we account for this? If traumatic events are (in the words of Robert J. Lifton) 'indelibly imprinted,' then how can they also be inaccessible to ordinary memory?"
 
-"When scientific observations present a paradox, one way of resolving the contradiction is to ignore selectively some of the data. Hence we find some authorities even today asserting that traumatic amnesia cannot possibly exist because, after all, traumatic events are strongly remembered. Fortunately for the enterprise of science, empirical observations do not go away simply because simplistic theories fail to explain them. On the contrary, I believe that some of the most important discoveries arise from attempts to understand apparent paradoxes of this kind. I would like to offer two theoretical constructs that may help us clarify and organize our thinking in this area. The first is the concept of state-dependent learning; the second is the distinction between storage and retrieval of memory....
+"When scientific observations present a paradox, one way of resolving the contradiction is to ignore selectively some of the data. Hence we find some authorities even today asserting that traumatic amnesia cannot possibly exist because, after all, traumatic events are strongly remembered. Fortunately for the enterprise of science, empirical observations do not go away simply because simplistic theories fail to explain them. On the contrary, I believe that some of the most important discoveries arise from attempts to understand apparent paradoxes of this kind. I would like to offer two theoretical constructs that may help us clarify and organize our thinking in this area. The first is the concept of state-dependent learning; the second is the distinction between storage and retrieval of memory….
 
-"When people are in a state of terror, attention is narrowed and perceptions are altered. Peripheral detail, context, and time sense fall away, while attention is strongly focused on central detail in the immediate present. When the focus of attention is extremely narrow, people may experience profound perceptual distortions, including insensitivity to pain, depersonalization, time slowing and amnesia. This is that state we call dissociation....
+"When people are in a state of terror, attention is narrowed and perceptions are altered. Peripheral detail, context, and time sense fall away, while attention is strongly focused on central detail in the immediate present. When the focus of attention is extremely narrow, people may experience profound perceptual distortions, including insensitivity to pain, depersonalization, time slowing and amnesia. This is that state we call dissociation….
 
 "Traumatic events have great power to elicit dissociative reactions. Some people dissociate spontaneously in response to terror. Others may learn to induce this state voluntarily, especially if they are exposed to traumatic events over and over. Political prisoners instruct one another in simple self-hypnosis techniques in order to withstand torture. In my clinical work with incest survivors, again and again I have heard how as children they taught themselves to enter a trance state.
 
