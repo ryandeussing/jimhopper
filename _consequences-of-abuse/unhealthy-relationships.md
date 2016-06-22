@@ -42,7 +42,7 @@ One of the most helpful ways of understanding the unhealthy relationship pattern
 
 ### Victim and Perpetrator
 
-Unhealthy relationship patterns often revolve around roles of ‘victim’ and ‘perpetrator.’
+Unhealthy relationship patterns often revolve around the roles of ‘victim’ and ‘perpetrator.’
 
 There are many versions of those roles, and they can be quite subtle. You may let yourself get ‘walked all over’ by others. Or you might treat other people as objects to be ‘used’ to achieve your own goals.
 
