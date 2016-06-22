@@ -79,7 +79,7 @@ Research suggests that one brain system records what actually happened and anoth
 
 The fact that human memory is not like a DVD *does* mean that memories may not be completely accurate, and that any particular memory could involve a mixture of actual and imagined events (or parts of events).
 
-> Memory is complicated. That can't be avoided. But memory can be understood too.
+> Memory is complicated. That can't be avoided. But memory can be understood.
 
 Of course, the picture is more complex: Someone may block out or 'edit out' disturbing emotions and sensations. Children may focus their attention on a spot on the ceiling, or imagine themselves in a completely different place altogether. In those cases, the 'central details' of the experience, for that person at that time, are things that would typically be peripheral details or not even part of the memory at all – and the main details of the *sexual* acts may be minimally or not at all registered or encoded into memory. (See also the second half of my YouTube talk, [Neurobiology of Trauma & Sexual Assault](https://www.youtube.com/watch?v=dwTQ_U3p5Wc), where I focus on memory encoding, including of central vs. peripheral details.)
 
