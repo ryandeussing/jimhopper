@@ -6,9 +6,9 @@ subcollection:
 hotlines_sidebar: true
 description:
 nexturl: /child-abuse/statistics/
-nexttitle: Statistics
-prevurl:
-prevtitle:
+nexttitle: Child Abuse Statistics
+prevurl: /child-abuse/recovered-memories/in-the-DSM
+prevtitle: Recovered Memories in the DSM
 facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
@@ -19,7 +19,7 @@ On this page I offer resources that are not found on the other pages of this sec
 
 [Dr. Kenneth Pope](http://kspope.com/) has several articles on the recovered memory/false memory debate. Dr. Pope is an accomplished psychologist who has published many articles and a book on the scientific and therapeutic issues involved.
 
-The [Recovered Memory Project](http://blogs.brown.edu/recoveredmemory/)&nbsp;is maintained by Ross Cheit, political scientist at Brown University who conducts important research on sexual abuse and public policy in the United States. This website includes an archive of corroborated cases of recovered memories of sexual abuse. The Archive includes cases in which sexual abuse had gone on for years – occurrences still claimed to be impossible by those now unable to deny the existence of recovered memories. Cheit provides the criteria for inclusion in the Archive and invites submission of additional cases, as well as criticism and contrary evidence. It's an extremely valuable web site, and I strongly encourage you to educate yourself there – especially if you're still skeptical about the reality of recovered memories of abuse. Here's an outline of the Archive's Corroborated Cases of Recovered Memory:
+The [Recovered Memory Project](http://blogs.brown.edu/recoveredmemory/) is maintained by Ross Cheit, political scientist at Brown University who conducts important research on sexual abuse and public policy in the United States. This website includes an archive of corroborated cases of recovered memories of sexual abuse. The Archive includes cases in which sexual abuse had gone on for years – occurrences still claimed to be impossible by those now unable to deny the existence of recovered memories. Cheit provides the criteria for inclusion in the Archive and invites submission of additional cases, as well as criticism and contrary evidence. It's an extremely valuable web site, and I strongly encourage you to educate yourself there – especially if you're still skeptical about the reality of recovered memories of abuse. Here's an outline of the Archive's Corroborated Cases of Recovered Memory:
 
 * 53 Cases from Legal Proceedings
 * 25 Clinical Cases and other Academic/Scientific Case Studies
@@ -68,7 +68,7 @@ There are many good and some great books on recovered memories of sexual abuse i
 
 *[Recollections of Sexual Abuse: Treatment Principles and Guidelines](http://www.amazon.com/dp/0393703975/ref=nosim/?tag=jimhoppercom-20),* by Christine Courtois. New York: Norton, 1999. Psychologist Christine Courtois is therapist in private practice in Washington, D.C., and clinical director of The CENTER: Post-traumatic Disorders Program, at the Psychiatric Institute of Washington. She has authored ground-breaking books on adults with histories of child sexual abuse and treating incest survivors, conducts workshops nationally and internationally, and has received many awards for her writing and other work. This book was written to meet clinicians' needs for balanced educational material on traumatic memories, and proposes guidelines and principles for treatment, including for dealing with recovered memories. More specifically, as Dr. Courtois writes in her introduction, "the intent of this book is (1) to provide explanatory material to the working clinician in a form that is accessible as well as practical; (2) to outline the middle ground and evolving standard of clinical practice and standard of care that encourages the clinician in a stance of supportive neutrality toward the patient and his/her productions in therapy, a stance that neither suggests nor suppresses exploration of memories or suspicions of past abuse; and (3) to provide this material to improve clinical practice and care of patients. . . and as risk management for the clinician" (p. xvii). As many leaders in the traumatic stress field agree, she has spectacularly achieved these goals, and this book is an invaluable resource for clinicians.
 
-*[Recovered Memories of Abuse: Assessment, Therapy, Forensics](http://www.amazon.com/dp/155798395X/ref=nosim/?tag=jimhoppercom-20),&nbsp;*by Kenneth Pope & Laura Brown. Washington, DC: American Psychological Association, 1996. This highly acclaimed book is an excellent practical resource for therapists, lawyers, and expert witnesses.
+*[Recovered Memories of Abuse: Assessment, Therapy, Forensics](http://www.amazon.com/dp/155798395X/ref=nosim/?tag=jimhoppercom-20),*by Kenneth Pope & Laura Brown. Washington, DC: American Psychological Association, 1996. This highly acclaimed book is an excellent practical resource for therapists, lawyers, and expert witnesses.
 
 Three examples of the praise this book has received:
 
