@@ -1,7 +1,7 @@
 ---
-title: Stages of Recovery
+title: This is a test
 custom_title:
-order: 3
+order: 6
 subcollection:
 hotlines_sidebar: true
 description:
@@ -104,7 +104,7 @@ The main work of stage two involves:
 
 * Reviewing and/or discussing memories to lessen their emotional intensity, to revise their meanings for one’s life and identity, etc.
 * Working through grief about unwanted or abusive experiences and their negative effects on one’s life.
-* Mourning or working through grief about good experiences that one did <u>not</u>&nbsp;have, but that all children deserve.
+* Mourning or working through grief about good experiences that one did <u>not</u> have, but that all children deserve.
 
 
 After establishing a solid foundation of understanding, safety, stability and self-regulation skills one can decide – mindful of the potential pain and risks involved – whether or not to engage in the work of stage two.
@@ -117,9 +117,9 @@ In general, these methods involve re-experiencing the memories within a safe and
 
 Most importantly, there are very effective therapy methods that have been proven, through years of clinical experience and research, to bring great relief and healing by transforming memories and responses to reminders of harmful childhood experiences.
 
-(Please note: None of these methods ‘erase’ memories, and they are not designed to ‘recover’ memories. If you have personal questions about this issue, see [Personal Questions](/child-abuse/recovered-memories/personal-questions/)&nbsp;under [Recovered Memories](/child-abuse/recovered-memories/).)
+(Please note: None of these methods ‘erase’ memories, and they are not designed to ‘recover’ memories. If you have personal questions about this issue, see [Personal Questions](/child-abuse/recovered-memories/personal-questions/) under [Recovered Memories](/child-abuse/recovered-memories/).)
 
-One of the most research-supported approaches for processing traumatic memories is&nbsp;[EMDR](http://1in6.org/man-educating-myself/emdr/)&nbsp;(a page I wrote for 1in6). This method can rapidly transform traumatic memories into non-traumatic ones – and you don’t have to talk about them in detail, if at all, making it a great option for some men and woman.
+One of the most research-supported approaches for processing traumatic memories is [EMDR](http://1in6.org/man-educating-myself/emdr/) (a page I wrote for 1in6). This method can rapidly transform traumatic memories into non-traumatic ones – and you don’t have to talk about them in detail, if at all, making it a great option for some men and woman.
 
 Again, the main point here is that *there are effective and relatively rapid methods for dealing with intensely distressing memories*. People do not have to be tortured by them for years.
 
@@ -143,7 +143,7 @@ Denial doesn’t necessarily mean refusing to acknowledge something that is true
 
 Most people who have had such experiences, but haven’t yet sorted them out or dealt with their effects, find themselves somewhere in the middle. They have clues that something happened, or fragments of memory that pop into awareness, but these are quickly pushed away or 'blocked out' whenever they come into awareness.
 
-There are many reasons that people have for pushing such memories and related thoughts out of their minds. They can trigger unwanted feelings like anger, sadness, fear, or horror. They can trigger unwanted and disturbing thoughts – about one’s masculinity, about important people and relationships in one’s life (past and present), and about what would happen if such memories and thoughts were not always pushed away. As discussed in&nbsp;[stages of change](http://1in6.org/man-educating-self/answers/self-regulation/stages-of-change/)&nbsp;(which I wrote for 1in6), it is neither helpful nor respectful to push or try to convince a man to look at such memories or information which suggests that he may have had childhood sexual experiences that are causing him problems now.
+There are many reasons that people have for pushing such memories and related thoughts out of their minds. They can trigger unwanted feelings like anger, sadness, fear, or horror. They can trigger unwanted and disturbing thoughts – about one’s masculinity, about important people and relationships in one’s life (past and present), and about what would happen if such memories and thoughts were not always pushed away. As discussed in [stages of change](http://1in6.org/man-educating-self/answers/self-regulation/stages-of-change/) (which I wrote for 1in6), it is neither helpful nor respectful to push or try to convince a man to look at such memories or information which suggests that he may have had childhood sexual experiences that are causing him problems now.
 
 On the other hand, as Hunter points out, it can be costly to keep such information out of awareness. In some cases, it uses ‘cognitive resources’ that are needed for other purposes, like ones school work or job responsibilities. It can keep one in constant (if unacknowledged) fear of experiencing any vulnerable emotions that could trigger unwanted feelings, thoughts and memories about the sexual experiences. This means being unable to experience or tolerate *other people’s* vulnerable emotions, which is necessary for caring about their suffering and doing the right thing to help.
 
