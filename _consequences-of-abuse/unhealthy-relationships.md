@@ -38,6 +38,8 @@ Often people who were harmed by others' unwanted or abusive sexual, physical and
 
 ## Roles People Play
 
+&nbsp;
+
 ### Victim and Perpetrator
 
 Unhealthy relationship patterns often revolve around roles of ‘victim’ and ‘perpetrator.’
