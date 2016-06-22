@@ -38,7 +38,7 @@ Often people who were harmed by others' unwanted or abusive sexual, physical and
 
 ## Roles People Play
 
-&nbsp;
+One of the most helpful ways of understanding the unhealthy relationship patterns that can result from unwanted or abusive childhood experiences is in terms of roles that we play.
 
 ### Victim and Perpetrator
 
