@@ -283,55 +283,55 @@ For these reasons, researchers seeking to determine prevalence rates should not 
 
 Here are two examples of questionnaire items employing behavioral descriptions and follow-up questions. Both are from research on the sexual abuse of males conducted by David Lisak and his colleagues, including me (e.g., [Lisak, Hopper, & Song, 1996](/pdf/Lisak_Hopper_Song_(1996)_Factors_in_cycle_of_violence.pdf){: .cc-active}):
 
-#### Someone fondled you (i.e., touched your genitals or other parts of your body) in a sexual way. YES__NO__
+Someone fondled you (i.e., touched your genitals or other parts of your body) in a sexual way. YES__NO__
 
-#### If yes…
+If yes…
 
-#### Who was the person?&nbsp;*_____*
+Who was the person?&nbsp;*_____*
 
-#### Was the person male or female?&nbsp;*_____*
+Was the person male or female?&nbsp;*_____*
 
-#### How old were you at the time?&nbsp;*_____*
+How old were you at the time?&nbsp;*_____*
 
-#### About how old was the other person?&nbsp;*_____*
+About how old was the other person?&nbsp;*_____*
 
-#### How many times did it happen?&nbsp;*_____*
+How many times did it happen?&nbsp;*_____*
 
-#### For how long did it happen (i.e., days,weeks, months, years)?&nbsp;*_____*
+For how long did it happen (i.e., days,weeks, months, years)?&nbsp;*_____*
 
-#### How do you now feel about the experience (i.e., negative, neutral or positive)&nbsp;*_____*
+How do you now feel about the experience (i.e., negative, neutral or positive)&nbsp;*_____*
 
-#### How distressing did you find this at the time:
+How distressing did you find this at the time:
 
-#### Not at all distressing - A . . . . . B . . . . . C . . . . . D . . . . . E - Very distressing
+Not at all distressing - A . . . . . B . . . . . C . . . . . D . . . . . E - Very distressing
 
-#### How much force or persuasion did the person use?
+How much force or persuasion did the person use?
 
-#### (Please check off the appropriate categories below.)
+(Please check off the appropriate categories below.)
 
-#### Activity was voluntary&nbsp;*_____*
+Activity was voluntary&nbsp;*_____*
 
-#### They took advantage of your trust&nbsp;*_____*
+They took advantage of your trust&nbsp;*_____*
 
-#### They used bribes or enticements&nbsp;*_____*
+They used bribes or enticements&nbsp;*_____*
 
-#### They used sexual seduction&nbsp;*_____*
+They used sexual seduction&nbsp;*_____*
 
-#### They used intimidation or adult authority&nbsp;*_____*
+They used intimidation or adult authority&nbsp;*_____*
 
-#### They used threats against you or someone else&nbsp;*_____*
+They used threats against you or someone else&nbsp;*_____*
 
-#### They used physical force&nbsp;*_____*
+They used physical force&nbsp;*_____*
 
-#### Other (please explain)&nbsp;*_____*
+Other (please explain)&nbsp;*_____*
 
-#### A woman had you perform vaginal intercourse on her. YES__ NO__
+A woman had you perform vaginal intercourse on her. YES__ NO__
 
-#### If yes…
+If yes…
 
-#### Who was the person?&nbsp;*_____*
+Who was the person?&nbsp;*_____*
 
-#### . . . . [see above]
+. . . . [see above]
 
 **4. With this kind of information researchers are in a better position to evaluate whether or not an experience fits a reasonable and understandable definition of sexual abuse.**
 
