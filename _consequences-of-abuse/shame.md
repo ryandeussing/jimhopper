@@ -20,7 +20,7 @@ Shame is thoughts and feelings about *who you are.*
 
 It involves feeling unworthy of respect or positive consideration by others, feeling like you deserve to be judged and criticized, and feeling embarrassed in front of others.
 
-Shame is almost always a problem for people who've had harmful unwanted or abusive childhood experiences.
+Shame is almost always a problem for people who've had harmful unwanted or abusive childhood experiences. As children and as adults, they at least partly feel that there is something about them, something *wrong* with them that makes them 'less than' others, that caused them to be mistreated by others.
 
 > If you are struggling with shame, you are not alone.
 
