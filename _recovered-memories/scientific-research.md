@@ -143,7 +143,7 @@ Excerpts:
 
 "It appears that the repressed memory controversy will follow Arthur Schopenhauer's wise observation: 'All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident'" (p.183, some references omitted).
 
-**Dalenberg, C. J. Accuracy, timing and circumstances of disclosure in therapy of recovered and continuous memories of abuse.**
+**Dalenberg, C. J. [Accuracy, timing and circumstances of disclosure in therapy of recovered and continuous memories of abuse](/pdf/Dalenberg1996.pdf).**
 
 Abstract: "Seventeen patients who had recovered memories of abuse in therapy participated in a search for evidence confirming or refuting these memories. Memories of abuse were found to be equally accurate whether recovered or continuously remembered. Predictors of number of memory units for which evidence was uncovered included several measures of memory and perceptual accuracy. Recovered memories that were later supported arose in psychotherapy more typically during periods of positive rather than negative feelings toward the therapist, and they were more likely to be held with confidence by the abuse victim."
 
