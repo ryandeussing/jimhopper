@@ -56,7 +56,7 @@ For boys and men, having had unwanted or abusive experiences that totally confli
 
 For many males, the shameful sense of not being a ‘real man’ because of what happened is a huge burden in their lives. It affects what and how they think and feel about themselves. It leaves them fearing how others would see them if they knew what happened. (Sometimes they can’t shake the belief that others must know – even when they couldn’t – and see them as ‘not a real man.’)
 
-> There may be deeper, and unrecognized, sources of shame.
+> The opposite of how boys and men are supposed to be.
 
 This shame is felt to some extent by just about every man who had unwanted or abusive sexual experiences in childhood. Yet it can be overcome, and many, many men have managed to do so.
 
@@ -70,9 +70,13 @@ Girls and women quickly learn that it's hard to avoid being categorized as a 'go
 
 Again, all these stereotypes have something in common: a girl or woman is defined by her sexuality, more specifically by how boys and men experience her sexuality – as something good or bad, as something that renders her worthy of respect and care or, instead, of exploitation and abuse, including someone who 'deserves' to be 'taught a lesson' for sexually frustrating men, for acting like she's better than them, or for showing that she's 'unworthy' of respect (because she's a 'slut' or 'whore').
 
+> Extreme versions of how girls and women are already viewed and treated.
+
 Tragically, then, for a girl or woman to be molested, raped or otherwise sexually assaulted is to experience a more extreme version of something they're constantly told they're 'supposed' to be: passive objects for men's sexual use and domination, sexual objects whose feelings and needs are ignored and irrelevant. In addition, being sexually assaulted has forcibly put them into a category of 'damaged good' or 'spoiled womanhood,' at least with regard to their value as 'respectable' sexual objects for boys and men.
 
 As many women have pointed out, all of these degrading and controlling stereotypes of women add an additional layer of shame to that already built into sexual exploitation, abuse and assault. Again, it's different from the additional layer of shame that men experience, but a powerful force all the same.
+
+> There may be deeper, and unrecognized, sources of shame.
 
 I do not want to compare the suffering or shame of male and female victims of sexual abuse or assault in a way that pits them against each other. And every person, whether male or female (or some other gender identity) is a unique individual.
 
