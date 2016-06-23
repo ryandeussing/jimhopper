@@ -78,7 +78,7 @@ As many women have pointed out, all of these degrading and controlling stereotyp
 
 > There may be deeper, and unrecognized, sources of shame.
 
-I do not want to compare the suffering or shame of male and female victims of sexual abuse or assault in a way that pits them against each other. And every person, whether male or female (or some other gender identity) is a unique individual.
+Importantly, I don't want to compare the suffering or shame of male and female victims of sexual abuse or assault in a way that pits them against each other. And every person, whether male or female (or some other gender identity) is a unique individual.
 
 ## Extreme Shame and Its Sources
 
