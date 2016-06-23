@@ -76,8 +76,6 @@ As many women have pointed out, all of these degrading and controlling stereotyp
 
 I do not want to compare the suffering or shame of male and female victims of sexual abuse or assault in a way that pits them against each other. And every person, whether male or female (or some other gender identity) is a unique individual.
 
-It is worth noting, however, that for many boys and men who have been sexually abused, there is an additional layer of shame – the feeling that they aren't, and can never be, 'real men' – which can make it very hard for them to feel safe telling anyone what happened or asking for help.
-
 ## Extreme Shame and Its Sources
 
 As if I haven't already covered enough reasons that harmful unwanted or abusive childhood experiences can cause shame, some men and women experience very extreme shame – shame so intense that it can be crippling, and so intense that it is continually driving many thoughts and behaviors, including constantly trying to ‘prove themselves.’
