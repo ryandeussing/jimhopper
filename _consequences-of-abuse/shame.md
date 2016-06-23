@@ -40,7 +40,11 @@ You already know a major reason why…
 
 For the vast majority of children, it feels shameful to have had unwanted or abusive sexual experiences. The sense of shame can last long into adulthood, and sadly some people take it with them to the grave.
 
-Boys and men have both similar and different reasons than girls and women do for feeling shame after such experiences. No matter who you are, to be manipulated, used, exploited and harmed in that way can lead to feeling like there's something fundamentally wrong with you. People often fear that there something about them that brought on the experiences and the people who subjected them to such experiences often tell them that. Or a person may feel that, because they've had such experiences, something about their very being (as a person, not just a sexual person) has been permanently tainted in a way that decreases their value and how anyone who knows or might learn about it does or would see them.
+Boys and men have both similar and different reasons than girls and women do for feeling shame after such experiences. No matter who you are, to be manipulated, used, exploited and harmed in that way can lead to feeling like there's something fundamentally wrong with you. People often fear that there something about them that brought on the experiences and the people who subjected them to such experiences often tell them that.
+
+Or a person may feel that, because they've had such experiences, something about their very being (as a person, not just a sexual person) has been permanently tainted in a way that decreases their value and how anyone who knows or might learn about it does or would see them.
+
+### Boys and Men
 
 For boys and men, having had unwanted or abusive experiences that totally conflicts with how males are supposed to be:
 
@@ -56,6 +60,8 @@ For many males, the shameful sense of not being a ‘real man’ because of what
 
 This shame is felt to some extent by just about every man who had unwanted or abusive sexual experiences in childhood. Yet it can be overcome, and many, many men have managed to do so.
 
+### Girls and Women
+
 For girls and women, in contrast, being sexually used or abused is not the opposite of how they're supposed to be. Instead, it's a more extreme version of how they've been taught and conditioned to behave. It's a more extreme version of how they're viewed by others, and may come to see themselves, in a world that's dominated by men.
 
 On television shows, in movies and advertising of all kinds – let alone the pornography that is becoming increasingly mainstream in our society and around the world – not only women but girls, even young girls, are presented as objects that exist for the sexual pleasure of men. Girls and women get this message in many other ways too, including leering looks, unwanted sexual comments and other forms of sexual harassment.
@@ -66,13 +72,15 @@ Tragically, then, for a girl or woman to be molested, raped or otherwise sexuall
 
 As many women have pointed out, all of these degrading and controlling stereotypes of women add an additional layer of shame to that already built into sexual exploitation, abuse and assault. Again, it's different from the additional layer of shame that men experience, but a powerful force all the same.
 
-I do not want to compare the suffering or shame of male and female victims of sexual abuse or assault in a way that pits them against each other. And every person, whether male or female (or some other gendered identity) is a unique individual. It is worth noting, however, that for many boys and men who have been sexually abused, the shameful feeling that they aren't – and can never be – 'real men' can make it very hard for them to feel safe telling anyone what happened or asking for help with the effects their unwanted or abusive sexual experience.
+I do not want to compare the suffering or shame of male and female victims of sexual abuse or assault in a way that pits them against each other. And every person, whether male or female (or some other gender identity) is a unique individual.
+
+It is worth noting, however, that for many boys and men who have been sexually abused, there is an additional layer of shame – the feeling that they aren't, and can never be, 'real men' – which can make it very hard for them to feel safe telling anyone what happened or asking for help.
 
 ## Extreme Shame and Its Sources
 
 As if I haven't already covered enough reasons that harmful unwanted or abusive childhood experiences can cause shame, some men and women experience very extreme shame – shame so intense that it can be crippling, and so intense that it is continually driving many thoughts and behaviors, including constantly trying to ‘prove themselves.’
 
-There are still other, deeper and older, sources of such extreme shame. Even when the shame seems to be all about particular harmful sexual experiences, it may be as much or more a deep-seated shame learned in their youngest years and earliest relationships.
+There are still other, deeper and older, sources of such extreme shame. Even when the shame seems to be all about particular harmful childhood experiences, it may be as much or more a deep-seated shame learned in their youngest years and earliest relationships.
 
 What do I mean? It will take some explaining, but I encourage you to read on and think about whether what follows might apply to you.
 
@@ -98,7 +106,7 @@ At some point, even the most basic needs for love and attention – so often met
 
 The two faces of shaming are rejection and contempt. Repeated shaming rejections in childhood can create a person who fears and avoids close relationships. Repeated shaming contempt can saddle a person with lots of anger and hostility for years.
 
-Repeated rejection and contempt, whether alone or combined, tend to create children and adults who fear and avoid asserting their needs in healthy ways. And so, adults who were severely shamed as children have a big internal obstacle to seeking help – or even feeling *entitled* to seek help, including help with getting over their shame.
+Repeated rejection and contempt, whether alone or combined, tend to create children and adults who fear and avoid asserting their needs in healthy ways. And so, adults who were severely shamed as children have a big internal obstacle to seeking help – or even feeling *worthy*&nbsp;of being helped, including helped to get over their shame.
 
 ## Shame Can Be Overcome
 
