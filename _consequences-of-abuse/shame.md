@@ -72,7 +72,7 @@ Again, all these stereotypes have something in common: a girl or woman is define
 
 > Extreme versions of how girls and women are already viewed and treated.
 
-Tragically, then, for a girl or woman to be molested, raped or otherwise sexually assaulted is to experience a more extreme version of something they're constantly told they're 'supposed' to be: passive objects for men's sexual use and domination, sexual objects whose feelings and needs are ignored and irrelevant. In addition, being sexually assaulted has forcibly put them into a category of 'damaged goods' or 'spoiled womanhood,' at least with regard to their value as 'respectable' sexual objects for boys and men.
+Tragically, then, for a girl or woman to be molested, raped or otherwise sexually assaulted is to experience [a more extreme version](/pdf/LebowitzRoth1994.pdf) of something they're constantly told they're 'supposed' to be: passive objects for men's sexual use and domination, sexual objects whose feelings and needs are ignored and irrelevant. In addition, being sexually assaulted has forcibly put them into a category of 'damaged goods' or 'spoiled womanhood,' at least with regard to their value as 'respectable' sexual objects for boys and men.
 
 As many women have pointed out, all of these degrading and controlling stereotypes of women add an additional layer of shame to that already built into sexual exploitation, abuse and assault. Again, it's different from the additional layer of shame that men experience, but a powerfully destructive force all the same.
 
