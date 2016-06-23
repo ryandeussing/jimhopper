@@ -14,7 +14,7 @@ facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
 
-### What It’s About
+## What It’s About
 
 Shame is thoughts and feelings about *who you are.*
 
