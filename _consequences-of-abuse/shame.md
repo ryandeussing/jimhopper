@@ -56,7 +56,7 @@ For many males, the shameful sense of not being a ‘real man’ because of what
 
 This shame is felt to some extent by just about every man who had unwanted or abusive sexual experiences in childhood. Yet it can be overcome, and many, many men have managed to do so.
 
-For girls and women, in contrast, being sexually used or abused is not the opposite of how they're supposed to be. Instead, it's a more extreme version of one of the basic ways they're viewed by others and have been conditioned to see themselves and be in a world that's dominated by men.
+For girls and women, in contrast, being sexually used or abused is not the opposite of how they're supposed to be. Instead, it's a more extreme version of how they've been taught and conditioned to behave. It's a more extreme version of how they're viewed by others, and may come to see themselves, in a world that's dominated by men.
 
 On television shows, in movies and advertising of all kinds – let alone the pornography that is becoming increasingly mainstream in our society and around the world – not only women but girls, even young girls, are presented as objects that exist for the sexual pleasure of men. Girls and women get this message in many other ways too, including leering looks, unwanted sexual comments and other forms of sexual harassment.
 
