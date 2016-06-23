@@ -66,19 +66,19 @@ For girls and women, in contrast, being sexually used or abused is not the oppos
 
 On television shows, in movies and advertising of all kinds – let alone the pornography that is becoming increasingly mainstream in our society and around the world – not only women but girls, even young girls, are presented as objects that exist for the sexual pleasure of men. Girls and women get this message in many other ways too, including leering looks, unwanted sexual comments and other forms of sexual harassment.
 
-Girls and women quickly learn that it's hard to avoid being categorized as a 'good' girl or a 'slut.' There are other stereotypes, of course, including 'tease' and 'bitch,' and stereotypes of women who are homosexual.
+Girls and women know they're vulnerable to being categorized as a 'good' girl or a 'slut.' There are other stereotypes, of course, including 'tease' and 'bitch,' and those put on homosexual girls and women.
 
-Again, all these stereotypes have something in common: a girl or woman is defined by her sexuality, more specifically by how boys and men experience her sexuality – as something good or bad, as something that renders her worthy of respect and care or, instead, of exploitation and abuse, including someone who 'deserves' to be 'taught a lesson' for sexually frustrating men, for acting like she's better than them, or for showing that she's 'unworthy' of respect (because she's a 'slut' or 'whore').
+Again, all these stereotypes have something in common: a girl or woman is defined by her sexuality, more specifically by how boys and men experience her sexuality – as something good or bad, as something that renders her worthy of respect and care or, instead, warranting exploitation and abuse. In these twisted views, some girls and women 'deserve' to be 'taught a lesson' for sexually frustrating men, for acting like they're better than men, or for otherwise allegedly being unworthy of respect (because they're a 'slut' or 'whore').
 
 > Extreme versions of how girls and women are already viewed and treated.
 
-Tragically, then, for a girl or woman to be molested, raped or otherwise sexually assaulted is to experience a more extreme version of something they're constantly told they're 'supposed' to be: passive objects for men's sexual use and domination, sexual objects whose feelings and needs are ignored and irrelevant. In addition, being sexually assaulted has forcibly put them into a category of 'damaged good' or 'spoiled womanhood,' at least with regard to their value as 'respectable' sexual objects for boys and men.
+Tragically, then, for a girl or woman to be molested, raped or otherwise sexually assaulted is to experience a more extreme version of something they're constantly told they're 'supposed' to be: passive objects for men's sexual use and domination, sexual objects whose feelings and needs are ignored and irrelevant. In addition, being sexually assaulted has forcibly put them into a category of 'damaged goods' or 'spoiled womanhood,' at least with regard to their value as 'respectable' sexual objects for boys and men.
 
-As many women have pointed out, all of these degrading and controlling stereotypes of women add an additional layer of shame to that already built into sexual exploitation, abuse and assault. Again, it's different from the additional layer of shame that men experience, but a powerful force all the same.
+As many women have pointed out, all of these degrading and controlling stereotypes of women add an additional layer of shame to that already built into sexual exploitation, abuse and assault. Again, it's different from the additional layer of shame that men experience, but a powerfully destructive force all the same.
 
 > There may be deeper, and unrecognized, sources of shame.
 
-Importantly, I don't want to compare the suffering or shame of male and female victims of sexual abuse or assault in a way that pits them against each other. But it can be helpful to understand some of the different forces that contribute to their feelings of shame. And every person, whether male or female (or some other gender identity), is a always a unique individual with his or her own unique experiences of shame.
+Importantly, I don't want to compare the suffering or shame of male and female victims of sexual abuse or assault in a way that pits them against each other. But it can be helpful to understand some of the different factors that contribute to their different experiences of shame. And every person, whether male or female (or some other gender identity), is a always a unique individual with his or her own unique experiences of shame.
 
 ## Extreme Shame and Its Sources
 
