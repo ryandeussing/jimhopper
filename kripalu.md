@@ -76,7 +76,7 @@ Upon completing this course, participants will be able to:
 
 [Center for Mindfulness in Medicine, Healthcare, and Society](http://www.umassmed.edu/cfm/index.aspx) in Wooster, Massachusetts - Founded by Jon Kabat-Zinn and colleagues, this organization developed Mindfulness-Based Stress Reduction (MBSR) and has trained people to run MBSR programs around the world. The web site has information about the their annual conference, finding colleagues who have adapted the MBSR approach to specific client groups, etc.
 
-[Insight Meditation Society](http://www.dharma.org/ims/) in Barre, Massachusetts - Where Jim has done a number of retreats. It's one of the oldest, most respected and best-run retreat centers in North America.
+[Insight Meditation Society](http://www.dharma.org/ims/) in Barre, Massachusetts - Where Jim and David have done a number of retreats. It's one of the oldest, most respected and best-run retreat centers in North America.
 
 [Iyengar Yoga: National Association of the United States](https://iynaus.org/)&nbsp;includes a clear [description](https://iynaus.org/iyengar-yoga) of Iyengar Yoga and a&nbsp;[directory](https://secure.iynaus.org/search)&nbsp;of Iyengar yoga teachers in the U.S. As explained on [Cultivating Mindfulness](/mindfulness-and-meditation/cultivating-mindfulness/), this yoga method can be a good way to cultivate mindfulness for people who need a physically active and movement oriented approach and/or don't (yet) feel at home in their bodies.
 
