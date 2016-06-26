@@ -1,6 +1,6 @@
 ---
 title: Scientific Research
-custom_title:
+custom_title: Scientific Research on Recovered Memories
 order: 2
 subcollection:
 hotlines_sidebar: true
