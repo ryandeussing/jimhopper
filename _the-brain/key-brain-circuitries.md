@@ -27,7 +27,7 @@ on this page
 
 ## Introduction
 
-The brain can be understood, in part, as consisting of many different and interconnected circuitries. ('Circuitry' simply means a collection of brain areas that work together to perform certain functions.)
+The brain can be understood, in part, as consisting of many different and interconnected *circuitries.* ('Circuitry' simply means a collection of brain areas that work together to perform certain functions.)
 
 After more than two decades of study and reflecting on what's been most useful to those I teach (mostly therapists, police officers, attorneys, military commanders and higher education administrators), I have come to focus on a small number of key brain circuitries.
 
@@ -35,7 +35,7 @@ After more than two decades of study and reflecting on what's been most useful t
 
 The circuitries that I focus on here are among the most studied in neuroscience. For each circuitry, thousands of studies have been conducted and published by many different research laboratories around the world. (There are still disagreements about some details, of course, and respected researchers disagree about what names or labels we should put on certain circuitries, but most of us need not worry about those things.)
 
-I focus on these particular circuitries for a few important reasons. First, unlike many other aspects of brain function, the activities of these circuitries are (at least partly) accessible to conscious awareness. Second, because we can become aware of their functioning, we can exercise substantial choice over how we use these circuitries in our lives. And third, understanding these circuitries provides an essential foundation for understanding – and harnessing – basic brain and psychological processes that can bring suffering, healing, and genuine happiness.
+I focus on these particular circuitries for a few important reasons. First, unlike many other aspects of brain function, the activities of these circuitries are (at least partly) *accessible to conscious awareness*. Second, because we can become aware of their functioning, *we can exercise substantial choice* over how we use these circuitries in our lives. And third, familiarity with these circuitries provides an *essential foundation* for understanding – and harnessing – basic brain and psychological processes that can bring either suffering or healing and genuine happiness.
 
 For those who want the scientific research backing up my teachings on these circuitries, one place to start is a [book chapter of mine](/pdf/Hopper_2015_Harnessing_the_Seeking_Satisfaction_and_Embodiment_Circuitries.pdf) that has citations to key research and a full references section. (However, those citations are not comprehensive and more research is continually being published.)
 
