@@ -12,7 +12,7 @@ facebook_image_path: /uploads/facebook-brain.jpg
 ---
 
 
-Here I introduce my central teachings on the human brain. As you will see, they revolve around some key brain circuitries and their roles in fundamental human cycles of suffering, healing and happiness.
+Here I introduce my central teachings on the human brain. As you will see, they revolve around some key brain circuitries and their roles in fundamental cycles of suffering, healing and happiness.
 
 These teachings are grounded in decades of study and practice as a researcher, therapist, consultant and teacher – and in my personal life as a family member, friend, and long-term practitioner of contemplative practices, including various forms of meditation.
 
