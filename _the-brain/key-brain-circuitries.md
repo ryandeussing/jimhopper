@@ -45,7 +45,7 @@ My *key circuitries* approach, while compatible with and complementary to those 
 
 I focus on six key brain circuitries, beginning with the circuitry of fear, which you have probably heard about before (at least one key structure, the amygdala).
 
-Even more important, however, are the circuitries of seeking, satisfaction and embodiment. Although you probably haven't heard of them before, I hope you will give me a chance to help you see why they are absolutely essential circuitries, especially for healing and genuine happiness.
+Even more important, however, are the circuitries of seeking, satisfaction and embodiment. Although you probably haven't heard of them before, I hope you will give me a chance to help you see why they are absolutely essential circuitries for us to understand and take responsibility for, especially when it comes to healing and genuine happiness.
 
 ## Fear Circuitry
 
