@@ -43,7 +43,9 @@ Those who know something about the brain, and perhaps are familiar with the work
 
 My *key circuitries* approach, while compatible with and complementary to those of Siegel and others, sheds unique light on brain-based experiences and processes that are fundamental to our suffering, healing and happiness.
 
-I hope that many people, including you, will find what I share to be enlightening and useful.
+I focus on six key brain circuitries, beginning with the circuitry of fear, which you have probably heard about before (at least one key structure, the amygdala).
+
+Even more important, however, are the circuitries of seeking, satisfaction and embodiment. Although you probably haven't heard of them before, I hope you will give me a chance to help you see why they are absolutely essential circuitries, especially for healing and genuine happiness.
 
 ## Fear Circuitry
 
