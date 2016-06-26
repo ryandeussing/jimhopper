@@ -175,7 +175,7 @@ The four links below are to respected Vipassana meditation centers and organizat
 
 [Mindfulness-Based Cognitive Therapy](http://www.mbct.com/) - Site by Dr. Zindel Segal, Mark Williams, and John Teasdale, who have developed and researched Mindfulness-Based Cogntive Therapy for Depression. [About MBCT](http://www.mbct.com/About_Main.htm) discusses the nature of depression and how mindfulness can prevent relapse.
 
-[Iyengar Yoga: National Association of the United States](https://iynaus.org/)&nbsp;includes a clear [description](https://iynaus.org/iyengar-yoga) of Iyengar Yoga and a&nbsp;[directory](https://secure.iynaus.org/search)&nbsp;of Iyengar yoga teachers in the U.S. As explained on [Cultivating Mindfulness](mindfulness-and-meditation/cultivating-mindfulness/), this yoga method can be a good way to cultivate mindfulness for people who need a physically active and movement oriented approach and/or don't (yet) feel at home in their bodies.
+[Iyengar Yoga: National Association of the United States](https://iynaus.org/)&nbsp;includes a clear [description](https://iynaus.org/iyengar-yoga) of Iyengar Yoga and a&nbsp;[directory](https://secure.iynaus.org/search)&nbsp;of Iyengar yoga teachers in the U.S. As explained on [Cultivating Mindfulness](/mindfulness-and-meditation/cultivating-mindfulness/), this yoga method can be a good way to cultivate mindfulness for people who need a physically active and movement oriented approach and/or don't (yet) feel at home in their bodies.
 
 [Self-Compassion](http://www.self-compassion.org/) - Site of Dr. Kristin Neff, focused on 'a healthier way of relating to yourself,' includes scholarly research and exercises for how to increase self-compassion.
 
