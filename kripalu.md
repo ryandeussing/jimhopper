@@ -88,8 +88,6 @@ Upon completing this course, participants will be able to:
 
 Pat Ogden's [Sensorimotor Psychotherapy Institute](http://www.sensorimotorpsychotherapy.org/) provides training in body-oriented therapy that includes a major mindfulness component, including methods for "tracking" bodily sensations, helping clients process traumatic memories and conditioning in states of optimal arousal, etc. This approach is grounded in sound and ethical clinical practices that do not violate clients' boundaries.
 
-[Mindfulness Together](http://www.mindfulnesstogether.net/) - A social network founded by [Susan Kaiser Greenland](http://www.susankaisergreenland.com/), creator of *InnerKids* and author of [The Mindful Child](http://www.amazon.com/dp/1416583009/ref=nosim/?tag=jimhoppercom-20/), the community is "dedicated to nurturing the inner lives of kids and those who love them."
-
 [The Dhamma Brothers](http://www.dhammabrothers.com/), [Doing Time, Doing Vipassana](http://www.dhamma.org/en/dtdv.htm) and [Changing From Inside](http://www.prison.dhamma.org/cfi.htm) - Films on prisoners doing intensive vipassana or 'Insight' meditation retreats (in the Goenka vipassana tradition, which is more structured and more focused on body scan meditation than retreats at the Insight Meditation Society).
 
 [Mindfulness & Meditation](/mindfulness-and-meditation/overview/) - Section of my website, written with special consideration for those living with the effects of trauma.
