@@ -1,7 +1,7 @@
 ---
 title: Kripalu
 layout: topic
-custom_title: Annual Program at Kripalu
+custom_title: Annual Kripalu Program
 class: topic mindfulness-and-meditation
 permalink: /services/kripalu/
 ---
@@ -78,7 +78,7 @@ Upon completing this course, participants will be able to:
 
 [Insight Meditation Society](http://www.dharma.org/ims/) in Barre, Massachusetts - Where Jim and David have done a number of retreats. It's one of the oldest, most respected and best-run retreat centers in North America.
 
-[Iyengar Yoga: National Association of the United States](https://iynaus.org/)&nbsp;includes a clear [description](https://iynaus.org/iyengar-yoga) of Iyengar Yoga and a&nbsp;[directory](https://secure.iynaus.org/search)&nbsp;of Iyengar yoga teachers in the U.S. As explained on [Cultivating Mindfulness](/mindfulness-and-meditation/cultivating-mindfulness/), this yoga method can be a good way to cultivate mindfulness for people who need a physically active and movement oriented approach and/or don't (yet) feel at home in their bodies.
+[Iyengar Yoga: National Association of the United States](https://iynaus.org/) includes a clear [description](https://iynaus.org/iyengar-yoga) of Iyengar Yoga and a [directory](https://secure.iynaus.org/search) of Iyengar yoga teachers in the U.S. As explained on [Cultivating Mindfulness](/mindfulness-and-meditation/cultivating-mindfulness/), this yoga method can be a good way to cultivate mindfulness for people who need a physically active and movement oriented approach and/or don't (yet) feel at home in their bodies.
 
 [Self-Compassion](http://www.self-compassion.org/) - Kristin Neff's site, about "a healthier way of relating to yourself," includes scholarly research and exercises for how to increase self-compassion.
 
