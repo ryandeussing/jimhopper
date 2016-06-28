@@ -1,6 +1,6 @@
 ---
 title: Kripalu
-layout: article
+layout: default
 custom_title: Annual Kripalu Program
 class: topic mindfulness-and-meditation
 permalink: /services/kripalu/
