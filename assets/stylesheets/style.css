@@ -1395,7 +1395,7 @@ ul.onpage {
 
 .article ul {
   margin-top: 0rem;
-  padding-top: 1rem;
+  /*padding-top: 1rem;*/
   margin-bottom: 2rem; }
   .article ul li {
     list-style-type: disc;
