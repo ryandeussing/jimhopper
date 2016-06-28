@@ -1,7 +1,7 @@
 ---
 title: Kripalu
 layout: topic
-custom_title: Annual Kripalu Program
+custom_title: Annual Program at Kripalu
 class: topic mindfulness-and-meditation
 permalink: /services/kripalu/
 ---
