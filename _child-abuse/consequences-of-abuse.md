@@ -23,7 +23,7 @@ on this page
 
 This page introduces a section that has several pages, each on a different potential consequence of harmful unwanted or abusive childhood experiences.&nbsp;
 
-There is also a page with some cautions about how one understands the impacts of unwanted or abusive childhood sexual experiences, in particular. Sometimes people over-estimate or under-estimate such effects, or don't consider the bigger, for example the kinds of relationships in which such experiences happen or are not prevented or stopped.
+This section also has a page with some cautions about how to understand the impacts of unwanted or abusive childhood sexual experiences, in particular. That is, sometimes people over-estimate such effects, or don't consider the bigger picture, for example the kinds of relationships in which such experiences happen or are not prevented or stopped from happening.
 
 ## Effects on Many Aspects of Development
 
