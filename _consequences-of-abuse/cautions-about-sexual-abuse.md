@@ -81,6 +81,6 @@ Alone or in combination, such experiences can lead to problems in many areas, in
 
 No matter what unwanted or abusive experiences you may have had as a child (sexual or otherwise), and no matter how great the effects of those experiences may be in your life now, there is always *much more* to who you are.
 
-There is a danger of creating – and getting stuck in – a view of oneself that revolves around having been a 'victim,' or being a 'survivor,' or any other potentially limiting way of defining or labeling yourself. (See [Sorting It Out for Yourself](child-abuse/sorting-it-out).)
+There is a danger of creating – and getting stuck in – a view of oneself that revolves around having been a 'victim,' or being a 'survivor,' or any other potentially limiting way of defining or labeling yourself. (See [Sorting It Out for Yourself](/child-abuse/sorting-it-out).)
 
 Finally, there are many things, including educating oneself and therapy, that can help people heal from harmful effects of unwanted or abusive experiences in childhood. But if improving your current life and creating a better future take a back seat to focusing on the past, then healing will be slowed down and maybe even prevented.
