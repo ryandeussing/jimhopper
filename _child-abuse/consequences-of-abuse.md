@@ -1,7 +1,7 @@
 ---
 title: Consequences of Child Abuse
 custom_title:
-order: 3
+order: 4
 subcollection: consequences-of-abuse
 hotlines_sidebar: true
 description:
