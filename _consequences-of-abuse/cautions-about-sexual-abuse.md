@@ -59,7 +59,7 @@ Unwanted or abusive experiences happen to children who live in families and home
 * A parent may lack healthy adult relationships, and use a child for emotional and sexual gratification.
 * A parent may disappear when depressed, lost in an addiction, incarcerated, or hospitalized for mental illness.
 * A child may be unwanted and passed from parent to parent, relative to relative.
-* Disturbed, exploitive or violent relatives or family friends may live in or pass through the home.
+* Disturbed, exploitive or violent relatives, family friends or others may live in or pass through the home.
 * A single parent may cycle through boyfriends or girlfriends, some abusive and violent.
 
 
