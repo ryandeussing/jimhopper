@@ -7,8 +7,8 @@ hotlines_sidebar: true
 description:
 nexturl:
 nexttitle:
-prevurl: /child-abuse/overview/
-prevtitle: Unwanted or Abusive Childhood Experiences
+prevurl:
+prevtitle:
 facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
