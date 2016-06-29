@@ -62,17 +62,17 @@ Several things can influence the impacts of such experiences, especially:
 Other factors that that play out differently for every person:
 
 * Whether the experiences involved deliberate humiliation.
-* How “normal” such experiences were in the extended family and local culture.
+* How 'normal' such experiences were in the extended family and local culture.
 * Whether the child had loving family members, and/or knew that *someone* loved him or her.
 * Whether the child had some good relationships – with siblings, grandparents, friends, teachers, coaches, etc.
-* Whether the child had relationships in which difficult and “vulnerable” feelings were acceptable, and could be expressed and managed in safe and healthy ways.
+* Whether the child had relationships in which difficult and 'vulnerable' feelings were acceptable, and could be expressed and managed in safe and healthy ways.
 
 
 Some of those effects reflect how abusive the experiences were, and some the kinds of the relationships in which the experiences and the child’s reactions played out. They’re all very important.
 
 > You don't have to figure everything out
 
-Lots of research has been done on how such things determine the consequences of unwanted or abusive childhood sexual, physical and emotional experiences. Researchers talk about “risk factors,” which make bad effects more likely, and “protective factors,” which make bad effects less likely.
+Lots of research has been done on how such things determine the consequences of unwanted or abusive childhood sexual, physical and emotional experiences. Researchers talk about 'risk factors,' which make bad effects more likely, and 'protective factors,' which make bad effects less likely.
 
 Every man or woman who’s had such experiences is different, and has a *unique combination* of risk and protective factors that have influenced the effects in his or her life.
 
@@ -81,7 +81,7 @@ Before going into more detail on some of the most common effects, with the other
 * The effects of unwanted or abusive childhood experiences, and what determines such effects, can be very complex.
 * It can be helpful to learn about how such experiences can – depending on a variety of other factors – affect various aspects of children's and adult's lives.
 * You don’t have to figure everything out, which may not even be possible, especially in the short term.
-* It’s helpful keep in mind the “big picture” and avoid over-simplifying things too much.
+* It’s helpful keep in mind the 'big picture' and avoid over-simplifying things too much.
 
 
 ## Abusive or Harmful Childhood Experiences and Being Human
