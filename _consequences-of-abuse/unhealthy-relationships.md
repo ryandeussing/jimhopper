@@ -30,7 +30,7 @@ People who had such experiences as children have learned some unhealthy relation
 
 They may have experienced betrayal by someone who used or abused them sexually. Or adults responsible for caring for them may have betrayed them by turning on them in fits of rage, or repeatedly and harshly criticizing them in ways that made them feel bad and ashamed.
 
-For such experiences to happen, their needs had to be neglected or ignored by those who could have protected them, or could have helped them stop what was going on, or helped them deal with what happened.
+For such experiences to happen, their needs had to be neglected or ignored by those who might have protected them, or could have helped them stop what was going on, or helped them deal with what happened.
 
 > Many patterns involve roles of ‘victim’ and ‘perpetrator’
 
