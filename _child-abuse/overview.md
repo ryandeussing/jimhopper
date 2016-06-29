@@ -41,4 +41,4 @@ When it comes to fitting things on website menus, and some page titles, I'm stuc
 
 Finally, I almost never use the words 'victim' or 'survivor,' because I know from years of experience that many people do not see themselves that way and don't want others putting that label on them (even implicitly, by using it to describe others who've had similar experiences).
 
-See [Sorting It Out for Yourself](/child-abuse/sorting-it-out/) for a more in-depth discussion of language and labels, focused on childhood sexual experiences. There I provide encouragement and tools for finding one's own words to label and sort out the meaning and effects of such experiences on one's life.
+See [Sorting It Out for Yourself](/child-abuse/sorting-it-out/) for a more in-depth discussion of language and labels, focused on childhood sexual experiences. There I provide encouragement and tools for finding one's own words to label and sort out the meaning and effects of such experiences in one's life.
