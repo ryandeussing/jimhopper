@@ -312,7 +312,7 @@ On this webpage I am offering a framework for understanding key brain and psycho
 
 I have drawn on scientific, clinical and contemplative knowledge to provide an integrative vision. And while simplifying things in some ways, this framework acknowledges the complexity of human suffering and healing. Also, respected neuroscience colleagues asked to review my writing on this framework (for my [book chapter](/pdf/Hopper_2015_Harnessing_the_Seeking_Satisfaction_and_Embodiment_Circuitries.pdf)) found nothing inconsistent with current scientific knowledge, although it is important to note that direct research on interactions between the brain circuitries of fear, seeking, satisfaction and embodiment is currently limited (but substantive and growing).
 
-Certainly more research is needed. In the meantime, those of us seeking healing and genuine happiness for ourselves and others can better appreciate and explore the power of contemplative practices – Eastern and Western, secular and religious – to harness our brains' seeking, satisfaction and embodiment circuitries to decrease suffering and to cultivate more mindful, loving and happy minds, bodies, relationships, families and communities.
+Certainly more research is needed. In the meantime, those of us seeking healing and genuine happiness for ourselves and others can better appreciate and explore the power of contemplative practices – Eastern and Western, secular and religious – to harness our brains' seeking, satisfaction, embodiment and other key circuitries to decrease suffering and to cultivate more mindful, loving and happy minds, bodies, relationships, families and communities.
 
 ## Exercises and Handouts
 
