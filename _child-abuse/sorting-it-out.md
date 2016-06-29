@@ -7,8 +7,8 @@ hotlines_sidebar: true
 description:
 nexturl:
 nexttitle:
-prevurl:
-prevtitle:
+prevurl: /child-abuse/overview/
+prevtitle: Unwanted or Abusive Childhood Experiences
 facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
@@ -51,7 +51,7 @@ For some of you, that’s why you’re here right now. You’re trying to sort o
 
 * “What was that childhood (or adolescent) sexual experience *really* about?”
 * “What *effects* has that experience had on me?”
-* “Is *that* a reason why I’m struggling with&nbsp;*_____*?”
+* “Is *that* a reason why I’m struggling with *_____*?”
 
 
 The question, “What was that sexual experience really about?” may be the most basic, and could take a while to sort out. It implies other questions, like:
