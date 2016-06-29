@@ -60,7 +60,7 @@ The point here is not to condemn ourselves (or anyone else), just to recognize h
 
 ### Bystander
 
-Replaying the ‘bystander’ role can be very destructive too. For example, you may look the other way as someone you know exploits or abuses another person (or group of people, for example customers or employees at the 'bottom' organization). You may do nothing to protect a child from abuse or neglect that you know is happening.
+Replaying the ‘bystander’ role can be very destructive too. For example, you may look the other way as someone you know exploits or abuses another person (or group of people, for example customers or employees at the 'bottom' of an organization). You may do nothing to protect a child from abuse or neglect that you know or strongly suspect is happening.
 
 There are so many ways that people can find themselves repeating painful relationship patterns from childhood – if they pay attention and reflect on their relationships.
 
