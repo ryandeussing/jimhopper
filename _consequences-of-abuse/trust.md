@@ -75,7 +75,9 @@ This can leave you feeling disconnect from yourself, or from reality, which then
 
 ## Learning to Trust
 
-If you’re struggling with trust in these ways, you are not alone. Major goals of healing are learning how to trust yourself, and how to find people who are worthy of your trust.
+If you’re struggling with trust in these ways, you are not alone.
+
+Major goals of healing are learning how to trust yourself, and how to find people who are worthy of your trust.
 
 Figuring out who can be trusted – in which roles, with which kinds of information, under which conditions – can be a big focus of learning.
 
