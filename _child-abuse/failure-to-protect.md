@@ -1,7 +1,7 @@
 ---
 title: Why Adults Fail to Protect Children
 custom_title:
-order: 4
+order: 5
 subcollection:
 hotlines_sidebar: true
 description:
@@ -29,7 +29,7 @@ Ask nearly anyone: They’ll say they would speak up if they thought a child was
 
 And yet, the sad truth: Millions of children are abused every year in this country. Many of them believe, correctly, that someone else knows or should know about their situation, but does little or nothing to protect them. Some tell adults what’s going on, seeking protection and help, only to be met with disbelief, denial, blame, or even punishment. How can that be?
 
-> No excuses. But no simple answers, either.&nbsp;
+> No excuses. But no simple answers, either.
 
 When you’re the one who has been hurt in this way (or someone who cares about a child who has), it’s hard to imagine that there can be any 'good reason' for failing to protect a vulnerable child. You may feel doubly betrayed by someone’s failure to help. You were in danger, someone could have protected you and chose not to…period. No excuses or rationalizations for their failure seem acceptable.
 
