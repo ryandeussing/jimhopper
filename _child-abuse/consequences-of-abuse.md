@@ -1,5 +1,5 @@
 ---
-title: Consequences of Abuse
+title: Consequences of Child Abuse
 custom_title:
 order: 3
 subcollection: consequences-of-abuse
