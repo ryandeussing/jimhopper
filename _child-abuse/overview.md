@@ -29,7 +29,7 @@ The words 'abuse' and 'child abuse' tend to evoke strong feelings and disturbing
 
 Also, putting such a label on our experience can imply that the labels 'abuse victim' or 'abuse survivor' apply to us, and that 'child abuser' applies to others involved. Again, that may not feel right or true.
 
-Even if an experience fits a legal definition or therapist's definition of 'child abuse,' that doesn't mean you have to (or should) see it that way. That doesn't mean you must use such words to understand what happened. What other people think or say shouldn't determine what it means for you, or the other people involved – who may be people you still care about, even love. I understand.
+Even if an experience fits a legal definition or a therapist's definition of 'child abuse,' that doesn't mean you have to (or should) see it that way. That doesn't mean you must use such words to understand what happened. What other people think or say shouldn't determine what it means for you, or the other people involved – who may be people you still care about, even love. I understand.
 
 > 'Abuse,' 'victim' and 'survivor' just don't feel right to some people​
 
@@ -37,7 +37,7 @@ That's why I'm careful about the words I use. I want everyone who visits this we
 
 I do need to use some words, of course. These days many people use 'child abuse,' 'sexual abuse,' 'physical abuse' and 'emotional abuse' to label and make sense of such experiences. To these I've added 'unwanted or abusive childhood sexual experiences' and phrases like 'harmful childhood experiences.'
 
-When it comes to fitting things on website menus, and some page titles, I'm stuck with 'abuse' because the alternatives are simply too long. But on the pages themselves I try to avoid the word 'abuse,' because I know it doesn't feel right to some people.
+When it comes to fitting things on website menus, and some page titles, I'm stuck with 'abuse' because the alternatives are simply too long. But on the pages themselves I try to avoid the word 'abuse,' especially as a one-word label, because I know it doesn't feel right to some people.
 
 Finally, I almost never use the words 'victim' or 'survivor,' because I know from years of experience that many people do not see themselves that way and don't want others putting that label on them (even implicitly, by using it to describe others who've had similar experiences).
 
