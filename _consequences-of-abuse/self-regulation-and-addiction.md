@@ -62,7 +62,7 @@ This is especially true of emotions like fear, shame and guilt – which can be 
 
 Then, the ways we try to avoid or cope with our emotions, and the stresses of our lives, often end up causing new and bigger problems. (See [Cycles of Suffering, Healing & Happiness](/the-brain/cycles/).)
 
-Angry and aggressive behavior, getting drunk or high, compulsively using porn or having sex – these are often attempts to avoid and escape feelings of helplessness, fears of rejection, and unfulfilled wishes to be loved. They all involve problems with self-regulation.
+Angry and aggressive behavior, getting drunk or high, compulsively using porn or having sex – these are often attempts to avoid and escape feelings of helplessness, fears of rejection, and unfulfilled longings to be loved. They all involve problems with self-regulation.
 
 Other problems with self-regulation and addiction are attempts to deal with feeling nothing and being disconnected from others (or even from life itself).
 
