@@ -51,7 +51,7 @@ Trust can be undermined even more if a child tries to speak up but is not listen
 
 And so, after such experiences, difficulty trusting others may go very deep.
 
-Children learn that important people in their lives cannot be trusted to have their best interests at heart. They may be told, ‘You want this,’ or ‘This is the way to show love,’ or ‘You don’t deserve to be treated any better than this.’
+Children learn that important people in their lives cannot be trusted to have their best interests at heart. They may be told, "You want this," or "This is the way to show love," or "You don’t deserve to be treated any better than this."
 
 Such messages deeply harm the ability to trust. It may feel impossible to trust others enough to let down your guard.
 
