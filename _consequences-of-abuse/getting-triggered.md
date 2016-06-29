@@ -50,7 +50,7 @@ Or they can be subtle, like someone making a mildly sarcastic comment that remin
 
 Triggers aren’t always about other people and what they say or do. They can be something like a faint smell of alcohol (that used to be on the breath of an abuser). They could be the shape of a man’s mustache, a style of clothing, a wallpaper pattern, or the sound of a slamming door. They can be the ‘anniversary’ date of a traumatic event like an abuse experience or someone’s death.
 
-What are triggers for a particular person depends on his unique experiences of being vulnerable and hurt in his or her life, and the unique details of the situations in which those experiences occurred.
+What are triggers for a particular person depends on his or her unique experiences of being vulnerable and hurt in his or her life, and the unique details of the situations in which those experiences occurred.
 
 The trigger is always real. By definition, a trigger is something that reminds you of something bad or hurtful from your past. It ‘triggers’ an association or memory in your brain.
 
