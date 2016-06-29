@@ -72,7 +72,7 @@ Some people keep neglecting their own needs and taking care of others in ways th
 
 Some try to control others with guilt or shame.
 
-Some hide their emotional needs from others, then feel ignored and abandoned. Others make extreme emotional demands, or alternative between being needy and distant.
+Some hide their emotional needs from others, then feel ignored and abandoned. Others make extreme emotional demands, or alternate between being needy and distant.
 
 Also, many unhealthy relationship patterns are rooted in a [lack of trust](/child-abuse/consequences-of-abuse/trust/) – that anyone can really care, anyone can really understand them, be honest, etc. This lack of trust is usually rooted in childhood relationships with parents or other important adults who were untrustworthy.
 
