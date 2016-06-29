@@ -24,7 +24,7 @@ on this page
 
 ## What’s Learned from Unwanted and Abusive Experiences
 
-As children we learn ways of relating – from parents, siblings, anyone who's important in our lives. And then, over and over again, we replay those roles.
+As children we learn ways of relating – from parents, siblings, anyone who's important in our lives. And then, over and over again, we replay those patterns.
 
 People who had such experiences as children have learned some unhealthy relationship patterns.
 
