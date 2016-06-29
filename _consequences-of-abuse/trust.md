@@ -39,7 +39,7 @@ Children depend on adults because they’re learning everything about life – h
 
 For these reasons, children *cannot help but trust in others* – especially parents and people in roles of authority – to care for them and to look out for their best interests.
 
-Their dependency and need to trust also makes children vulnerable to manipulation, exploitation and abuse by adults, teenagers, and other children.
+Their dependency and need to trust also makes children vulnerable to manipulation, exploitation and abuse by adults, teenagers and other children.
 
 ## Betrayal of Trust and Its Consequences
 
