@@ -45,7 +45,7 @@ Their dependency and need to trust also makes children vulnerable to manipulatio
 
 When children are subjected to unwanted or abusive sexual, physical or emotional experiences by adults or older children, they experience *betrayal*, the violation and destruction of trust.
 
-This is also true when adults fail to play protective roles toward children, or otherwise fail to meet a child’s needs. Those are betrayals of trust too.
+This is also true when [adults fail to play protective roles toward children](/child-abuse/failure-to-protect/), or otherwise fail to meet a child’s needs. Those are betrayals of trust too.
 
 Trust can be undermined even more if a child tries to speak up but is not listened to, or not believed.
 
