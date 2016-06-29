@@ -1,7 +1,7 @@
 ---
 title: Sorting It Out for Yourself
 custom_title:
-order: 7
+order: 2
 subcollection:
 hotlines_sidebar: true
 description:
