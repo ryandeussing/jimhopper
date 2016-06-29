@@ -34,7 +34,7 @@ For such experiences to happen, their needs had to be neglected or ignored by th
 
 > Many patterns involve roles of ‘victim’ and ‘perpetrator’
 
-Often people who were harmed by others' unwanted or abusive sexual, physical and/or emotional behavior also experienced physical and/or emotional neglect. They have probably witnessed very unhealthy ways of relating between parents, siblings, their mother and her boyfriends, etc.
+Often people who have been harmed by others' unwanted or abusive sexual, physical and/or emotional behavior also experienced physical and/or emotional neglect. Also, they have probably witnessed very unhealthy ways of relating between parents, siblings, their mother and her boyfriends, etc.
 
 ## Roles People Play
 
