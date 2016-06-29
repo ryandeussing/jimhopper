@@ -92,6 +92,6 @@ Whatever self-regulation problems you have now, and however you came to have the
 
 You can learn to manage unwanted emotions and destructive impulses. You can reduce or end addictions and other bad habits. You can develop new daily habits of being mentally and physically healthy.
 
-It takes time to make such changes in your life, and it goes in stages (with some inevitable backsliding from time to time). It will probably require help from others, including a therapist or other professionals.
+It usually takes time to make such changes in your life, and it usually goes in stages (with some inevitable backsliding from time to time). It will probably require help from others, including a therapist or other professionals.
 
 But it is possible, and many other men and women have overcome huge problems with self-regulation and addictions, and gone on to achieve great happiness.
