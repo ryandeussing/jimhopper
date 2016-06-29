@@ -78,7 +78,7 @@ Maybe your parent(s) or the adults who raised you didn’t help you talk about y
 
 Instead they may have, through the example of their own behavior, taught you to ‘act out’ angry impulses and ‘block out’ negative emotions with addictions and other unhealthy escapes. They may have never provided the stable home and daily routines that children need to develop healthy eating, sleeping, and other self-care habits.
 
-Self-regulation problems can have a big impact on one’s current relationships, especially with important people in one’s life.
+And self-regulation problems can have a big impact on one’s current relationships, especially with important people in one’s life.
 
 ## Deal With This Early, With As Much Hope, Help, and Patience As Possible
 
