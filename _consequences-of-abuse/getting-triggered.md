@@ -64,7 +64,7 @@ Also, though we may not realize that we just got triggered, or why, it can be ob
 
 Triggers that involve other people’s behavior are often connected to ways that we repeat unhealthy relationship patterns learned in childhood. Things that other people do – especially people close to us and especially in situations of conflict – remind us of hurtful things done to us in the past. Then we respond as if we’re defending ourselves against those old vulnerabilities, hurts, or traumas.
 
-But our responses usually just trigger vulnerable feelings in the other person, as well as their own old self-defense patterns, and we *both* end up repeating the unhealthy relationship patterns we that fear and don’t want in our lives.
+But our responses usually just trigger vulnerable feelings in the other person, as well as their own old self-defense patterns. Then we *both* end up repeating the unhealthy relationship patterns we that fear and don’t want in our lives.
 
 As noted above, other common triggers include ‘anniversaries,’ that is, dates or holidays that remind you, at some level, of traumatic experiences, of how your family wasn’t and isn’t so happy and loving, etc.
 
