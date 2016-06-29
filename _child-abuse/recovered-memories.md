@@ -1,7 +1,7 @@
 ---
 title: Recovered Memories of Sexual Abuse
 custom_title:
-order: 5
+order: 6
 subcollection: recovered-memories
 hotlines_sidebar: true
 description:
@@ -33,7 +33,7 @@ This section of my site has six pages: an overview and introduction (this page);
 
 In 1995 I began offering web resources on recovered memories of sexual abuse, primarily to direct people to quality scientific and scholarly work on traumatic and recovered memories, especially:
 
-1. Research evidence showing that it is *not rare*&nbsp;for people who were sexually abused in childhood to go for many years, even decades, without having (recognizable or explicit) memories of the abuse. (People almost always have implicit memories of the abuse, that is, memories they did not realize were memories, for example physiological or emotional responses triggered by encountering things associated with the abuse, like being touched in a certain way). This body of work shows that claims to the contrary are contradicted by lots of scientific evidence.
+1. Research evidence showing that it is *not rare* for people who were sexually abused in childhood to go for many years, even decades, without having (recognizable or explicit) memories of the abuse. (People almost always have implicit memories of the abuse, that is, memories they did not realize were memories, for example physiological or emotional responses triggered by encountering things associated with the abuse, like being touched in a certain way). This body of work shows that claims to the contrary are contradicted by lots of scientific evidence.
 2. Research and theoretical writings by qualified specialists who agree that: a) traumatic and nontraumatic memories have some different characteristics; b) the construct of 'dissociation' better explains many traumatic memories, e.g., those involving fragmentary sensations and feelings which are disconnected from verbal narratives, and associated with amnesia and delayed recall. These works show that making claims about traumatic memory solely based on generalizations from research on nontraumatic memory, and focusing on the constructs of 'repression' and 'repressed memory,' can often be confusing distractions and misleading tactics.
 
 
