@@ -135,9 +135,9 @@ For example, they may be trying to relieve their own guilt, or to free themselve
 
 ## Understanding Is Not About ‘Demonizing’
 
-While understanding is not about excuses or forgiveness, neither is it about “demonizing” the other person.
+While understanding is not about excuses or forgiveness, neither is it about 'demonizing' the other person.
 
-Like making excuses, demonizing can provide the illusion of understanding, as well as the illusion of emotional resolution about what happened. This is revealed by the simplistic stereotypes that go along with demonizing those who are sexual with children. For example, on TV, radio and other media we continually hear people who sexually abuse children described as nothing more than “monsters” and “predators.”
+Like making excuses, demonizing can provide the illusion of understanding, as well as the illusion of emotional resolution about what happened. This is revealed by the simplistic stereotypes that go along with demonizing those who are sexual with children. For example, on TV, radio and other media we continually hear people who sexually abuse children described as nothing more than 'monsters' and 'predators.'
 
 Such labels may express totally justifiable anger, even rage, about what those people have done. But they provide zero understanding of why those individuals sexually abused and harmed children in the ways they did.
 
@@ -149,11 +149,11 @@ Again, these extreme responses may be a necessary phase for many people. But the
 
 The reality is that those who physically, emotionally, and/or sexually abuse children – whoever they are, and whatever they have done – are, like everyone else, complex human beings. They have good qualities as well as bad qualities. They have positive motivations as well as negative ones. They have parts of themselves that are dangerous and parts of themselves (however walled off) that can be caring. They have basic human needs for respect and love, and for some control over how they seek to meet their needs.
 
-People who physically or emotionally abuse children are confused – certainly while engaged in such harmful behavior, and often much of the time in between. They are confused usually about several things, including what is good and bad for the child, what is healthy and helpful "discipline," and their own motives for engaging in such behaviors.
+People who physically or emotionally abuse children are confused – certainly while engaged in such harmful behavior, and often much of the time in between. They are confused usually about several things, including what is good and bad for the child, what is healthy and helpful 'discipline,' and their own motives for engaging in such behaviors.
 
 > Several types of confusion are common
 
-Those who sexually abuse children are also deeply confused about what they really need, at least in the realm of sex, as well as very destructive in their attempts to meet such “needs.” Whatever else might have contributed, massive confusion is required for someone to believe they have the right to use a child sexually (let alone that a child wants or benefits from such experiences).
+Those who sexually abuse children are also deeply confused about what they really need, at least in the realm of sex, as well as very destructive in their attempts to meet such 'needs.' Whatever else might have contributed, massive confusion is required for someone to believe they have the right to use a child sexually (let alone that a child wants or benefits from such experiences).
 
 In the case of children who sexually use or abuse other children, the confusion is caused by sexual abuse they have experienced themselves, as well as general confusion and misunderstandings that children have about sex.
 
@@ -166,18 +166,18 @@ As noted above, when an adult physically or emotionally abuses a child there are
 * Were they severely disciplined or otherwise physically or emotionally abused as children themselves?
 * Were they emotionally neglected, and never helped to deal in healthy ways with the vulnerable emotions that, in adulthood, their own children can provoke?
 * Are they able to acknowledge and experience compassion for the emotional pain and harm they experienced when they were hurt as a child (including via physical and/or emotional abuse)?
-* Have they been taught, and do they (sometimes) still believe, that beating or verbally degrading children are appropriate and healthy methods of "disciplining" children?
+* Have they been taught, and do they (sometimes) still believe, that beating or verbally degrading children are appropriate and healthy methods of 'disciplining' children?
 * Do they have the skills required to experience vulnerable emotions without immediately attempting to escape them, for example with angry outbursts or alcohol, drugs or some other addiction?
 * What else is happening in their life (e.g., stresses of poverty, unemployment) or relationships (e.g., conflict with spouse, lack of friends) that reduces internal and external barriers to thinking it's OK to physically or emotionally attack a child and to engaging in such behavior?
 
 
 When it comes to attempting to understand (which ultimately may not be possible) why particular, complex people have sexually used or abused as child, again, there are some key questions to consider:
 
-* What are the confusions they have about their needs, especially why they believe they “need” to be sexual with a child?
+* What are the confusions they have about their needs, especially why they believe they 'need' to be sexual with a child?
 * How have their own life experiences – especially but not only sexual experiences – and how they have responded to those experiences, contributed to such massive confusion?
 * What is the unique combination of (confused) beliefs, motivations and rationalizations that made it possible for them to sexually use a child?
 * How have their own life and experiences (again, not only sexual), and how they responded to those experiences, helped to bring about such beliefs, motivations and rationalizations?
-* Which internal and external barriers to sexually abusing a child were overcome, and how (e.g., use of alcohol, use of child sexual pornography, extreme stress or other circumstance that contributed to their “giving up’ on resisting their sexual fantasies or impulses toward children)?
+* Which internal and external barriers to sexually abusing a child were overcome, and how (e.g., use of alcohol, use of child sexual pornography, extreme stress or other circumstance that contributed to their 'giving up’ on resisting their sexual fantasies or impulses toward children)?
 
 
 In addition, there are some general principles that therapists and researchers, by working with and studying adults who have sexually used or abused children, have learned about why people engage in such behaviors.
@@ -190,7 +190,7 @@ Some who sexually use or abuse children maintain sexual relationships with age-a
 
 Most adults who sexually use or abuse children were, during their own childhoods, abused sexually, physically, and/or emotionally, as well as neglected physically and/or emotionally. In reaction to those experiences of abuse, neglect, betrayal and powerlessness, they may have attempted to find feelings of power and control over others – including sexual power over children.
 
-Some people who sexually use or abuse children have high social status in a group – a star athlete, a musician, a boss or manager, a prominent member of a community, even an especially popular person – and become so confused (and “intoxicated”) by constant admiration or praise that they begin to think the rules are different for them.
+Some people who sexually use or abuse children have high social status in a group – a star athlete, a musician, a boss or manager, a prominent member of a community, even an especially popular person – and become so confused (and 'intoxicated') by constant admiration or praise that they begin to think the rules are different for them.
 
 > Most who exploit or abuse children were abused themselves
 
@@ -202,23 +202,25 @@ Finally, and this is extremely important: none of these possible reasons (or any
 
 ## The Other Person’s Experience and Understanding Now
 
-Especially if you’re considering talking with or “confronting” a person who has abused or exploited you, it’s important to understand this: Their experiences and understandings of what happened, both at the time and now, are likely to be very different from yours.
+Especially if you’re considering talking with or 'confronting' a person who has abused or exploited you, it’s important to understand this: Their experiences and understandings of what happened, both at the time and now, are likely to be very different from yours.
 
-What may have been a high-impact and life-changing event for you may have been, for them, simply an outburst of anger, or the gratification of a perceived “need” in the moment. In fact, they may never have even allowed themselves to know that they hurt you, or even think about it. Even if an assault was outright sadistic (that is, involved them taking pleasure in causing you pain), it had far more to do with something going on inside them than with anything at all about you.
+What may have been a high-impact and life-changing event for you may have been, for them, simply an outburst of anger, or the gratification of a perceived 'need' in the moment. In fact, they may never have even allowed themselves to know that they hurt you, or even think about it. Even if an assault was outright sadistic (that is, involved them taking pleasure in causing you pain), it had far more to do with something going on inside them than with anything at all about you.
 
-Again, while it may feel good (or less bad) to see them as “purely evil,” people who abuse and harm children are more complex than that. Like all of us, they have different "parts" of themselves that come out under different circumstances, and some of those parts are capable of doing very harmful things. All of us sometimes think, “I can’t believe I did that,” or “I hate the part of me that does that,” or “I hate myself when I do that, but I just can’t help it sometimes.” It’s not so different for those who physically, emotionally or sexually abuse children, though of course it’s more extreme and harmful. For example, they may be highly “compartmentalized” or “dissociated,” with the part of them that physically or verbally attacks children, or wants to be sexual with children, split off from the positive parts of them that they usually present to the world (and which may enable success in work and some relationships).
+Again, while it may feel good (or less bad) to see them as 'purely evil,' people who abuse and harm children are more complex than that. Like all of us, they have different 'parts' of themselves that come out under different circumstances, and some of those parts are capable of doing very harmful things. All of us sometimes think, “I can’t believe I did that,” or “I hate the part of me that does that,” or “I hate myself when I do that, but I just can’t help it sometimes.”
+
+It’s not so different for those who physically, emotionally or sexually abuse children, though of course it’s more extreme and harmful. For example, they may be highly 'compartmentalized' or 'dissociated,' with the part of them that physically or verbally attacks children, or wants to be sexual with children, split off from the positive parts of them that they usually present to the world (and which may enable success in work and some relationships).
 
 > Things to consider before attempting a 'confrontation'
 
-Also, like everyone else, those who commit harmful acts, even violent ones, still want to see themselves as good, or at least “justified” in doing what they did. In many cases, they see themselves as still basically good, except for the “bad” part of them that leads them to harm others.
+Also, like everyone else, those who commit harmful acts, even violent ones, still want to see themselves as good, or at least 'justified' in doing what they did. In many cases, they see themselves as still basically good, except for the 'bad' part of them that leads them to harm others.
 
-In some extreme cases, people are confused enough to believe their harmful behaviors are somehow actually good. This is usually grounded in deeply disturbed and traumatic childhood relationships in which they came to believe that people can be divided into “the weak and the strong,” “victims and perpetrators,” “those who take what they want and those who get taken.” From those experiences, they may eventually come to see themselves as choosing the “goods” of strength, domination, and taking what they want. The feelings and hopes of the hurt little child are still inside of them, but such vulnerability and their capacity for love have long been suppressed, by others and by themselves, as a “survival strategy” that ends up harming themselves and others.
+In some extreme cases, people are confused enough to believe their harmful behaviors are somehow actually good. This is usually grounded in deeply disturbed and traumatic childhood relationships in which they came to believe that people can be divided into “the weak and the strong,” “victims and perpetrators,” “those who take what they want and those who get taken.” From those experiences, they may eventually come to see themselves as choosing the 'goods' of strength, domination, and taking what they want. The feelings and hopes of the hurt little child are still inside of them, but such vulnerability and their capacity for love have long been suppressed, by others and by themselves, as a 'survival strategy' that ends up harming themselves and others.
 
-To overcome the normal external and internal barriers against using, abusing and harming children, adults often develop elaborate “rationalizations” of their behavior. They may fiercely deny or blind themselves to the clear negative effects of the behavior. They may even genuinely convince themselves that their actions are loving, and welcomed by children, therefore acceptable and even good.
+To overcome the normal external and internal barriers against using, abusing and harming children, adults often develop elaborate 'rationalizations' of their behavior. They may fiercely deny or blind themselves to the clear negative effects of the behavior. They may even genuinely convince themselves that their actions are loving, and welcomed by children, therefore acceptable and even good.
 
-In some cases, people who sexually use or abuse children feel genuine positive feelings toward the child, including caring feelings. But the sexual fantasies, impulses and behaviors come from a different part of their being, a part that has little to do with the child or the child’s well-being, and everything to do with fulfilling their own compulsive “need.”
+In some cases, people who sexually use or abuse children feel genuine positive feelings toward the child, including caring feelings. But the sexual fantasies, impulses and behaviors come from a different part of their being, a part that has little to do with the child or the child’s well-being, and everything to do with fulfilling their own compulsive 'need.'
 
-In some cases, the person is extremely immature, terrified of emotional or sexual intimacy with adults and has no idea how to achieve either. They may believe that children are not only safer than adults, but more emotionally and sexually “pure.”
+In some cases, the person is extremely immature, terrified of emotional or sexual intimacy with adults and has no idea how to achieve either. They may believe that children are not only safer than adults, but more emotionally and sexually 'pure.'
 
 None of this means that such people don’t know right from wrong. After the fact, if they can ever let go of their rationalizations and other defenses against recognizing the harm they have done, they may feel great remorse for what they have done. For others, the defenses may become so hardened over time that they are unable ever to acknowledge and feel the excruciating truth.
 
