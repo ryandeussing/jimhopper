@@ -66,7 +66,7 @@ Triggers that involve other people’s behavior are often connected to ways that
 
 But our responses usually just trigger vulnerable feelings in the other person, as well as their own old self-defense patterns. Then we *both* end up repeating the unhealthy relationship patterns we that fear and don’t want in our lives.
 
-As noted above, other common triggers include ‘anniversaries,’ that is, dates or holidays that remind you, at some level, of traumatic experiences, of how your family wasn’t and isn’t so happy and loving, etc.
+As noted above, other common triggers include ‘anniversaries’ and holidays that remind you, at some level, of traumatic experiences, of how your family wasn’t and isn’t so happy and loving, etc.
 
 ## Triggers’ Power and Effects
 
