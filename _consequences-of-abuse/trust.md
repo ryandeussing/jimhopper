@@ -69,7 +69,7 @@ If you were young when it happened, you may not have understood what was happeni
 
 Or maybe a sexual experience happened with someone who pretended it was something you wanted, who said it was something good, who said one thing while doing another, or otherwise undermined your ability to trust your own perceptions and instincts.
 
-Finally, some children respond to unwanted or abusive experiences by ‘spacing out’ or disconnecting from what is happening. Cutting off from your body and feelings like this can begin to happen automatically, with all intense experiences – even good ones, like doing fun things with friends or being sexual with someone you love.
+Finally, some children respond to unwanted or abusive experiences by ‘spacing out’ or disconnecting from what is happening (aka dissociating). Cutting off from your body and feelings like this can begin to happen automatically, with all intense experiences – even good ones, like doing fun things with friends or being sexual with someone you love.
 
 This can leave you feeling disconnect from yourself, or from reality, which then undermines your trust in your own experiences and memories. It can affect your understanding of the past and what it means now. In short, it can cause you to distrust yourself.
 
