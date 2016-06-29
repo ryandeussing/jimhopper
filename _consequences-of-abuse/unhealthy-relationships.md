@@ -56,7 +56,7 @@ Or a parent may feel like a victim in way that they believe entitles them to, fo
 
 But there are plenty of less extreme examples. Whenever we feel like someone ‘deserved’ a nasty or attacking comment we just made, we’ve rapidly and automatically gone from feeling like a victim of that person to victimizing them in the perpetrator role.
 
-The point here is not to condemn ourselves (or anyone else), just to recognize how common these roles are, even in those small little battles of everyday life.
+The point here is not to condemn ourselves (or anyone else), just to recognize how common these roles are, even in those small little dramas and battles of everyday life.
 
 ### Bystander
 
