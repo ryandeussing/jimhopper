@@ -66,17 +66,17 @@ Triggers that involve other people’s behavior are often connected to ways that
 
 But our responses usually just trigger vulnerable feelings in the other person, as well as their own old self-defense patterns. Then we *both* end up repeating the unhealthy relationship patterns we that fear and don’t want in our lives.
 
+> Reactions can be big and fast, or creep up on you slowly.
+
 As noted above, other common triggers include ‘anniversaries’ and holidays that remind you, at some level, of traumatic experiences, of how your family wasn’t and isn’t so happy and loving, etc.
 
 ## Triggers’ Power and Effects
 
 The power of a trigger depends on how closely it resembles a past situation or relationship, how painful or traumatic that situation or relationships was, and the state of your body and brain when the triggering happens.
 
-> Reactions can be big and fast, or creep up on you slowly.
+If you’re feeling very calm and safe, the reaction will be much less than if you’re feeling afraid or anxious. If you’re feeling little support or trust in a relationship, your reactions to triggering behaviors by the other person will be much greater.
 
-If you’re feeling very calm and safe, the reaction will be much less than if you’re feeling anxious and afraid. If you’re feeling little support or trust in a relationship, your reactions to triggering behaviors by the other person will be much greater.
-
-A trigger can bring out feelings, memories, thoughts, and behaviors.
+> A trigger can bring out feelings, memories, thoughts, behaviors.
 
 Other people might have no idea that you’ve been triggered, but you could be struggling with terrible memories in your head. Or you could suddenly have all kinds of negative thoughts and beliefs about the other person and/or yourself, like, ‘I never should have trusted him,’ ‘Every woman will stab you in the heart,’ ‘What a loser I am,’ etc.
 
