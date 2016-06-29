@@ -15,7 +15,7 @@ facebook_image_path: /uploads/facebook-child-abuse.jpg
 
 How people define their own experiences, and the labels they give to them (or don’t), are very important.
 
-I'm not interested in imposing any labels on anyone, or even providing a definition of "sexual abuse" or anything else. For my purposes here, that’s not necessary or helpful.
+I'm not interested in imposing any labels on anyone, or even providing a definition of 'sexual abuse' or anything else. For my purposes here, that’s not necessary or helpful.
 
 > I’m not interested in labeling you.
 
@@ -35,7 +35,7 @@ My words are carefully chosen, because I strive to:
 
 I also want to emphasize what 'unwanted or abusive sexual experiences in childhood' does *not* mean…
 
-By 'unwanted' I do not mean that the experience had to be unwanted *when it happened.* For example, a child may feel that he or she wants sexual contact with an adult (especially if the adult has manipulated the child). Instead, when I say “unwanted,' I mean:
+By 'unwanted' I do not mean that the experience had to be unwanted *when it happened.* For example, a child may feel that he or she wants sexual contact with an adult (especially if the adult has manipulated the child). Instead, when I say 'unwanted,' I mean:
 
 * Looking back now, is that an experience you want to have happened, to be part of your life?
 * Do you want to be having negative thoughts and feelings and behaviors that, looking back now, you suspect or believe are (at least partly) caused by that experience?
@@ -43,7 +43,7 @@ By 'unwanted' I do not mean that the experience had to be unwanted *when it happ
 
 > “What effects has that experience had on me?”
 
-Also, the “or” in “unwanted or abusive” does <u>not</u> imply that any unwanted sexual experience was also “abusive.” I don’t believe this is true. I’m just hoping that “unwanted” works well enough when it comes to describing childhood or teenage sexual experiences that may have contributed to problems you have now. (Or at least *isn’t bad enough to drive you away*.)
+Also, the 'or' in 'unwanted or abusive' does *not* imply that any unwanted sexual experience was also 'abusive.' I don’t believe this is true. I’m just hoping that 'unwanted' works well enough when it comes to describing childhood or teenage sexual experiences that may have contributed to problems you have now. (Or at least isn’t bad enough to drive you away.)
 
 ### Tools for Sorting It Out For Yourself
 
@@ -71,6 +71,6 @@ Also, these questions apply to experiences with other children or teenagers, not
 
 Important: The idea here is *not* to push anyone to condemn or even to label the other person or people involved, who may also have been good to you, and who you may still like, even love. Also, such experiences may have involved attention, affection and physical sensations that, at the time, you found pleasurable and in some way wanted (e.g., in a confused way mixed up with shame).
 
-The point of trying to “sort things out,” if you choose to do so, is to understand whether – and if so, why and how – the sexual experience(s) may have helped to cause some problems you have now (like problems with shame, anger, addiction, or depression).
+The point of trying to 'sort things out,' if you choose to do so, is to understand whether – and if so, why and how – the sexual experience(s) may have helped to cause some problems you have now (like problems with shame, anger, addiction, or depression).
 
 To sum up, on this website I'm providing resources for sorting out what happened to *you*, what makes sense to *you*, and the options for dealing with *your* unique experiences and moving closer to the life *you* want.
