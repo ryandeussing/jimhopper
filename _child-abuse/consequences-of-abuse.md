@@ -46,7 +46,7 @@ These things are interwoven. What’s going on in one affects the others. For ex
 
 Unwanted or abusive childhood experiences can impact – and shape – many aspects of development. This has been shown by decades of scientific research. It’s discovered every day by adults who've had these experiences and the people who know them well.
 
-Most importantly, every person is different, with unique factors shaping her or his life.
+Most importantly, every person is different, with a unique array of factors shaping her or his life.
 
 ## Factors That Can Shape the Effects
 
