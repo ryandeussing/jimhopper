@@ -48,7 +48,9 @@ And addiction includes porn, casual sex, gambling and anger binges, not just alc
 
 > Attempts to avoid and cope that backfire.
 
-A very important self-regulation skill is resisting urges or impulses that leave you feeling bad afterward, including addictive ones. Also key are healthy habits and behaviors around eating, sleeping and other things you need on a daily basis.
+A very important self-regulation skill is resisting urges or impulses that leave you feeling bad afterward, including addictive ones. Or accepting that the urge or impulse has come up, but riding it out and not acting on it. (See [Mindfulness & Meditation](/mindfulness-and-meditation/).)
+
+Also key are healthy habits and behaviors around eating, sleeping and other things you need on a daily basis.
 
 However good or bad our childhoods were, we've all struggled with bad habits and problem behaviors. And self-regulation problems both cause and worsen them.
 
