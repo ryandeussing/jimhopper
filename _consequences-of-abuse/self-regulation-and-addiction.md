@@ -58,7 +58,7 @@ However good or bad our childhoods were, we've all struggled with bad habits and
 
 First of all, harmful unwanted or abusive childhood experiences usually cause intense negative emotions (if not right away then later), and people naturally want to avoid and escape from them.
 
-This is especially true of emotions like fear, shame and guilt – which can be overwhelming and make it hard to manage other emotions and challenges in life.
+This is especially true of emotions like fear, [shame](/child-abuse/consequences-of-abuse/shame/) and [guilt](/child-abuse/consequences-of-abuse/guilt/) – which can be overwhelming and make it hard to manage other emotions and challenges in life.
 
 Then, the ways we try to avoid or cope with our emotions, and the stresses of our lives, often end up causing new and bigger problems. (See [Cycles of Suffering, Healing & Happiness](/the-brain/cycles/).)
 
