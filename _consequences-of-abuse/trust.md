@@ -65,7 +65,7 @@ In this way children who have been abused, exploited or otherwise harmed by trus
 
 Tragically, experiences of betrayal and abuse can also make it difficult to trust oneself.
 
-If you were young when it happened, you may not have understood what was happening and believed it was your fault. This can be especially true for unwanted or abusive sexual experienced, but children tend to blame themselves for any harmful things that adults, especially their parents, have done to them.
+If you were young when it happened, you may not have understood what was happening and may have believed it was your fault. This can be especially true for unwanted or abusive sexual experienced, but children tend to blame themselves for any harmful things that adults, especially their parents, have done to them.
 
 Or maybe a sexual experience happened with someone who pretended it was something you wanted, who said it was something good, who said one thing while doing another, or otherwise undermined your ability to trust your own perceptions and instincts.
 
