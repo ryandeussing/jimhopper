@@ -62,13 +62,11 @@ The point here is not to condemn ourselves (or anyone else), just to recognize h
 
 Replaying the ‘bystander’ role can be very destructive too. For example, you may look the other way as someone you know exploits or abuses another person (or group of people, for example customers or employees at the 'bottom' of an organization). You may do nothing to protect a child from abuse or neglect that you know or strongly suspect is happening.
 
-There are so many ways that people can find themselves repeating painful relationship patterns from childhood – if they pay attention and reflect on their relationships.
-
 It’s so easy to fall into the roles of victim, perpetrator and bystander, and to flip back and forth between them, all without even realizing it.
 
 ### Other Common Roles and Repetitions
 
-There are still other roles that people repeat from childhood.
+There are so many ways that people can find themselves repeating painful relationship patterns from childhood – if they pay attention and reflect on their relationships.
 
 Some people keep neglecting their own needs and taking care of others in ways that lead them to feel resentful and neglected by others.
 
