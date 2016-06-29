@@ -1,7 +1,7 @@
 ---
 title: Child Abuse Statistics
 custom_title:
-order: 6
+order: 7
 subcollection:
 hotlines_sidebar: true
 description:
@@ -146,7 +146,7 @@ Praise from the book jacket:
 
 "The National Incidence Study of Child Abuse and Neglect was released in September 1996, following up on previous studies conducted in 1980 and 1986. The study found that child abuse and neglect were seriously worsening. Between 1986 and 1993 the number of cases doubled, going from 1.4 million to 2.8 million; and the number of cases involving serious injuries nearly quadrupled, rising from 143,000 to almost 570,000. "Commendably, newspaper accounts (presumably following a lead raised by the study itself) alerted readers to the possible divergence between reports of child abuse and the reality of child abuse. The *Chicago Tribune,* for example, described the increase as 'a 'true rise' in the severity of the problem rather than one based solely on heightened awareness.' There is certainly reason to suppose the number of cases of actual abuse might be rising, since child abuse could be expected to rise when drug and alcohol abuse were increasing and when broken homes were becoming more common.
 
-"Nevertheless, despite the study's assurance to the contrary, there is also good reason to suppose that much of the increase reflects heightened awareness rather than worse behavior. American Enterprise Institute researcher Douglas J. Besharov (writing with research assistant Jacob W. Dembosky) advanced this argument in an article in the on-line Journal *Slate*&nbsp;[[Child Abuse: Threat or Menace. How common is it really?]](http://slate.msn.com/default.aspx?id=2083). Besharov and Dembosky noted that child abuse fatalities (for which there is, of course, objective evidence that cannot easily be hidden) have risen only modestly, going from 1,104 in 1986 to 1,216 in 1993. If serious abuse had in fact quadrupled, one would expect to see a comparably enormous increase for the most deadly abuse of all.
+"Nevertheless, despite the study's assurance to the contrary, there is also good reason to suppose that much of the increase reflects heightened awareness rather than worse behavior. American Enterprise Institute researcher Douglas J. Besharov (writing with research assistant Jacob W. Dembosky) advanced this argument in an article in the on-line Journal *Slate* [[Child Abuse: Threat or Menace. How common is it really?]](http://slate.msn.com/default.aspx?id=2083). Besharov and Dembosky noted that child abuse fatalities (for which there is, of course, objective evidence that cannot easily be hidden) have risen only modestly, going from 1,104 in 1986 to 1,216 in 1993. If serious abuse had in fact quadrupled, one would expect to see a comparably enormous increase for the most deadly abuse of all.
 
 "Why might the study's alarming findings indicate heightened awareness rather than a true rise in awful behavior? Besharov and Dembosky observed that the study's conclusions emerge from a survey of a representative sample of 5,600 child-welfare professionals. Of the 1.4 million additional cases counted in 1993, almost 80 percent consisted of cases that do not involve physical or sexual abuse. (Note that the survey examined child neglect as well, although Shalala's written comments in releasing its findings referred only to abuse.) Fully 55 percent of the additional cases involved endangered children: those who are not actually harmed by parental abuse or neglect, but are simply 'in danger of being harmed according to the views of community professionals or child-protection service agencies.' Cases of emotional abuse and neglect made up an additional 15 percent of cases; and educational neglect, the frequent failure to send a child to school, accounted for another 8 percent.
 
@@ -287,19 +287,19 @@ Someone fondled you (i.e., touched your genitals or other parts of your body) in
 
 If yes…
 
-Who was the person?&nbsp;*_____*
+Who was the person? *_____*
 
-Was the person male or female?&nbsp;*_____*
+Was the person male or female? *_____*
 
-How old were you at the time?&nbsp;*_____*
+How old were you at the time? *_____*
 
-About how old was the other person?&nbsp;*_____*
+About how old was the other person? *_____*
 
-How many times did it happen?&nbsp;*_____*
+How many times did it happen? *_____*
 
-For how long did it happen (i.e., days,weeks, months, years)?&nbsp;*_____*
+For how long did it happen (i.e., days,weeks, months, years)? *_____*
 
-How do you now feel about the experience (i.e., negative, neutral or positive)&nbsp;*_____*
+How do you now feel about the experience (i.e., negative, neutral or positive) *_____*
 
 How distressing did you find this at the time:
 
@@ -309,27 +309,27 @@ How much force or persuasion did the person use?
 
 (Please check off the appropriate categories below.)
 
-Activity was voluntary&nbsp;*_____*
+Activity was voluntary *_____*
 
-They took advantage of your trust&nbsp;*_____*
+They took advantage of your trust *_____*
 
-They used bribes or enticements&nbsp;*_____*
+They used bribes or enticements *_____*
 
-They used sexual seduction&nbsp;*_____*
+They used sexual seduction *_____*
 
-They used intimidation or adult authority&nbsp;*_____*
+They used intimidation or adult authority *_____*
 
-They used threats against you or someone else&nbsp;*_____*
+They used threats against you or someone else *_____*
 
-They used physical force&nbsp;*_____*
+They used physical force *_____*
 
-Other (please explain)&nbsp;*_____*
+Other (please explain) *_____*
 
 A woman had you perform vaginal intercourse on her. YES__ NO__
 
 If yes…
 
-Who was the person?&nbsp;*_____*
+Who was the person? *_____*
 
 . . . . [see above]
 
@@ -365,7 +365,7 @@ This discusses in-depth the research up to 1996, when I conducted a comprehensiv
 
 For the most authoritative evidence supporting the 1 in 6 prevalence estimate, read the study of 17,000 California residents, [Long-term consequences of childhood sexual abuse by gender of victim](/pdf/Dube_(2005)_Childhood_sexual_abuse_by_gender_of_victim.pdf), published in 2005 by Shanta Dube and colleagues in the American Journal of Preventive Medicine.
 
-Please note: The [Additional Resources](/child-abuse/sexual-abuse-of-boys/additional-resources/) page under [Sexual Abuse of Boys](/child-abuse/sexual-abuse-of-boys/)&nbsp;contains a list of references to all the articles and books cited in this section, along with others addressing potential lasting effects of child sexual abuse in men.
+Please note: The [Additional Resources](/child-abuse/sexual-abuse-of-boys/additional-resources/) page under [Sexual Abuse of Boys](/child-abuse/sexual-abuse-of-boys/) contains a list of references to all the articles and books cited in this section, along with others addressing potential lasting effects of child sexual abuse in men.
 
 The following review is grouped into three sections, according to the sample studied:
 
