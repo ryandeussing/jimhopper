@@ -21,6 +21,10 @@ on this page
 * [Abusive or Harmful Childhood Experiences and Being Human](#abusive-or-harmful-childhood-experiences-and-being-human)
 {: .onpage}
 
+This page introduces a section that has several pages, each on a different potential consequence of harmful unwanted or abusive childhood experiences.&nbsp;
+
+There is also a page with some cautions about how one understands the impacts of unwanted or abusive childhood sexual experiences, in particular. Sometimes people over-estimate or under-estimate such effects, or don't consider the bigger, for example the kinds of relationships in which such experiences happen or are not prevented or stopped from happening.
+
 ## Effects on Many Aspects of Development
 
 Unwanted and abusive childhood experiences are never disconnected from the rest of a child’s life. So the consequences can be quite complex – and take time to sort out, understand, and deal with in healthy ways.
