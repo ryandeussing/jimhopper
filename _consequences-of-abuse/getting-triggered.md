@@ -56,7 +56,7 @@ The trigger is always real. By definition, a trigger is something that reminds y
 
 But sometimes you are *imagining* that what’s happening now is actually like what happened back then, when in reality it’s hardly similar at all, or it just reminds you because you’re feeling vulnerable in a way you did when that bad thing happened in the past.
 
-> Triggers can be obvious or subtle, in our awareness or not.
+> Triggers can suddenly activate old relationship patterns.
 
 Just as triggers range from obvious to subtle, sometimes we’re aware of them and sometimes we’re not. Your body may suddenly freak out with a racing heart and feeling of panic, but you have no idea what set off that reaction. You may suddenly feel enraged in a slightly tense conversation, but be unable to point to anything in particular that made you angry. Sometimes you can figure it out later (for example in therapy), and sometimes not.
 
