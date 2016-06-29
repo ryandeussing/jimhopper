@@ -43,7 +43,7 @@ There are some typical ways people can end up over-estimating the effects of har
 
 Of course, harmful sexual experiences can have a huge impact on one’s life. But if you focus too much on how such experiences may have affected you, then it’s easy to overlook the (sometimes greater) contributions that other unwanted or traumatic experiences and relationships have made to your current problems.
 
-For example, if you tell other people about your sexual experiences – partners, friends, family members, even therapists – they may believe that those experiences 'explain everything' (or almost everything) that you are struggling with. The popular media send this message all the time, by featuring lots of stories and research about sexual abuse while ignoring the long-term effects of other harmful or traumatic childhood experiences.
+For example, if you mention your your harmful sexual experiences to other people – partners, friends, family members, even therapists – they may believe that those experiences 'explain everything' (or almost everything) that you are struggling with. The popular media send this message all the time, by featuring lots of stories and research about sexual abuse while ignoring the long-term effects of other harmful or traumatic childhood experiences.
 
 ## Other Potentially Harmful Childhood Experiences
 
