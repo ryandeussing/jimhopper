@@ -72,7 +72,7 @@ As noted above, other common triggers include ‘anniversaries’ and holidays t
 
 The power of a trigger depends on how closely it resembles a past situation or relationship, how painful or traumatic that situation or relationships was, and the state of your body and brain when the triggering happens.
 
-> Reactions can be big and fast, or creep up slowly on you.
+> Reactions can be big and fast, or slowly creep up on you.
 
 If you’re feeling very calm and safe, the reaction will be much less than if you’re feeling anxious and afraid. If you’re feeling little support or trust in a relationship, your reactions to triggering behaviors by the other person will be much greater.
 
