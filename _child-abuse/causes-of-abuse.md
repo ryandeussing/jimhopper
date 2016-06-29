@@ -30,7 +30,7 @@ on this page
 
 Of course there are many causes, and lots of research has been done on this issue for decades.
 
-I can't cover everything, including the contributions of poverty, war, discrimination, exploitation, slavery, the 'war on drugs' and mass incarceration; or parents' and other adults struggles with substance abuse, their own childhood experiences with abuse or other forms of violence. (For fairly a comprehensive resource from the U.S. government, see [Factors that contribute to child abuse and neglect](https://www.childwelfare.gov/topics/can/factors/contribute/).)
+I can't cover everything, including the contributions of poverty, war, discrimination, exploitation, slavery, the 'war on drugs' and mass incarceration; or parents' and other adults' struggles with substance abuse, their own childhood experiences with abuse or other forms of violence. (For fairly a comprehensive resource from the U.S. government, see [Factors that contribute to child abuse and neglect](https://www.childwelfare.gov/topics/can/factors/contribute/).)
 
 Here I focus on why particular, unique and complex people choose (however deliberately or impulsively) to emotionally, physically and/or sexually abuse or otherwise harm children. While this is a relatively narrow focus, I try to address many of the complexities and subtleties involved.
 
