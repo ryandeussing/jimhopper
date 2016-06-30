@@ -56,6 +56,8 @@ Human beings are often caught in self-perpetuating cycles of suffering. We can u
 
 What makes cycles of suffering self-perpetuating? The brain's seeking circuitry is focused on avoiding and escaping suffering in ways that do not really address one’s pain and problems (let alone bring genuine and lasting satisfaction or happiness), but instead keep them going or even make them worse.
 
+> What do you want to avoid? Which feelings? Which thoughts? Which memories?
+
 Cycles of suffering are caused (and partly constituted by) seeking to avoid and escape suffering in ways that only perpetuate it. Cycles of suffering are often cycles of addiction, defined broadly to include all habitual behaviors used repeatedly to avoid and escape from suffering, including habitual mental behaviors like obsessing and ruminating.
 
 All of these cycles of suffering – however addictive or harmful – are about the pursuit of quick fixes that bring no more satisfaction or 'reward' than this: brief and partial escape from an unwanted experience.
@@ -69,6 +71,8 @@ These two common suffering cycles, and the corresponding activity of the brain c
 In this suffering cycle seeking is focused on avoiding or escaping from things we are afraid of or anxious about, and/or on avoiding or escaping fear and anxiety. Thus the seeking circuitry is driven primarily by the fear circuitry, not by pursuit of what’s truly satisfying or fulfilling.
 
 When the avoidance or escape end, the suffering from which we were seeking escape returns. And that suffering may be intensified, because the way we seek to avoid or escape may itself cause or increase our fear and anxiety (e.g., we may get drunk to avoid or escape fears and anxieties and then fear how our drunken behavior has affected loved ones and how they see us).
+
+> What are you seeking? Actually seeking, in what you do every day? Quick fixes and escapes? What brings lasting happiness? Your highest values and goals?
 
 In this suffering cycle the embodiment circuitry is occupied with sensations of fear and anxiety, and with sensations of craving for escapes from sensations of fear, anxiety, and craving.
 
