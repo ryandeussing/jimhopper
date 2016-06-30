@@ -156,6 +156,8 @@ In the second fundamental healing cycle, *seeking true goods*, we are harnessing
 
 These true goods include love, playfulness, and joy. In this healing cycle one seeks and experiences the kind of happiness and satisfaction that come from being a good friend, a good spouse or partner, a good parent, good at our job or a genuine contributor to our community.
 
+> Seeking out the truly 'good things in life'
+
 We all need to sort out, for ourselves, what truly makes us happy; what we find to be the greatest goods in life, the things we most deeply value and find most satisfying to experience.
 
 This process of exploration and discovery may take some time, especially if we've had little experience with true goods and genuine happiness. It usually requires the support of others who do not judge our values or push us to adopt theirs, but instead give us the space, as well as the support and inspiration, to sort things out for ourselves – and to awaken and harness our seeking circuitry to this pursuit.
