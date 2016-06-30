@@ -13,7 +13,7 @@ facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
 
-This page has links to other organizations and website, as well as to articles, chapters and books by researchers and therapists.
+This page has links to other organizations and websites, as well as to articles, chapters and books by researchers and therapists.
 
 It also includes links to the websites of two excellent documentary films and a couple of leaders in this work.
 
