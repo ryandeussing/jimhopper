@@ -72,7 +72,7 @@ In this suffering cycle seeking is focused on avoiding or escaping from things w
 
 When the avoidance or escape end, the suffering from which we were seeking escape returns. And that suffering may be intensified, because the way we seek to avoid or escape may itself cause or increase our fear and anxiety (e.g., we may get drunk to avoid or escape fears and anxieties and then fear how our drunken behavior has affected loved ones and how they see us).
 
-> What are you seeking? Actually seeking, in what you do every day? Quick fixes and escapes? What brings lasting happiness? Your highest values and goals?
+> What are actually seeking, in what you do every day? Quick-fix escapes? What brings lasting happiness? Your highest values and goals?
 
 In this suffering cycle the embodiment circuitry is occupied with sensations of fear and anxiety, and with sensations of craving for escapes from sensations of fear, anxiety, and craving.
 
