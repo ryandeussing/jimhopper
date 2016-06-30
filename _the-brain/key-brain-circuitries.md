@@ -81,9 +81,9 @@ As noted above, the seeking circuitry is what drives our attempts to avoid and e
 
 ![](/uploads/versions/seeking_circuitry---x----400-330x---.jpg)
 
-Because the seeking circuity is the brain circuitry that allows us to want and pursue anything, it is also allows us to long for and seek our most positive and healthy goals and needs. It allows our embodied minds (or souls) to experience and pursue our deepest personal and spiritual longings.
+Because the seeking circuity is the brain circuitry that allows us to want and pursue anything that requires effort, it is also allows us to long for and seek our most positive and healthy goals and needs. It allows our embodied minds (or souls) to experience and pursue our deepest personal and spiritual longings.
 
-When we strive to fulfill our highest moral, religious and spiritual values and goals, this circuitry helps us do it. This does not mean that morality, religion and spirituality are 'just brain processes.' It only means that, as embodied beings with brains, whenever we long for and seek anything, however noble and sublime, there's a brain circuitry – this seeking circuitry – that biologically enables and implements our longing and seeking.
+When we strive to fulfill our highest moral, religious and spiritual values and goals, this circuitry helps us do it. This does not mean that morality, religion and spirituality are 'just brain processes.' It only means that, as embodied beings with brains, whenever we long for and seek anything that requires effort, however noble and sublime, there's a brain circuitry – this seeking circuitry – that biologically enables and implements our longing and seeking.
 
 For people struggling with a great deal of suffering, their seeking circuitry can get overly focused on – even enslaved to – quick fixes. These fixes can be intoxicated states brought on by alcohol or drugs. They can be intoxicating sexual experiences, or power trips, or sexual power trips.
 
