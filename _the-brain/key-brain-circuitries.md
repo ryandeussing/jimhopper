@@ -95,7 +95,7 @@ Quick fixes also include habitual 'defense mechanisms' like ruminating, mindless
 
 The many ways we may ignore or deny what’s actually happening around and within us all can be understood as *brief escapes or quick fixes that involve the seeking circuitry.* Such escapes tend to be not only brief, but also addictive, and unfulfilling in any lasting way – and many cause more problems than they solve.
 
-The seeking circuitry is also involved in the pleasures of expecting and seeking what we want, and the excitement of both. For many people, this is the main or only kind of pleasure or happiness they know.
+The seeking circuitry is also involved in the pleasures of expecting and seeking what we want, and the excitement of both. For many people, this is the main or only kind of pleasure or happiness they know, that of anticipation. We all know some people for whom this is true. Maybe it describes you, if not now then at some time in your life.
 
 But this 'anticipatory pleasure' of expecting and seeking is only one kind of pleasure, and not a particularly fulfilling one; it’s different from the pleasure of satisfaction that comes from getting what we’ve sought. As we all know, there’s a difference between the pleasure of anticipating eating a bowl of ice cream and the pleasure of actually eating it. The same is true of any addictive substance or behavior. (Some substances, however, including cocaine and methamphetamine, can be addictive precisely because they increase the pleasure of seeking itself.)
 
