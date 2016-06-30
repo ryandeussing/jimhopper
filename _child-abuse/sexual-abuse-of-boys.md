@@ -12,6 +12,7 @@ prevtitle:
 facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
+
 This section of my site is for men who've had unwanted or abusive sexual experiences and those who care about them.
 
 This is an area I've studied for more than 25 years, and one to which I have devoted considerable work, including for the nonprofit 1in6 - as a founding board member, long-time adviser and main writer for the website. (Several pages on this site were first written for 1in6.org.)
@@ -24,4 +25,4 @@ As found on the menu (at right or bottom), this section has pages on [statistics
 
 Other pages under [Unwanted or Abusive Childhood Experiences](/child-abuse/overview/) and elsewhere on my site also provide information and resources that can be helpful to men dealing with this issue and those who care about them.
 
-Finally, for many more resources, including free and anonymous online peer support groups, visit [1in6.org](http://www.1in6.org/).
+Finally, for additional resources, including free and anonymous online peer support groups, visit [1in6.org](http://www.1in6.org/).
