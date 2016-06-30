@@ -7,7 +7,7 @@ description:
 nexturl:
 nexttitle:
 prevurl: /sexual-assault/
-prevtitle: Sexual Assault and the Brain
+prevtitle: 'Sexual Assault & the Brain'
 facebook_image_path: /uploads/facebook-brain.jpg
 ---
 
