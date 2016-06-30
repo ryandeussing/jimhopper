@@ -7,7 +7,7 @@ hotlines_sidebar: true
 description:
 nexturl:
 nexttitle:
-prevurl: /mindfulness-and-meditation/
+prevurl: /mindfulness-and-meditation/overview/
 prevtitle: 'Mindfulness & Meditation'
 facebook_image_path: /uploads/facebook-happiness.jpg
 ---
