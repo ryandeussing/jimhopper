@@ -4,7 +4,7 @@ version: 3.0.3
 # Title, decription, tagline and URL for your site
 # Can be used in your theme by calling 'site.title' and so on
 title: Jim Hopper, Ph.D.
-description: Clinical psychologist and independent consultant, part-time instructor in Psychology, Harvard Medical School, and nationally recognized expert on psychological trauma.
+description: Clinical psychologist and independent consultant, Teaching Associate in Psychology, Harvard Medical School, and nationally recognized expert on psychological trauma.
 url: www.jimhopper.com
 
 collections:
