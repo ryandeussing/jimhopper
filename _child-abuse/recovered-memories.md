@@ -76,7 +76,7 @@ To help clear things up, here’s some basic information about human memory and 
 
 Our brains do not simply record and 'play back' events exactly as they happened in the past. Instead, almost every instance of recall involves some processes of *reconstruction* by the brain, which means it involves some distortion too.
 
-Yet this *does**not* mean that memories are 'only constructions' and can’t be trusted at all.
+Yet this *does not* mean that memories are 'only constructions' and can’t be trusted at all.
 
 Research suggests that some brain systems record what actually happened and another system is responsible for how someone makes sense or meaning of what happened. Research also shows that usually people accurately recall the 'gist' and 'central details' of highly stressful experiences. For example, someone may remember who the other person was and the nature of the most disturbing sexual act or acts, and whatever it was that got their attention as it happened (i.e., the central details), but not all of the furniture in a room where it happened, nor all the details of each act, especially those that they did not notice or pay attention to (i.e., 'peripheral details').
 
