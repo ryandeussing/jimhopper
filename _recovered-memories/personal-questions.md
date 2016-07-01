@@ -63,7 +63,7 @@ The first stage of healing and recovery, and any helpful therapy or counseling, 
 * Developing and strengthening skills for managing painful memories and other experiences, and minimizing unhelpful responses.
 
 
-Of course, everything is not always so perfectly ordered and sequential. During the first stage of recovery, it may be necessary to discuss the contents of memories that are disrupting your life. This may be required, for example, to help you manage them, or to understand why you find it is hard to care for yourself (the person or people who abused you gave you the message that you were unworthy of care or love, etc.). However, in this case addressing memories is not the focus of therapy, but a means to achieving safety, stability and greater ability to take care of yourself.
+Of course, everything is not always so perfectly ordered and sequential. During the first stage of recovery, it may be necessary to discuss the contents of memories that are disrupting your life. This may be required, for example, to help you manage them, or to understand why you find it hard to care for yourself (the person or people who abused you gave you the message that you were unworthy of care or love, etc.). However, in this case addressing memories is not the focus of therapy, but a means to achieving safety, stability and greater ability to take care of yourself.
 
 > Important questions to ask yourself
 
@@ -75,7 +75,7 @@ Therefore, here are two more important questions that you need to answer, which 
 
 Only after establishing a solid foundation of understanding, self-regulation skills, and safety and stability in one's life should one decide – freely, thoughtfully, mindful of the dangers – whether or not to focus on memories of abuse in order to, for example, place them into a larger understanding of one's life and identity. In fact, once such a foundation is in place, some people realize that thinking and talking about their abuse memories is not necessary to achieve their life goals, and that those memories are no longer of interest to them. (And sometimes people need to educate their therapists about this!)
 
-For those who do need to focus on abuse memories, or decide that this could be helpful, making sense of what happened and how it fits into one's life story is part of a <u>second</u> stage of recovery, sometimes referred to as 'remembrance and mourning.' ('Mourning' refers to working through grief about the remembered abuse and its negative effects, grief about good experiences one didn't have and, for some, grief about not even being able to remember important experiences. However, this may not be necessary either.)
+For those who do need to focus on abuse memories, or decide that this could be helpful, making sense of what happened and how it fits into one's life story is part of a *second* stage of recovery, sometimes referred to as 'remembrance and mourning.' ('Mourning' refers to working through grief about the remembered abuse and its negative effects, grief about good experiences one didn't have and, for some, grief about not even being able to remember important experiences. However, this may not be necessary either.)
 
 It is true that, for some people, focusing on the contents of abuse memories, including recovered memories, can be part of a second stage of the healing process. (Again, for some people this may not be necessary and may not be something they are interested in doing.) For those who do choose to explore their memories, several important cautionary points should be kept in mind:
 
