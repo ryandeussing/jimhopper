@@ -1,5 +1,5 @@
 ---
-title: 'Guidance &amp; Hope'
+title: 'Guidance & Hope'
 custom_title:
 order: 5
 subcollection:
@@ -200,8 +200,8 @@ I hope someone can relate and find hope,
 
 Sincerely,
 
-Bob L., Florida
+Bob L., Florida<u>Please note:</u>
 
-<u>Please note:</u>&nbsp;I will maintain this page as long as people can benefit from it. However, I am not able to accept all submissions.
+I will maintain this page as long as people can benefit from it. However, I am not able to accept all submissions.
 
 See also 1in6's [Other Guys Like Me](https://1in6.org/men/other-guys-like-me/) and [The Bristlecone Project](http://bristleconeproject.org/).
