@@ -19,7 +19,7 @@ on this page
 * [Overview and Introduction](#overview-and-introduction)
 * [Introduction to Traumatic Memories](#introduction-to-traumatic-memories)
 * [Normal Questions and Doubts](#normal-questions-and-doubts)
-* [Memory Is Not Like an Unedited V](#memory-is-not-like-an-unedited-video)ideo
+* [Memory Is Not Like an Unedited Video](#memory-is-not-like-an-unedited-video)
 * [There Is No One Thing That is 'Memory'](#there-is-no-one-thing-that-is-memory)
 * [Fragmentary Memories May Be It](#fragmentary-memories-may-be-it)
 * [Final Introductory Thoughts](#final-introductory-thoughts)
