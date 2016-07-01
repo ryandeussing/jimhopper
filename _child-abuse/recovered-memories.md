@@ -108,7 +108,9 @@ For example, someone might become afraid or angry when touched by an older man o
 
 When such experiences happen, they can be very strange and upsetting, and can seem 'irrational' to the person having them (and others who are told about such experiences). He or she may think, “What’s wrong with me?” or “Am I crazy?”
 
-But if such experiences are actually implicit memories of past abuse, then what’s happening makes complete sense and is definitely not a sign of insanity. It’s just how the brain works sometimes. Eventually, such experiences may be recognized as fragmentary memories that are connected to past unwanted or abusive sexual experiences. But not always: sometimes its impossible to know whether a disturbing experience or reaction in the present is actually an implicit memory.
+But if such experiences are actually implicit memories of past abuse, then what’s happening makes complete sense and is definitely not a sign of insanity. It’s just how the brain works sometimes.
+
+Eventually, such experiences may be recognized as fragmentary memories that are connected to past unwanted or abusive sexual experiences. But not always: sometimes its impossible to know whether a disturbing experience or reaction in the present is actually an implicit memory.
 
 Implicit memories can be very disturbing. Again, sometimes it’s just not possible to know, for sure, whether or not such experiences are implicit memories of actual past experiences. But it's certainly possible to manage such experiences more effectively and to accept that such uncertainties sometimes just can't be avoided.
 
