@@ -98,7 +98,9 @@ It is not uncommon to have such fragmentary memories of unwanted or abusive chil
 
 But as explained above, just because a memory is fragmentary does not necessarily mean that the fragments are not memories of real experiences. Sorting things out can take time, however, and can require help from a therapist who understands how to avoid distorting memories when you do recall them.
 
-**Implicit memories** are memories that contain information about a past event or experience but are *not recognized* as being about that event or experience. ('Implicit memory' is the opposite of 'explicit memory,' in which one recognizes that what they're experiencing is a memory.) These implicit memories are typically fragmentary sensations or emotions that get triggered by experiences that the brain associates with past experiences but – and here’s the rub – the connection is not recognized.
+**Implicit memories** are memories that contain information about a past event or experience but are *not recognized* as being about that event or experience. ('Implicit memory' is the opposite of 'explicit memory,' in which one recognizes that what they're experiencing is a memory.)
+
+These implicit memories are typically fragmentary sensations or emotions that get triggered by current experiences that the brain associates with past experiences but – again, here’s the rub – the connection is not recognized.
 
 That is, one is remembering part of an experience (e.g., of sexual abuse), but *not realizing* that's what's happening, not even realizing that one is remembering anything, and thus not seeing any connection between one's current experience and an event or events in one's past.
 
