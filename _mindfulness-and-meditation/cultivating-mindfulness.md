@@ -8,7 +8,8 @@ nexturl:
 nexttitle:
 prevurl:
 prevtitle: 'Mindfulness & Meditation'
-facebook_image_path: /uploads/facebook-meditation.jpg
+published: true
+og_image_path: /assets/images/header-meditation-small.jpg
 ---
 
 
