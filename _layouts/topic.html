@@ -2,7 +2,7 @@
 
 {% if page.collection %}
   {% assign specifiedCollection = site[the_collection] | where:"published", "true") %}
-  {% assign specifiedCollection = specifiedCollection | sort: 'order' %}
+  {% assign specifiedCollection = specifiedCollection | sort: 'order' %} 
 {% endif %}
 
 {% for item in specifiedCollection %}
