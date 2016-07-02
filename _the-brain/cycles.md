@@ -8,7 +8,8 @@ nexturl: /mindfulness-and-meditation/overview/
 nexttitle: 'Mindfulness &amp; Meditation'
 prevurl:
 prevtitle:
-facebook_image_path: /uploads/facebook-brain.jpg
+published: true
+og_image_path: /assets/images/header-brain-small.jpg
 ---
 
 
