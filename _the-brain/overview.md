@@ -9,6 +9,7 @@ nexttitle:
 prevurl: http://localhost:3000/sexual-assault/
 prevtitle: Sexual Assault
 published: true
+og_image_path: /assets/images/header-brain-small.jpg
 ---
 
 ## The Brain

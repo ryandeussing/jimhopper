@@ -8,6 +8,7 @@ nexttitle: Mindfulness &amp; Meditation
 prevurl:
 prevtitle:
 published: true
+og_image_path: /assets/images/header-brain-small.jpg
 ---
 
 ## Cycles of Suffering, Healing & Happiness
