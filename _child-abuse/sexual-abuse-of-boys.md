@@ -1,54 +1,28 @@
 ---
 title: Sexual Abuse of Boys
+custom_title:
 order: 8
 subcollection: sexual-abuse-of-boys
 hotlines_sidebar: true
 description:
 nexturl: /child-abuse/sexual-abuse-of-boys/facts-about-sexual-abuse-of-boys/
-nexttitle:
+nexttitle: Facts About Sexual Abuse of Boys
 prevurl:
 prevtitle:
-published: true
-og_image_path: /assets/images/header-abuse-small.jpg
+facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
-## Sexual Abuse of Boys: Overview of the 1 in 6 Statistic
 
-Researchers have found that 1 in 6 men have experienced abusive sexual experiences before age 18\. And this is probably a low estimate, since it doesn’t include noncontact experiences, which can also have lasting negative effects.
+This section of my site is for men who've had unwanted or abusive sexual experiences and those who care about them.
 
-> 1 in 6\. Yes, it's hard to believe. There's strong scientific evidence.
+This is an area I've studied for more than 25 years, and one to which I have devoted considerable work, including for the nonprofit 1in6 - as a founding board member, long-time adviser and main writer for the website. (Several pages on this site were first written for 1in6.org.)
 
-If you’ve had such an experience, or think you might have, you are not alone.
+> You are not alone.
 
-If you wonder whether such an experience may be connected to some difficulties or challenges in your life now, you are not alone.
+As found on the menu (at right or bottom), this section has pages on [statistics](/child-abuse/sexual-abuse-of-boys/statistics/), some [key facts](/child-abuse/sexual-abuse-of-boys/facts-about-sexual-abuse-of-boys/) that are still unknown to many people, how the impacts of such experiences [can be different for males](/child-abuse/sexual-abuse-of-boys/how-it-can-be-different-for-men/), how [being male can make it hard to heal](/child-abuse/sexual-abuse-of-boys/how-being-male-can-make-it-hard-to-heal/), [potential long-term effects](/child-abuse/sexual-abuse-of-boys/potential-long-term-effects/) and some words of [guidance and hope](/child-abuse/sexual-abuse-of-boys/guidance-and-hope/) from other men who've been through this.
 
-Whoever you are, maybe you’re thinking something like, “1 in 6?! Come on, how can that be?” or even “That can’t be true!” Again, if so, you’re not alone. Those are common responses to this statistic, which many people find hard to believe – including men who’ve had such experiences themselves.
+> There are people who understand and can help.
 
-This page is about saying, briefly, “Yes, it’s hard to believe,” and “There’s strong scientific evidence.”
+Other pages under [Unwanted or Abusive Childhood Experiences](/child-abuse/overview/) and elsewhere on my site also provide information and resources that can be helpful to men dealing with this issue and those who care about them.
 
-Please note:
-
-Researchers use “sexual abuse” to describe experiences in which children are subjected to _unwanted sexual contact involving force, threats, or a large age difference_ between the child and the other person (which involves a big power differential and exploitation). See above for a detailed discussion of definitions and research methods, including how some result in lower estimates than 1 in 6 (e.g., large national surveys using telephone interviews that ask few questions).
-
-Having such an experience does not mean a boy will definitely suffer significant long-term negative consequences. That depends on several factors, including how many times it happened, how long it went on, who else was involved, whether the boy told anyone and, if so, the response he received.
-
-## What the research tells us:*
-
-A 2005 study conducted by the U.S. Centers for Disease Control, on San Diego Kaiser Permanente HMO members, reported that 16% of males were sexually abused by the age of 18.1
-
-A 2003 national study of U.S. adults reported that 14.2% of men were sexually abused before the age of 18.2
-
-A 1998 study reviewing research on male childhood sexual abuse concluded that the problems is “common, under-reported, under-recognized, and under-treated.”3
-
-A 1996 study of male university students in the Boston area reported that 18% of men were sexually abused before the age of 16.4
-
-A 1990 national study of U.S. adults reported that 16% of men were sexually abused before the age of 18\. 5
-
-## Why these statistics are probably underestimates:
-
-Males who have such experiences are less likely to disclose them than are females.6
-
-Only 16% of men with documented histories of sexual abuse (by social service agencies, which means it was very serious) considered themselves to have been sexually abused, compared to 64% of women with documented histories in the same study.7
-
-In summary, the 1 in 6 statistic is supported by solid scientific research, including a study conducted by the U.S. Centers for Disease Control, and is likely an <u>under</u>estimate of the actual prevalence. Yet few people are aware that there are just as many men who experienced sexual abuse as children as there are who develop prostate cancer, the most common cancer and second leading cause of death among men. And few know that the 19 million men with histories of childhood sexual abuse are <u>more than 4 times</u> the number with heart disease, the leading cause of death among men.
-
+Finally, see [Additional Resources](/child-abuse/sexual-abuse-of-boys/additional-resources/) for organizations and other resources.
