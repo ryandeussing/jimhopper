@@ -8,7 +8,8 @@ nexturl:
 nexttitle:
 prevurl: /sexual-assault/
 prevtitle: 'Sexual Assault & the Brain'
-facebook_image_path: /uploads/facebook-brain.jpg
+published: true
+og_image_path: /assets/images/header-brain-small.jpg
 ---
 
 
