@@ -5,7 +5,7 @@
     <p class="sidebar__header">in this topic</p>
       <ul class="sidebar__items">
         {% assign sorted = site[page.topic] | sort: 'order' %}
-        {% assign sorted = sorted | where: "published", "false" %}
+        {% assign sorted = sorted | where: "published", "true" %}
         {% for doc in sorted %}
         {% assign current = nil %}
           {% if page.url contains doc.url %}
