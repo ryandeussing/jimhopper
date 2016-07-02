@@ -9,7 +9,8 @@ nexturl:
 nexttitle:
 prevurl: /mindfulness-and-meditation/overview/
 prevtitle: 'Mindfulness & Meditation'
-facebook_image_path: /uploads/facebook-happiness.jpg
+published: true
+og_image_path: /assets/images/header-happiness-small.jpg
 ---
 
 
