@@ -9,7 +9,8 @@ nexturl: /child-abuse/statistics/
 nexttitle: Child Abuse Statistics
 prevurl: /child-abuse/recovered-memories/in-the-DSM
 prevtitle: Recovered Memories in the DSM
-facebook_image_path: /uploads/facebook-child-abuse.jpg
+published: true
+og_image_path: /assets/images/header-abuse-small.jpg
 ---
 
 
