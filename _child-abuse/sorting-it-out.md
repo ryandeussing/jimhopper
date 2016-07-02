@@ -9,7 +9,8 @@ nexturl:
 nexttitle:
 prevurl: /child-abuse/overview/
 prevtitle: Unwanted or Abusive Childhood Experiences
-facebook_image_path: /uploads/facebook-child-abuse.jpg
+published: true
+og_image_path: /assets/images/header-abuse-small.jpg
 ---
 
 
