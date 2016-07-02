@@ -10,7 +10,6 @@ nexttitle:
 prevurl:
 prevtitle:
 published: true
-published: true
 og_image_path: /assets/images/header-abuse-small.jpg
 ---
 
