@@ -9,6 +9,7 @@ nexttitle:
 prevurl:
 prevtitle:
 published: true
+og_image_path: /assets/images/header-happiness-small.jpg
 ---
 
 ## Regulating Emotions and Impulses

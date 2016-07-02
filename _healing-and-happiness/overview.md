@@ -9,6 +9,7 @@ nexttitle:
 prevurl: /mindfulness-and-meditation/additional-resources/
 prevtitle: Additional Resources
 published: true
+og_image_path: /assets/images/header-happiness-small.jpg
 ---
 
 ## Healing and Happiness
