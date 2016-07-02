@@ -9,7 +9,8 @@ nexturl: /child-abuse/recovered-memories/additional-resources
 nexttitle: Additional Resources on Recovered Memories
 prevurl: /child-abuse/recovered-memories/in-the-media
 prevtitle: Recovered Memories in the Media
-facebook_image_path: /uploads/facebook-child-abuse.jpg
+published: true
+og_image_path: /assets/images/header-abuse-small.jpg
 ---
 
 
