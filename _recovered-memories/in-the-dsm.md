@@ -1,17 +1,17 @@
 ---
 title: In the DSM
+custom_title: Recovered Memories in the DSM
 order: 4
+subcollection:
 hotlines_sidebar: true
 description:
-nexturl:
-nexttitle:
-prevurl:
-prevtitle:
-published: true
-og_image_path: /assets/images/header-abuse-small.jpg
+nexturl: /child-abuse/recovered-memories/additional-resources
+nexttitle: Additional Resources on Recovered Memories
+prevurl: /child-abuse/recovered-memories/in-the-media
+prevtitle: Recovered Memories in the Media
+facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
-## Recovered Memories are Recognized in Diagnostic and Statistical Manual of Mental Disorders (DSM)
 
 The _Diagnostic and Statistical Manual of Mental Disorders_, currently in its fifth edition (_DSM-5_), is the "bible" of psychiatric diagnosis. Decisions about treatment, communication among mental health professionals, and whole traditions of psychiatric research depend on use of the _DSM_ system. Insurance companies will not pay for treatment unless the client has a _DSM_ diagnosis. While it's true that developing diagnostic categories can be an inexact science, and that some disorders have come and gone, _years_ of empirical research and clinical observation go into each subsequent revision of this document. In short, if the diagnosis of Dissociative Amnesia was in _DSM-IV_ and kept for _DSM-5_, it's likely there for good reasons.
 
