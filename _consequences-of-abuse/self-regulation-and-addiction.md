@@ -1,30 +1,30 @@
 ---
-title: Self-regulation &amp; Addictions
+title: 'Self-regulation &amp; Addictions'
+custom_title:
 order: 4
+subtopic: Consequences of Abuse
+subcollection:
 hotlines_sidebar: true
 description:
 nexturl:
 nexttitle:
 prevurl:
 prevtitle:
-published: true
-og_image_path: /assets/images/header-abuse-small.jpg
+facebook_image_path: /uploads/facebook-child-abuse.jpg
 ---
 
-## Self-Regulation and Addictions
 
-<ul class="onpage"><p class="onpage__header">on this page</p>
-  <li><a href="#losing">Losing Control</a></li>
-  <li><a href="#common">Common Problems</a></li>
-  <li><a href="#why">Why?</a></li>
-  <li><a href="#connected">Connected to Relationships</a></li>
-  <li><a href="#deal">Deal With This Early – With As Much Hope, Help, and Patience As Possible</a></li>
-</ul>
+on this page
+{: .onpage__header}
 
-It's about managing emotions, impulses, wants and needs.
-These aren't always easy, but are keys to things getting better.
+* [Losing Control](#losing-control)
+* [Common Problems](#common-problems)
+* [Why?](#why)
+* [Connected to Relationships](#connected-to-relationships)
+* [Deal With This Early, With As Much Hope, Help, and Patience As Possible](#deal-with-this-early-with-as-much-hope-help-and-patience-as-possible)
+{: .onpage}
 
-## <a name="losing"> Losing Control</a>
+## Losing Control
 
 Do your emotions control you more than you control them? Are you struggling with addiction?
 
@@ -34,7 +34,9 @@ Do you find yourself doing ‘stupid’ things so quickly and automatically that
 
 Are your eating and sleeping habits out of whack?
 
-## <a name="common"> Common Problems</a>
+> Managing emotions, impulses, wants and needs. Not always easy, but a key to things getting better.
+
+## Common Problems
 
 These are problems with self-regulation and addiction.
 
@@ -46,25 +48,27 @@ And addiction includes porn, casual sex, gambling and anger binges, not just alc
 
 > Attempts to avoid and cope that backfire.
 
-A very important self-regulation skill is resisting urges or impulses that leave you feeling bad afterward, including addictive ones. Also key are healthy habits and behaviors around eating, sleeping and other things you need on a daily basis.
+A very important self-regulation skill is resisting urges or impulses that leave you feeling bad afterward, including addictive ones. Or accepting that the urge or impulse has come up, but riding it out and not acting on it. (See [Mindfulness & Meditation](/mindfulness-and-meditation/overview/).)
+
+Also key are healthy habits and behaviors around eating, sleeping and other things you need on a daily basis.
 
 However good or bad our childhoods were, we've all struggled with bad habits and problem behaviors. And self-regulation problems both cause and worsen them.
 
-## <a name="why"> Why?</a>
+## Why?
 
 First of all, harmful unwanted or abusive childhood experiences usually cause intense negative emotions (if not right away then later), and people naturally want to avoid and escape from them.
 
-This is especially true of emotions like fear, shame and guilt – which can be overwhelming and make it hard to manage other emotions and challenges in life.
+This is especially true of emotions like fear, [shame](/child-abuse/consequences-of-abuse/shame/) and [guilt](/child-abuse/consequences-of-abuse/guilt/) – which can be overwhelming and make it hard to manage other emotions and challenges in life.
 
-Then, the ways we try to avoid or cope with our emotions, and the stresses of our lives, often end up causing new and bigger problems. (See Cycles of Suffering, Healing & Happiness [link].)
+Then, the ways we try to avoid or cope with our emotions, and the stresses of our lives, often end up causing new and bigger problems. (See [Cycles of Suffering, Healing & Happiness](/the-brain/cycles/).)
 
-Angry and aggressive behavior, getting drunk or high, compulsively using porn or having sex – these are often attempts to avoid and escape feelings of helplessness, fears of rejection, and unfulfilled wishes to be loved. They all involve problems with self-regulation.
+Angry and aggressive behavior, getting drunk or high, compulsively using porn or having sex – these are often attempts to avoid and escape feelings of helplessness, fears of rejection, and unfulfilled longings to be loved. They all involve problems with self-regulation.
 
 Other problems with self-regulation and addiction are attempts to deal with feeling nothing and being disconnected from others (or even from life itself).
 
 For example, some people drink heavily as a way to connect with other people. Some people cut or burn themselves, or pick fights they know will lead to getting hurt – all to feel ‘something, anything.’
 
-## <a name="connected">Connected to Relationships</a>
+## Connected to Relationships
 
 The effects of harmful unwanted or abusive childhood experiences on self-regulation are best understood within the bigger picture of one’s life and development.
 
@@ -74,11 +78,11 @@ Maybe your parent(s) or the adults who raised you didn’t help you talk about y
 
 Instead they may have, through the example of their own behavior, taught you to ‘act out’ angry impulses and ‘block out’ negative emotions with addictions and other unhealthy escapes. They may have never provided the stable home and daily routines that children need to develop healthy eating, sleeping, and other self-care habits.
 
-Self-regulation problems can have a big impact on one’s current relationships, especially with important people in one’s life.
+And self-regulation problems can have a big impact on one’s current relationships, especially with important people in one’s life.
 
-## <a name="deal">Deal With This Early – With As Much Hope, Help, and Patience As Possible</a>
+## Deal With This Early, With As Much Hope, Help, and Patience As Possible
 
-These problems with self-regulation and addictions are usually a big focus in the ‘first stage of recovery,’ as described by Judith Herman’s Stages of Recovery [link] [](http://1in6.org/recovery-and-therapy/stages-of-recovery/)model.
+These problems with self-regulation and addictions are usually a big focus in the ‘first stage of recovery,’ as described by Judith Herman’s [Stages of Recovery](/healing-and-happiness/stages-of-recovery/) model.
 
 It really is best to start dealing with these problems as soon as possible because (as you know better than anyone else) they can cause so many problems and lots of suffering for you and other people in your life.
 
@@ -88,6 +92,6 @@ Whatever self-regulation problems you have now, and however you came to have the
 
 You can learn to manage unwanted emotions and destructive impulses. You can reduce or end addictions and other bad habits. You can develop new daily habits of being mentally and physically healthy.
 
-It takes time to make such changes in your life, and it goes in stages (with some inevitable backsliding from time to time). It will probably require help from others, including a therapist or other professionals.
+It usually takes time to make such changes in your life, and it usually goes in stages (with some inevitable backsliding from time to time). It will probably require help from others, including a therapist or other professionals.
 
 But it is possible, and many other men and women have overcome huge problems with self-regulation and addictions, and gone on to achieve great happiness.
