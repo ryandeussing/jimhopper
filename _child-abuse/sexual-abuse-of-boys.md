@@ -9,7 +9,7 @@ nexttitle:
 prevurl:
 prevtitle:
 published: true
-og_image_path: /assets/images/header-abuse-small.jpg
+og_image_path: /assets/images/header-abuse.jpg
 ---
 
 ## Sexual Abuse of Boys: Overview of the 1 in 6 Statistic
