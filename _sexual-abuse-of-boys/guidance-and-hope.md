@@ -8,6 +8,7 @@ nexttitle: Sexual Abuse of Girls
 prevurl:
 prevtitle:
 published: true
+og_image_path: /assets/images/header-abuse.jpg
 ---
 
 ## Sexually Abused Males: Giving & Receiving Guidance & Hope

@@ -8,6 +8,7 @@ nexttitle:
 prevurl: /child-abuse/sexual-abuse-of-boys/
 prevtitle: For Boys &amp; Men
 published: true
+og_image_path: /assets/images/header-abuse.jpg
 ---
 
 
