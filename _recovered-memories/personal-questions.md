@@ -8,7 +8,7 @@ nexttitle:
 prevurl: /child-abuse/recovered-memories/
 prevtitle: Recovered Memories
 published: true
-og_image_path: /assets/images/header-abuse.jpg
+og_image_path: /assets/images/header-abuse-small.jpg
 ---
 
 ## Personal Questions, Concerns & Cautions
