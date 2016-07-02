@@ -5,7 +5,7 @@ order: 13
 subcollection:
 hotlines_sidebar: true
 description:
-nexturl:
+nexturl: 
 nexttitle:
 prevurl:
 prevtitle:
