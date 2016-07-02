@@ -1,5 +1,5 @@
 ---
-title: 'Cycles of Suffering, Healing &amp; Happiness'
+title: 'Cycles of Suffering, Healing & Happiness'
 order: 3
 subcollection:
 description:
@@ -16,6 +16,7 @@ og_image_path: /assets/images/header-brain-small.jpg
 
 on this page
 {: .onpage__header}
+
 * [Cycles of Suffering](#cycles)
 * [Cycles of Healing and Happiness](#cyclesofhealing)
 * [Healing Cycle: Seeking to Engage and Transform Suffering](#healing)
@@ -45,7 +46,7 @@ This includes insights into our habitual ways of attempting to regulate emotiona
 
 In short, this framework is offered as a set of clarifying conceptual tools for exploring experience and behavior, for understanding suffering and healing, and for choosing and getting the most from different types of therapy and from the contemplative methods of humanity's great philosophical, religious and spiritual traditions.
 
-## [Cycles of Suffering]()
+## [Cycles of Suffering](){: .cc-active}
 
 Human beings are often caught in self-perpetuating cycles of suffering. We can understand these cycles, in part, as unhealthy relationships among the circuitries of fear, seeking, satisfaction and embodiment.
 
@@ -87,7 +88,7 @@ Of course, sometimes people can be fearful or anxious *and* depressed at the sam
 
 The bottom line: So long as our seeking circuitry is suppressed or is focused almost entirely on escaping pain and suffering – rather than on seeking what is truly satisfying and fulfilling – we are caught in cycles of suffering.
 
-## [Cycles of Healing and Happiness]()
+## [Cycles of Healing and Happiness](){: .cc-active}
 
 Just as there are fundamental cycles of suffering, there are fundamental cycles of healing and happiness.
 
@@ -99,7 +100,7 @@ That's why there are two fundamental cycles of healing and happiness: *seeking t
 
 While each of these cycles supports the other and they can overlap, it’s helpful to consider them separately – particularly with respect to how each can change relationships among the circuitries of seeking, fear, satisfaction and embodiment.
 
-## [Healing Cycle: Seeking to Engage and Transform Suffering]()
+## [Healing Cycle: Seeking to Engage and Transform Suffering](){: .cc-active}
 
 This brain-based healing cycle is about seeking to know, tolerate, understand, and make positive use of pain and suffering.
 
@@ -129,7 +130,7 @@ Yes, engaging in this healing cycle is difficult. Sometimes it's painful. But th
 
 And as addressed next, we can free up our brain's seeking circuitry to pursue much more satisfying and fulfilling things in life, which will bring more happiness and healthiness than we ever imagined possible.
 
-## [Healing and Happiness Cycle: Seeking True Goods]()
+## [Healing and Happiness Cycle: Seeking True Goods](){: .cc-active}
 
 Fortunately, healing isn't all about seeking to deal more effectively with pain and suffering. If that’s all we ever focus on – or all the people we've enlisted to help us focus on – the work healing is not so appealing, and definitely not inspiring, for anyone involved.
 
@@ -151,7 +152,7 @@ Also, the more we activate our brain’s satisfaction circuitry as a result of s
 
 [caption] In this cycle, (A) the seeking circuitry is focused on wanting and pursuing (B) what is genuinely satisfying and fulfilling. This leads to (C) more experiences of genuine satisfaction, fulfillment and happiness, including the bodily aspects of such experiences as registered by the embodiment circuitry. This in turn increases motivation to seek and enjoy more true goods (rather than quick fixes and other “false goods” that perpetuate suffering), which decreases fear circuitry activation (see text) and suffering in general.
 
-## [Contemplative Practices for Seeking to Engage and Transform Suffering]()
+## [Contemplative Practices for Seeking to Engage and Transform Suffering](){: .cc-active}
 
 Contemplative practices can be used to carefully attend to and investigate any experience that human beings may have – including those of pain and suffering, and satisfaction and happiness – and to cultivate capacities for doing so.
 
@@ -181,7 +182,7 @@ Certainly mindfulness and other contemplative methods for engaging with and tran
 
 Also, we are all creatures of habit, and old habits can be hard to break, especially if they (have seemed to) ensure our physical or psychological survival. But with a foundation of self-regulation skills, regular practice, and relationships that support both, mindfully engaging with one’s suffering can facilitate the healing cycle of *seeking to engage and transform suffering*.
 
-## [Contemplative Practices and Seeking True Goods]()
+## [Contemplative Practices and Seeking True Goods](){: .cc-active}
 
 *Seeking true goods*, the second healing cycle of the framework I am sharing, includes the use of contemplative practices to *harness the brain’s seeking circuitry*, which when wrongly directed causes so much of our suffering, *to the pursuit of true goods that bring genuine happiness*.
 
@@ -269,7 +270,7 @@ Seeking the true good of self-knowledge can help us to mindfully and compassiona
 
 In short, there are many contemplative practices – especially but not only those for cultivating love, kindness and compassion – that can bring healing from suffering, and much more, *by harnessing the brains’ seeking circuitry to the pursuit of true goods and genuine happiness*.
 
-## [Summary and Conclusions]()
+## [Summary and Conclusions](){: .cc-active}
 
 On this webpage I am offering a framework for understanding key brain and psychological processes involved in suffering, healing and happiness – particularly healing and happiness fostered by contemplative practices for cultivating mindfulness, kindness, compassion and love.
 
@@ -277,7 +278,7 @@ I have drawn on scientific, clinical and contemplative knowledge to provide an i
 
 Certainly more research is needed. In the meantime, those of us seeking healing and genuine happiness for ourselves and others can better appreciate and explore the power of contemplative practices – Eastern and Western, secular and religious – to harness our brains' seeking, satisfaction and embodiment circuitries to decrease suffering and to cultivate more mindful, loving and happy minds and bodies.
 
-## [Exercises & Handouts]()
+## [Exercises & Handouts](){: .cc-active}
 
 Here are some exercises and handouts that foster greater experiential understanding of the key brain circuitries and fundamental cycles of suffering, healing and happiness.
 
@@ -285,7 +286,7 @@ Here are some exercises and handouts that foster greater experiential understand
 
 [Individual and Partner Exercises](https://jimhopper.gathercontent.com/www.jimhopper.com/pdfs/CircuitriesCyclesExercises.pdf) - I lead people through these exercises during my programs on harnessing key brain for healing and happiness, especially in my annual 5-day training, where we have lots of time to engage in contemplative practices and exercises.
 
-## [Additional Notes]()
+## [Additional Notes](){: .cc-active}
 
 Buddhist psychology and meditation practice are important sources of the framework presented here. Particularly influential are their focuses on fear/aversion and seeking/craving, which, along with ignorance, are known in Buddhist psychology as the “three poisons" or three root causes of suffering.
 
