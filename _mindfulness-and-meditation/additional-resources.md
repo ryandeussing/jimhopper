@@ -8,7 +8,8 @@ nexturl: /healing-and-happiness/overview/
 nexttitle: 'Healing &amp; Happiness'
 prevurl:
 prevtitle:
-facebook_image_path: /uploads/facebook-meditation.jpg
+published: true
+og_image_path: /assets/images/header-meditation-small.jpg
 ---
 
 
