@@ -8,7 +8,8 @@ nexturl:
 nexttitle:
 prevurl: /the-brain/overview/
 prevtitle: The Brain
-facebook_image_path: /uploads/facebook-meditation.jpg
+published: true
+og_image_path: /assets/images/header-meditation-small.jpg
 ---
 
 
