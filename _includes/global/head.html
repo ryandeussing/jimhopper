@@ -21,6 +21,7 @@
 
   <meta property="og:url"                content="http://www.jimhopper.com{{page.url}}" />
   <meta property="og:title"              content="{{site.title}} | {% if page.topic %}{{ page.topic_name | escape }} | {% endif %}{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
+  <meta property="og:image" content="/assets/images/{{og_image_path}}" />
   <meta property="og:description"        content="{% if page.description %}{{ page.description}}{% else %}{{ site.description }}{% endif %}" />
 
   <!-- RSS -->
