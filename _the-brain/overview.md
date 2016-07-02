@@ -6,7 +6,7 @@ description:
 nexturl:
 nexttitle:
 prevurl: /sexual-assault/
-prevtitle: Sexual Assault
+prevtitle: 'Sexual Assault & the Brain'
 published: true
 og_image_path: /assets/images/header-brain-small.jpg
 ---
