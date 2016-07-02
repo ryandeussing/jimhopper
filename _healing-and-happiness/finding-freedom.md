@@ -9,7 +9,8 @@ nexturl:
 nexttitle:
 prevurl:
 prevtitle:
-facebook_image_path: /uploads/facebook-happiness.jpg
+published: true
+og_image_path: /assets/images/header-happiness-small.jpg
 ---
 
 
