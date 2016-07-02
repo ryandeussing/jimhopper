@@ -9,7 +9,8 @@ nexturl: /child-abuse/recovered-memories/in-the-media
 nexttitle: Recovered Memories in the Media
 prevurl: /child-abuse/recovered-memories/personal-questions
 prevtitle: Personal Questions About Recovered Memories
-facebook_image_path: /uploads/facebook-child-abuse.jpg
+published: true
+og_image_path: /assets/images/header-abuse-small.jpg
 ---
 
 
