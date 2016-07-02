@@ -8,6 +8,7 @@ nexttitle:
 prevurl:
 prevtitle:
 published: true
+og_image_path: /assets/images/header-meditation-small.jpg
 ---
 
 ## Mindfulness and Its Cultivation

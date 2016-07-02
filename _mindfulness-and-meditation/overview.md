@@ -8,6 +8,7 @@ nexttitle:
 prevurl: /the-brain/overview/
 prevtitle: The Brain
 published: true
+og_image_path: /assets/images/header-meditation-small.jpg
 ---
 
 ## Mindfulness & Meditation

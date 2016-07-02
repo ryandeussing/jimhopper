@@ -8,6 +8,7 @@ nexttitle:
 prevurl:
 prevtitle:
 published: true
+og_image_path: /assets/images/header-meditation-small.jpg
 ---
 
 ## Kindness, Compassion & Love
