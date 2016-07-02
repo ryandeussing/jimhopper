@@ -8,7 +8,7 @@ nexttitle:
 prevurl: /child-abuse/consequences-of-abuse/
 prevtitle: Consequences of Abuse
 published: true
-og_image_path: /assets/images/header-abuse.jpg
+og_image_path: /assets/images/header-abuse-small.jpg
 ---
 
 ## Trust
