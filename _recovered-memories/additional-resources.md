@@ -8,6 +8,7 @@ nexttitle: Statistics
 prevurl:
 prevtitle:
 published: true
+og_image_path: /assets/images/header-abuse.jpg
 ---
 
 ## Additional Resources on Recovered Memories of Sexual Abuse

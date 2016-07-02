@@ -8,6 +8,7 @@ nexttitle:
 prevurl:
 prevtitle:
 published: true
+og_image_path: /assets/images/header-abuse.jpg
 ---
 
 ## Scientific Research and Scholarly Resources

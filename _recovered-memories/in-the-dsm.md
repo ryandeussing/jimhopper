@@ -8,6 +8,7 @@ nexttitle:
 prevurl:
 prevtitle:
 published: true
+og_image_path: /assets/images/header-abuse.jpg
 ---
 
 ## Recovered Memories are Recognized in Diagnostic and Statistical Manual of Mental Disorders (DSM)
