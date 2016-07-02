@@ -9,6 +9,7 @@ nexttitle:
 prevurl: /child-abuse/consequences-of-abuse/guilt/
 prevtitle: Guilt
 published: true
+og_image_path: /assets/images/header-abuse.jpg
 ---
 
 

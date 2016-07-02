@@ -9,6 +9,7 @@ nexttitle: Personal Questions
 prevurl:
 prevtitle:
 published: true
+og_image_path: /assets/images/header-abuse.jpg
 ---
 
 
