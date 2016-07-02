@@ -1,7 +1,7 @@
 {% capture the_collection %}{{page.collection}}{% endcapture %}
 
 {% if page.collection %}
-  {% assign specifiedCollection = site[the_collection] | where:"published", "false") %}
+  {% assign specifiedCollection = site[the_collection] | where:"published", "true") %}
   {% assign specifiedCollection = specifiedCollection | sort: 'order' %}
 {% endif %}
 
