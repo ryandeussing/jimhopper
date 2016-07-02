@@ -9,7 +9,8 @@ nexturl:
 nexttitle:
 prevurl: /child-abuse/sexual-abuse-of-boys/
 prevtitle: Sexual Abuse of Boys
-facebook_image_path: /uploads/facebook-child-abuse.jpg
+published: true
+og_image_path: /assets/images/header-abuse-small.jpg
 ---
 
 
