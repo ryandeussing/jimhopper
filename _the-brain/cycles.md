@@ -327,7 +327,7 @@ Certainly more research is needed. In the meantime, those of us seeking healing 
 
 Here are some exercises and handouts that foster greater experiential understanding of the key brain circuitries and fundamental cycles of suffering, healing and happiness.
 
-[What Do I Do with My Seeking Circuitry](/pdf/WhatDoISeek.pdf) - One-page handout to promote reflection and possibly new action. This handout is used in two of the exercises in the handout below.
+[What I Do with My Seeking Circuitry](/pdf/WhatDoISeek.pdf) - One-page handout to promote reflection and possibly new action. This handout is used in two of the exercises in the handout below.
 
 [Individual and Partner Exercises](/pdf/CircuitriesCyclesExercises.pdf) - I lead people through these exercises during my trainings on harnessing key brain circuitries for healing and happiness, especially in my [annual 5-day program](/services/kripalu/), where we have lots of time to engage in contemplative practices and exercises.
 
