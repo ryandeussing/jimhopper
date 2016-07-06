@@ -14,7 +14,7 @@ og_image_path: /assets/images/header-abuse-small.jpg
 ---
 
 
-This section of my site is for men who've had unwanted or abusive sexual experiences and those who care about them.
+This section of my site is for men who've had unwanted or abusive sexual experiences as boys and those who care about them.
 
 This is an area I've studied for more than 25 years, and one to which I have devoted considerable work, including for the nonprofit 1in6 - as a founding board member, long-time adviser and main writer for the website. (Several pages on this site were first written for 1in6.org.)
 
