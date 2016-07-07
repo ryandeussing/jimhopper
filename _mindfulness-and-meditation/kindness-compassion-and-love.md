@@ -1,5 +1,5 @@
 ---
-title: 'Kindness, Compassion &amp; Love'
+title: 'Kindness, Compassion & Love'
 custom_title:
 order: 3
 subcollection:
@@ -31,7 +31,7 @@ While lovingkindness and compassion are moral and ethical ideals for relating to
 
 ## Lovingkindness
 
-'Lovingkindness' is an English translation of the word *metta*&nbsp;from Pali, a language used to record the early teachings of Buddhism. The word has two root meanings, 'gentle' and 'friend.' The foundation of lovingkindness is being a gentle friend to yourself, no matter what kind of experience you happen to be having in the moment.
+'Lovingkindness' is an English translation of the word *metta* from Pali, a language used to record the early teachings of Buddhism. The word has two root meanings, 'gentle' and 'friend.' The foundation of lovingkindness is being a gentle friend to yourself, no matter what kind of experience you happen to be having in the moment.
 
 Lovingkindness refers to an unconditional and open love, with the wish and motivation for another person (or oneself) to be happy.
 
@@ -82,7 +82,7 @@ Also, if you sometimes don't experience lovingkindness when you do exercises lik
 
 ## Compassion
 
-'Compassion' is an English translation of the Pali term *karuna.*&nbsp;As Sharon Salzberg explains, *karuna* means "experiencing a trembling or quivering of the heart in response to a being's pain." The compassionate response of the heart involves *engaging* with pain and suffering – gently, with acceptance and strength – *not* being overwhelmed by them.
+'Compassion' is an English translation of the Pali term *karuna.* As Sharon Salzberg explains, *karuna* means "experiencing a trembling or quivering of the heart in response to a being's pain." The compassionate response of the heart involves *engaging* with pain and suffering – gently, with acceptance and strength – *not* being overwhelmed by them.
 
 While lovingkindness involves the motivation for happiness, compassion involves the motivation to reduce suffering – not because we find it aversive and are trying to escape it, but we have the loving motivation to reduce or end it.
 
@@ -96,7 +96,7 @@ Below are some compassion practices to try out and experiment with. Remember, do
 * Offer compassion to your painful feelings. A common phrase to use is, "I care about my pain." Again, you may be surprised to discover the power of simply repeating a phrase like this with a sincere intention.
 * When difficult emotions arise, try holding them like you would a crying child. Hold the fear like you would hold a fearful child. Hold the anger as you would hold an angry child. Ultimately, it's about learning to meet each one of your thoughts, feelings and mind-body states with this unconditional love, like welcoming all your children home.
 * Offer compassion to a hurt part of yourself. Bring to mind an image of yourself at a time of hurt and pain, and offer compassion to the child or adult you were then. You might use phrases like, "May you find peace. May you be free of suffering."
-* Try a practice known as *tonglen*&nbsp;(which involves 'sending and receiving' coordinated with breathing). Picture another person or yourself at a time of pain and hurt. On the in-breath, breathe in that person's pain and suffering (receiving). On the out-breath send that person support and caring (sending).
+* Try a practice known as *tonglen* (which involves 'sending and receiving' coordinated with breathing). Picture another person or yourself at a time of pain and hurt. On the in-breath, breathe in that person's pain and suffering (receiving). On the out-breath send that person support and caring (sending).
 * Finally, try directing compassion to a part of you that can be mean or cruel to yourself or others. Recall a time that you were hurtful to yourself or someone else (start with a relatively mild case). Notice how you were responding based on past conditioning, feeling like you were defending and protecting yourself, or justly punishing yourself or the other person. Offer compassion to the part of you that tends to respond to pain or being wronged with anger and aggression. Offer compassion to yourself for how – like all human beings, especially those who have been deeply hurt – you can create more suffering because of your confusion and your limited ability to respond to pain compassionately.
 
 
