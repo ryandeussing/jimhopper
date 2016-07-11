@@ -74,7 +74,7 @@
               <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"><i class="fa fa-facebook" aria-hidden="true"></i> share</a>
               {% capture url %}http://{{site.url}}{{page.url}}{% endcapture %}
               {% if page.custom_title %}{% capture title %}{{page.custom_title}}{% endcapture %}{% else %}{% capture title %}{{page.title}}{% endcapture %}{% endif %}
-              <a target="_blank" href="https://twitter.com/share?url={{url}}&text={{title}}"><i class="fa fa-twitter" aria-hidden="true"></i> tweet</a>
+              <a target="_blank" href="https://twitter.com/share?url={{url}}&text={{title | escape}}"><i class="fa fa-twitter" aria-hidden="true"></i> tweet</a>
 
 
 
