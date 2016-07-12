@@ -1,5 +1,5 @@
 ---
-title: 'Cycles of Suffering, Healing & Happiness' 
+title: 'Cycles of Suffering, Healing  &amp; Happiness' 
 custom_title:
 order: 3
 subcollection:
