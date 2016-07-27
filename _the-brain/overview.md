@@ -13,35 +13,48 @@ og_image_path: /assets/images/header-brain-small.jpg
 ---
 
 
-Here I introduce my central teachings on the human brain. As you will see, they revolve around some key brain circuitries and their roles in fundamental cycles of suffering, healing and happiness.
+I've studied the brain for more than 25 years - as a researcher, consultant, teacher, therapist, and meditator - and it's been an exciting time. Advances in research technology have given us a window into the brain in action, unlocking fresh insights into its components, their connections, and how things work together.
 
-These teachings are grounded in decades of study and practice as a researcher, therapist, consultant and teacher – and in my personal life as a family member, friend, and long-term practitioner of contemplative practices, including various forms of meditation.
+Now we can harness these discoveries to understand our brains, what helps us to heal and be happy, and which approaches and tools are helpful in everyday life.
 
-I have two main goals for this section of my site on the brain.
+Here you'll find practical knowledge and insights about your brain that can help you make sense of
 
-One is to provide knowledge and insights about the brain – your brain – that make sense to you and that help you make sense of your experiences, thoughts, emotions, values and behaviors.
+* Your thoughts
+* Your emotions
+* Your behaviors
+* The motivations and values driving everything else
 
-Another is to provide, in combination with other parts of this site, some guidance for healing suffering and bringing more genuine happiness into our lives.
+
+And knowledge and insights that help you work with everything.
+
+You'll find guidance, grounded in cutting-edge scientific knowledge and in the wisdom of humanity's great religious and spiritual traditions, for healing suffering and bringing genuine happiness into daily life.
 
 ## Some Cautions
 
-The human brain is incredibly complex, with about 100 billion neurons (or brain cells). Neuroscience research is also vast in its breadth and depth.
+The human brain is incredibly complex, with about 100 billion *neurons* (or brain cells). Neuroscience research is similarly vast in its breadth and depth.
 
-As a psychologist who has studied neuroscience for more than 25 years, and conducted brain imaging studies on traumatized people, I appreciate that complexity and that vastness. I've learned some important things about studying and teaching about the brain:
+As a psychologist who has studied neuroscience for decades, and conducted brain imaging studies to understand traumatized people, I appreciate that vast complexity. I've also learned some important things about studying the brain and making that knowledge accessible.
 
-* Even the greatest neuroscientists must pick and choose where they focus their own research and what they learn about others' research.
-* All who study the brain must simplify things, not only to teach others but to make sense of the brain for themselves.
-* The best researchers and teachers, who possess both great knowledge and integrity, strive to ensure that their simplifications are consistent with the science and not contradicted by any of it.
-* Because brain-based explanations are over-valued these days, many people are making claims about the brain – including grand and sweeping ones – that are confused and misleading, even false.
+To make sense of what we learn about the brain, and to share it with others, we must simplify. But that must never mean watering-down the science, or contradicting it.
 
+The best teachers strive to ensure that their ideas truly reflect scientific knowledge, and never distort it. So the information and guidance given here may seem simple to understand, but is based on the complex findings of scientific study.
+
+It's true that brain-based explanations have been over-valued lately, and the media regularly sensationalizes research studies with impressive-looking &nbsp;pictures of the brain. If you've been reading about the brain already, be aware that some of the grand and sweeping claims of recent years are flawed, confused and misleading, or even false.
+
+So let's explore some fundamental neuroscience knowledge, on some key circuitries of the human brain, and focus on how this can help us achieve fuller and more satisfying lives.
 
 ## My Guiding Principles
 
-In my research, studies and teaching on the brain, I have a few guiding principles:
+I use the term *brain circuitries&nbsp;*to refer to brain areas that work together to perform functions. For example, one circuitry plays a central role in fear and detecting danger, as when we're driving on a busy highway, making us more alert; another helps us feel satisfaction, such as when we know we've done a good job and it's time to rest and relax.
 
-1. I focus on brain circuitries and brain-based processes that people can (a) easily connect to their own experience and (b) choose to notice, reflect upon, and change. (By "circuitry" I mean a collection of brain areas that work together to perform certain functions.) There are many aspects of the brain and its functioning that have huge impacts on us and are affected by our choices and behaviors, but are not available to conscious awareness (e.g., amounts of a particular brain chemical, densities of a receptor type). Drug companies and some governments spend lots of money studying and trying to change such things, sometimes with very positive effects. In contrast, I focus on things that we can experience directly and can change – for better or worse – with our own individual attention, values, thoughts, choices and behaviors.
-2. I strive to ensure that my concepts and models are consistent with and not contradicted by the latest relevant neuroscience research.
-3. I do not focus on how traumatic or other harmful experiences, or self-destructive behaviors including addictions, can "damage" the brain. The human brain's resilience and capacities for changing and healing are huge, and influenced by many different factors. Given how people tend to believe what (apparent) experts say about the brain, there is a risk that such statements about "brain damage" (even if true) can have big unhelpful effects on how people see their prospects for healing and finding happiness.
+I focus on a few key brain circuitries, and brain-based processes involving those circuitries, so that people can
+
+* Easily connect them to their own experience
+* Choose to *reflect upon* and *change* those circuitries and processes that aren't working to reduce suffering and increase happiness
 
 
-I hope you find these teachings and resources useful.
+I want you to be confident in the guidance offered here, so I strive to make sure that my ideas and thinking are in line with the latest neuroscientific research.
+
+Something I never do is talk about how very stressful or traumatic experiences, or negative behaviors such as addictions, can "damage" the brain.&nbsp;It's simply not helpful to believe, especially based on what someone else is saying about your brain, that healing and finding happiness can be prevented by past adversity or the ways you've tried to cope. We know that the human brain's resilience - and capacities for changing and healing - are remarkable and influenced by many different factors.
+
+So let's begin by finding clarity in the brain's complexity, and explore the key circuitries and processes involved in healing and finding happiness.
