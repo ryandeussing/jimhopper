@@ -43,9 +43,9 @@ So let's explore some fundamental neuroscience knowledge, on some key circuitrie
 
 ## My Guiding Principles
 
-I use the term *brain circuitries&nbsp;*to refer to brain areas that work together to perform functions. For example, one circuitry plays a central role in fear and detecting danger, as when we're driving on a busy highway, making us more alert; another helps us feel satisfaction, such as when we know we've done a good job and it's time to rest and relax.
+I use the term *brain circuitries&nbsp;*to refer to brain areas that work together to perform functions. For example, one circuitry plays a central role in fear and detecting danger, as it makes us more alert when we're driving on a busy highway; another helps us feel satisfaction, like when we know we've done a good job and it's time to rest and relax.
 
-I focus on a few key brain circuitries, and brain-based processes involving those circuitries, so that people can
+I focus on a few *key brain circuitries*, and brain-based processes involving those circuitries, so that people can
 
 * Easily connect them to their own experience
 * Choose to *reflect upon* and *change* those circuitries and processes that aren't working to reduce suffering and increase happiness
@@ -53,6 +53,6 @@ I focus on a few key brain circuitries, and brain-based processes involving thos
 
 I want you to be confident in the guidance offered here, so I strive to make sure that my ideas and thinking are in line with the latest neuroscientific research.
 
-Something I never do is talk about how very stressful or traumatic experiences, or negative behaviors such as addictions, can "damage" the brain.&nbsp;It's simply not helpful to believe, especially based on what someone else is saying about your brain, that healing and finding happiness can be prevented by past adversity or the ways you've tried to cope. We know that the human brain's resilience - and capacities for changing and healing - are remarkable and influenced by many different factors.
+Something I don't do is talk about how very stressful or traumatic experiences, or negative behaviors such as addictions, can "damage" the brain.&nbsp;It's simply not helpful to believe, especially based on what someone else is saying about your brain, that healing and finding happiness can be prevented by past adversity or the ways you've tried to cope. We now know that the human brain's resilience - and capacities for changing and healing - are remarkable and influenced by many different factors.
 
 So let's begin by finding clarity in the brain's complexity, and explore the key circuitries and processes involved in healing and finding happiness.
