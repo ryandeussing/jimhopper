@@ -25,8 +25,6 @@ Here you'll find practical knowledge and insights about your brain that can help
 * The motivations and values that shape your thoughts, emotions and behaviors
 
 
-And knowledge and insights that help you work with everything.
-
 You'll find guidance, grounded in cutting-edge scientific knowledge and in the wisdom of humanity's great religious and spiritual traditions, for healing suffering and bringing genuine happiness into daily life.
 
 ## Some Cautions
