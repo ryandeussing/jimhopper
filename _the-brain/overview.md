@@ -37,7 +37,7 @@ To make sense of what we learn about the brain, and to share it with others, we 
 
 The best teachers strive to ensure that their ideas truly reflect scientific knowledge, and never distort it. So the information and guidance given here may seem simple to understand, but is based on the complex findings of scientific study.
 
-It's true that brain-based explanations have been over-valued lately, and the media regularly sensationalizes research studies with impressive-looking &nbsp;pictures of the brain. If you've been reading about the brain already, be aware that some of the grand and sweeping claims of recent years are flawed, confused and misleading, or even false.
+Another caution: Brain-based explanations have been over-valued lately, and the media regularly sensationalizes research studies with impressive-looking &nbsp;pictures of the brain. If you've already been reading about the brain, be aware that some of the grand and sweeping claims of recent years are flawed, confused and misleading, or even false.
 
 So let's explore some fundamental neuroscience knowledge, on some key circuitries of the human brain, and focus on how this can help us achieve fuller and more satisfying lives.
 
