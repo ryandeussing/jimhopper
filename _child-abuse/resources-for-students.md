@@ -20,7 +20,7 @@ Unfortunately, I do not have enough time to share everything I do know via this 
 
 ## Frequently Asked Questions
 
-Students commonly email me to ask the questions below. For each one, I have one or more links to excellent resources on that issue, most from United States government's [Child Welfare Information Gateway](http://www.childwelfare.gov/).
+Students commonly email me to ask the questions below. For each one, I have one or more links to excellent resources on that issue, most from United States government's [Child Welfare Information Gateway](https://www.childwelfare.gov/).
 
 **What are the (main) causes of child abuse?**
 
@@ -32,8 +32,8 @@ Students commonly email me to ask the questions below. For each one, I have one 
 
 **What are the effects of child abuse and neglect on children?**
 
-* [Impact of Abuse and Neglect](http://www.childwelfare.gov/topics/can/impact/)
-* [Treatment for Abused and Neglected Children: Infancy to Age 18](http://www.childwelfare.gov/pubs/usermanuals/treatmen/index.cfm) - [PDF Version](https://www.childwelfare.gov/pubPDFs/treatmen.pdf)
+* [Impact of Abuse and Neglect](https://www.childwelfare.gov/topics/can/impact/)
+* [Treatment for Abused and Neglected Children: Infancy to Age 18](https://www.childwelfare.gov/pubs/usermanuals/treatmen/) - [PDF Version](https://www.childwelfare.gov/pubPDFs/treatmen.pdf)
 * [Long-term Effects of Child Sexual Abuse](https://www3.aifs.gov.au/cfca/publications/long-term-effects-child-sexual-abuse)
 * [Acts of Omission: An Overview of Child Neglect](https://www.childwelfare.gov/pubs/focus/acts/index.cfm)
 * See also my&nbsp;[Consequences of Abuse](/child-abuse/consequences-of-abuse/), if you missed it
