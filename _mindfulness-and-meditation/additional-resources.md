@@ -174,7 +174,7 @@ The four links below are to respected Vipassana meditation centers and organizat
 
 [Center for Mindfulness in Medicine, Healthcare, and Society](http://www.umassmed.edu/cfm/index.aspx) - Founded by Jon Kabat-Zinn and colleagues, this organization developed Mindfulness-Based Stress Reduction (MBSR) and has trained people to run MBSR programs around the world.
 
-[Mindfulness-Based Cognitive Therapy](http://www.mbct.com/) - Site by Dr. Zindel Segal, Mark Williams, and John Teasdale, who have developed and researched Mindfulness-Based Cogntive Therapy for Depression. [About MBCT](http://www.mbct.com/About_Main.htm) discusses the nature of depression and how mindfulness can prevent relapse.
+[Mindfulness-Based Cognitive Therapy](http://www.mbct.com/) - Site by Dr. Zindel Segal, Mark Williams, and John Teasdale, who have developed and researched Mindfulness-Based Cogntive Therapy for Depression. [About MBCT](http://mbct.com/about/) discusses the nature of depression and how mindfulness can prevent relapse.
 
 [Iyengar Yoga: National Association of the United States](https://iynaus.org/)&nbsp;includes a clear [description](https://iynaus.org/iyengar-yoga) of Iyengar Yoga and a&nbsp;[directory](https://secure.iynaus.org/search)&nbsp;of Iyengar yoga teachers in the U.S. As explained on [Cultivating Mindfulness](/mindfulness-and-meditation/cultivating-mindfulness/), this yoga method can be a good way to cultivate mindfulness for people who need a physically active and movement oriented approach and/or don't (yet) feel at home in their bodies.
 
