@@ -40,7 +40,7 @@ I totally understand. I'm not trying to 'excuse' anyone. I'm not trying to convi
 
 > I am not asking you to stop feeling angry.
 
-A time may have come, or may come, when you really want to understand: Why did[whoever it was], who could have protected me – could have stopped it – remain silent and do nothing, even when the evidence was clear?
+A time may have come, or may come, when you really want to understand: Why did [whoever it was], who could have protected me – could have stopped it – remain silent and do nothing, even when the evidence was clear?
 
 Maybe answering these questions feels like an important part of your healing process. Maybe you want to reconnect with someone who did not protect you, and hope to prepare yourself by trying to understand why and how they may understand or justify their response (or lack of one). Maybe you want to wrap up some loose ends in your own mind, so you can let go and move on from a relationship with someone who failed you when you needed them most.
 
@@ -57,7 +57,6 @@ As difficult as it may be to accept, there are many genuine, compelling reasons 
 * Physical, emotional, and financial dependency on an individual or group that would be lost (for oneself and the family) if such concerns are raised.
 * Self doubts of various kinds (e.g., “I’m paranoid.” “What if I’m wrong?” “It’s none of my business.”).
 * Fears of various consequences (e.g., of acknowledging betrayal by a trusted and respected person, of being wrong, of being right).
-
 
 For these and many other reasons (explored in detail below), even when an adult knows about such behavior, he or she may not speak up, or may even tell the child to keep quiet. Also, if the child’s distress or any harm seems minor or absent, a tragic calculation may take place: the immediate costs of confronting the situation seem greater than the imagined long-term costs of looking the other way.
 
@@ -135,13 +134,13 @@ What if I’m wrong? It’s none of my business. 'Mind your own business' is one
 
 What if I’m right? We could lose everything. Fears of the breakup of one’s family, of destructive intervention by child protective services, of shame, of losing one’s children, home or social standing – all of these stop some people from acting protectively. An imperfect child protection system and a criminal justice system that harshly punishes nearly all people who are convicted of sexual offenses (even children), often leads family members not to report someone they care about. Fear of devastating lifelong legal and other consequences are especially powerful when the person sexually misusing or abusing a child is another child or adolescent. (Adolescents and young children, almost always in response to being abused themselves, commit more than a third of all reported sexual abuse of children.)
 
-Am I being a “prude”? People who want to be open-minded about sexual matters sometimes distrust their own discomfort when they suspect sexually harmful behaviors. They wonder if they’re being prudish, or too proper. By focusing on their own feelings about sex, they sometimes miss real signals of harm or power imbalances that make consent impossible, and end up overlooking abusive or exploitive sexual behavior.
+Am I being a 'prude'? People who want to be open-minded about sexual matters sometimes distrust their own discomfort when they suspect sexually harmful behaviors. They wonder if they’re being prudish, or too proper. By focusing on their own feelings about sex, they sometimes miss real signals of harm or power imbalances that make consent impossible, and end up overlooking abusive or exploitive sexual behavior.
 
 ## Misunderstandings about how children respond to abuse, or even what abuse is.
 
 Many adults wrongly assume a child would tell if they experienced a harmful or traumatic emotional, physical or sexual interaction with an adult. If the child doesn’t tell, they assume nothing happened. Even when abuse or exploitation is known, if there is no visible impact on the child, or only minor effects are noticed, adults may believe the experience will be forgotten and have no lasting negative effects. They may genuinely think that it’s “best not to focus on a bad memory.”
 
-Some adults also incorrectly equate physical child abuse with serious injury to the body, or sexual abuse only with violent rape. They don’t recognize that very serious harm can be caused by many kinds of physical abuse and emotional abuse. In fact, research suggests that emotional abuse can have greater negative effects on the mind and brain than physical abuse. Or they don't realize that sexualized interactions with children – including unwelcome touching, exposure to pornography, witnessing sexual acts, or even sexually demeaning and/or threatening comments – can cause significant and lasting harm. All of these experiences are betrayals of adult’s responsibilities and children’s trust, and all can have lasting negative effects on a child’s mind, brain, body, relationships, and abilities to succeed at school and work.
+Some adults also incorrectly equate physical child abuse with serious injury to the body, or sexual abuse only with violent rape. They don’t recognize that very serious harm can be caused by many kinds of physical abuse and emotional abuse. In fact, research suggests that emotional abuse can have greater negative effects on the mind and brain than physical abuse. Or they don't realize that sexualized interactions with children – including unwelcome touching, exposure to pornography, witnessing sexual acts, or even sexually demeaning and/or threatening comments – can cause significant and lasting harm. All of these experiences are betrayals of adults' responsibilities and children’s trust, and all can have lasting negative effects on a child’s mind, brain, body, relationships, and abilities to succeed at school and work.
 
 ## Demands for Forgiveness
 
