@@ -44,11 +44,11 @@
 </div>
 {% endif %}
 
-{% if page.hotlines_sidebar == true %}
-  {% include hotlines.html %}
-{% endif %}
-
 
 {% if page.translations | size > 0 %}
   {% include translations.html %}
+{% endif %}
+
+{% if page.hotlines_sidebar == true %}
+  {% include hotlines.html %}
 {% endif %}
