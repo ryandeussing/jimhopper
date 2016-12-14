@@ -2060,3 +2060,7 @@ body.grid:before {
   display: block; }
 
 /*# sourceMappingURL=style.css.map */
+
+.sidebar .sidebar__inner {
+    margin-bottom: 1rem;
+}
