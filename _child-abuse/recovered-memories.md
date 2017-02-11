@@ -37,7 +37,6 @@ In 1995 I began offering web resources on recovered memories of sexual abuse, pr
 1. Research evidence showing that it is *not rare*&nbsp;for people who were sexually abused in childhood to go for many years, even decades, without having (recognizable or explicit) memories of the abuse. (People almost always have implicit memories of the abuse, that is, memories they did not realize were memories, for example physiological or emotional responses triggered by encountering things associated with the abuse, like being touched in a certain way). This body of work shows that claims to the contrary are contradicted by lots of scientific evidence.
 2. Research and theoretical writings by qualified specialists who agree that: a) traumatic and nontraumatic memories have some different characteristics; b) the construct of 'dissociation' better explains many traumatic memories, e.g., those involving fragmentary sensations and feelings which are disconnected from verbal narratives, and associated with amnesia and delayed recall. These works show that making claims about traumatic memory solely based on generalizations from research on nontraumatic memory, and focusing on the constructs of 'repression' and 'repressed memory,' can often be confusing distractions and misleading tactics.
 
-
 To accomplish these two goals, this section need not be comprehensive or up-to-date on the latest research – though I occasionally make additions and am always open to suggestions.
 
 I also created this resource to provide helpful information for people struggling with their own traumatic memories, including the inability to remember abuse experiences they have strong evidence actually occurred, and doubts about fragmentary memories they have always had or recently begun to recall.
@@ -51,8 +50,7 @@ Importantly, I want to acknowledge some critical issues that this section of my 
 5. In some cases mistaken memories and accusations have caused extraordinary pain and damage to individuals and families.
 6. One of the preventable causes of these tragedies is incompetence by therapists, who sometimes contribute to the creation of false memories and/or believe them without good reason.
 7. There are still no reliable statistics on the occurrences listed as numbers 3 through 6 above. See two articles by Dr. Kenneth Pope: '[Questioning Claims About the False Memory Syndrome Epidemic](http://kspope.com/memory/memory.php),' and '[Science as Careful Questioning: Are Claims of a False Memory Syndrome Epidemic Based on Empirical Evidence?](http://kspope.com/memory/science.php)'
-8. Some these issues are addressed at the website of the False Memory Syndrome Foundation. I do not endorse that organization, their website, nor their treatment of these issues, which is clearly biased and extreme in many ways. But I do encourage you to consider all positions, to contrast what you learn here with the materials presented at the FMSF site, and to come to your own conclusions.
-
+8. Some of these issues are addressed at the website of the False Memory Syndrome Foundation. I do not endorse that organization, their website, nor their treatment of these issues, which is clearly biased and extreme in many ways. But I do encourage you to consider all positions, to contrast what you learn here with the materials presented at the FMSF site, and to come to your own conclusions.
 
 Finally, I encourage you to read some of the scholarly works cited on the [Scientific Research](/child-abuse/recovered-memories/scientific-research) page of this section. These will help you to make your own judgments rather than rely on what you hear or read in the popular media, or what is available on the net – including this section of my site. It is my aim and hope, however, that what I provide will give you powerful knowledge and tools for thinking more critically about whatever else you hear and read on this topic.
 
@@ -67,7 +65,6 @@ You may be wondering:
 * Can I believe my memories?
 * What if I’m not sure what happened?
 * How do I deal with the memories I do have?
-
 
 Such questions and doubts about one’s memories can get in the way of understanding what happened, how it’s affected you, and how to achieve the life you want.
 
