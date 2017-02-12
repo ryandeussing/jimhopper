@@ -24,7 +24,7 @@ With the goal of understanding in mind, I recommend that you read [Introduction 
 
 ## Caution: Recovering Your Memories?
 
-You may be reading this section on recovered memories to gain better understanding of your own memories, or your lack of memories of (suspected) sexual or physical abuse in childhood. Or you may have questions about whether remembering child abuse experiences can improve your life. If so, please take the time to read this entire section.
+You may be reading this section on recovered memories to gain better understanding of your own memories, or your lack of memories of (suspected) sexual or physical abuse in childhood. Or you may have questions about whether remembering child abuse experiences can improve your life. If so, please take the time to read this entire page.
 
 At the end I suggest a book with *effective tools* for managing painful and unpredictable memories, and link to more information on the stages of recovery and how to find professional help.
 
@@ -34,7 +34,6 @@ People who visit my website sometimes have questions like these:
 * "Should I get hypnotized to remember?"
 * "How can I know for sure whether I was abused?"
 
-
 It is natural that people ask these questions, particularly given how the popular media present these issues.
 
 It is more helpful, however, to step back and look at the bigger picture, including:
@@ -43,7 +42,6 @@ It is more helpful, however, to step back and look at the bigger picture, includ
 * "What do I hope that recovering memories will do for me?"
 * "Why do I wish I could know for sure whether I was abused?"
 * "What problems and suffering in my life now do I believe will be changed by remembering abuse?"
-
 
 These are extremely important questions. They go to the heart of who you are, your deepest hopes, and your current struggles. There are no right or wrong answers. The point is that, first, you need to better understand your current problems and clarify what you want to achieve for yourself and your life. This must come before learning about whether recovering memories might be helpful.
 
@@ -63,7 +61,6 @@ The first stage of healing and recovery, and any helpful therapy or counseling, 
 * Learning how to regulate your emotions and manage symptoms that make you feel unsafe or cause suffering.
 * Developing and strengthening skills for managing painful memories and other experiences, and minimizing unhelpful responses.
 
-
 Of course, everything is not always so perfectly ordered and sequential. During the first stage of recovery, it may be necessary to discuss the contents of memories that are disrupting your life. This may be required, for example, to help you manage them, or to understand why you find it hard to care for yourself (the person or people who abused you gave you the message that you were unworthy of care or love, etc.). However, in this case addressing memories is not the focus of therapy, but a means to achieving safety, stability and greater ability to take care of yourself.
 
 > Important questions to ask yourself
@@ -72,7 +69,6 @@ Therefore, here are two more important questions that you need to answer, which 
 
 * "What must I learn *before* discussing or 'working through' abuse memories could help me to improve my current life and help me achieve future goals?"
 * "What skills and capacities must I develop to manage the memories I already have – so that I *can* make sense of them or address any new memories that might emerge?"
-
 
 Only after establishing a solid foundation of understanding, self-regulation skills, and safety and stability in one's life should one decide – freely, thoughtfully, mindful of the dangers – whether or not to focus on memories of abuse in order to, for example, place them into a larger understanding of one's life and identity. In fact, once such a foundation is in place, some people realize that thinking and talking about their abuse memories is not necessary to achieve their life goals, and that those memories are no longer of interest to them. (And sometimes people need to educate their therapists about this!)
 
@@ -86,7 +82,6 @@ It is true that, for some people, focusing on the contents of abuse memories, in
 * Even focusing on abuse memories one already has, without proper preparation, will almost always increase distress, instability and self-destructiveness.
 * Though new memories may emerge during the course of therapy, and managing and making sense of such memories can be part of the healing process, recovering memories of abuse should never be the focus, or even a goal, of therapy or counseling.
 
-
 > There's always much more to you than 'abuse victim' or 'abuse survivor'
 
 Finally, here are a few more things to consider:
@@ -94,7 +89,6 @@ Finally, here are a few more things to consider:
 * No matter how much abuse someone has experienced, or how complete her or his memories are, there is always much more to that person than 'abuse victim' or 'abuse survivor.'
 * There is a danger of constructing a personal identity, or reinforcing a sense of self, that is too identified with, too constricted by, and too focused on being a 'victim' or 'survivor.'
 * Intellectual learning, therapy, and many other activities and relationships can help people heal from harmful effects of child abuse, including help people deal with troubling memories. But if improving of one's current life and creating a better future take a back seat to exploring the past, healing will be slowed down, and may even be prevented.
-
 
 If you want to start learning and practicing the self-regulation skills essential to dealing with traumatic memories and the first stage of recovery, I strongly recommend this book: [*Growing Beyond Survival: A Self-Help Toolkit for Managing Traumatic Stress*](http://www.amazon.com/exec/obidos/ASIN/1886968098/jimhoppercom-20)*,* by Elizabeth Vermilyea.
 
