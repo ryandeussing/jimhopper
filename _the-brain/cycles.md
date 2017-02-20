@@ -1,5 +1,5 @@
 ---
-title: 'Cycles of Suffering, Healing & Happiness' 
+title: 'Cycles of Suffering, Healing & Happiness'
 custom_title:
 order: 3
 subcollection:
@@ -41,7 +41,7 @@ I introduce and explain this framework in three steps.
 First, what I call fundamental 'cycles of suffering,' which involve relationships among key brain circuitries, are explained and briefly illustrated with examples.
 
 Second, I explain and illustrate what I call fundamental 'cycles of healing and happiness,' and roles of the key brain circuitries in those cycles.
-<br>This *circuitries and cycles* framework can be used to increase our understanding of all kinds of human suffering, including depression, anxiety, post-traumatic stress, addictions and various problems with regulating emotions and impulses.
+<br>This *circuitries and cycles*&nbsp;framework can be used to increase our understanding of all kinds of human suffering, including depression, anxiety, post-traumatic stress, addictions and various problems with regulating emotions and impulses.
 
 Third, I explain how the cycles and circuitries framework can be used to understand potential pathways to healing, including how therapy and contemplative practices can harness key brain circuitries to bring healing, freedom and happiness. I particularly focus on how the seeking, satisfaction and embodiment circuitries can be harnessed by contemplative practices – especially those that cultivate mindfulness, kindness, compassion and love – to transform suffering and bring genuine happiness.
 
@@ -91,7 +91,7 @@ The embodiment circuitry is occupied by sensations that go with feeling heavy, s
 
 The seeking circuitry is actually [*suppressed*](/pdf/Treadway_Zald_2011.pdf), so we don’t expect good things to happen or have much motivation for their pursuit. To the extent the seeking circuitry *is* active – whether sporadically in a burst like getting off the couch to go out and drink (or shop or have sex), or at an ongoing low level as in someone motivated to smoke pot and watch TV all day – it focuses on escaping the bad feelings and sensations of depression and defeat. (This is true even when we are avoiding embodied emotional experiences by ruminating on negative, pessimistic and/or self-denigrating thoughts, memories and fantasies.)
 
-As with the fear/anxiety cycle, when the escape behavior ends the suffering of depression and defeat returns. Sometimes the depression and feelings of defeat are even worse than before, because the escape behavior (or the substance used, or the effects of withdrawing from the substance) itself causes of depression and feelings of defeat.
+As with the fear/anxiety cycle, when the escape behavior ends the suffering of depression and defeat returns. Sometimes the depression and feelings of defeat are even worse than before, because the escape behavior (or the substance used, or the effects of withdrawing from the substance) itself causes depression and feelings of defeat.
 
 And of course states of depression involve little or no activity of the satisfaction circuitry. There is no satisfaction, contentment or happiness in such states of suffering.
 
@@ -139,7 +139,7 @@ For everyone this healing cycle requires strong motivation, because it can be qu
 
 To sustain that seeking to engage with our suffering, and to find success in doing so, we need *support.* For many of us that support will come mostly from a therapist or counselor; religious or spiritual teachers can be extremely helpful too.
 
-Indeed, as shown in the image depicting this healing cycle (below), it can involve seeking a variety of resources that enable engagement with suffering and its transformation. These may include not only healing-promoting support from others, but learning new skills for regulating our emotions and thoughts. Other necessary resources may include knowledge of and insights into human suffering and healing, in general and in ourselves as unique individuals; healing attitudes, including compassion and kindness toward our suffering; and cultivating new habits that help us engage with and transform suffering, to replace old habits that only exacerbate it. (Many of these capacities depend on the brain’s executive circuitry; see [Key Brain Circuitries](/the-brain/key-brain-circuitries/).)
+Indeed, as shown in the image depicting this healing cycle (below), it can involve seeking a variety of resources that enable engagement with suffering and its transformation. These may include not only healing-promoting support from others, but learning new skills for regulating our emotions and thoughts. Other necessary resources may include knowledge of and insights into human suffering and healing, in general and in ourselves as unique individuals; healing attitudes, including compassion and kindness toward our suffering; and cultivating new habits that help us engage with and transform suffering, to replace old habits that only exacerbate it. (Many of these capacities depend on the brain’s executive circuitry; see&nbsp;[Key Brain Circuitries](/the-brain/key-brain-circuitries/).)
 
 ![](/uploads/versions/brain_cycles_revised3---x----837-656x---.png)
 
@@ -163,7 +163,7 @@ We all need to sort out, for ourselves, what truly makes us happy; what we find 
 
 This process of exploration and discovery may take some time, especially if we've had little experience with true goods and genuine happiness. It usually requires the support of others who do not judge our values or push us to adopt theirs, but instead give us the space, as well as the support and inspiration, to sort things out for ourselves – and to awaken and harness our seeking circuitry to this pursuit.
 
-A therapy that many find helpful with this is [Acceptance and Commitment Therapy](https://contextualscience.org/act), or ACT, which has a major focus on helping people sort through their values and goals, and then commit to behaving consistently with the values that are most important to them. Another is [motivational interviewing](http://www.motivationalinterviewing.org/), which has helped many people overcome addictions and make other changes that bring their lives into harmony with their deepest values.
+A therapy that many find helpful with this is [Acceptance and Commitment Therapy](https://contextualscience.org/act), or ACT, which has a major focus on helping people sort through their values and goals, and then commit to behaving consistently with the values that are most important to them. Another is&nbsp;[motivational interviewing](http://www.motivationalinterviewing.org/), which has helped many people overcome addictions and make other changes that bring their lives into harmony with their deepest values.
 
 Sometimes, however, people have very powerful insights or epiphanies that they were not expecting or seeking, but happen suddenly and transform them permanently. William Miller, a great addiction researcher and developer of motivational interviewing, and his colleague Janet C'de Baca wrote about such sudden and permanent transformations in their book [Quantum Change](https://www.amazon.com/Quantum-Change-Epiphanies-Insights-Transform/dp/1572305053/ref=nosim/?tag=jimhoppercom-20). Common to such experiences, as they document with individual stories and statistical analyses, are fundamental reorganizations of one's identity and values. What is valued, and therefore what one seeks, is completely reorganized: universally recognized true goods move to the top and stay there. In short, one suddenly and permanently enters into a very deep and powerful seeking true goods healing and happiness cycle.
 
@@ -207,11 +207,11 @@ In short, mindfulness of bodily sensations plays a central role in the transform
 
 Here I want to note that, especially for very traumatized people, attending to body sensations associated with trauma, even unintentionally in the midst of a mindfulness exercise, can be quite [triggering](/child-abuse/consequences-of-abuse/getting-triggered/) (e.g., of traumatic memories and trauma-based emotional reactions) and overwhelming. So it can be safest – and most helpful – to first experience mindfulness in the context of a relationship with a mindful therapist. This is illustrated by several case vignettes in chapters (e.g., by Tara Brach and by Pat Ogden) of a [book I co-edited](http://www.amazon.com/Mindfulness-Oriented-Interventions-Trauma-Integrating-Contemplative/dp/1462518583/ref=nosim/?tag=jimhoppercom-20).
 
-Certainly mindfulness and other contemplative methods for engaging with and transforming suffering are not quick fixes or panaceas. Even after cultivating the self-care and self-regulation skills needed to engage directly with trauma or other forms of extreme suffering, engaging with and transforming suffering can be a long process. (However, sometimes healing can be sudden and lasting, as documented by Miller and C'de Baca in [Quantum Change](https://www.amazon.com/Quantum-Change-Epiphanies-Insights-Transform/dp/1572305053/ref=nosim/?tag=jimhoppercom-20), although it is unrealistic to expect or count on such experiences.)
+Certainly mindfulness and other contemplative methods for engaging with and transforming suffering are not quick fixes or panaceas. Even after cultivating the self-care and self-regulation skills needed to engage directly with trauma or other forms of extreme suffering, engaging with and transforming suffering can be a long process. (However, sometimes healing can be sudden and lasting, as documented by Miller and C'de Baca in&nbsp;[Quantum Change](https://www.amazon.com/Quantum-Change-Epiphanies-Insights-Transform/dp/1572305053/ref=nosim/?tag=jimhoppercom-20), although it is unrealistic to expect or count on such experiences.)
 
 Also, we are all creatures of habit, and old habits can be hard to break, especially if they (have seemed to) ensure our physical or psychological survival. But with a foundation of self-regulation skills, regular practice, and relationships that support both, mindfully engaging with one’s suffering can facilitate the healing cycle of *seeking to engage and transform suffering*.
 
-In my chapter, [Harnessing the Seeking, Satisfaction and Embodiment Circuitries in Contemplative Approaches to Healing Trauma](/pdf/Hopper_2015_Harnessing_the_Seeking_Satisfaction_and_Embodiment_Circuitries.pdf), and in several other chapters of [Mindfulness-Oriented Interventions for Trauma](http://www.amazon.com/Mindfulness-Oriented-Interventions-Trauma-Integrating-Contemplative/dp/1462518583/ref=nosim/?tag=jimhoppercom-20) (co-edited with colleagues), there are many examples of how mindfulness can play an integral role in the healing cycle of *seeking to engage and transform suffering*.
+In my chapter, [Harnessing the Seeking, Satisfaction and Embodiment Circuitries in Contemplative Approaches to Healing Trauma](/pdf/Hopper_2015_Harnessing_the_Seeking_Satisfaction_and_Embodiment_Circuitries.pdf), and in several other chapters of [Mindfulness-Oriented Interventions for Trauma](http://www.amazon.com/Mindfulness-Oriented-Interventions-Trauma-Integrating-Contemplative/dp/1462518583/ref=nosim/?tag=jimhoppercom-20)&nbsp;(co-edited with colleagues), there are many examples of how mindfulness can play an integral role in the healing cycle of *seeking to engage and transform suffering*.
 
 ## Contemplative Practices and Seeking True Goods
 
@@ -227,7 +227,7 @@ These questions and choices are at the heart of contemplative practices and how 
 
 *What should we seek?* Religious and spiritual leaders have long sought (whether wisely or in confusion themselves) to help people seek transcendent 'true goods' – obedience to God’s law, surrender to God’s will; an intimate relationship with God or Jesus; loving others, even our 'enemies,' as we love ourselves; forever striving to free all beings from suffering.
 
-Profit-seeking companies, advertisers and politicians bombard us with sights, sounds and words designed to harness our seeking circuitry to the (perceived) benefits they seek for themselves. The *Declaration of Independence* of the United States declares it to be a 'self-evident' truth that we are endowed by our creator with unalienable rights, not only to life and liberty, but 'the pursuit of happiness.'
+Profit-seeking companies, advertisers and politicians bombard us with sights, sounds and words designed to harness our seeking circuitry to the (perceived) benefits they seek for themselves. The *Declaration of Independence*&nbsp;of the United States declares it to be a 'self-evident' truth that we are endowed by our creator with unalienable rights, not only to life and liberty, but 'the pursuit of happiness.'
 
 In short, the brain’s seeking circuitry is central to human existence.
 
